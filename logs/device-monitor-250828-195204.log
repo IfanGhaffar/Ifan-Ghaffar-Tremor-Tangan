@@ -1,0 +1,299 @@
+19:52:05.432 > ------------------ DATA FUEL GAUGE screen 1 ------------------
+19:52:05.432 > >> Membaca BQ1
+19:52:05.432 > SOC BATT 1                0
+19:52:05.432 > Tegangan                  1327
+19:52:05.432 > SOH                       100
+19:52:05.432 > Cycle                     0
+19:52:05.432 > Current                   -6
+19:52:05.432 > AverageTimeToEmpty: -
+19:52:05.432 > AverageTimeToFull: -
+19:52:06.450 > ------------------ DATA FUEL GAUGE screen 1 ------------------
+19:52:06.450 > ⚖ Idle
+19:52:06.450 > >> Membaca BQ1
+19:52:06.450 > SOC BATT 1                0
+19:52:06.450 > Tegangan                  1327
+19:52:06.450 > SOH                       100
+19:52:06.450 > Cycle                     0
+19:52:06.450 > Current                   -12
+19:52:06.450 > AverageTimeToEmpty: -
+19:52:06.450 > AverageTimeToFull: -
+19:52:07.483 > ------------------ DATA FUEL GAUGE screen 1 ------------------
+19:52:07.498 > ⚖ Idle
+19:52:07.498 > >> Membaca BQ1
+19:52:07.498 > SOC BATT 1                0
+19:52:07.498 > Tegangan                  1327
+19:52:07.498 > SOH                       100
+19:52:07.498 > Cycle                     0
+19:52:07.498 > Current                   -12
+19:52:07.498 > AverageTimeToEmpty: -
+19:52:07.498 > AverageTimeToFull: -
+19:52:08.533 > ------------------ DATA FUEL GAUGE screen 1 ------------------
+19:52:08.533 > ⚖ Idle
+19:52:08.533 > >> Membaca BQ1
+19:52:08.533 > SOC BATT 1                0
+19:52:08.533 > Tegangan                  1327
+19:52:08.533 > SOH                       100
+19:52:08.533 > Cycle                     0
+19:52:08.533 > Current                   -12
+19:52:08.533 > AverageTimeToEmpty: -
+19:52:08.533 > AverageTimeToFull: -
+19:52:09.583 > ------------------ DATA FUEL GAUGE screen 1 ------------------
+19:52:09.583 > ⚖ Idle
+19:52:09.583 > >> Membaca BQ1
+19:52:09.583 > SOC BATT 1                0
+19:52:09.583 > Tegangan                  1327
+19:52:09.583 > SOH                       100
+19:52:09.583 > Cycle                     0
+19:52:09.583 > Current                   -12
+19:52:09.583 > AverageTimeToEmpty: -
+19:52:09.583 > AverageTimeToFull: -
+19:52:10.633 > ------------------ DATA FUEL GAUGE screen 1 ------------------
+19:52:10.633 > ⚖ Idle
+19:52:10.633 > >> Membaca BQ1
+19:52:10.633 > SOC BATT 1                0
+19:52:10.633 > Tegangan                  1327
+19:52:10.633 > SOH                       100
+19:52:10.633 > Cycle                     0
+19:52:10.633 > Current                   -12
+19:52:10.633 > AverageTimeToEmpty: -
+19:52:10.633 > AverageTimeToFull: -
+19:52:11.683 > ------------------ DATA FUEL GAUGE screen 1 ------------------
+19:52:11.683 > ⚖ Idle
+19:52:11.683 > >> Membaca BQ1
+19:52:11.683 > SOC BATT 1                0
+19:52:11.683 > Tegangan                  1327
+19:52:11.683 > SOH                       100
+19:52:11.683 > Cycle                     0
+19:52:11.683 > Current                   -12
+19:52:11.683 > AverageTimeToEmpty: -
+19:52:11.683 > AverageTimeToFull: -
+19:52:12.733 > ------------------ DATA FUEL GAUGE screen 1 ------------------
+19:52:12.733 > ⚖ Idle
+19:52:12.733 > >> Membaca BQ1
+19:52:12.733 > SOC BATT 1                0
+19:52:12.733 > Tegangan                  1327
+19:52:12.733 > SOH                       100
+19:52:12.733 > Cycle                     0
+19:52:12.733 > Current                   -12
+19:52:12.733 > AverageTimeToEmpty: -
+19:52:12.733 > AverageTimeToFull: -
+19:52:13.783 > ------------------ DATA FUEL GAUGE screen 1 ------------------
+19:52:13.783 > ⚖ Idle
+19:52:13.783 > >> Membaca BQ1
+19:52:13.783 > SOC BATT 1                0
+19:52:13.783 > Tegangan                  1327
+19:52:13.783 > SOH                       100
+19:52:13.783 > Cycle                     0
+19:52:13.783 > Current                   -12
+19:52:13.783 > AverageTimeToEmpty: -
+19:52:13.783 > AverageTimeToFull: -
+19:52:14.833 > ------------------ DATA FUEL GAUGE screen 1 ------------------
+19:52:14.848 > ⚖ Idle
+19:52:14.848 > >> Membaca BQ1
+19:52:14.848 > SOC BATT 1                1
+19:52:14.848 > Tegangan                  1327
+19:52:14.848 > SOH                       100
+19:52:14.848 > Cycle                     0
+19:52:14.848 > Current                   -25
+19:52:14.848 > AverageTimeToEmpty: -
+19:52:14.848 > AverageTimeToFull: -
+19:52:15.883 > ------------------ DATA FUEL GAUGE screen 1 ------------------
+19:52:15.883 > ⚡ Discharging
+19:52:15.883 > >> Membaca BQ1
+19:52:15.883 > SOC BATT 1                1
+19:52:15.883 > Tegangan                  1324
+19:52:15.883 > SOH                       100
+19:52:15.883 > Cycle                     0
+19:52:15.883 > Current                   -66
+19:52:15.883 > AverageTimeToEmpty: 812h 30m
+19:52:15.883 > AverageTimeToFull: -
+19:52:16.933 > ------------------ DATA FUEL GAUGE screen 1 ------------------
+19:52:16.948 > ⚡ Discharging
+19:52:16.948 > >> Membaca BQ1
+19:52:16.948 > SOC BATT 1                1
+19:52:16.948 > Tegangan                  1325
+19:52:16.948 > SOH                       100
+19:52:16.948 > Cycle                     0
+19:52:16.948 > Current                   -55
+19:52:16.948 > AverageTimeToEmpty: 710h 56m
+19:52:16.948 > AverageTimeToFull: -
+19:52:17.983 > ------------------ DATA FUEL GAUGE screen 1 ------------------
+19:52:17.983 > ⚡ Discharging
+19:52:17.983 > >> Membaca BQ1
+19:52:17.983 > SOC BATT 1                1
+19:52:17.983 > Tegangan                  1325
+19:52:17.983 > SOH                       100
+19:52:17.983 > Cycle                     0
+19:52:17.983 > Current                   -54
+19:52:17.983 > AverageTimeToEmpty: 598h 41m
+19:52:17.983 > AverageTimeToFull: -
+19:52:19.048 > ------------------ DATA FUEL GAUGE screen 1 ------------------
+19:52:19.049 > ⚡ Discharging
+19:52:19.049 > >> Membaca BQ1
+19:52:19.049 > SOC BATT 1                1
+19:52:19.049 > Tegangan                  1325
+19:52:19.049 > SOH                       100
+19:52:19.049 > Cycle                     0
+19:52:19.049 > Current                   -53
+19:52:19.049 > AverageTimeToEmpty: 541h 40m
+19:52:19.049 > AverageTimeToFull: -
+19:52:20.083 > ------------------ DATA FUEL GAUGE screen 1 ------------------
+19:52:20.083 > ⚡ Discharging
+19:52:20.083 > >> Membaca BQ1
+19:52:20.083 > SOC BATT 1                1
+19:52:20.083 > Tegangan                  1325
+19:52:20.083 > SOH                       100
+19:52:20.083 > Cycle                     0
+19:52:20.083 > Current                   -53
+19:52:20.083 > AverageTimeToEmpty: 494h 34m
+19:52:20.083 > AverageTimeToFull: -
+19:52:21.133 > ------------------ DATA FUEL GAUGE screen 1 ------------------
+19:52:21.148 > ⚡ Discharging
+19:52:21.148 > >> Membaca BQ1
+19:52:21.148 > SOC BATT 1                1
+19:52:21.148 > Tegangan                  1325
+19:52:21.148 > SOH                       100
+19:52:21.148 > Cycle                     0
+19:52:21.148 > Current                   -53
+19:52:21.148 > AverageTimeToEmpty: 455h 0m
+19:52:21.148 > AverageTimeToFull: -
+19:52:22.183 > ------------------ DATA FUEL GAUGE screen 1 ------------------
+19:52:22.183 > ⚡ Discharging
+19:52:22.183 > >> Membaca BQ1
+19:52:22.183 > SOC BATT 1                1
+19:52:22.183 > Tegangan                  1325
+19:52:22.183 > SOH                       100
+19:52:22.183 > Cycle                     0
+19:52:22.183 > Current                   -53
+19:52:22.183 > AverageTimeToEmpty: 392h 14m
+19:52:22.183 > AverageTimeToFull: -
+19:52:23.233 > ------------------ DATA FUEL GAUGE screen 1 ------------------
+19:52:23.233 > ⚡ Discharging
+19:52:23.233 > >> Membaca BQ1
+19:52:23.233 > SOC BATT 1                1
+19:52:23.233 > Tegangan                  1325
+19:52:23.233 > SOH                       100
+19:52:23.233 > Cycle                     0
+19:52:23.233 > Current                   -53
+19:52:23.233 > AverageTimeToEmpty: 379h 10m
+19:52:23.233 > AverageTimeToFull: -
+19:52:24.283 > ------------------ DATA FUEL GAUGE screen 1 ------------------
+19:52:24.298 > ⚡ Discharging
+19:52:24.298 > >> Membaca BQ1
+19:52:24.298 > SOC BATT 1                1
+19:52:24.298 > Tegangan                  1325
+19:52:24.298 > SOH                       100
+19:52:24.298 > Cycle                     0
+19:52:24.298 > Current                   -53
+19:52:24.298 > AverageTimeToEmpty: 355h 28m
+19:52:24.298 > AverageTimeToFull: -
+19:52:25.334 > ------------------ DATA FUEL GAUGE screen 1 ------------------
+19:52:25.334 > ⚡ Discharging
+19:52:25.334 > >> Membaca BQ1
+19:52:25.334 > SOC BATT 1                1
+19:52:25.334 > Tegangan                  1325
+19:52:25.334 > SOH                       100
+19:52:25.334 > Cycle                     0
+19:52:25.334 > Current                   -53
+19:52:25.334 > AverageTimeToEmpty: 344h 42m
+19:52:25.334 > AverageTimeToFull: -
+19:52:26.383 > ------------------ DATA FUEL GAUGE screen 1 ------------------
+19:52:26.383 > ⚡ Discharging
+19:52:26.383 > >> Membaca BQ1
+19:52:26.383 > SOC BATT 1                1
+19:52:26.383 > Tegangan                  1325
+19:52:26.383 > SOH                       100
+19:52:26.383 > Cycle                     0
+19:52:26.383 > Current                   -53
+19:52:26.383 > AverageTimeToEmpty: 325h 0m
+19:52:26.383 > AverageTimeToFull: -
+19:52:27.433 > ------------------ DATA FUEL GAUGE screen 1 ------------------
+19:52:27.448 > ⚡ Discharging
+19:52:27.448 > >> Membaca BQ1
+19:52:27.448 > SOC BATT 1                1
+19:52:27.448 > Tegangan                  1325
+19:52:27.448 > SOH                       100
+19:52:27.448 > Cycle                     0
+19:52:27.448 > Current                   -52
+19:52:27.448 > AverageTimeToEmpty: 315h 58m
+19:52:27.448 > AverageTimeToFull: -
+19:52:28.483 > ------------------ DATA FUEL GAUGE screen 1 ------------------
+19:52:28.498 > ⚡ Discharging
+19:52:28.498 > >> Membaca BQ1
+19:52:28.498 > SOC BATT 1                1
+19:52:28.498 > Tegangan                  1325
+19:52:28.498 > SOH                       100
+19:52:28.498 > Cycle                     0
+19:52:28.498 > Current                   -53
+19:52:28.498 > AverageTimeToEmpty: 307h 26m
+19:52:28.498 > AverageTimeToFull: -
+19:52:29.533 > ------------------ DATA FUEL GAUGE screen 1 ------------------
+19:52:29.548 > ⚖ Idle
+19:52:29.548 > >> Membaca BQ1
+19:52:29.548 > SOC BATT 1                1
+19:52:29.548 > Tegangan                  1325
+19:52:29.548 > SOH                       100
+19:52:29.548 > Cycle                     0
+19:52:29.548 > Current                   -32
+19:52:29.548 > AverageTimeToEmpty: 307h 26m
+19:52:29.548 > AverageTimeToFull: -
+19:52:30.583 > ------------------ DATA FUEL GAUGE screen 1 ------------------
+19:52:30.598 > ⚖ Idle
+19:52:30.598 > >> Membaca BQ1
+19:52:30.598 > SOC BATT 1                1
+19:52:30.598 > Tegangan                  1326
+19:52:30.598 > SOH                       100
+19:52:30.598 > Cycle                     0
+19:52:30.598 > Current                   -12
+19:52:30.598 > AverageTimeToEmpty: 325h 0m
+19:52:30.598 > AverageTimeToFull: -
+19:52:31.633 > ------------------ DATA FUEL GAUGE screen 1 ------------------
+19:52:31.648 > ⚖ Idle
+19:52:31.648 > >> Membaca BQ1
+19:52:31.648 > SOC BATT 1                1
+19:52:31.648 > Tegangan                  1326
+19:52:31.648 > SOH                       100
+19:52:31.648 > Cycle                     0
+19:52:31.648 > Current                   -12
+19:52:31.648 > AverageTimeToEmpty: 344h 42m
+19:52:31.648 > AverageTimeToFull: -
+19:52:32.683 > ------------------ DATA FUEL GAUGE screen 1 ------------------
+19:52:32.698 > ⚖ Idle
+19:52:32.698 > >> Membaca BQ1
+19:52:32.698 > SOC BATT 1                1
+19:52:32.698 > Tegangan                  1326
+19:52:32.698 > SOH                       100
+19:52:32.698 > Cycle                     0
+19:52:32.698 > Current                   -12
+19:52:32.698 > AverageTimeToEmpty: 355h 28m
+19:52:32.698 > AverageTimeToFull: -
+19:52:33.733 > ------------------ DATA FUEL GAUGE screen 1 ------------------
+19:52:33.733 > ⚖ Idle
+19:52:33.733 > >> Membaca BQ1
+19:52:33.733 > SOC BATT 1                1
+19:52:33.733 > Tegangan                  1326
+19:52:33.733 > SOH                       100
+19:52:33.733 > Cycle                     0
+19:52:33.733 > Current                   -12
+19:52:33.733 > AverageTimeToEmpty: 366h 56m
+19:52:33.749 > AverageTimeToFull: -
+19:52:34.783 > ------------------ DATA FUEL GAUGE screen 1 ------------------
+19:52:34.783 > ⚖ Idle
+19:52:34.783 > >> Membaca BQ1
+19:52:34.783 > SOC BATT 1                1
+19:52:34.783 > Tegangan                  1326
+19:52:34.783 > SOH                       100
+19:52:34.783 > Cycle                     0
+19:52:34.783 > Current                   -12
+19:52:34.783 > AverageTimeToEmpty: 392h 14m
+19:52:34.783 > AverageTimeToFull: -
+19:52:35.833 > ------------------ DATA FUEL GAUGE screen 1 ------------------
+19:52:35.833 > ⚖ Idle
+19:52:35.833 > >> Membaca BQ1
+19:52:35.833 > SOC BATT 1                1
+19:52:35.833 > Tegangan                  1326
+19:52:35.833 > SOH                       100
+19:52:35.833 > Cycle                     0
+19:52:35.833 > Current                   -12
+19:52:35.833 > AverageTimeToEmpty: 406h 15m
+19:52:35.833 > AverageTimeToFull: -

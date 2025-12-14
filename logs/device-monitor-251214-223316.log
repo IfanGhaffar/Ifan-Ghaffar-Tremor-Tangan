@@ -1,0 +1,168 @@
+22:33:20.304 > 📌 Active Screen: menu
+22:33:21.572 > 📌 Active Screen: MONITOR
+22:33:21.594 > 📊 ICM Monitor: ax=-420, ay=-56, az=16120 | Freq=0.00Hz, RMS=0.0147g
+22:33:21.794 > 📊 ICM Monitor: ax=-476, ay=-44, az=16156 | Freq=0.00Hz, RMS=0.0147g
+22:33:21.816 > ✓ Monitor - Freq: 0.00 Hz, RMS: 0.0148 g
+22:33:21.816 > 📊 ICM Monitor: ax=-440, ay=-60, az=16160 | Freq=0.00Hz, RMS=0.0146g
+22:33:22.036 > 📊 ICM Monitor: ax=-476, ay=-28, az=16188 | Freq=0.00Hz, RMS=0.0148g
+22:33:22.036 > 📊 ICM Monitor: ax=-496, ay=-120, az=16136 | Freq=0.00Hz, RMS=0.0149g
+22:33:22.099 > ✓ Monitor - Freq: 0.00 Hz, RMS: 0.0147 g
+22:33:22.139 > 📊 ICM Monitor: ax=-448, ay=-108, az=16104 | Freq=0.00Hz, RMS=0.0152g
+22:33:22.367 > 📊 ICM Monitor: ax=-448, ay=-20, az=16140 | Freq=0.00Hz, RMS=0.0154g
+22:33:22.368 > 📊 ICM Monitor: ax=-480, ay=-84, az=16120 | Freq=0.00Hz, RMS=0.0155g
+22:33:22.473 > ✓ Monitor - Freq: 0.00 Hz, RMS: 0.0155 g
+22:33:22.473 > 📊 ICM Monitor: ax=-492, ay=-68, az=16064 | Freq=0.00Hz, RMS=0.0157g
+22:33:22.587 > 📊 ICM Monitor: ax=-444, ay=-96, az=16124 | Freq=0.00Hz, RMS=0.0157g
+22:33:22.711 > 📊 ICM Monitor: ax=-432, ay=-56, az=16092 | Freq=0.00Hz, RMS=0.0159g
+22:33:22.711 > ✓ Monitor - Freq: 0.00 Hz, RMS: 0.0159 g
+22:33:22.916 > 📊 ICM Monitor: ax=-468, ay=-76, az=16212 | Freq=0.00Hz, RMS=0.0157g
+22:33:22.916 > 📊 ICM Monitor: ax=-468, ay=-92, az=16104 | Freq=0.00Hz, RMS=0.0157g
+22:33:22.950 > 📌 Active Screen: menu
+22:33:24.769 > 📌 Active Screen: MONITOR
+22:33:26.027 > 📌 Active Screen: menu
+22:33:27.192 > 📌 Active Screen: screen_1 (Home)
+22:33:28.504 > 📌 Active Screen: menu
+22:33:29.583 > 📌 Active Screen: screen_1 (Home)
+22:33:31.593 > 📌 Active Screen: telegram
+22:33:31.903 > 📊 ICM Telegram: ax=-444, ay=-120, az=16216 | Freq=0.00Hz, RMS=0.0156g
+22:33:31.903 > 📊 ICM Telegram: ax=-376, ay=4, az=16116 | Freq=0.00Hz, RMS=0.0156g
+22:33:31.984 > ✓ Telegram - Freq: 0.00 Hz, RMS: 0.0156 g
+22:33:32.017 > 📊 ICM Telegram: ax=-508, ay=-104, az=16200 | Freq=0.00Hz, RMS=0.0156g
+22:33:32.235 > 📊 ICM Telegram: ax=-360, ay=-136, az=16092 | Freq=0.00Hz, RMS=0.0156g
+22:33:32.235 > 📊 ICM Telegram: ax=-512, ay=-72, az=16164 | Freq=0.00Hz, RMS=0.0155g
+22:33:32.284 > ✓ Telegram - Freq: 0.00 Hz, RMS: 0.0154 g
+22:33:32.346 > 📊 ICM Telegram: ax=-448, ay=68, az=16132 | Freq=0.00Hz, RMS=0.0154g
+22:33:32.566 > 📊 ICM Telegram: ax=-504, ay=-56, az=16092 | Freq=0.00Hz, RMS=0.0153g
+22:33:32.566 > 📊 ICM Telegram: ax=-400, ay=-124, az=16172 | Freq=0.00Hz, RMS=0.0153g
+22:33:32.585 > ✓ Telegram - Freq: 0.00 Hz, RMS: 0.0152 g
+22:33:32.676 > 📊 ICM Telegram: ax=-492, ay=-108, az=16144 | Freq=0.00Hz, RMS=0.0153g
+22:33:32.786 > 📊 ICM Telegram: ax=-376, ay=-12, az=16128 | Freq=0.00Hz, RMS=0.0153g
+22:33:32.887 > ✓ Telegram - Freq: 0.00 Hz, RMS: 0.0152 g
+22:33:32.897 > 📊 ICM Telegram: ax=-456, ay=-92, az=16180 | Freq=0.00Hz, RMS=0.0152g
+22:33:33.007 > 📊 ICM Telegram: ax=-472, ay=-88, az=16152 | Freq=0.00Hz, RMS=0.0152g
+22:33:33.114 > 📊 ICM Telegram: ax=-488, ay=-60, az=16164 | Freq=0.00Hz, RMS=0.0151g
+22:33:33.223 > ✓ Telegram - Freq: 0.00 Hz, RMS: 0.0152 g
+22:33:33.223 > 📊 ICM Telegram: ax=-428, ay=-12, az=16136 | Freq=0.00Hz, RMS=0.0151g
+22:33:33.332 > 📊 ICM Telegram: ax=-500, ay=-128, az=16216 | Freq=0.00Hz, RMS=0.0150g
+22:33:33.488 > 📊 ICM Telegram: ax=-384, ay=-40, az=16184 | Freq=0.00Hz, RMS=0.0152g
+22:33:33.489 > ✓ Telegram - Freq: 0.00 Hz, RMS: 0.0150 g
+22:33:33.557 > 📊 ICM Telegram: ax=-464, ay=-132, az=16044 | Freq=0.00Hz, RMS=0.0150g
+22:33:33.667 > 📊 ICM Telegram: ax=-464, ay=-112, az=16112 | Freq=0.00Hz, RMS=0.0150g
+22:33:33.791 > 📊 ICM Telegram: ax=-548, ay=-108, az=16152 | Freq=0.00Hz, RMS=0.0149g
+22:33:33.791 > ✓ Telegram - Freq: 0.00 Hz, RMS: 0.0149 g
+22:33:33.887 > 📊 ICM Telegram: ax=-392, ay=20, az=16164 | Freq=0.00Hz, RMS=0.0148g
+22:33:34.091 > 📊 ICM Telegram: ax=-460, ay=-8, az=16160 | Freq=0.00Hz, RMS=0.0147g
+22:33:34.091 > ✓ Telegram - Freq: 0.00 Hz, RMS: 0.0147 g
+22:33:34.107 > 📊 ICM Telegram: ax=-432, ay=-188, az=16100 | Freq=0.00Hz, RMS=0.0147g
+22:33:34.327 > 📊 ICM Telegram: ax=-440, ay=-84, az=16172 | Freq=0.00Hz, RMS=0.0147g
+22:33:34.327 > 📊 ICM Telegram: ax=-508, ay=-104, az=16080 | Freq=0.00Hz, RMS=0.0148g
+22:33:34.390 > ✓ Telegram - Freq: 0.00 Hz, RMS: 0.0149 g
+22:33:34.431 > 📊 ICM Telegram: ax=-440, ay=-104, az=16176 | Freq=0.00Hz, RMS=0.0148g
+22:33:34.657 > 📊 ICM Telegram: ax=-468, ay=-28, az=16168 | Freq=0.00Hz, RMS=0.0148g
+22:33:34.657 > 📊 ICM Telegram: ax=-472, ay=-72, az=16200 | Freq=0.00Hz, RMS=0.0147g
+22:33:34.691 > ✓ Telegram - Freq: 0.00 Hz, RMS: 0.0146 g
+22:33:34.877 > 📊 ICM Telegram: ax=-464, ay=-140, az=16188 | Freq=0.00Hz, RMS=0.0146g
+22:33:34.877 > 📊 ICM Telegram: ax=-432, ay=-168, az=16144 | Freq=0.00Hz, RMS=0.0147g
+22:33:34.994 > 📊 ICM Telegram: ax=-364, ay=-128, az=16156 | Freq=0.00Hz, RMS=0.0147g
+22:33:34.994 > ✓ Telegram - Freq: 0.00 Hz, RMS: 0.0147 g
+22:33:35.095 > 📊 ICM Telegram: ax=-484, ay=-116, az=16096 | Freq=0.00Hz, RMS=0.0147g
+22:33:35.294 > 📊 ICM Telegram: ax=-540, ay=-124, az=16092 | Freq=0.00Hz, RMS=0.0147g
+22:33:35.294 > ✓ Telegram - Freq: 0.00 Hz, RMS: 0.0147 g
+22:33:35.317 > 📊 ICM Telegram: ax=-412, ay=-136, az=16152 | Freq=0.00Hz, RMS=0.0147g
+22:33:35.534 > 📊 ICM Telegram: ax=-424, ay=-48, az=16164 | Freq=0.00Hz, RMS=0.0148g
+22:33:35.534 > 📊 ICM Telegram: ax=-404, ay=-104, az=16124 | Freq=0.00Hz, RMS=0.0148g
+22:33:35.589 > ✓ Telegram - Freq: 0.00 Hz, RMS: 0.0148 g
+22:33:35.645 > 📊 ICM Telegram: ax=-508, ay=-36, az=16196 | Freq=0.00Hz, RMS=0.0148g
+22:33:35.755 > 📊 ICM Telegram: ax=-380, ay=-132, az=16120 | Freq=0.00Hz, RMS=0.0148g
+22:33:35.867 > 📊 ICM Telegram: ax=-492, ay=-92, az=16176 | Freq=0.00Hz, RMS=0.0148g
+22:33:35.973 > ✓ Telegram - Freq: 0.00 Hz, RMS: 0.0148 g
+22:33:35.973 > 📊 ICM Telegram: ax=-380, ay=-88, az=16180 | Freq=0.00Hz, RMS=0.0147g
+22:33:36.197 > 📊 ICM Telegram: ax=-444, ay=-164, az=16164 | Freq=0.00Hz, RMS=0.0147g
+22:33:36.199 > 📊 ICM Telegram: ax=-456, ay=-120, az=16128 | Freq=0.00Hz, RMS=0.0146g
+22:33:36.199 > ✓ Telegram - Freq: 0.00 Hz, RMS: 0.0146 g
+22:33:36.307 > 📊 ICM Telegram: ax=-488, ay=-80, az=16256 | Freq=0.00Hz, RMS=0.0146g
+22:33:36.496 > 📊 ICM Telegram: ax=-400, ay=-112, az=16168 | Freq=0.00Hz, RMS=0.0146g
+22:33:36.499 > ✓ Telegram - Freq: 0.00 Hz, RMS: 0.0146 g
+22:33:36.520 > 📊 ICM Telegram: ax=-412, ay=-96, az=16136 | Freq=0.00Hz, RMS=0.0146g
+22:33:36.637 > 📊 ICM Telegram: ax=-364, ay=-112, az=16132 | Freq=0.00Hz, RMS=0.0145g
+22:33:36.745 > 📊 ICM Telegram: ax=-552, ay=-76, az=16140 | Freq=0.00Hz, RMS=0.0144g
+22:33:36.801 > ✓ Telegram - Freq: 0.00 Hz, RMS: 0.0144 g
+22:33:36.857 > 📊 ICM Telegram: ax=-456, ay=-156, az=16160 | Freq=0.00Hz, RMS=0.0144g
+22:33:36.920 > [ 22305][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+22:33:36.967 > 📊 ICM Telegram: ax=-464, ay=-96, az=16128 | Freq=0.00Hz, RMS=0.0143g
+22:33:37.077 > 📊 ICM Telegram: ax=-424, ay=-136, az=16144 | Freq=0.00Hz, RMS=0.0143g
+22:33:37.109 > ✓ Telegram - Freq: 0.00 Hz, RMS: 0.0143 g
+22:33:37.187 > 📊 ICM Telegram: ax=-468, ay=-104, az=16184 | Freq=0.00Hz, RMS=0.0143g
+22:33:37.406 > 📊 ICM Telegram: ax=-500, ay=-88, az=16264 | Freq=0.00Hz, RMS=0.0144g
+22:33:37.406 > 📊 ICM Telegram: ax=-432, ay=16, az=16184 | Freq=0.00Hz, RMS=0.0143g
+22:33:37.409 > ✓ Telegram - Freq: 0.00 Hz, RMS: 0.0143 g
+22:33:37.515 > 📊 ICM Telegram: ax=-488, ay=-88, az=16144 | Freq=0.00Hz, RMS=0.0143g
+22:33:37.621 > 📊 ICM Telegram: ax=-472, ay=-40, az=16172 | Freq=0.00Hz, RMS=0.0143g
+22:33:37.710 > ✓ Telegram - Freq: 0.00 Hz, RMS: 0.0143 g
+22:33:37.736 > 📊 ICM Telegram: ax=-428, ay=-116, az=16144 | Freq=0.00Hz, RMS=0.0143g
+22:33:37.843 > 📊 ICM Telegram: ax=-504, ay=-160, az=16212 | Freq=0.00Hz, RMS=0.0144g
+22:33:38.010 > 📊 ICM Telegram: ax=-580, ay=-116, az=16068 | Freq=0.00Hz, RMS=0.0144g
+22:33:38.010 > ✓ Telegram - Freq: 0.00 Hz, RMS: 0.0144 g
+22:33:38.067 > 📊 ICM Telegram: ax=-396, ay=-180, az=16132 | Freq=0.00Hz, RMS=0.0144g
+22:33:38.172 > 📊 ICM Telegram: ax=-392, ay=-176, az=16164 | Freq=0.00Hz, RMS=0.0145g
+22:33:38.287 > 📊 ICM Telegram: ax=-512, ay=-44, az=16164 | Freq=0.00Hz, RMS=0.0145g
+22:33:38.311 > ✓ Telegram - Freq: 0.00 Hz, RMS: 0.0145 g
+22:33:38.503 > 📊 ICM Telegram: ax=-424, ay=-136, az=16176 | Freq=0.00Hz, RMS=0.0145g
+22:33:38.503 > 📊 ICM Telegram: ax=-408, ay=-92, az=16204 | Freq=0.00Hz, RMS=0.0144g
+22:33:38.617 > ✓ Telegram - Freq: 0.00 Hz, RMS: 0.0145 g
+22:33:38.617 > 📊 ICM Telegram: ax=-512, ay=-144, az=16136 | Freq=0.00Hz, RMS=0.0144g
+22:33:38.725 > 📊 ICM Telegram: ax=-520, ay=-100, az=16132 | Freq=0.00Hz, RMS=0.0144g
+22:33:38.837 > 📊 ICM Telegram: ax=-540, ay=-44, az=16096 | Freq=0.00Hz, RMS=0.0144g
+22:33:38.945 > ✓ Telegram - Freq: 0.00 Hz, RMS: 0.0144 g
+22:33:38.945 > 📊 ICM Telegram: ax=-476, ay=-32, az=16212 | Freq=0.00Hz, RMS=0.0144g
+22:33:39.167 > 📊 ICM Telegram: ax=-384, ay=-104, az=16128 | Freq=0.00Hz, RMS=0.0143g
+22:33:39.167 > 📊 ICM Telegram: ax=-448, ay=-84, az=16148 | Freq=0.00Hz, RMS=0.0144g
+22:33:39.272 > ✓ Telegram - Freq: 0.00 Hz, RMS: 0.0144 g
+22:33:39.272 > 📊 ICM Telegram: ax=-452, ay=-116, az=16000 | Freq=0.00Hz, RMS=0.0144g
+22:33:39.498 > 📊 ICM Telegram: ax=-432, ay=-28, az=16140 | Freq=0.00Hz, RMS=0.0144g
+22:33:39.529 > 📊 ICM Telegram: ax=-440, ay=8, az=16160 | Freq=0.00Hz, RMS=0.0143g
+22:33:39.606 > ✓ Telegram - Freq: 0.00 Hz, RMS: 0.0143 g
+22:33:39.606 > 📊 ICM Telegram: ax=-468, ay=-12, az=16144 | Freq=0.00Hz, RMS=0.0143g
+22:33:39.822 > 📊 ICM Telegram: ax=-480, ay=-64, az=16228 | Freq=0.00Hz, RMS=0.0143g
+22:33:39.822 > 📊 ICM Telegram: ax=-488, ay=-44, az=16124 | Freq=0.00Hz, RMS=0.0142g
+22:33:39.889 > ✓ Telegram - Freq: 0.00 Hz, RMS: 0.0142 g
+22:33:39.935 > 📊 ICM Telegram: ax=-464, ay=-16, az=16176 | Freq=0.00Hz, RMS=0.0142g
+22:33:40.047 > 📊 ICM Telegram: ax=-460, ay=-120, az=15996 | Freq=0.00Hz, RMS=0.0143g
+22:33:40.205 > 📊 ICM Telegram: ax=-444, ay=-44, az=16188 | Freq=0.00Hz, RMS=0.0143g
+22:33:40.205 > ✓ Telegram - Freq: 0.00 Hz, RMS: 0.0143 g
+22:33:40.267 > 📊 ICM Telegram: ax=-452, ay=-72, az=16160 | Freq=0.00Hz, RMS=0.0143g
+22:33:40.371 > 📊 ICM Telegram: ax=-392, ay=-60, az=16148 | Freq=0.00Hz, RMS=0.0141g
+22:33:40.770 > 📊 ICM Telegram: ax=-400, ay=-116, az=16124 | Freq=0.00Hz, RMS=0.0141g
+22:33:40.774 > 📌 Active Screen: screen_1 (Home)
+22:33:41.451 > Guru Meditation Error: Core  1 panic'ed (InstrFetchProhibited). Exception was unhandled.
+22:33:41.451 > 
+22:33:41.451 > Core  1 register dump:
+22:33:41.451 > PC      : 0x00000951  PS      : 0x00060530  A0      : 0x82015f36  A1      : 0x3fcbab50  
+22:33:41.451 > A2      : 0x3fc9a4c8  A3      : 0x3fca0e60  A4      : 0x0000000f  A5      : 0x00000034  
+22:33:41.451 > A6      : 0x00000031  A7      : 0x3fc997c0  A8      : 0x82010ec5  A9      : 0x3fcbab10  
+22:33:41.451 > A10     : 0x3fc9a4e8  A11     : 0x00000000  A12     : 0x00000000  A13     : 0x3fcbab50  
+22:33:41.451 > A14     : 0x00000000  A15     : 0x00000001  SAR     : 0x0000000d  EXCCAUSE: 0x00000014  
+22:33:41.451 > EXCVADDR: 0x00000950  LBEG    : 0x400570e8  LEND    : 0x400570f3  LCOUNT  : 0x00000000  
+22:33:41.451 > 
+22:33:41.451 > 
+22:33:41.451 > Backtrace: 0x0000094e:0x3fcbab50 0x42015f33:0x3fcbab70 0x42061203:0x3fcbab90 0x4200e764:0x3fcbabb0 0x4200e938:0x3fcbabd0 0x42000f23:0x3fcbabf0 0x42000c39:0x3fcbac20 0x420182dd:0x3fcbac50 0x4200a941:0x3fcbaca0 0x42014453:0x3fcbace0 0x42014ad1:0x3fcbad00 0x4201513d:0x3fcbad80 0x42019755:0x3fcbada0 0x420041a3:0x3fcbadd0
+22:33:41.451 > 
+22:33:41.451 > 
+22:33:41.451 > 
+22:33:41.451 > 
+22:33:41.451 > ELF file SHA256: f3c264b74782a934
+22:33:41.451 > 
+22:33:41.451 > Rebooting...
+22:33:41.451 > ESP-ROM:esp32s3-20210327
+22:33:41.451 > Build:Mar 27 2021
+22:33:41.454 > rst:0xc (RTC_SW_CPU_RST),boot:0x28 (SPI_FAST_FLASH_BOOT)
+22:33:41.454 > Saved PC:0x420642ae
+22:33:41.454 > SPIWP:0xee
+22:33:41.454 > mode:DIO, clock div:1
+22:33:41.454 > load:0x3fce3808,len:0x4bc
+22:33:41.459 > load:0x403c9700,len:0xbd8
+22:33:41.461 > load:0x403cc700,len:0x2a0c
+22:33:41.469 > entry 0x403c98d0
+22:33:42.529 > WHO_AM_I = 0xEA
+22:33:42.529 > ✔ ICM20948 terdeteksi!
+22:33:42.529 > 📌 Active Screen: screen_1 (Home)

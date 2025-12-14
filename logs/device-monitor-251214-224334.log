@@ -1,0 +1,39 @@
+22:43:46.959 > 📌 Active Screen: menu
+22:43:50.241 > 📌 Active Screen: MONITOR
+22:43:52.338 > 📌 Active Screen: menu
+22:43:54.906 > 📌 Active Screen: MONITOR
+22:43:55.845 > [ 22885][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+22:43:56.368 > 📌 Active Screen: menu
+22:43:57.440 > [ 24480][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+22:43:58.180 > 📌 Active Screen: MONITOR
+22:43:59.479 > 📌 Active Screen: menu
+22:44:00.616 > 📌 Active Screen: MONITOR
+22:44:02.637 > 📌 Active Screen: menu
+22:44:04.273 > 📌 Active Screen: MONITOR
+22:44:05.737 > 📌 Active Screen: menu
+22:44:06.640 > 📌 Active Screen: MONITOR
+22:44:07.368 > 📌 Active Screen: menu
+22:44:08.497 > 📌 Active Screen: MONITOR
+22:44:08.736 > 📊 ICM Monitor: ax=-556, ay=-320, az=16180 | Freq=0.00Hz, RMS=0.0127g
+22:44:08.936 > 📊 ICM Monitor: ax=-528, ay=-300, az=16112 | Freq=0.00Hz, RMS=0.0136g
+22:44:08.941 > ✓ Monitor - Freq: 0.00 Hz, RMS: 0.0135 g
+22:44:08.957 > 📊 ICM Monitor: ax=-588, ay=-236, az=16132 | Freq=0.00Hz, RMS=0.0135g
+22:44:09.177 > 📊 ICM Monitor: ax=-596, ay=-288, az=16104 | Freq=0.00Hz, RMS=0.0137g
+22:44:09.180 > 📊 ICM Monitor: ax=-648, ay=-228, az=16116 | Freq=0.00Hz, RMS=0.0136g
+22:44:09.289 > ✓ Monitor - Freq: 0.00 Hz, RMS: 0.0135 g
+22:44:09.289 > 📊 ICM Monitor: ax=-688, ay=-324, az=16184 | Freq=0.00Hz, RMS=0.0134g
+22:44:09.397 > 📊 ICM Monitor: ax=-516, ay=-292, az=16232 | Freq=0.00Hz, RMS=0.0134g
+22:44:09.550 > 📊 ICM Monitor: ax=-636, ay=-260, az=16120 | Freq=0.00Hz, RMS=0.0132g
+22:44:09.550 > ✓ Monitor - Freq: 0.00 Hz, RMS: 0.0132 g
+22:44:09.616 > 📊 ICM Monitor: ax=-672, ay=-276, az=16152 | Freq=0.00Hz, RMS=0.0131g
+22:44:09.727 > 📊 ICM Monitor: ax=-760, ay=-260, az=16136 | Freq=0.00Hz, RMS=0.0131g
+22:44:09.839 > 📊 ICM Monitor: ax=-528, ay=-220, az=16112 | Freq=0.00Hz, RMS=0.0131g
+22:44:09.856 > ✓ Monitor - Freq: 0.00 Hz, RMS: 0.0131 g
+22:44:10.058 > 📊 ICM Monitor: ax=-552, ay=-200, az=16184 | Freq=0.00Hz, RMS=0.0131g
+22:44:10.058 > 📊 ICM Monitor: ax=-604, ay=-288, az=16152 | Freq=0.00Hz, RMS=0.0131g
+22:44:10.169 > ✓ Monitor - Freq: 0.00 Hz, RMS: 0.0131 g
+22:44:10.169 > 📊 ICM Monitor: ax=-700, ay=-264, az=16364 | Freq=0.00Hz, RMS=0.0131g
+22:44:10.387 > 📊 ICM Monitor: ax=-592, ay=-276, az=16164 | Freq=0.00Hz, RMS=0.0131g
+22:44:10.387 > 📊 ICM Monitor: ax=-688, ay=-208, az=16100 | Freq=0.00Hz, RMS=0.0131g
+22:44:10.468 > ✓ Monitor - Freq: 0.00 Hz, RMS: 0.0131 g
+22:44:10.497 > 📊 ICM Monitor: ax=-676, ay=-324, az=16100 | Freq=0.00Hz, RMS=0.0131g

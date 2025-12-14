@@ -1,0 +1,2221 @@
+21:47:17.305 > 📌 Active Screen: menu
+21:47:18.447 > 📊 ICM: ax=-328, ay=-120, az=16092 | Freq=0.00Hz, RMS=0.0169g
+21:47:18.447 > 📌 Active Screen: MONITOR
+21:47:18.504 > 📊 ICM: ax=-268, ay=-176, az=16072 | Freq=0.00Hz, RMS=0.0172g
+21:47:18.618 > 📊 ICM: ax=-292, ay=-180, az=16112 | Freq=0.00Hz, RMS=0.0175g
+21:47:18.619 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0175 g
+21:47:18.720 > 📊 ICM: ax=-232, ay=-96, az=16124 | Freq=0.00Hz, RMS=0.0174g
+21:47:18.903 > 📊 ICM: ax=-380, ay=-120, az=16128 | Freq=0.00Hz, RMS=0.0176g
+21:47:18.903 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0175 g
+21:47:19.049 > 📊 ICM: ax=-304, ay=-188, az=16036 | Freq=0.00Hz, RMS=0.0177g
+21:47:19.182 > 📊 ICM: ax=-304, ay=-156, az=16036 | Freq=0.00Hz, RMS=0.0179g
+21:47:19.182 > 📊 ICM: ax=-312, ay=-176, az=16092 | Freq=0.00Hz, RMS=0.0179g
+21:47:19.182 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0179 g
+21:47:19.381 > 📊 ICM: ax=-368, ay=-212, az=16048 | Freq=0.00Hz, RMS=0.0179g
+21:47:19.468 > 📊 ICM: ax=-432, ay=-140, az=16008 | Freq=0.00Hz, RMS=0.0180g
+21:47:19.468 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0179 g
+21:47:19.600 > 📊 ICM: ax=-352, ay=-176, az=16056 | Freq=0.00Hz, RMS=0.0179g
+21:47:19.600 > 📊 ICM: ax=-292, ay=-220, az=16120 | Freq=0.00Hz, RMS=0.0179g
+21:47:19.748 > 📊 ICM: ax=-380, ay=-236, az=16168 | Freq=0.00Hz, RMS=0.0178g
+21:47:19.748 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0178 g
+21:47:19.929 > 📊 ICM: ax=-244, ay=-112, az=16068 | Freq=0.00Hz, RMS=0.0178g
+21:47:19.929 > 📊 ICM: ax=-324, ay=-176, az=16096 | Freq=0.00Hz, RMS=0.0178g
+21:47:20.042 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0178 g
+21:47:20.146 > 📊 ICM: ax=-300, ay=-140, az=16104 | Freq=0.00Hz, RMS=0.0178g
+21:47:20.257 > 📊 ICM: ax=-344, ay=-216, az=16116 | Freq=0.00Hz, RMS=0.0178g
+21:47:20.324 > 📊 ICM: ax=-356, ay=-116, az=16168 | Freq=0.00Hz, RMS=0.0178g
+21:47:20.324 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0178 g
+21:47:20.480 > 📊 ICM: ax=-292, ay=-236, az=15952 | Freq=0.00Hz, RMS=0.0178g
+21:47:20.582 > 📊 ICM: ax=-264, ay=-252, az=16092 | Freq=0.00Hz, RMS=0.0179g
+21:47:20.582 > 📊 ICM: ax=-316, ay=-76, az=16044 | Freq=0.00Hz, RMS=0.0179g
+21:47:20.614 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0179 g
+21:47:20.704 > 📊 ICM: ax=-324, ay=-64, az=16152 | Freq=0.00Hz, RMS=0.0180g
+21:47:20.895 > 📊 ICM: ax=-280, ay=-220, az=16120 | Freq=0.00Hz, RMS=0.0180g
+21:47:20.924 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0180 g
+21:47:20.924 > 📊 ICM: ax=-488, ay=-260, az=16064 | Freq=0.00Hz, RMS=0.0181g
+21:47:21.032 > 📊 ICM: ax=-108, ay=308, az=16036 | Freq=0.20Hz, RMS=0.0180g
+21:47:21.183 > 📊 ICM: ax=-48, ay=-1568, az=16244 | Freq=0.39Hz, RMS=0.0179g
+21:47:21.252 > ✓ Updated - Freq: 0.39 Hz, RMS: 0.0178 g
+21:47:21.252 > 📊 ICM: ax=12, ay=2760, az=15396 | Freq=0.39Hz, RMS=0.0184g
+21:47:21.363 > 📊 ICM: ax=-564, ay=6376, az=15052 | Freq=0.39Hz, RMS=0.0190g
+21:47:21.458 > ✓ Updated - Freq: 0.39 Hz, RMS: 0.0188 g
+21:47:21.570 > 📊 ICM: ax=372, ay=5236, az=15336 | Freq=0.39Hz, RMS=0.0187g
+21:47:21.570 > 📊 ICM: ax=108, ay=3592, az=15500 | Freq=0.39Hz, RMS=0.0190g
+21:47:21.684 > 📊 ICM: ax=-80, ay=836, az=16088 | Freq=0.39Hz, RMS=0.0196g
+21:47:21.756 > ✓ Updated - Freq: 0.59 Hz, RMS: 0.0194 g
+21:47:21.803 > 📊 ICM: ax=20, ay=-408, az=16324 | Freq=0.39Hz, RMS=0.0193g
+21:47:22.019 > 📊 ICM: ax=1028, ay=-308, az=16080 | Freq=0.39Hz, RMS=0.0191g
+21:47:22.019 > 📊 ICM: ax=456, ay=-388, az=16052 | Freq=0.39Hz, RMS=0.0191g
+21:47:22.039 > ✓ Updated - Freq: 0.39 Hz, RMS: 0.0191 g
+21:47:22.128 > 📊 ICM: ax=4092, ay=-3196, az=17132 | Freq=1.17Hz, RMS=0.0309g
+21:47:22.327 > 📊 ICM: ax=2764, ay=1228, az=16336 | Freq=1.95Hz, RMS=0.0310g
+21:47:22.354 > ✓ Updated - Freq: 1.95 Hz, RMS: 0.0309 g
+21:47:22.354 > 📊 ICM: ax=12, ay=-660, az=16204 | Freq=1.95Hz, RMS=0.0309g
+21:47:22.568 > 📊 ICM: ax=-352, ay=-152, az=16284 | Freq=1.95Hz, RMS=0.0309g
+21:47:22.568 > 📊 ICM: ax=-260, ay=-56, az=16068 | Freq=1.95Hz, RMS=0.0310g
+21:47:22.609 > ✓ Updated - Freq: 1.95 Hz, RMS: 0.0309 g
+21:47:22.789 > 📊 ICM: ax=-132, ay=-100, az=16040 | Freq=1.95Hz, RMS=0.0310g
+21:47:22.789 > 📊 ICM: ax=-380, ay=-104, az=16044 | Freq=1.95Hz, RMS=0.0310g
+21:47:22.894 > ✓ Updated - Freq: 1.95 Hz, RMS: 0.0310 g
+21:47:23.014 > 📊 ICM: ax=-320, ay=-108, az=16128 | Freq=1.95Hz, RMS=0.0310g
+21:47:23.125 > 📊 ICM: ax=-240, ay=-148, az=16004 | Freq=1.95Hz, RMS=0.0309g
+21:47:23.125 > 📊 ICM: ax=-244, ay=-168, az=15996 | Freq=1.95Hz, RMS=0.0310g
+21:47:23.183 > ✓ Updated - Freq: 1.95 Hz, RMS: 0.0310 g
+21:47:23.443 > 📊 ICM: ax=-420, ay=-212, az=16124 | Freq=1.95Hz, RMS=0.0309g
+21:47:23.443 > 📊 ICM: ax=-332, ay=-204, az=16116 | Freq=1.95Hz, RMS=0.0309g
+21:47:23.443 > 📊 ICM: ax=-328, ay=-188, az=16020 | Freq=1.95Hz, RMS=0.0309g
+21:47:23.459 > ✓ Updated - Freq: 1.95 Hz, RMS: 0.0309 g
+21:47:23.667 > 📊 ICM: ax=-340, ay=-112, az=16124 | Freq=1.76Hz, RMS=0.0309g
+21:47:23.748 > 📊 ICM: ax=-308, ay=-188, az=16064 | Freq=1.76Hz, RMS=0.0309g
+21:47:23.780 > ✓ Updated - Freq: 1.56 Hz, RMS: 0.0310 g
+21:47:23.780 > 📊 ICM: ax=-372, ay=-96, az=16072 | Freq=1.56Hz, RMS=0.0309g
+21:47:23.893 > 📊 ICM: ax=-264, ay=-80, az=16104 | Freq=1.56Hz, RMS=0.0303g
+21:47:24.031 > 📊 ICM: ax=-320, ay=-136, az=16136 | Freq=1.56Hz, RMS=0.0304g
+21:47:24.031 > ✓ Updated - Freq: 1.56 Hz, RMS: 0.0305 g
+21:47:24.103 > 📊 ICM: ax=-272, ay=-124, az=16052 | Freq=1.56Hz, RMS=0.0304g
+21:47:24.319 > 📊 ICM: ax=-360, ay=-136, az=16136 | Freq=1.56Hz, RMS=0.0300g
+21:47:24.319 > ✓ Updated - Freq: 1.56 Hz, RMS: 0.0300 g
+21:47:24.432 > 📊 ICM: ax=-364, ay=-172, az=16160 | Freq=1.56Hz, RMS=0.0300g
+21:47:24.547 > 📊 ICM: ax=-292, ay=-156, az=16044 | Freq=1.56Hz, RMS=0.0302g
+21:47:24.555 > 📊 ICM: ax=-320, ay=-180, az=16124 | Freq=1.56Hz, RMS=0.0302g
+21:47:24.603 > ✓ Updated - Freq: 1.56 Hz, RMS: 0.0302 g
+21:47:24.658 > 📊 ICM: ax=-240, ay=-92, az=16092 | Freq=1.17Hz, RMS=0.0193g
+21:47:24.869 > 📊 ICM: ax=-448, ay=-192, az=16152 | Freq=0.39Hz, RMS=0.0179g
+21:47:24.893 > 📊 ICM: ax=-348, ay=-132, az=16084 | Freq=0.00Hz, RMS=0.0182g
+21:47:24.893 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0182 g
+21:47:25.104 > 📊 ICM: ax=-268, ay=-108, az=16136 | Freq=0.00Hz, RMS=0.0182g
+21:47:25.104 > 📊 ICM: ax=-232, ay=-76, az=16080 | Freq=0.00Hz, RMS=0.0182g
+21:47:25.200 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0182 g
+21:47:25.200 > 📊 ICM: ax=-304, ay=-112, az=16116 | Freq=0.00Hz, RMS=0.0182g
+21:47:25.434 > 📊 ICM: ax=-384, ay=-124, az=16016 | Freq=0.00Hz, RMS=0.0182g
+21:47:25.471 > 📊 ICM: ax=-292, ay=-204, az=16156 | Freq=0.00Hz, RMS=0.0182g
+21:47:25.471 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0182 g
+21:47:25.650 > 📊 ICM: ax=-260, ay=-236, az=16108 | Freq=0.00Hz, RMS=0.0182g
+21:47:25.650 > 📊 ICM: ax=-236, ay=-188, az=16088 | Freq=0.00Hz, RMS=0.0181g
+21:47:25.756 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0181 g
+21:47:25.862 > 📊 ICM: ax=-284, ay=-204, az=16076 | Freq=0.00Hz, RMS=0.0181g
+21:47:25.862 > 📊 ICM: ax=-416, ay=-52, az=16144 | Freq=0.00Hz, RMS=0.0181g
+21:47:25.983 > 📊 ICM: ax=-228, ay=-32, az=16088 | Freq=0.00Hz, RMS=0.0181g
+21:47:26.092 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0181 g
+21:47:26.092 > 📊 ICM: ax=-332, ay=-116, az=15964 | Freq=0.00Hz, RMS=0.0182g
+21:47:26.300 > 📊 ICM: ax=-292, ay=-184, az=16144 | Freq=0.00Hz, RMS=0.0182g
+21:47:26.300 > 📊 ICM: ax=-260, ay=-152, az=16104 | Freq=0.00Hz, RMS=0.0182g
+21:47:26.316 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0183 g
+21:47:26.600 > 📊 ICM: ax=-292, ay=-172, az=16044 | Freq=0.00Hz, RMS=0.0183g
+21:47:26.600 > 📊 ICM: ax=-340, ay=-160, az=16052 | Freq=0.00Hz, RMS=0.0183g
+21:47:26.639 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0184 g
+21:47:26.639 > 📊 ICM: ax=-272, ay=-208, az=16004 | Freq=0.00Hz, RMS=0.0184g
+21:47:26.851 > 📊 ICM: ax=-364, ay=-208, az=16112 | Freq=0.00Hz, RMS=0.0184g
+21:47:26.900 > 📊 ICM: ax=-308, ay=-100, az=16144 | Freq=0.00Hz, RMS=0.0183g
+21:47:26.968 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0183 g
+21:47:26.968 > 📊 ICM: ax=-300, ay=-148, az=16144 | Freq=0.00Hz, RMS=0.0183g
+21:47:27.174 > 📊 ICM: ax=-240, ay=-240, az=16164 | Freq=0.00Hz, RMS=0.0183g
+21:47:27.174 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0182 g
+21:47:27.292 > 📊 ICM: ax=-244, ay=-168, az=16064 | Freq=0.00Hz, RMS=0.0182g
+21:47:27.292 > 📊 ICM: ax=-284, ay=-124, az=16136 | Freq=0.00Hz, RMS=0.0182g
+21:47:27.463 > 📊 ICM: ax=-200, ay=-132, az=16060 | Freq=0.00Hz, RMS=0.0182g
+21:47:27.522 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0182 g
+21:47:27.522 > 📊 ICM: ax=-296, ay=-144, az=16188 | Freq=0.00Hz, RMS=0.0181g
+21:47:27.737 > 📊 ICM: ax=-280, ay=-200, az=16072 | Freq=0.00Hz, RMS=0.0182g
+21:47:27.737 > 📊 ICM: ax=-284, ay=-80, az=16076 | Freq=0.00Hz, RMS=0.0182g
+21:47:27.753 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0182 g
+21:47:27.964 > 📊 ICM: ax=-408, ay=-136, az=16068 | Freq=0.00Hz, RMS=0.0181g
+21:47:28.038 > 📊 ICM: ax=-212, ay=-228, az=16040 | Freq=0.00Hz, RMS=0.0182g
+21:47:28.038 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0182 g
+21:47:28.174 > 📊 ICM: ax=-316, ay=-140, az=16104 | Freq=0.00Hz, RMS=0.0181g
+21:47:28.291 > 📊 ICM: ax=-332, ay=-212, az=16144 | Freq=0.00Hz, RMS=0.0181g
+21:47:28.325 > 📊 ICM: ax=-236, ay=-176, az=16076 | Freq=0.00Hz, RMS=0.0181g
+21:47:28.325 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0181 g
+21:47:28.603 > 📊 ICM: ax=-288, ay=-212, az=16056 | Freq=0.00Hz, RMS=0.0180g
+21:47:28.603 > 📊 ICM: ax=-368, ay=-156, az=16036 | Freq=0.00Hz, RMS=0.0180g
+21:47:28.621 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0180 g
+21:47:28.621 > 📊 ICM: ax=-252, ay=-144, az=16016 | Freq=0.00Hz, RMS=0.0181g
+21:47:28.733 > 📊 ICM: ax=-388, ay=-144, az=16152 | Freq=0.00Hz, RMS=0.0181g
+21:47:28.897 > 📊 ICM: ax=-360, ay=-136, az=16148 | Freq=0.00Hz, RMS=0.0180g
+21:47:28.897 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0180 g
+21:47:29.063 > 📊 ICM: ax=-252, ay=-120, az=16132 | Freq=0.00Hz, RMS=0.0179g
+21:47:29.063 > 📊 ICM: ax=-352, ay=-112, az=16100 | Freq=0.00Hz, RMS=0.0179g
+21:47:29.183 > 📊 ICM: ax=-300, ay=-164, az=16152 | Freq=0.00Hz, RMS=0.0178g
+21:47:29.183 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0178 g
+21:47:29.390 > 📊 ICM: ax=-240, ay=-132, az=16104 | Freq=0.00Hz, RMS=0.0177g
+21:47:29.467 > 📊 ICM: ax=-196, ay=-160, az=16092 | Freq=0.00Hz, RMS=0.0178g
+21:47:29.467 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0178 g
+21:47:29.606 > 📊 ICM: ax=-236, ay=-136, az=16116 | Freq=0.00Hz, RMS=0.0178g
+21:47:29.716 > 📊 ICM: ax=-288, ay=-216, az=16132 | Freq=0.00Hz, RMS=0.0178g
+21:47:29.757 > 📊 ICM: ax=-252, ay=-136, az=16068 | Freq=0.00Hz, RMS=0.0178g
+21:47:29.757 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0178 g
+21:47:29.943 > 📊 ICM: ax=-264, ay=-144, az=16148 | Freq=0.00Hz, RMS=0.0177g
+21:47:30.033 > 📊 ICM: ax=-304, ay=-288, az=16140 | Freq=0.00Hz, RMS=0.0177g
+21:47:30.033 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0176 g
+21:47:30.054 > 📊 ICM: ax=-316, ay=-156, az=16096 | Freq=0.00Hz, RMS=0.0176g
+21:47:30.271 > 📊 ICM: ax=-272, ay=-152, az=16112 | Freq=0.00Hz, RMS=0.0175g
+21:47:30.326 > 📊 ICM: ax=-428, ay=-128, az=16000 | Freq=0.00Hz, RMS=0.0175g
+21:47:30.326 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0176 g
+21:47:30.489 > 📊 ICM: ax=-316, ay=-184, az=16100 | Freq=0.00Hz, RMS=0.0176g
+21:47:30.489 > 📊 ICM: ax=-236, ay=-136, az=16184 | Freq=0.00Hz, RMS=0.0176g
+21:47:30.600 > 📊 ICM: ax=-320, ay=-140, az=16088 | Freq=0.00Hz, RMS=0.0176g
+21:47:30.600 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0176 g
+21:47:30.820 > 📊 ICM: ax=-212, ay=-192, az=16052 | Freq=0.00Hz, RMS=0.0176g
+21:47:30.820 > 📊 ICM: ax=-244, ay=-116, az=16016 | Freq=0.00Hz, RMS=0.0177g
+21:47:30.893 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0177 g
+21:47:31.036 > 📊 ICM: ax=-256, ay=-196, az=16088 | Freq=0.00Hz, RMS=0.0177g
+21:47:31.145 > 📊 ICM: ax=-328, ay=-232, az=16100 | Freq=0.00Hz, RMS=0.0176g
+21:47:31.145 > 📊 ICM: ax=-252, ay=-152, az=16076 | Freq=0.00Hz, RMS=0.0176g
+21:47:31.185 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0176 g
+21:47:31.367 > 📊 ICM: ax=-276, ay=-180, az=16144 | Freq=0.00Hz, RMS=0.0176g
+21:47:31.466 > 📊 ICM: ax=-300, ay=-128, az=16000 | Freq=0.00Hz, RMS=0.0177g
+21:47:31.466 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0177 g
+21:47:31.483 > 📊 ICM: ax=-368, ay=-84, az=16084 | Freq=0.00Hz, RMS=0.0177g
+21:47:31.704 > 📊 ICM: ax=-296, ay=-132, az=16160 | Freq=0.00Hz, RMS=0.0178g
+21:47:31.704 > 📊 ICM: ax=-236, ay=-40, az=16148 | Freq=0.00Hz, RMS=0.0177g
+21:47:31.808 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0178 g
+21:47:31.808 > 📊 ICM: ax=-284, ay=-84, az=16092 | Freq=0.00Hz, RMS=0.0178g
+21:47:31.914 > 📊 ICM: ax=-160, ay=-36, az=16064 | Freq=0.00Hz, RMS=0.0178g
+21:47:32.033 > 📊 ICM: ax=-432, ay=-292, az=16072 | Freq=0.00Hz, RMS=0.0178g
+21:47:32.033 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0178 g
+21:47:32.254 > 📊 ICM: ax=-236, ay=-216, az=16108 | Freq=0.00Hz, RMS=0.0179g
+21:47:32.254 > 📊 ICM: ax=-312, ay=-184, az=16072 | Freq=0.00Hz, RMS=0.0179g
+21:47:32.354 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0180 g
+21:47:32.354 > 📊 ICM: ax=-468, ay=-316, az=16048 | Freq=0.00Hz, RMS=0.0180g
+21:47:32.576 > 📊 ICM: ax=-272, ay=-212, az=16120 | Freq=0.00Hz, RMS=0.0179g
+21:47:32.613 > 📊 ICM: ax=-364, ay=-228, az=16124 | Freq=0.00Hz, RMS=0.0181g
+21:47:32.613 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0182 g
+21:47:32.789 > 📊 ICM: ax=-264, ay=-132, az=16104 | Freq=0.00Hz, RMS=0.0182g
+21:47:32.885 > 📊 ICM: ax=-360, ay=-312, az=16112 | Freq=0.00Hz, RMS=0.0182g
+21:47:32.901 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0181 g
+21:47:32.901 > 📊 ICM: ax=-380, ay=-200, az=16060 | Freq=0.00Hz, RMS=0.0181g
+21:47:33.134 > 📊 ICM: ax=-584, ay=-800, az=16080 | Freq=0.00Hz, RMS=0.0181g
+21:47:33.134 > 📊 ICM: ax=-304, ay=336, az=16096 | Freq=0.00Hz, RMS=0.0180g
+21:47:33.234 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0180 g
+21:47:33.234 > 📊 ICM: ax=-228, ay=-208, az=16108 | Freq=0.00Hz, RMS=0.0179g
+21:47:33.351 > 📊 ICM: ax=-592, ay=-1152, az=15980 | Freq=0.00Hz, RMS=0.0179g
+21:47:33.467 > 📊 ICM: ax=-212, ay=1236, az=15936 | Freq=0.00Hz, RMS=0.0178g
+21:47:33.467 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0178 g
+21:47:33.684 > 📊 ICM: ax=-552, ay=-752, az=16120 | Freq=0.20Hz, RMS=0.0178g
+21:47:33.684 > 📊 ICM: ax=-580, ay=-380, az=16072 | Freq=0.20Hz, RMS=0.0178g
+21:47:33.753 > ✓ Updated - Freq: 0.20 Hz, RMS: 0.0177 g
+21:47:34.012 > 📊 ICM: ax=-272, ay=-84, az=16144 | Freq=0.20Hz, RMS=0.0177g
+21:47:34.012 > 📊 ICM: ax=-1012, ay=-840, az=15988 | Freq=0.20Hz, RMS=0.0176g
+21:47:34.012 > 📊 ICM: ax=-448, ay=-360, az=16080 | Freq=0.20Hz, RMS=0.0175g
+21:47:34.042 > ✓ Updated - Freq: 0.20 Hz, RMS: 0.0175 g
+21:47:34.125 > 📊 ICM: ax=-224, ay=8, az=16092 | Freq=0.20Hz, RMS=0.0174g
+21:47:34.231 > 📊 ICM: ax=228, ay=-224, az=16212 | Freq=0.59Hz, RMS=0.0174g
+21:47:34.316 > ✓ Updated - Freq: 0.59 Hz, RMS: 0.0173 g
+21:47:34.453 > 📊 ICM: ax=-604, ay=-668, az=16084 | Freq=0.59Hz, RMS=0.0172g
+21:47:34.453 > 📊 ICM: ax=-136, ay=128, az=15984 | Freq=0.59Hz, RMS=0.0172g
+21:47:34.614 > 📊 ICM: ax=-948, ay=-872, az=16048 | Freq=0.59Hz, RMS=0.0173g
+21:47:34.614 > ✓ Updated - Freq: 0.59 Hz, RMS: 0.0173 g
+21:47:34.670 > 📊 ICM: ax=-1132, ay=-864, az=16052 | Freq=0.59Hz, RMS=0.0173g
+21:47:34.783 > 📊 ICM: ax=-120, ay=556, az=16044 | Freq=0.59Hz, RMS=0.0172g
+21:47:34.895 > 📊 ICM: ax=-460, ay=-412, az=16100 | Freq=0.59Hz, RMS=0.0171g
+21:47:34.895 > ✓ Updated - Freq: 0.59 Hz, RMS: 0.0171 g
+21:47:35.001 > 📊 ICM: ax=-2568, ay=-1072, az=15928 | Freq=0.98Hz, RMS=0.0171g
+21:47:35.110 > 📊 ICM: ax=212, ay=-104, az=16100 | Freq=0.98Hz, RMS=0.0170g
+21:47:35.184 > ✓ Updated - Freq: 0.98 Hz, RMS: 0.0170 g
+21:47:35.330 > 📊 ICM: ax=300, ay=-272, az=16176 | Freq=0.98Hz, RMS=0.0169g
+21:47:35.330 > 📊 ICM: ax=92, ay=2124, az=15984 | Freq=0.98Hz, RMS=0.0168g
+21:47:35.443 > 📊 ICM: ax=-684, ay=-1020, az=16140 | Freq=1.37Hz, RMS=0.0168g
+21:47:35.471 > ✓ Updated - Freq: 1.37 Hz, RMS: 0.0167 g
+21:47:35.495 > [ 58277][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+21:47:35.553 > 📊 ICM: ax=-2224, ay=-652, az=15840 | Freq=1.37Hz, RMS=0.0167g
+21:47:35.658 > 📊 ICM: ax=100, ay=1412, az=15996 | Freq=1.37Hz, RMS=0.0167g
+21:47:35.767 > ✓ Updated - Freq: 1.76 Hz, RMS: 0.0167 g
+21:47:35.767 > 📊 ICM: ax=112, ay=196, az=16144 | Freq=1.76Hz, RMS=0.0167g
+21:47:35.990 > 📊 ICM: ax=-668, ay=-636, az=16168 | Freq=1.76Hz, RMS=0.0168g
+21:47:35.990 > 📊 ICM: ax=-132, ay=60, az=16108 | Freq=1.76Hz, RMS=0.0169g
+21:47:36.040 > ✓ Updated - Freq: 1.76 Hz, RMS: 0.0169 g
+21:47:36.103 > 📊 ICM: ax=-560, ay=-1076, az=16052 | Freq=1.56Hz, RMS=0.0169g
+21:47:36.321 > 📊 ICM: ax=-540, ay=-520, az=16136 | Freq=1.56Hz, RMS=0.0169g
+21:47:36.321 > 📊 ICM: ax=-148, ay=864, az=15980 | Freq=1.56Hz, RMS=0.0170g
+21:47:36.321 > ✓ Updated - Freq: 1.56 Hz, RMS: 0.0170 g
+21:47:36.434 > 📊 ICM: ax=284, ay=444, az=16120 | Freq=1.56Hz, RMS=0.0170g
+21:47:36.540 > 📊 ICM: ax=-484, ay=400, az=16116 | Freq=1.56Hz, RMS=0.0169g
+21:47:36.597 > ✓ Updated - Freq: 1.56 Hz, RMS: 0.0168 g
+21:47:36.761 > 📊 ICM: ax=1028, ay=3372, az=16044 | Freq=1.56Hz, RMS=0.0168g
+21:47:36.761 > 📊 ICM: ax=1860, ay=40, az=16344 | Freq=1.95Hz, RMS=0.0195g
+21:47:36.892 > 📊 ICM: ax=-172, ay=1436, az=16036 | Freq=2.73Hz, RMS=0.0207g
+21:47:36.892 > ✓ Updated - Freq: 3.12 Hz, RMS: 0.0209 g
+21:47:37.088 > 📊 ICM: ax=-1336, ay=864, az=17416 | Freq=3.52Hz, RMS=0.0234g
+21:47:37.088 > 📊 ICM: ax=-160, ay=-1396, az=16164 | Freq=3.32Hz, RMS=0.0233g
+21:47:37.200 > ✓ Updated - Freq: 3.52 Hz, RMS: 0.0232 g
+21:47:37.200 > 📊 ICM: ax=-332, ay=-1132, az=16060 | Freq=3.52Hz, RMS=0.0231g
+21:47:37.300 > 📊 ICM: ax=100, ay=3748, az=16176 | Freq=4.30Hz, RMS=0.0235g
+21:47:37.466 > 📊 ICM: ax=-144, ay=5964, az=16572 | Freq=5.08Hz, RMS=0.0272g
+21:47:37.466 > ✓ Updated - Freq: 5.08 Hz, RMS: 0.0274 g
+21:47:37.534 > 📊 ICM: ax=592, ay=12, az=16220 | Freq=5.47Hz, RMS=0.0483g
+21:47:37.747 > 📊 ICM: ax=468, ay=-1892, az=15608 | Freq=5.86Hz, RMS=0.0491g
+21:47:37.747 > ✓ Updated - Freq: 5.86 Hz, RMS: 0.0491 g
+21:47:37.747 > 📊 ICM: ax=284, ay=412, az=16212 | Freq=5.86Hz, RMS=0.0491g
+21:47:37.864 > 📊 ICM: ax=-116, ay=92, az=16104 | Freq=5.86Hz, RMS=0.0491g
+21:47:38.039 > 📊 ICM: ax=-408, ay=-108, az=16028 | Freq=5.47Hz, RMS=0.0491g
+21:47:38.039 > ✓ Updated - Freq: 5.47 Hz, RMS: 0.0491 g
+21:47:38.189 > 📊 ICM: ax=-160, ay=-208, az=16096 | Freq=5.47Hz, RMS=0.0491g
+21:47:38.189 > 📊 ICM: ax=-380, ay=-816, az=16012 | Freq=5.47Hz, RMS=0.0491g
+21:47:38.303 > 📊 ICM: ax=-84, ay=96, az=16092 | Freq=5.08Hz, RMS=0.0491g
+21:47:38.321 > ✓ Updated - Freq: 5.08 Hz, RMS: 0.0491 g
+21:47:38.523 > 📊 ICM: ax=-268, ay=-260, az=16108 | Freq=5.08Hz, RMS=0.0491g
+21:47:38.523 > 📊 ICM: ax=-328, ay=-192, az=16148 | Freq=5.08Hz, RMS=0.0491g
+21:47:38.601 > ✓ Updated - Freq: 5.08 Hz, RMS: 0.0491 g
+21:47:38.741 > 📊 ICM: ax=-272, ay=-256, az=16112 | Freq=5.08Hz, RMS=0.0491g
+21:47:38.851 > 📊 ICM: ax=-336, ay=-228, az=16124 | Freq=5.08Hz, RMS=0.0491g
+21:47:38.851 > 📊 ICM: ax=-236, ay=-232, az=16116 | Freq=5.08Hz, RMS=0.0491g
+21:47:38.895 > ✓ Updated - Freq: 5.08 Hz, RMS: 0.0491 g
+21:47:39.066 > 📊 ICM: ax=-300, ay=-204, az=16080 | Freq=5.08Hz, RMS=0.0491g
+21:47:39.183 > 📊 ICM: ax=-260, ay=-232, az=16040 | Freq=5.08Hz, RMS=0.0491g
+21:47:39.183 > ✓ Updated - Freq: 5.08 Hz, RMS: 0.0492 g
+21:47:39.183 > 📊 ICM: ax=-324, ay=-252, az=16024 | Freq=5.08Hz, RMS=0.0492g
+21:47:39.467 > 📊 ICM: ax=-292, ay=-144, az=16144 | Freq=4.88Hz, RMS=0.0489g
+21:47:39.467 > 📊 ICM: ax=-368, ay=-168, az=16144 | Freq=3.91Hz, RMS=0.0479g
+21:47:39.467 > ✓ Updated - Freq: 3.52 Hz, RMS: 0.0476 g
+21:47:39.509 > 📊 ICM: ax=-352, ay=-128, az=16128 | Freq=3.12Hz, RMS=0.0466g
+21:47:39.621 > 📊 ICM: ax=-260, ay=-48, az=16052 | Freq=2.93Hz, RMS=0.0464g
+21:47:39.741 > 📊 ICM: ax=-296, ay=-248, az=16076 | Freq=2.93Hz, RMS=0.0465g
+21:47:39.741 > ✓ Updated - Freq: 2.73 Hz, RMS: 0.0465 g
+21:47:39.946 > 📊 ICM: ax=-316, ay=-148, az=16108 | Freq=2.34Hz, RMS=0.0463g
+21:47:39.946 > 📊 ICM: ax=-244, ay=-144, az=16096 | Freq=1.56Hz, RMS=0.0446g
+21:47:40.034 > ✓ Updated - Freq: 1.17 Hz, RMS: 0.0441 g
+21:47:40.059 > 📊 ICM: ax=-300, ay=-88, az=16092 | Freq=1.17Hz, RMS=0.0194g
+21:47:40.284 > 📊 ICM: ax=-260, ay=-100, az=16064 | Freq=0.39Hz, RMS=0.0186g
+21:47:40.284 > 📊 ICM: ax=-256, ay=-224, az=16160 | Freq=0.00Hz, RMS=0.0172g
+21:47:40.382 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0173 g
+21:47:40.382 > 📊 ICM: ax=-276, ay=-180, az=16152 | Freq=0.00Hz, RMS=0.0173g
+21:47:40.601 > 📊 ICM: ax=-296, ay=-236, az=16028 | Freq=0.00Hz, RMS=0.0174g
+21:47:40.601 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0174 g
+21:47:40.723 > 📊 ICM: ax=-284, ay=-144, az=16096 | Freq=0.00Hz, RMS=0.0174g
+21:47:40.753 > 📊 ICM: ax=-344, ay=-128, az=16024 | Freq=0.00Hz, RMS=0.0175g
+21:47:40.882 > 📊 ICM: ax=-408, ay=-136, az=16168 | Freq=0.00Hz, RMS=0.0175g
+21:47:40.882 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0175 g
+21:47:40.945 > 📊 ICM: ax=-284, ay=-244, az=16100 | Freq=0.00Hz, RMS=0.0176g
+21:47:41.053 > 📊 ICM: ax=-244, ay=-76, az=16084 | Freq=0.00Hz, RMS=0.0176g
+21:47:41.174 > 📊 ICM: ax=-268, ay=-160, az=16036 | Freq=0.00Hz, RMS=0.0178g
+21:47:41.270 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0178 g
+21:47:41.270 > 📊 ICM: ax=-320, ay=-224, az=16132 | Freq=0.00Hz, RMS=0.0178g
+21:47:41.463 > 📊 ICM: ax=-356, ay=-108, az=16108 | Freq=0.00Hz, RMS=0.0178g
+21:47:41.463 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0178 g
+21:47:41.604 > 📊 ICM: ax=-168, ay=-316, az=16056 | Freq=0.00Hz, RMS=0.0178g
+21:47:41.700 > 📊 ICM: ax=-496, ay=-164, az=16080 | Freq=0.00Hz, RMS=0.0178g
+21:47:41.715 > 📊 ICM: ax=-76, ay=0, az=16032 | Freq=0.00Hz, RMS=0.0179g
+21:47:41.823 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0179 g
+21:47:41.823 > 📊 ICM: ax=-244, ay=-268, az=16020 | Freq=0.00Hz, RMS=0.0180g
+21:47:42.030 > 📊 ICM: ax=-332, ay=-156, az=16036 | Freq=0.00Hz, RMS=0.0180g
+21:47:42.030 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0181 g
+21:47:42.030 > 📊 ICM: ax=-252, ay=-16, az=16152 | Freq=0.00Hz, RMS=0.0180g
+21:47:42.262 > 📊 ICM: ax=-292, ay=-116, az=16140 | Freq=0.00Hz, RMS=0.0180g
+21:47:42.320 > 📊 ICM: ax=-320, ay=-132, az=16080 | Freq=0.00Hz, RMS=0.0180g
+21:47:42.320 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0180 g
+21:47:42.372 > 📊 ICM: ax=-352, ay=-176, az=16040 | Freq=0.00Hz, RMS=0.0179g
+21:47:42.593 > 📊 ICM: ax=-264, ay=-120, az=16112 | Freq=0.00Hz, RMS=0.0179g
+21:47:42.601 > 📊 ICM: ax=-328, ay=-140, az=16084 | Freq=0.00Hz, RMS=0.0179g
+21:47:42.601 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0179 g
+21:47:42.700 > 📊 ICM: ax=-288, ay=-284, az=16080 | Freq=0.00Hz, RMS=0.0178g
+21:47:42.889 > 📊 ICM: ax=-292, ay=-164, az=16068 | Freq=0.00Hz, RMS=0.0178g
+21:47:42.889 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0178 g
+21:47:43.027 > 📊 ICM: ax=-276, ay=-200, az=16028 | Freq=0.00Hz, RMS=0.0178g
+21:47:43.141 > 📊 ICM: ax=-292, ay=-108, az=16112 | Freq=0.00Hz, RMS=0.0178g
+21:47:43.176 > 📊 ICM: ax=-360, ay=-184, az=16116 | Freq=0.00Hz, RMS=0.0179g
+21:47:43.176 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0179 g
+21:47:43.202 > [ 65983][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+21:47:43.364 > 📊 ICM: ax=-268, ay=-148, az=16164 | Freq=0.00Hz, RMS=0.0179g
+21:47:43.463 > 📊 ICM: ax=-200, ay=-116, az=16136 | Freq=0.00Hz, RMS=0.0179g
+21:47:43.463 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0180 g
+21:47:43.582 > 📊 ICM: ax=-436, ay=-196, az=16068 | Freq=0.00Hz, RMS=0.0179g
+21:47:43.682 > 📊 ICM: ax=-244, ay=-148, az=16140 | Freq=0.00Hz, RMS=0.0179g
+21:47:43.742 > 📊 ICM: ax=-244, ay=-180, az=16056 | Freq=0.00Hz, RMS=0.0179g
+21:47:43.742 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0178 g
+21:47:43.900 > 📊 ICM: ax=-312, ay=-140, az=16136 | Freq=0.00Hz, RMS=0.0177g
+21:47:44.023 > 📊 ICM: ax=-328, ay=-176, az=16072 | Freq=0.00Hz, RMS=0.0177g
+21:47:44.023 > 📊 ICM: ax=-248, ay=-216, az=16048 | Freq=0.00Hz, RMS=0.0177g
+21:47:44.023 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0177 g
+21:47:44.233 > 📊 ICM: ax=-268, ay=-208, az=16100 | Freq=0.00Hz, RMS=0.0177g
+21:47:44.233 > 📊 ICM: ax=-236, ay=-152, az=16120 | Freq=0.00Hz, RMS=0.0177g
+21:47:44.314 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0176 g
+21:47:44.460 > 📊 ICM: ax=-236, ay=-144, az=16124 | Freq=0.00Hz, RMS=0.0176g
+21:47:44.460 > 📊 ICM: ax=-296, ay=-204, az=16100 | Freq=0.00Hz, RMS=0.0176g
+21:47:44.592 > 📊 ICM: ax=-288, ay=-156, az=16136 | Freq=0.00Hz, RMS=0.0175g
+21:47:44.683 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0176 g
+21:47:44.683 > 📊 ICM: ax=-276, ay=-112, az=16120 | Freq=0.00Hz, RMS=0.0176g
+21:47:44.784 > 📊 ICM: ax=-404, ay=-204, az=15996 | Freq=0.00Hz, RMS=0.0177g
+21:47:44.898 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0177 g
+21:47:44.898 > 📊 ICM: ax=-212, ay=-228, az=16128 | Freq=0.00Hz, RMS=0.0178g
+21:47:45.123 > 📊 ICM: ax=-300, ay=-196, az=16140 | Freq=0.00Hz, RMS=0.0179g
+21:47:45.167 > 📊 ICM: ax=-336, ay=-148, az=16108 | Freq=0.00Hz, RMS=0.0179g
+21:47:45.234 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0179 g
+21:47:45.234 > 📊 ICM: ax=-384, ay=-160, az=16092 | Freq=0.00Hz, RMS=0.0180g
+21:47:45.449 > 📊 ICM: ax=-368, ay=-120, az=16088 | Freq=0.00Hz, RMS=0.0180g
+21:47:45.449 > 📊 ICM: ax=-328, ay=-108, az=16084 | Freq=0.00Hz, RMS=0.0181g
+21:47:45.449 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0181 g
+21:47:45.666 > 📊 ICM: ax=-292, ay=-208, az=16000 | Freq=0.00Hz, RMS=0.0181g
+21:47:45.741 > 📊 ICM: ax=-328, ay=-176, az=16168 | Freq=0.00Hz, RMS=0.0180g
+21:47:45.741 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0180 g
+21:47:45.886 > 📊 ICM: ax=-344, ay=-240, az=16124 | Freq=0.00Hz, RMS=0.0180g
+21:47:45.992 > 📊 ICM: ax=-220, ay=-124, az=16044 | Freq=0.00Hz, RMS=0.0179g
+21:47:45.992 > 📊 ICM: ax=-340, ay=-220, az=16120 | Freq=0.00Hz, RMS=0.0178g
+21:47:46.026 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0178 g
+21:47:46.222 > 📊 ICM: ax=-336, ay=-272, az=15964 | Freq=0.00Hz, RMS=0.0179g
+21:47:46.222 > 📊 ICM: ax=-324, ay=-88, az=16088 | Freq=0.00Hz, RMS=0.0179g
+21:47:46.305 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0179 g
+21:47:46.435 > 📊 ICM: ax=-220, ay=-144, az=16080 | Freq=0.00Hz, RMS=0.0179g
+21:47:46.542 > 📊 ICM: ax=-284, ay=-176, az=16168 | Freq=0.00Hz, RMS=0.0179g
+21:47:46.542 > 📊 ICM: ax=-240, ay=-252, az=16144 | Freq=0.00Hz, RMS=0.0179g
+21:47:46.591 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0179 g
+21:47:46.773 > 📊 ICM: ax=-304, ay=-140, az=16140 | Freq=0.00Hz, RMS=0.0179g
+21:47:46.885 > 📊 ICM: ax=-292, ay=-116, az=16068 | Freq=0.00Hz, RMS=0.0179g
+21:47:46.887 > 📊 ICM: ax=-248, ay=-176, az=16096 | Freq=0.00Hz, RMS=0.0180g
+21:47:46.887 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0180 g
+21:47:47.090 > 📊 ICM: ax=-252, ay=-144, az=16056 | Freq=0.00Hz, RMS=0.0180g
+21:47:47.163 > 📊 ICM: ax=-268, ay=-132, az=16088 | Freq=0.00Hz, RMS=0.0181g
+21:47:47.163 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0180 g
+21:47:47.213 > 📊 ICM: ax=-272, ay=-212, az=16108 | Freq=0.00Hz, RMS=0.0180g
+21:47:47.431 > 📊 ICM: ax=-308, ay=-204, az=16072 | Freq=0.00Hz, RMS=0.0180g
+21:47:47.456 > 📊 ICM: ax=-312, ay=-152, az=16060 | Freq=0.00Hz, RMS=0.0180g
+21:47:47.456 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0180 g
+21:47:47.642 > 📊 ICM: ax=-332, ay=-148, az=16144 | Freq=0.00Hz, RMS=0.0180g
+21:47:47.642 > 📊 ICM: ax=-288, ay=-112, az=16244 | Freq=0.00Hz, RMS=0.0179g
+21:47:47.763 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0179 g
+21:47:47.763 > 📊 ICM: ax=-316, ay=-188, az=16124 | Freq=0.00Hz, RMS=0.0179g
+21:47:47.979 > 📊 ICM: ax=-284, ay=-152, az=16080 | Freq=0.00Hz, RMS=0.0179g
+21:47:47.979 > 📊 ICM: ax=-304, ay=-180, az=16056 | Freq=0.00Hz, RMS=0.0180g
+21:47:48.020 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0180 g
+21:47:48.199 > 📊 ICM: ax=-212, ay=-180, az=16032 | Freq=0.00Hz, RMS=0.0179g
+21:47:48.312 > 📊 ICM: ax=-256, ay=-160, az=16072 | Freq=0.00Hz, RMS=0.0179g
+21:47:48.312 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0180 g
+21:47:48.312 > 📊 ICM: ax=-320, ay=-148, az=15872 | Freq=0.00Hz, RMS=0.0180g
+21:47:48.532 > 📊 ICM: ax=-296, ay=-184, az=16080 | Freq=0.00Hz, RMS=0.0181g
+21:47:48.589 > 📊 ICM: ax=-348, ay=-156, az=15892 | Freq=0.00Hz, RMS=0.0182g
+21:47:48.639 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0182 g
+21:47:48.639 > 📊 ICM: ax=-300, ay=-128, az=16188 | Freq=0.00Hz, RMS=0.0182g
+21:47:48.856 > 📊 ICM: ax=-324, ay=-132, az=16132 | Freq=0.00Hz, RMS=0.0182g
+21:47:48.881 > 📊 ICM: ax=-336, ay=-116, az=16104 | Freq=0.00Hz, RMS=0.0182g
+21:47:48.884 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0182 g
+21:47:48.968 > 📊 ICM: ax=-232, ay=-204, az=16116 | Freq=0.00Hz, RMS=0.0183g
+21:47:49.157 > 📊 ICM: ax=-228, ay=-152, az=16036 | Freq=0.00Hz, RMS=0.0183g
+21:47:49.188 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0184 g
+21:47:49.188 > 📊 ICM: ax=-216, ay=-100, az=16040 | Freq=0.00Hz, RMS=0.0184g
+21:47:49.415 > 📊 ICM: ax=-252, ay=-248, az=16068 | Freq=0.00Hz, RMS=0.0183g
+21:47:49.415 > 📊 ICM: ax=-188, ay=-228, az=16092 | Freq=0.00Hz, RMS=0.0183g
+21:47:49.452 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0183 g
+21:47:49.731 > 📊 ICM: ax=-352, ay=-148, az=16128 | Freq=0.00Hz, RMS=0.0184g
+21:47:49.731 > 📊 ICM: ax=-376, ay=-196, az=16080 | Freq=0.00Hz, RMS=0.0183g
+21:47:49.731 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0183 g
+21:47:49.731 > 📊 ICM: ax=-328, ay=-164, az=16212 | Freq=0.00Hz, RMS=0.0182g
+21:47:49.965 > 📊 ICM: ax=-320, ay=-140, az=16112 | Freq=0.00Hz, RMS=0.0182g
+21:47:50.023 > 📊 ICM: ax=-348, ay=-116, az=16088 | Freq=0.00Hz, RMS=0.0182g
+21:47:50.023 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0182 g
+21:47:50.073 > 📊 ICM: ax=-308, ay=-108, az=16148 | Freq=0.00Hz, RMS=0.0182g
+21:47:50.303 > 📊 ICM: ax=-316, ay=-188, az=16040 | Freq=0.00Hz, RMS=0.0182g
+21:47:50.303 > 📊 ICM: ax=-352, ay=-292, az=16176 | Freq=0.00Hz, RMS=0.0182g
+21:47:50.303 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0182 g
+21:47:50.398 > 📊 ICM: ax=-232, ay=-128, az=16088 | Freq=0.00Hz, RMS=0.0181g
+21:47:50.589 > 📊 ICM: ax=-288, ay=-84, az=16100 | Freq=0.00Hz, RMS=0.0180g
+21:47:50.589 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0180 g
+21:47:50.728 > 📊 ICM: ax=-288, ay=-164, az=15996 | Freq=0.00Hz, RMS=0.0180g
+21:47:50.728 > 📊 ICM: ax=-384, ay=-156, az=16012 | Freq=0.00Hz, RMS=0.0180g
+21:47:50.880 > 📊 ICM: ax=-304, ay=-168, az=16112 | Freq=0.00Hz, RMS=0.0181g
+21:47:50.880 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0179 g
+21:47:51.063 > 📊 ICM: ax=-284, ay=-184, az=16016 | Freq=0.00Hz, RMS=0.0179g
+21:47:51.168 > 📊 ICM: ax=-288, ay=-112, az=16124 | Freq=0.00Hz, RMS=0.0179g
+21:47:51.170 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0179 g
+21:47:51.284 > 📊 ICM: ax=-372, ay=-152, az=16068 | Freq=0.00Hz, RMS=0.0179g
+21:47:51.395 > 📊 ICM: ax=-308, ay=-168, az=16104 | Freq=0.00Hz, RMS=0.0178g
+21:47:51.455 > 📊 ICM: ax=-344, ay=-196, az=16128 | Freq=0.00Hz, RMS=0.0179g
+21:47:51.504 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0178 g
+21:47:51.504 > 📊 ICM: ax=-284, ay=-156, az=16064 | Freq=0.00Hz, RMS=0.0178g
+21:47:51.718 > 📊 ICM: ax=-332, ay=-152, az=15904 | Freq=0.00Hz, RMS=0.0179g
+21:47:51.726 > 📊 ICM: ax=-372, ay=-204, az=15932 | Freq=0.00Hz, RMS=0.0179g
+21:47:51.726 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0179 g
+21:47:51.831 > 📊 ICM: ax=-328, ay=-232, az=15876 | Freq=0.00Hz, RMS=0.0180g
+21:47:52.022 > 📊 ICM: ax=-404, ay=-144, az=15920 | Freq=0.00Hz, RMS=0.0180g
+21:47:52.022 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0180 g
+21:47:52.159 > 📊 ICM: ax=-216, ay=-176, az=16096 | Freq=0.00Hz, RMS=0.0180g
+21:47:52.159 > 📊 ICM: ax=-264, ay=-128, az=16072 | Freq=0.00Hz, RMS=0.0179g
+21:47:52.306 > 📊 ICM: ax=-284, ay=-192, az=16088 | Freq=0.00Hz, RMS=0.0179g
+21:47:52.306 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0180 g
+21:47:52.491 > 📊 ICM: ax=-248, ay=-232, az=16044 | Freq=0.00Hz, RMS=0.0180g
+21:47:52.491 > 📊 ICM: ax=-272, ay=-208, az=16056 | Freq=0.00Hz, RMS=0.0181g
+21:47:52.591 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0182 g
+21:47:52.709 > 📊 ICM: ax=-216, ay=-172, az=15996 | Freq=0.00Hz, RMS=0.0182g
+21:47:52.824 > 📊 ICM: ax=-204, ay=-200, az=16128 | Freq=0.00Hz, RMS=0.0183g
+21:47:52.876 > 📊 ICM: ax=-388, ay=-120, az=16168 | Freq=0.00Hz, RMS=0.0183g
+21:47:52.935 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0183 g
+21:47:52.936 > 📊 ICM: ax=-320, ay=-124, az=16044 | Freq=0.00Hz, RMS=0.0183g
+21:47:53.041 > 📊 ICM: ax=-260, ay=-56, az=16188 | Freq=0.00Hz, RMS=0.0183g
+21:47:53.151 > 📊 ICM: ax=-196, ay=-72, az=16092 | Freq=0.00Hz, RMS=0.0182g
+21:47:53.167 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0183 g
+21:47:53.374 > 📊 ICM: ax=-240, ay=-164, az=16140 | Freq=0.00Hz, RMS=0.0182g
+21:47:53.450 > 📊 ICM: ax=-428, ay=-300, az=16020 | Freq=0.00Hz, RMS=0.0181g
+21:47:53.450 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0182 g
+21:47:53.595 > 📊 ICM: ax=-352, ay=-304, az=15992 | Freq=0.00Hz, RMS=0.0182g
+21:47:53.595 > 📊 ICM: ax=-164, ay=-216, az=16092 | Freq=0.00Hz, RMS=0.0182g
+21:47:53.737 > 📊 ICM: ax=-288, ay=-240, az=16132 | Freq=0.00Hz, RMS=0.0181g
+21:47:53.737 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0181 g
+21:47:53.923 > 📊 ICM: ax=-272, ay=-236, az=16144 | Freq=0.00Hz, RMS=0.0181g
+21:47:53.923 > 📊 ICM: ax=-372, ay=-256, az=16136 | Freq=0.00Hz, RMS=0.0181g
+21:47:54.030 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0182 g
+21:47:54.030 > 📊 ICM: ax=-488, ay=-236, az=16148 | Freq=0.00Hz, RMS=0.0182g
+21:47:54.254 > 📊 ICM: ax=-372, ay=-200, az=16052 | Freq=0.00Hz, RMS=0.0182g
+21:47:54.254 > 📊 ICM: ax=-304, ay=-240, az=16100 | Freq=0.00Hz, RMS=0.0182g
+21:47:54.309 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0182 g
+21:47:54.470 > 📊 ICM: ax=-360, ay=-148, az=16108 | Freq=0.00Hz, RMS=0.0181g
+21:47:54.584 > 📊 ICM: ax=-360, ay=-160, az=16072 | Freq=0.00Hz, RMS=0.0180g
+21:47:54.599 > 📊 ICM: ax=-292, ay=-152, az=16116 | Freq=0.00Hz, RMS=0.0180g
+21:47:54.688 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0179 g
+21:47:54.688 > 📊 ICM: ax=-232, ay=-232, az=16124 | Freq=0.00Hz, RMS=0.0180g
+21:47:54.799 > 📊 ICM: ax=-280, ay=-8, az=16116 | Freq=0.00Hz, RMS=0.0180g
+21:47:54.884 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0180 g
+21:47:54.914 > 📊 ICM: ax=-248, ay=-232, az=16096 | Freq=0.00Hz, RMS=0.0180g
+21:47:55.110 > 📊 ICM: ax=-436, ay=-220, az=16080 | Freq=0.00Hz, RMS=0.0180g
+21:47:55.110 > [ 77894][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+21:47:55.170 > 📊 ICM: ax=-280, ay=-148, az=16124 | Freq=0.00Hz, RMS=0.0179g
+21:47:55.170 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0178 g
+21:47:55.245 > 📊 ICM: ax=-352, ay=-20, az=16060 | Freq=0.00Hz, RMS=0.0178g
+21:47:55.353 > 📊 ICM: ax=-296, ay=-156, az=15988 | Freq=0.00Hz, RMS=0.0178g
+21:47:55.461 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0179 g
+21:47:55.571 > 📊 ICM: ax=-432, ay=-212, az=16008 | Freq=0.00Hz, RMS=0.0179g
+21:47:55.684 > 📊 ICM: ax=-268, ay=-168, az=16056 | Freq=0.00Hz, RMS=0.0180g
+21:47:55.684 > 📊 ICM: ax=-464, ay=-216, az=16136 | Freq=0.00Hz, RMS=0.0180g
+21:47:55.785 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0180 g
+21:47:55.785 > 📊 ICM: ax=-332, ay=-228, az=16056 | Freq=0.00Hz, RMS=0.0180g
+21:47:56.003 > 📊 ICM: ax=-284, ay=-424, az=16136 | Freq=0.00Hz, RMS=0.0181g
+21:47:56.003 > 📊 ICM: ax=-328, ay=-140, az=15968 | Freq=0.00Hz, RMS=0.0181g
+21:47:56.033 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0182 g
+21:47:56.234 > 📊 ICM: ax=-256, ay=-144, az=16032 | Freq=0.00Hz, RMS=0.0182g
+21:47:56.319 > 📊 ICM: ax=-368, ay=-212, az=16128 | Freq=0.00Hz, RMS=0.0182g
+21:47:56.340 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0182 g
+21:47:56.340 > 📊 ICM: ax=-380, ay=-192, az=16104 | Freq=0.00Hz, RMS=0.0182g
+21:47:56.565 > 📊 ICM: ax=-388, ay=-172, az=16060 | Freq=0.00Hz, RMS=0.0183g
+21:47:56.603 > 📊 ICM: ax=-264, ay=-124, az=16008 | Freq=0.00Hz, RMS=0.0182g
+21:47:56.603 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0182 g
+21:47:56.669 > 📊 ICM: ax=-296, ay=-208, az=16124 | Freq=0.00Hz, RMS=0.0182g
+21:47:56.884 > 📊 ICM: ax=-224, ay=-140, az=16064 | Freq=0.00Hz, RMS=0.0180g
+21:47:56.884 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0180 g
+21:47:57.002 > 📊 ICM: ax=-232, ay=-136, az=16080 | Freq=0.00Hz, RMS=0.0180g
+21:47:57.115 > 📊 ICM: ax=-316, ay=-168, az=16116 | Freq=0.00Hz, RMS=0.0181g
+21:47:57.123 > 📊 ICM: ax=-308, ay=-152, az=16072 | Freq=0.00Hz, RMS=0.0181g
+21:47:57.168 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0181 g
+21:47:57.224 > 📊 ICM: ax=-264, ay=-64, az=16060 | Freq=0.00Hz, RMS=0.0182g
+21:47:57.440 > 📊 ICM: ax=-324, ay=-188, az=16008 | Freq=0.00Hz, RMS=0.0182g
+21:47:57.440 > 📊 ICM: ax=-312, ay=-148, az=16092 | Freq=0.00Hz, RMS=0.0182g
+21:47:57.555 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0182 g
+21:47:57.555 > 📊 ICM: ax=-312, ay=-172, az=16132 | Freq=0.00Hz, RMS=0.0181g
+21:47:57.661 > 📊 ICM: ax=-332, ay=-88, az=16096 | Freq=0.00Hz, RMS=0.0181g
+21:47:57.769 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0182 g
+21:47:57.775 > 📊 ICM: ax=-384, ay=-208, az=16152 | Freq=0.00Hz, RMS=0.0182g
+21:47:57.991 > 📊 ICM: ax=-352, ay=-172, az=16112 | Freq=0.00Hz, RMS=0.0181g
+21:47:58.028 > 📊 ICM: ax=-168, ay=-180, az=16156 | Freq=0.00Hz, RMS=0.0180g
+21:47:58.028 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0180 g
+21:47:58.103 > 📊 ICM: ax=-320, ay=-132, az=16076 | Freq=0.00Hz, RMS=0.0180g
+21:47:58.317 > 📊 ICM: ax=-324, ay=-192, az=16020 | Freq=0.00Hz, RMS=0.0180g
+21:47:58.317 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0181 g
+21:47:58.434 > 📊 ICM: ax=-364, ay=-132, az=16148 | Freq=0.00Hz, RMS=0.0180g
+21:47:58.434 > 📊 ICM: ax=-400, ay=-172, az=16096 | Freq=0.00Hz, RMS=0.0180g
+21:47:58.601 > 📊 ICM: ax=-272, ay=-156, az=16028 | Freq=0.00Hz, RMS=0.0181g
+21:47:58.601 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0180 g
+21:47:58.759 > 📊 ICM: ax=-336, ay=-168, az=16032 | Freq=0.00Hz, RMS=0.0181g
+21:47:58.868 > 📊 ICM: ax=-512, ay=-112, az=16124 | Freq=0.00Hz, RMS=0.0180g
+21:47:58.868 > 📊 ICM: ax=-472, ay=-160, az=16144 | Freq=0.00Hz, RMS=0.0180g
+21:47:58.976 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0180 g
+21:47:58.976 > 📊 ICM: ax=-352, ay=-92, az=16048 | Freq=0.00Hz, RMS=0.0180g
+21:47:59.093 > 📊 ICM: ax=-32, ay=-176, az=16100 | Freq=0.00Hz, RMS=0.0180g
+21:47:59.174 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0179 g
+21:47:59.306 > 📊 ICM: ax=-264, ay=-156, az=16152 | Freq=0.00Hz, RMS=0.0180g
+21:47:59.418 > 📊 ICM: ax=-264, ay=-148, az=16096 | Freq=0.00Hz, RMS=0.0182g
+21:47:59.450 > 📊 ICM: ax=-328, ay=-100, az=16096 | Freq=0.00Hz, RMS=0.0182g
+21:47:59.450 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0181 g
+21:47:59.523 > 📊 ICM: ax=-392, ay=-264, az=16044 | Freq=0.00Hz, RMS=0.0182g
+21:47:59.740 > 📊 ICM: ax=-332, ay=-148, az=16160 | Freq=0.00Hz, RMS=0.0182g
+21:47:59.740 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0181 g
+21:47:59.864 > 📊 ICM: ax=-280, ay=-112, az=16036 | Freq=0.00Hz, RMS=0.0181g
+21:47:59.864 > 📊 ICM: ax=-268, ay=-192, az=16108 | Freq=0.00Hz, RMS=0.0181g
+21:48:00.026 > 📊 ICM: ax=-416, ay=-200, az=15976 | Freq=0.00Hz, RMS=0.0180g
+21:48:00.084 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0180 g
+21:48:00.084 > 📊 ICM: ax=-304, ay=-212, az=16100 | Freq=0.00Hz, RMS=0.0180g
+21:48:00.184 > 📊 ICM: ax=-300, ay=-232, az=16112 | Freq=0.00Hz, RMS=0.0180g
+21:48:00.314 > 📊 ICM: ax=-288, ay=-164, az=16136 | Freq=0.00Hz, RMS=0.0180g
+21:48:00.314 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0180 g
+21:48:00.519 > 📊 ICM: ax=-316, ay=-144, az=16136 | Freq=0.00Hz, RMS=0.0179g
+21:48:00.598 > 📊 ICM: ax=-240, ay=-112, az=16064 | Freq=0.00Hz, RMS=0.0179g
+21:48:00.598 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0179 g
+21:48:00.744 > 📊 ICM: ax=-256, ay=-204, az=16060 | Freq=0.00Hz, RMS=0.0179g
+21:48:00.849 > 📊 ICM: ax=-324, ay=-184, az=16084 | Freq=0.00Hz, RMS=0.0179g
+21:48:00.888 > 📊 ICM: ax=-256, ay=-164, az=16116 | Freq=0.00Hz, RMS=0.0178g
+21:48:00.890 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0178 g
+21:48:01.073 > 📊 ICM: ax=-324, ay=-192, az=16148 | Freq=0.00Hz, RMS=0.0177g
+21:48:01.168 > 📊 ICM: ax=-324, ay=-140, az=16148 | Freq=0.00Hz, RMS=0.0177g
+21:48:01.168 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0176 g
+21:48:01.292 > 📊 ICM: ax=-380, ay=-136, az=16152 | Freq=0.00Hz, RMS=0.0176g
+21:48:01.292 > 📊 ICM: ax=-172, ay=-220, az=16092 | Freq=0.00Hz, RMS=0.0175g
+21:48:01.458 > 📊 ICM: ax=-344, ay=-152, az=16044 | Freq=0.00Hz, RMS=0.0175g
+21:48:01.458 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0174 g
+21:48:01.618 > 📊 ICM: ax=-324, ay=-100, az=16028 | Freq=0.00Hz, RMS=0.0175g
+21:48:01.626 > 📊 ICM: ax=-320, ay=-276, az=16088 | Freq=0.00Hz, RMS=0.0175g
+21:48:01.739 > 📊 ICM: ax=-256, ay=-180, az=16064 | Freq=0.00Hz, RMS=0.0176g
+21:48:01.747 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0175 g
+21:48:01.836 > 📊 ICM: ax=-304, ay=-48, az=16116 | Freq=0.00Hz, RMS=0.0174g
+21:48:01.953 > 📊 ICM: ax=-364, ay=-168, az=16084 | Freq=0.00Hz, RMS=0.0175g
+21:48:02.026 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0175 g
+21:48:02.277 > 📊 ICM: ax=-312, ay=-112, az=16068 | Freq=0.00Hz, RMS=0.0176g
+21:48:02.277 > 📊 ICM: ax=-220, ay=-144, az=16040 | Freq=0.00Hz, RMS=0.0175g
+21:48:02.313 > 📊 ICM: ax=-344, ay=-176, az=16112 | Freq=0.00Hz, RMS=0.0175g
+21:48:02.313 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0175 g
+21:48:02.601 > 📊 ICM: ax=-268, ay=-216, az=16056 | Freq=0.00Hz, RMS=0.0175g
+21:48:02.601 > 📊 ICM: ax=-264, ay=-208, az=16120 | Freq=0.00Hz, RMS=0.0175g
+21:48:02.601 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0176 g
+21:48:02.613 > 📊 ICM: ax=-288, ay=-252, az=16072 | Freq=0.00Hz, RMS=0.0176g
+21:48:02.834 > 📊 ICM: ax=-300, ay=-208, az=16108 | Freq=0.00Hz, RMS=0.0175g
+21:48:02.888 > 📊 ICM: ax=-368, ay=-168, az=16056 | Freq=0.00Hz, RMS=0.0175g
+21:48:02.945 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0175 g
+21:48:02.946 > 📊 ICM: ax=-284, ay=-120, az=16144 | Freq=0.00Hz, RMS=0.0176g
+21:48:03.041 > 📊 ICM: ax=-380, ay=-68, az=16048 | Freq=0.00Hz, RMS=0.0177g
+21:48:03.169 > 📊 ICM: ax=-364, ay=-224, az=16144 | Freq=0.00Hz, RMS=0.0177g
+21:48:03.273 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0177 g
+21:48:03.273 > 📊 ICM: ax=-296, ay=-104, az=16108 | Freq=0.00Hz, RMS=0.0177g
+21:48:03.377 > 📊 ICM: ax=-256, ay=-108, az=16028 | Freq=0.00Hz, RMS=0.0178g
+21:48:03.494 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0179 g
+21:48:03.496 > 📊 ICM: ax=-276, ay=-172, az=16012 | Freq=0.00Hz, RMS=0.0179g
+21:48:03.715 > 📊 ICM: ax=-324, ay=-192, az=16104 | Freq=0.00Hz, RMS=0.0179g
+21:48:03.715 > 📊 ICM: ax=-328, ay=-220, az=16208 | Freq=0.00Hz, RMS=0.0180g
+21:48:03.747 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0180 g
+21:48:03.933 > 📊 ICM: ax=-276, ay=-124, az=16084 | Freq=0.00Hz, RMS=0.0181g
+21:48:04.025 > 📊 ICM: ax=-380, ay=-108, az=15968 | Freq=0.00Hz, RMS=0.0181g
+21:48:04.025 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0181 g
+21:48:04.155 > 📊 ICM: ax=-380, ay=-96, az=16076 | Freq=0.00Hz, RMS=0.0181g
+21:48:04.155 > 📊 ICM: ax=-320, ay=-192, az=16108 | Freq=0.00Hz, RMS=0.0181g
+21:48:04.316 > 📊 ICM: ax=-260, ay=-232, az=16068 | Freq=0.00Hz, RMS=0.0180g
+21:48:04.368 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0180 g
+21:48:04.376 > 📊 ICM: ax=-268, ay=-240, az=16072 | Freq=0.00Hz, RMS=0.0181g
+21:48:04.589 > 📊 ICM: ax=-356, ay=-128, az=16024 | Freq=0.00Hz, RMS=0.0182g
+21:48:04.589 > 📊 ICM: ax=-284, ay=-132, az=16128 | Freq=0.00Hz, RMS=0.0181g
+21:48:04.589 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0181 g
+21:48:04.807 > 📊 ICM: ax=-352, ay=-236, az=16128 | Freq=0.00Hz, RMS=0.0180g
+21:48:04.889 > 📊 ICM: ax=-216, ay=-208, az=16128 | Freq=0.00Hz, RMS=0.0180g
+21:48:04.889 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0180 g
+21:48:05.029 > 📊 ICM: ax=-308, ay=-228, az=16152 | Freq=0.00Hz, RMS=0.0180g
+21:48:05.133 > 📊 ICM: ax=-384, ay=-132, az=16116 | Freq=0.00Hz, RMS=0.0180g
+21:48:05.133 > 📊 ICM: ax=-424, ay=-112, az=16036 | Freq=0.00Hz, RMS=0.0180g
+21:48:05.255 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0180 g
+21:48:05.289 > 📊 ICM: ax=-384, ay=-216, az=16112 | Freq=0.00Hz, RMS=0.0181g
+21:48:05.445 > 📊 ICM: ax=-324, ay=-232, az=15992 | Freq=0.00Hz, RMS=0.0182g
+21:48:05.460 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0182 g
+21:48:05.460 > 📊 ICM: ax=-336, ay=-96, az=16116 | Freq=0.00Hz, RMS=0.0182g
+21:48:05.683 > 📊 ICM: ax=-204, ay=-92, az=16052 | Freq=0.00Hz, RMS=0.0182g
+21:48:05.683 > 📊 ICM: ax=-340, ay=-244, az=16012 | Freq=0.00Hz, RMS=0.0182g
+21:48:05.739 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0182 g
+21:48:05.804 > 📊 ICM: ax=-200, ay=-252, az=16108 | Freq=0.00Hz, RMS=0.0181g
+21:48:06.020 > 📊 ICM: ax=-252, ay=-136, az=16028 | Freq=0.00Hz, RMS=0.0182g
+21:48:06.026 > 📊 ICM: ax=-368, ay=-140, az=16088 | Freq=0.00Hz, RMS=0.0181g
+21:48:06.026 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0181 g
+21:48:06.122 > 📊 ICM: ax=-260, ay=-132, az=16128 | Freq=0.00Hz, RMS=0.0181g
+21:48:06.313 > 📊 ICM: ax=-368, ay=-116, az=16144 | Freq=0.00Hz, RMS=0.0181g
+21:48:06.313 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0181 g
+21:48:06.450 > 📊 ICM: ax=-220, ay=-156, az=16092 | Freq=0.00Hz, RMS=0.0181g
+21:48:06.570 > 📊 ICM: ax=-296, ay=-168, az=16080 | Freq=0.00Hz, RMS=0.0181g
+21:48:06.603 > 📊 ICM: ax=-324, ay=-200, az=16076 | Freq=0.00Hz, RMS=0.0181g
+21:48:06.603 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0181 g
+21:48:06.790 > 📊 ICM: ax=-264, ay=-148, az=16136 | Freq=0.00Hz, RMS=0.0180g
+21:48:06.888 > 📊 ICM: ax=-320, ay=-200, az=16008 | Freq=0.00Hz, RMS=0.0180g
+21:48:06.890 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0180 g
+21:48:07.008 > 📊 ICM: ax=-272, ay=-200, az=16116 | Freq=0.00Hz, RMS=0.0180g
+21:48:07.124 > 📊 ICM: ax=-388, ay=-112, az=16144 | Freq=0.00Hz, RMS=0.0180g
+21:48:07.173 > 📊 ICM: ax=-280, ay=-112, az=16128 | Freq=0.00Hz, RMS=0.0179g
+21:48:07.173 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0179 g
+21:48:07.234 > 📊 ICM: ax=-260, ay=-168, az=16108 | Freq=0.00Hz, RMS=0.0179g
+21:48:07.449 > 📊 ICM: ax=-412, ay=-128, az=16064 | Freq=0.00Hz, RMS=0.0178g
+21:48:07.457 > 📊 ICM: ax=-344, ay=-180, az=16132 | Freq=0.00Hz, RMS=0.0179g
+21:48:07.457 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0179 g
+21:48:07.672 > 📊 ICM: ax=-384, ay=-200, az=16140 | Freq=0.00Hz, RMS=0.0178g
+21:48:07.672 > 📊 ICM: ax=-232, ay=-240, az=16152 | Freq=0.00Hz, RMS=0.0179g
+21:48:07.737 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0178 g
+21:48:07.895 > 📊 ICM: ax=-276, ay=-244, az=16068 | Freq=0.00Hz, RMS=0.0178g
+21:48:07.895 > 📊 ICM: ax=-360, ay=-272, az=16052 | Freq=0.00Hz, RMS=0.0178g
+21:48:08.024 > 📊 ICM: ax=-260, ay=-144, az=16144 | Freq=0.00Hz, RMS=0.0177g
+21:48:08.115 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0177 g
+21:48:08.115 > 📊 ICM: ax=-320, ay=-224, az=16084 | Freq=0.00Hz, RMS=0.0177g
+21:48:08.314 > 📊 ICM: ax=-272, ay=-172, az=16104 | Freq=0.00Hz, RMS=0.0176g
+21:48:08.314 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0176 g
+21:48:08.444 > 📊 ICM: ax=-300, ay=-240, az=16052 | Freq=0.00Hz, RMS=0.0176g
+21:48:08.549 > 📊 ICM: ax=-260, ay=-224, az=16136 | Freq=0.00Hz, RMS=0.0176g
+21:48:08.602 > 📊 ICM: ax=-308, ay=-352, az=16028 | Freq=0.00Hz, RMS=0.0176g
+21:48:08.602 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0177 g
+21:48:08.773 > 📊 ICM: ax=-332, ay=-120, az=16128 | Freq=0.00Hz, RMS=0.0177g
+21:48:08.773 > 📊 ICM: ax=-304, ay=-76, az=16108 | Freq=0.00Hz, RMS=0.0175g
+21:48:08.883 > 📊 ICM: ax=-332, ay=-200, az=16052 | Freq=0.00Hz, RMS=0.0175g
+21:48:08.883 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0175 g
+21:48:08.992 > 📊 ICM: ax=-400, ay=-204, az=16112 | Freq=0.00Hz, RMS=0.0176g
+21:48:09.165 > 📊 ICM: ax=-384, ay=-212, az=16128 | Freq=0.00Hz, RMS=0.0176g
+21:48:09.214 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0176 g
+21:48:09.214 > 📊 ICM: ax=-344, ay=-184, az=16092 | Freq=0.00Hz, RMS=0.0176g
+21:48:09.324 > 📊 ICM: ax=-364, ay=-32, az=16088 | Freq=0.00Hz, RMS=0.0177g
+21:48:09.447 > 📊 ICM: ax=-240, ay=-144, az=16180 | Freq=0.00Hz, RMS=0.0177g
+21:48:09.447 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0177 g
+21:48:09.653 > 📊 ICM: ax=-376, ay=-208, az=16172 | Freq=0.00Hz, RMS=0.0176g
+21:48:09.743 > 📊 ICM: ax=-316, ay=-124, az=16148 | Freq=0.00Hz, RMS=0.0176g
+21:48:09.743 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0176 g
+21:48:09.868 > 📊 ICM: ax=-352, ay=-152, az=16128 | Freq=0.00Hz, RMS=0.0176g
+21:48:10.028 > 📊 ICM: ax=-344, ay=-296, az=16044 | Freq=0.00Hz, RMS=0.0177g
+21:48:10.028 > 📊 ICM: ax=-360, ay=-172, az=16068 | Freq=0.00Hz, RMS=0.0177g
+21:48:10.089 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0177 g
+21:48:10.089 > 📊 ICM: ax=-224, ay=-180, az=16160 | Freq=0.00Hz, RMS=0.0177g
+21:48:10.314 > 📊 ICM: ax=-240, ay=-192, az=16056 | Freq=0.00Hz, RMS=0.0177g
+21:48:10.314 > 📊 ICM: ax=-292, ay=-140, az=16084 | Freq=0.00Hz, RMS=0.0178g
+21:48:10.411 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0178 g
+21:48:10.411 > 📊 ICM: ax=-276, ay=-140, az=16144 | Freq=0.00Hz, RMS=0.0177g
+21:48:10.598 > 📊 ICM: ax=-336, ay=-164, az=16160 | Freq=0.00Hz, RMS=0.0177g
+21:48:10.637 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0178 g
+21:48:10.637 > 📊 ICM: ax=-376, ay=-156, az=16140 | Freq=0.00Hz, RMS=0.0178g
+21:48:10.753 > 📊 ICM: ax=-292, ay=-200, az=16092 | Freq=0.00Hz, RMS=0.0178g
+21:48:10.888 > 📊 ICM: ax=-292, ay=-116, az=16060 | Freq=0.00Hz, RMS=0.0178g
+21:48:10.888 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0179 g
+21:48:11.084 > 📊 ICM: ax=-184, ay=-232, az=16072 | Freq=0.00Hz, RMS=0.0179g
+21:48:11.084 > 📊 ICM: ax=-336, ay=-168, az=16088 | Freq=0.00Hz, RMS=0.0180g
+21:48:11.189 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0179 g
+21:48:11.189 > 📊 ICM: ax=-284, ay=-164, az=16144 | Freq=0.00Hz, RMS=0.0179g
+21:48:11.409 > 📊 ICM: ax=-292, ay=-128, az=16108 | Freq=0.00Hz, RMS=0.0180g
+21:48:11.409 > 📊 ICM: ax=-368, ay=-192, az=16120 | Freq=0.00Hz, RMS=0.0180g
+21:48:11.459 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0179 g
+21:48:11.635 > 📊 ICM: ax=-284, ay=-196, az=16108 | Freq=0.00Hz, RMS=0.0179g
+21:48:11.740 > 📊 ICM: ax=-268, ay=-200, az=16108 | Freq=0.00Hz, RMS=0.0179g
+21:48:11.740 > 📊 ICM: ax=-264, ay=-168, az=16104 | Freq=0.00Hz, RMS=0.0178g
+21:48:11.740 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0178 g
+21:48:11.962 > 📊 ICM: ax=-328, ay=-156, az=16092 | Freq=0.00Hz, RMS=0.0178g
+21:48:12.018 > 📊 ICM: ax=-260, ay=-176, az=16056 | Freq=0.00Hz, RMS=0.0178g
+21:48:12.018 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0178 g
+21:48:12.075 > 📊 ICM: ax=-280, ay=-124, az=16032 | Freq=0.00Hz, RMS=0.0178g
+21:48:12.287 > 📊 ICM: ax=-316, ay=-160, az=16072 | Freq=0.00Hz, RMS=0.0178g
+21:48:12.311 > 📊 ICM: ax=-216, ay=-56, az=16124 | Freq=0.00Hz, RMS=0.0179g
+21:48:12.318 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0179 g
+21:48:12.515 > 📊 ICM: ax=-268, ay=-264, az=16128 | Freq=0.00Hz, RMS=0.0179g
+21:48:12.516 > 📊 ICM: ax=-292, ay=-108, az=16124 | Freq=0.00Hz, RMS=0.0180g
+21:48:12.618 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0180 g
+21:48:12.626 > 📊 ICM: ax=-320, ay=-216, az=16084 | Freq=0.00Hz, RMS=0.0180g
+21:48:12.842 > 📊 ICM: ax=-360, ay=-148, az=16128 | Freq=0.00Hz, RMS=0.0179g
+21:48:12.884 > 📊 ICM: ax=-396, ay=-32, az=16044 | Freq=0.00Hz, RMS=0.0179g
+21:48:12.884 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0179 g
+21:48:13.168 > 📊 ICM: ax=-268, ay=-152, az=16176 | Freq=0.00Hz, RMS=0.0179g
+21:48:13.168 > 📊 ICM: ax=-384, ay=-180, az=16044 | Freq=0.00Hz, RMS=0.0180g
+21:48:13.168 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0180 g
+21:48:13.168 > 📊 ICM: ax=-352, ay=-76, az=16060 | Freq=0.00Hz, RMS=0.0180g
+21:48:13.458 > 📊 ICM: ax=-336, ay=-124, az=16124 | Freq=0.00Hz, RMS=0.0180g
+21:48:13.471 > 📊 ICM: ax=-280, ay=-208, az=16068 | Freq=0.00Hz, RMS=0.0180g
+21:48:13.505 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0179 g
+21:48:13.505 > 📊 ICM: ax=-212, ay=-240, az=16108 | Freq=0.00Hz, RMS=0.0179g
+21:48:13.736 > 📊 ICM: ax=-252, ay=-196, az=16116 | Freq=0.00Hz, RMS=0.0178g
+21:48:13.736 > 📊 ICM: ax=-260, ay=-196, az=16164 | Freq=0.00Hz, RMS=0.0177g
+21:48:13.736 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0177 g
+21:48:13.831 > 📊 ICM: ax=-348, ay=-288, az=16180 | Freq=0.00Hz, RMS=0.0177g
+21:48:14.026 > 📊 ICM: ax=-216, ay=-124, az=16096 | Freq=0.00Hz, RMS=0.0177g
+21:48:14.026 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0178 g
+21:48:14.163 > 📊 ICM: ax=-208, ay=-152, az=16108 | Freq=0.00Hz, RMS=0.0178g
+21:48:14.260 > 📊 ICM: ax=-260, ay=-176, az=16068 | Freq=0.00Hz, RMS=0.0179g
+21:48:14.276 > 📊 ICM: ax=-160, ay=-228, az=16144 | Freq=0.00Hz, RMS=0.0178g
+21:48:14.309 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0178 g
+21:48:14.384 > 📊 ICM: ax=-96, ay=-312, az=15780 | Freq=0.00Hz, RMS=0.0180g
+21:48:14.595 > 📊 ICM: ax=-244, ay=-68, az=16104 | Freq=0.00Hz, RMS=0.0180g
+21:48:14.595 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0180 g
+21:48:14.709 > 📊 ICM: ax=-300, ay=-204, az=16128 | Freq=0.00Hz, RMS=0.0180g
+21:48:14.825 > 📊 ICM: ax=-236, ay=-276, az=16132 | Freq=0.00Hz, RMS=0.0181g
+21:48:14.845 > 📊 ICM: ax=-412, ay=-48, az=16132 | Freq=0.00Hz, RMS=0.0181g
+21:48:14.884 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0181 g
+21:48:14.934 > 📊 ICM: ax=-248, ay=-124, az=16224 | Freq=0.00Hz, RMS=0.0181g
+21:48:15.165 > 📊 ICM: ax=-368, ay=-108, az=16092 | Freq=0.00Hz, RMS=0.0182g
+21:48:15.165 > 📊 ICM: ax=-336, ay=-328, az=16040 | Freq=0.00Hz, RMS=0.0181g
+21:48:15.165 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0182 g
+21:48:15.366 > 📊 ICM: ax=-248, ay=-156, az=16076 | Freq=0.00Hz, RMS=0.0182g
+21:48:15.366 > 📊 ICM: ax=-164, ay=-176, az=16140 | Freq=0.00Hz, RMS=0.0181g
+21:48:15.446 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0182 g
+21:48:15.582 > 📊 ICM: ax=-236, ay=-460, az=16064 | Freq=0.00Hz, RMS=0.0182g
+21:48:15.582 > 📊 ICM: ax=-360, ay=-188, az=16088 | Freq=0.00Hz, RMS=0.0182g
+21:48:15.740 > 📊 ICM: ax=-364, ay=-244, az=16008 | Freq=0.00Hz, RMS=0.0182g
+21:48:15.740 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0181 g
+21:48:16.024 > 📊 ICM: ax=-260, ay=-232, az=15984 | Freq=0.00Hz, RMS=0.0182g
+21:48:16.024 > 📊 ICM: ax=-312, ay=-212, az=16156 | Freq=0.00Hz, RMS=0.0182g
+21:48:16.024 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0183 g
+21:48:16.141 > 📊 ICM: ax=-316, ay=-204, az=15952 | Freq=0.00Hz, RMS=0.0183g
+21:48:16.249 > 📊 ICM: ax=-368, ay=-148, az=16020 | Freq=0.00Hz, RMS=0.0183g
+21:48:16.249 > 📊 ICM: ax=-384, ay=-92, az=16300 | Freq=0.00Hz, RMS=0.0183g
+21:48:16.365 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0183 g
+21:48:16.365 > 📊 ICM: ax=-408, ay=-168, az=16260 | Freq=0.00Hz, RMS=0.0183g
+21:48:16.470 > 📊 ICM: ax=-324, ay=-92, az=16092 | Freq=0.00Hz, RMS=0.0184g
+21:48:16.584 > 📊 ICM: ax=-344, ay=-152, az=16112 | Freq=0.00Hz, RMS=0.0183g
+21:48:16.584 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0183 g
+21:48:16.798 > 📊 ICM: ax=-300, ay=-268, az=16076 | Freq=0.00Hz, RMS=0.0182g
+21:48:16.798 > 📊 ICM: ax=-316, ay=-160, az=16040 | Freq=0.00Hz, RMS=0.0182g
+21:48:16.908 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0183 g
+21:48:16.908 > 📊 ICM: ax=-312, ay=-184, az=16116 | Freq=0.00Hz, RMS=0.0182g
+21:48:17.024 > 📊 ICM: ax=-300, ay=-128, az=16096 | Freq=0.00Hz, RMS=0.0181g
+21:48:17.121 > 📊 ICM: ax=-296, ay=-80, az=16064 | Freq=0.00Hz, RMS=0.0180g
+21:48:17.244 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0181 g
+21:48:17.244 > 📊 ICM: ax=-304, ay=-104, az=16072 | Freq=0.00Hz, RMS=0.0179g
+21:48:17.350 > 📊 ICM: ax=-256, ay=-108, az=16008 | Freq=0.00Hz, RMS=0.0179g
+21:48:17.455 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0178 g
+21:48:17.463 > 📊 ICM: ax=-72, ay=-364, az=15832 | Freq=0.00Hz, RMS=0.0179g
+21:48:17.680 > 📊 ICM: ax=-400, ay=-64, az=15948 | Freq=0.00Hz, RMS=0.0178g
+21:48:17.680 > 📊 ICM: ax=-224, ay=-252, az=16112 | Freq=0.00Hz, RMS=0.0179g
+21:48:17.792 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0178 g
+21:48:17.792 > 📊 ICM: ax=-236, ay=-276, az=16152 | Freq=0.00Hz, RMS=0.0179g
+21:48:18.009 > 📊 ICM: ax=-296, ay=-4, az=16184 | Freq=0.00Hz, RMS=0.0179g
+21:48:18.009 > 📊 ICM: ax=-320, ay=-188, az=16120 | Freq=0.00Hz, RMS=0.0178g
+21:48:18.020 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0178 g
+21:48:18.230 > 📊 ICM: ax=-368, ay=-184, az=16056 | Freq=0.00Hz, RMS=0.0179g
+21:48:18.311 > 📊 ICM: ax=-364, ay=-216, az=16084 | Freq=0.00Hz, RMS=0.0179g
+21:48:18.311 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0179 g
+21:48:18.448 > 📊 ICM: ax=-348, ay=-192, az=16188 | Freq=0.00Hz, RMS=0.0179g
+21:48:18.448 > 📊 ICM: ax=-352, ay=-100, az=16116 | Freq=0.00Hz, RMS=0.0179g
+21:48:18.555 > 📊 ICM: ax=-332, ay=-88, az=16224 | Freq=0.00Hz, RMS=0.0179g
+21:48:18.593 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0179 g
+21:48:18.784 > 📊 ICM: ax=-300, ay=-168, az=15960 | Freq=0.00Hz, RMS=0.0179g
+21:48:18.878 > 📊 ICM: ax=-252, ay=-192, az=16092 | Freq=0.00Hz, RMS=0.0179g
+21:48:18.884 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0179 g
+21:48:19.001 > 📊 ICM: ax=-228, ay=-176, az=16052 | Freq=0.00Hz, RMS=0.0179g
+21:48:19.111 > 📊 ICM: ax=-304, ay=-120, az=16012 | Freq=0.00Hz, RMS=0.0179g
+21:48:19.111 > 📊 ICM: ax=-288, ay=-184, az=16040 | Freq=0.00Hz, RMS=0.0178g
+21:48:19.168 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0179 g
+21:48:19.323 > 📊 ICM: ax=-280, ay=-192, az=16060 | Freq=0.00Hz, RMS=0.0179g
+21:48:19.445 > 📊 ICM: ax=-236, ay=-204, az=16060 | Freq=0.00Hz, RMS=0.0179g
+21:48:19.449 > 📊 ICM: ax=-336, ay=-112, az=16088 | Freq=0.00Hz, RMS=0.0180g
+21:48:19.449 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0180 g
+21:48:19.665 > 📊 ICM: ax=-224, ay=-196, az=16092 | Freq=0.00Hz, RMS=0.0180g
+21:48:19.737 > 📊 ICM: ax=-300, ay=-368, az=16148 | Freq=0.00Hz, RMS=0.0180g
+21:48:19.737 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0180 g
+21:48:19.762 > 📊 ICM: ax=-312, ay=-152, az=16080 | Freq=0.00Hz, RMS=0.0180g
+21:48:20.023 > 📊 ICM: ax=-292, ay=-200, az=16076 | Freq=0.00Hz, RMS=0.0180g
+21:48:20.023 > 📊 ICM: ax=-316, ay=-168, az=16104 | Freq=0.00Hz, RMS=0.0180g
+21:48:20.023 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0179 g
+21:48:20.211 > 📊 ICM: ax=-288, ay=-196, az=16032 | Freq=0.00Hz, RMS=0.0180g
+21:48:20.211 > 📊 ICM: ax=-332, ay=-140, az=16108 | Freq=0.00Hz, RMS=0.0179g
+21:48:20.311 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0179 g
+21:48:20.435 > 📊 ICM: ax=-292, ay=-132, az=16184 | Freq=0.00Hz, RMS=0.0178g
+21:48:20.545 > 📊 ICM: ax=-264, ay=-128, az=16084 | Freq=0.00Hz, RMS=0.0178g
+21:48:20.545 > 📊 ICM: ax=-328, ay=-220, az=16080 | Freq=0.00Hz, RMS=0.0178g
+21:48:20.652 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0178 g
+21:48:20.652 > 📊 ICM: ax=-276, ay=-204, az=16088 | Freq=0.00Hz, RMS=0.0178g
+21:48:20.866 > 📊 ICM: ax=-352, ay=-188, az=15988 | Freq=0.00Hz, RMS=0.0179g
+21:48:20.881 > 📊 ICM: ax=-228, ay=-100, az=16000 | Freq=0.00Hz, RMS=0.0179g
+21:48:20.881 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0179 g
+21:48:21.087 > 📊 ICM: ax=-244, ay=-156, az=16144 | Freq=0.00Hz, RMS=0.0180g
+21:48:21.167 > 📊 ICM: ax=-264, ay=-168, az=16144 | Freq=0.00Hz, RMS=0.0179g
+21:48:21.167 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0179 g
+21:48:21.311 > 📊 ICM: ax=-252, ay=-292, az=16096 | Freq=0.00Hz, RMS=0.0179g
+21:48:21.311 > 📊 ICM: ax=-292, ay=-104, az=16044 | Freq=0.00Hz, RMS=0.0180g
+21:48:21.425 > 📊 ICM: ax=-292, ay=-84, az=16112 | Freq=0.00Hz, RMS=0.0180g
+21:48:21.452 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0180 g
+21:48:21.532 > 📊 ICM: ax=-228, ay=-148, az=15988 | Freq=0.00Hz, RMS=0.0179g
+21:48:21.646 > 📊 ICM: ax=-216, ay=-28, az=16080 | Freq=0.00Hz, RMS=0.0180g
+21:48:21.730 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0180 g
+21:48:21.864 > 📊 ICM: ax=-152, ay=-260, az=16128 | Freq=0.00Hz, RMS=0.0180g
+21:48:21.973 > 📊 ICM: ax=-256, ay=-180, az=16088 | Freq=0.00Hz, RMS=0.0180g
+21:48:21.973 > 📊 ICM: ax=-332, ay=-184, az=16032 | Freq=0.00Hz, RMS=0.0180g
+21:48:22.026 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0180 g
+21:48:22.194 > 📊 ICM: ax=-340, ay=-196, az=16092 | Freq=0.00Hz, RMS=0.0180g
+21:48:22.306 > 📊 ICM: ax=-372, ay=-252, az=16076 | Freq=0.00Hz, RMS=0.0180g
+21:48:22.306 > 📊 ICM: ax=-316, ay=-212, az=16120 | Freq=0.00Hz, RMS=0.0181g
+21:48:22.312 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0181 g
+21:48:22.524 > 📊 ICM: ax=-236, ay=-172, az=16124 | Freq=0.00Hz, RMS=0.0181g
+21:48:22.586 > 📊 ICM: ax=-260, ay=-132, az=16088 | Freq=0.00Hz, RMS=0.0182g
+21:48:22.599 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0182 g
+21:48:22.633 > 📊 ICM: ax=-400, ay=-64, az=16048 | Freq=0.00Hz, RMS=0.0181g
+21:48:22.854 > 📊 ICM: ax=-352, ay=-132, az=15984 | Freq=0.00Hz, RMS=0.0181g
+21:48:22.883 > 📊 ICM: ax=-344, ay=-148, az=16080 | Freq=0.00Hz, RMS=0.0182g
+21:48:22.885 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0181 g
+21:48:23.075 > 📊 ICM: ax=-328, ay=-160, az=15980 | Freq=0.00Hz, RMS=0.0182g
+21:48:23.075 > 📊 ICM: ax=-352, ay=-128, az=16088 | Freq=0.00Hz, RMS=0.0182g
+21:48:23.167 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0183 g
+21:48:23.291 > 📊 ICM: ax=-268, ay=-124, az=16096 | Freq=0.00Hz, RMS=0.0183g
+21:48:23.291 > 📊 ICM: ax=-308, ay=-196, az=15928 | Freq=0.00Hz, RMS=0.0183g
+21:48:23.455 > 📊 ICM: ax=-240, ay=-212, az=16092 | Freq=0.00Hz, RMS=0.0183g
+21:48:23.455 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0182 g
+21:48:23.623 > 📊 ICM: ax=-408, ay=-180, az=16084 | Freq=0.00Hz, RMS=0.0183g
+21:48:23.728 > 📊 ICM: ax=-348, ay=-212, az=16116 | Freq=0.00Hz, RMS=0.0183g
+21:48:23.728 > 📊 ICM: ax=-232, ay=-104, az=16112 | Freq=0.00Hz, RMS=0.0184g
+21:48:23.728 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0184 g
+21:48:23.955 > 📊 ICM: ax=-296, ay=-188, az=16028 | Freq=0.00Hz, RMS=0.0184g
+21:48:24.022 > 📊 ICM: ax=-340, ay=-108, az=16136 | Freq=0.00Hz, RMS=0.0184g
+21:48:24.022 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0183 g
+21:48:24.167 > 📊 ICM: ax=-328, ay=-116, az=16120 | Freq=0.00Hz, RMS=0.0184g
+21:48:24.285 > 📊 ICM: ax=-316, ay=-160, az=16024 | Freq=0.00Hz, RMS=0.0185g
+21:48:24.311 > 📊 ICM: ax=-280, ay=-236, az=15984 | Freq=0.00Hz, RMS=0.0184g
+21:48:24.311 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0184 g
+21:48:24.384 > 📊 ICM: ax=-296, ay=-116, az=16044 | Freq=0.00Hz, RMS=0.0185g
+21:48:24.592 > 📊 ICM: ax=-268, ay=-200, az=16088 | Freq=0.00Hz, RMS=0.0185g
+21:48:24.592 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0185 g
+21:48:24.712 > 📊 ICM: ax=-300, ay=-164, az=16104 | Freq=0.00Hz, RMS=0.0185g
+21:48:24.712 > 📊 ICM: ax=-420, ay=-188, az=16060 | Freq=0.00Hz, RMS=0.0185g
+21:48:24.872 > 📊 ICM: ax=-268, ay=-212, az=16180 | Freq=0.00Hz, RMS=0.0185g
+21:48:24.872 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0185 g
+21:48:24.909 > [107689][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+21:48:25.049 > 📊 ICM: ax=-340, ay=-156, az=16052 | Freq=0.00Hz, RMS=0.0184g
+21:48:25.049 > 📊 ICM: ax=-264, ay=-44, az=16044 | Freq=0.00Hz, RMS=0.0184g
+21:48:25.161 > 📊 ICM: ax=-292, ay=-160, az=15984 | Freq=0.00Hz, RMS=0.0185g
+21:48:25.161 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0185 g
+21:48:25.382 > 📊 ICM: ax=-312, ay=-228, az=16128 | Freq=0.00Hz, RMS=0.0186g
+21:48:25.451 > 📊 ICM: ax=-296, ay=-172, az=16152 | Freq=0.00Hz, RMS=0.0186g
+21:48:25.451 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0186 g
+21:48:25.495 > 📊 ICM: ax=-340, ay=-92, az=16108 | Freq=0.00Hz, RMS=0.0185g
+21:48:25.738 > 📊 ICM: ax=-224, ay=-240, az=16036 | Freq=0.00Hz, RMS=0.0185g
+21:48:25.738 > 📊 ICM: ax=-312, ay=-196, az=16152 | Freq=0.00Hz, RMS=0.0185g
+21:48:25.738 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0185 g
+21:48:26.019 > 📊 ICM: ax=-312, ay=-224, az=16116 | Freq=0.00Hz, RMS=0.0184g
+21:48:26.019 > 📊 ICM: ax=-332, ay=-168, az=16116 | Freq=0.00Hz, RMS=0.0184g
+21:48:26.019 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0184 g
+21:48:26.150 > 📊 ICM: ax=-328, ay=-188, az=16108 | Freq=0.00Hz, RMS=0.0183g
+21:48:26.150 > 📊 ICM: ax=-360, ay=-280, az=16064 | Freq=0.00Hz, RMS=0.0184g
+21:48:26.309 > 📊 ICM: ax=-320, ay=-208, az=16048 | Freq=0.00Hz, RMS=0.0184g
+21:48:26.309 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0184 g
+21:48:26.480 > 📊 ICM: ax=-272, ay=-260, az=16112 | Freq=0.00Hz, RMS=0.0183g
+21:48:26.480 > 📊 ICM: ax=-312, ay=-168, az=16128 | Freq=0.00Hz, RMS=0.0183g
+21:48:26.585 > 📊 ICM: ax=-312, ay=-164, az=16112 | Freq=0.00Hz, RMS=0.0183g
+21:48:26.585 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0183 g
+21:48:26.806 > 📊 ICM: ax=-344, ay=-136, az=16108 | Freq=0.00Hz, RMS=0.0182g
+21:48:26.869 > 📊 ICM: ax=-316, ay=-192, az=16076 | Freq=0.00Hz, RMS=0.0182g
+21:48:26.882 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0181 g
+21:48:27.036 > 📊 ICM: ax=-308, ay=-132, az=16084 | Freq=0.00Hz, RMS=0.0181g
+21:48:27.133 > 📊 ICM: ax=-380, ay=-128, az=16116 | Freq=0.00Hz, RMS=0.0180g
+21:48:27.133 > 📊 ICM: ax=-352, ay=-92, az=16068 | Freq=0.00Hz, RMS=0.0180g
+21:48:27.165 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0181 g
+21:48:27.361 > 📊 ICM: ax=-288, ay=-144, az=16160 | Freq=0.00Hz, RMS=0.0181g
+21:48:27.447 > 📊 ICM: ax=-320, ay=-204, az=16092 | Freq=0.00Hz, RMS=0.0180g
+21:48:27.447 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0180 g
+21:48:27.471 > 📊 ICM: ax=-280, ay=-116, az=16132 | Freq=0.00Hz, RMS=0.0180g
+21:48:27.688 > 📊 ICM: ax=-264, ay=-196, az=16068 | Freq=0.00Hz, RMS=0.0180g
+21:48:27.737 > 📊 ICM: ax=-288, ay=-204, az=16068 | Freq=0.00Hz, RMS=0.0180g
+21:48:27.737 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0180 g
+21:48:27.915 > 📊 ICM: ax=-272, ay=-124, az=16020 | Freq=0.00Hz, RMS=0.0180g
+21:48:27.915 > 📊 ICM: ax=-408, ay=-208, az=16088 | Freq=0.00Hz, RMS=0.0179g
+21:48:28.020 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0179 g
+21:48:28.020 > 📊 ICM: ax=-272, ay=-96, az=16080 | Freq=0.00Hz, RMS=0.0179g
+21:48:28.236 > 📊 ICM: ax=-340, ay=-188, az=16132 | Freq=0.00Hz, RMS=0.0179g
+21:48:28.236 > 📊 ICM: ax=-388, ay=-160, az=15984 | Freq=0.00Hz, RMS=0.0180g
+21:48:28.351 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0180 g
+21:48:28.351 > 📊 ICM: ax=-356, ay=-76, az=16124 | Freq=0.00Hz, RMS=0.0179g
+21:48:28.570 > 📊 ICM: ax=-192, ay=-268, az=16140 | Freq=0.00Hz, RMS=0.0180g
+21:48:28.570 > 📊 ICM: ax=-340, ay=-176, az=16100 | Freq=0.00Hz, RMS=0.0179g
+21:48:28.589 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0179 g
+21:48:28.783 > 📊 ICM: ax=-280, ay=-152, az=16056 | Freq=0.00Hz, RMS=0.0178g
+21:48:28.871 > 📊 ICM: ax=-320, ay=-200, az=16104 | Freq=0.00Hz, RMS=0.0178g
+21:48:28.871 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0178 g
+21:48:29.014 > 📊 ICM: ax=-272, ay=-156, az=16112 | Freq=0.00Hz, RMS=0.0178g
+21:48:29.014 > 📊 ICM: ax=-308, ay=-76, az=16124 | Freq=0.00Hz, RMS=0.0179g
+21:48:29.166 > 📊 ICM: ax=-372, ay=-176, az=16056 | Freq=0.00Hz, RMS=0.0179g
+21:48:29.166 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0179 g
+21:48:29.333 > 📊 ICM: ax=-356, ay=-184, az=16036 | Freq=0.00Hz, RMS=0.0179g
+21:48:29.333 > 📊 ICM: ax=-284, ay=-172, az=16088 | Freq=0.00Hz, RMS=0.0180g
+21:48:29.447 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0180 g
+21:48:29.552 > 📊 ICM: ax=-396, ay=-196, az=16176 | Freq=0.00Hz, RMS=0.0180g
+21:48:29.675 > 📊 ICM: ax=-356, ay=-136, az=16040 | Freq=0.00Hz, RMS=0.0180g
+21:48:29.675 > 📊 ICM: ax=-436, ay=-128, az=16088 | Freq=0.00Hz, RMS=0.0181g
+21:48:29.771 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0181 g
+21:48:29.771 > 📊 ICM: ax=-292, ay=-200, az=16084 | Freq=0.00Hz, RMS=0.0180g
+21:48:30.001 > 📊 ICM: ax=-328, ay=-172, az=16064 | Freq=0.00Hz, RMS=0.0180g
+21:48:30.001 > 📊 ICM: ax=-328, ay=-220, az=16116 | Freq=0.00Hz, RMS=0.0181g
+21:48:30.109 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0181 g
+21:48:30.109 > 📊 ICM: ax=-248, ay=-176, az=16048 | Freq=0.00Hz, RMS=0.0181g
+21:48:30.307 > 📊 ICM: ax=-336, ay=-132, az=16012 | Freq=0.00Hz, RMS=0.0181g
+21:48:30.307 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0181 g
+21:48:30.335 > 📊 ICM: ax=-308, ay=-60, az=16068 | Freq=0.00Hz, RMS=0.0181g
+21:48:30.551 > 📊 ICM: ax=-376, ay=-192, az=16028 | Freq=0.00Hz, RMS=0.0182g
+21:48:30.593 > 📊 ICM: ax=-380, ay=-188, az=16100 | Freq=0.00Hz, RMS=0.0182g
+21:48:30.663 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0182 g
+21:48:30.663 > 📊 ICM: ax=-360, ay=-232, az=16108 | Freq=0.00Hz, RMS=0.0182g
+21:48:30.876 > 📊 ICM: ax=-380, ay=-176, az=16164 | Freq=0.00Hz, RMS=0.0180g
+21:48:30.886 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0180 g
+21:48:30.886 > 📊 ICM: ax=-344, ay=-208, az=16160 | Freq=0.00Hz, RMS=0.0180g
+21:48:30.993 > 📊 ICM: ax=-492, ay=-264, az=16092 | Freq=0.00Hz, RMS=0.0180g
+21:48:31.166 > 📊 ICM: ax=-348, ay=-164, az=16132 | Freq=0.00Hz, RMS=0.0180g
+21:48:31.196 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0181 g
+21:48:31.321 > 📊 ICM: ax=-348, ay=-192, az=16080 | Freq=0.00Hz, RMS=0.0181g
+21:48:31.436 > 📊 ICM: ax=-284, ay=-160, az=16124 | Freq=0.00Hz, RMS=0.0181g
+21:48:31.452 > 📊 ICM: ax=-396, ay=-224, az=16104 | Freq=0.00Hz, RMS=0.0180g
+21:48:31.452 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0180 g
+21:48:31.655 > 📊 ICM: ax=-264, ay=-300, az=16060 | Freq=0.00Hz, RMS=0.0180g
+21:48:31.735 > 📊 ICM: ax=-332, ay=-188, az=15988 | Freq=0.00Hz, RMS=0.0180g
+21:48:31.759 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0180 g
+21:48:31.759 > 📊 ICM: ax=-280, ay=-316, az=16120 | Freq=0.00Hz, RMS=0.0181g
+21:48:31.985 > 📊 ICM: ax=-372, ay=-172, az=16068 | Freq=0.00Hz, RMS=0.0180g
+21:48:31.985 > 📊 ICM: ax=-296, ay=-20, az=16052 | Freq=0.00Hz, RMS=0.0180g
+21:48:32.094 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0181 g
+21:48:32.094 > 📊 ICM: ax=-328, ay=-108, az=16156 | Freq=0.00Hz, RMS=0.0180g
+21:48:32.309 > 📊 ICM: ax=-296, ay=-180, az=16128 | Freq=0.00Hz, RMS=0.0180g
+21:48:32.309 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0180 g
+21:48:32.414 > 📊 ICM: ax=-384, ay=-268, az=16084 | Freq=0.00Hz, RMS=0.0180g
+21:48:32.535 > 📊 ICM: ax=-376, ay=-156, az=16064 | Freq=0.00Hz, RMS=0.0182g
+21:48:32.565 > 📊 ICM: ax=-376, ay=-108, az=16084 | Freq=0.00Hz, RMS=0.0182g
+21:48:32.643 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0182 g
+21:48:32.643 > 📊 ICM: ax=-384, ay=-160, az=16104 | Freq=0.00Hz, RMS=0.0182g
+21:48:32.740 > 📊 ICM: ax=-280, ay=-164, az=16140 | Freq=0.00Hz, RMS=0.0183g
+21:48:32.872 > 📊 ICM: ax=-296, ay=-148, az=16100 | Freq=0.00Hz, RMS=0.0183g
+21:48:32.972 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0182 g
+21:48:32.972 > 📊 ICM: ax=-268, ay=-288, az=16040 | Freq=0.00Hz, RMS=0.0182g
+21:48:33.165 > 📊 ICM: ax=-200, ay=-196, az=15992 | Freq=0.00Hz, RMS=0.0182g
+21:48:33.165 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0182 g
+21:48:33.303 > 📊 ICM: ax=-144, ay=-200, az=16104 | Freq=0.00Hz, RMS=0.0182g
+21:48:33.415 > 📊 ICM: ax=-264, ay=-204, az=16136 | Freq=0.00Hz, RMS=0.0183g
+21:48:33.451 > 📊 ICM: ax=-336, ay=-88, az=16088 | Freq=0.00Hz, RMS=0.0184g
+21:48:33.451 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0184 g
+21:48:33.635 > 📊 ICM: ax=-240, ay=-104, az=16236 | Freq=0.00Hz, RMS=0.0183g
+21:48:33.735 > 📊 ICM: ax=-272, ay=-116, az=16040 | Freq=0.00Hz, RMS=0.0184g
+21:48:33.743 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0185 g
+21:48:33.743 > 📊 ICM: ax=-408, ay=-208, az=16060 | Freq=0.00Hz, RMS=0.0185g
+21:48:33.853 > 📊 ICM: ax=-404, ay=-260, az=16136 | Freq=0.00Hz, RMS=0.0184g
+21:48:34.018 > 📊 ICM: ax=-268, ay=-232, az=16200 | Freq=0.00Hz, RMS=0.0184g
+21:48:34.076 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0184 g
+21:48:34.076 > 📊 ICM: ax=-328, ay=-232, az=16124 | Freq=0.00Hz, RMS=0.0184g
+21:48:34.183 > 📊 ICM: ax=-352, ay=-168, az=16068 | Freq=0.00Hz, RMS=0.0184g
+21:48:34.309 > 📊 ICM: ax=-372, ay=-180, az=16104 | Freq=0.00Hz, RMS=0.0183g
+21:48:34.309 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0183 g
+21:48:34.512 > 📊 ICM: ax=-428, ay=-180, az=16104 | Freq=0.00Hz, RMS=0.0183g
+21:48:34.512 > 📊 ICM: ax=-252, ay=-164, az=16188 | Freq=0.00Hz, RMS=0.0183g
+21:48:34.616 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0183 g
+21:48:34.616 > 📊 ICM: ax=-348, ay=-132, az=16108 | Freq=0.00Hz, RMS=0.0183g
+21:48:34.879 > 📊 ICM: ax=-420, ay=-144, az=16096 | Freq=0.00Hz, RMS=0.0183g
+21:48:34.879 > 📊 ICM: ax=-324, ay=-104, az=16068 | Freq=0.00Hz, RMS=0.0183g
+21:48:34.879 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0183 g
+21:48:35.163 > 📊 ICM: ax=-296, ay=-244, az=16036 | Freq=0.00Hz, RMS=0.0183g
+21:48:35.163 > 📊 ICM: ax=-276, ay=-176, az=16072 | Freq=0.00Hz, RMS=0.0182g
+21:48:35.163 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0183 g
+21:48:35.175 > 📊 ICM: ax=-312, ay=-176, az=16052 | Freq=0.00Hz, RMS=0.0183g
+21:48:35.442 > 📊 ICM: ax=-272, ay=-204, az=16064 | Freq=0.00Hz, RMS=0.0184g
+21:48:35.442 > 📊 ICM: ax=-388, ay=-140, az=16100 | Freq=0.00Hz, RMS=0.0183g
+21:48:35.442 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0183 g
+21:48:35.616 > 📊 ICM: ax=-292, ay=-164, az=16128 | Freq=0.00Hz, RMS=0.0184g
+21:48:35.616 > 📊 ICM: ax=-312, ay=-176, az=16052 | Freq=0.00Hz, RMS=0.0183g
+21:48:35.731 > 📊 ICM: ax=-328, ay=-136, az=16076 | Freq=0.00Hz, RMS=0.0184g
+21:48:35.731 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0183 g
+21:48:35.944 > 📊 ICM: ax=-368, ay=-212, az=16008 | Freq=0.00Hz, RMS=0.0183g
+21:48:35.944 > 📊 ICM: ax=-360, ay=-180, az=16140 | Freq=0.00Hz, RMS=0.0182g
+21:48:36.019 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0182 g
+21:48:36.264 > 📊 ICM: ax=-356, ay=-140, az=16076 | Freq=0.00Hz, RMS=0.0182g
+21:48:36.276 > 📊 ICM: ax=-268, ay=-164, az=16100 | Freq=0.00Hz, RMS=0.0183g
+21:48:36.276 > 📊 ICM: ax=-296, ay=-148, az=16040 | Freq=0.00Hz, RMS=0.0182g
+21:48:36.304 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0183 g
+21:48:36.492 > 📊 ICM: ax=-448, ay=-236, az=16072 | Freq=0.00Hz, RMS=0.0183g
+21:48:36.588 > 📊 ICM: ax=-332, ay=-124, az=16100 | Freq=0.00Hz, RMS=0.0184g
+21:48:36.597 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0185 g
+21:48:36.605 > 📊 ICM: ax=-272, ay=-172, az=16088 | Freq=0.00Hz, RMS=0.0185g
+21:48:36.825 > 📊 ICM: ax=-340, ay=-152, az=16104 | Freq=0.00Hz, RMS=0.0186g
+21:48:36.881 > 📊 ICM: ax=-436, ay=-116, az=16028 | Freq=0.00Hz, RMS=0.0187g
+21:48:36.881 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0187 g
+21:48:37.040 > 📊 ICM: ax=-364, ay=-208, az=16052 | Freq=0.00Hz, RMS=0.0187g
+21:48:37.040 > 📊 ICM: ax=-340, ay=-208, az=16060 | Freq=0.00Hz, RMS=0.0188g
+21:48:37.152 > 📊 ICM: ax=-304, ay=-156, az=16108 | Freq=0.00Hz, RMS=0.0187g
+21:48:37.152 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0188 g
+21:48:37.376 > 📊 ICM: ax=-332, ay=-172, az=16124 | Freq=0.00Hz, RMS=0.0188g
+21:48:37.376 > 📊 ICM: ax=-276, ay=-220, az=16008 | Freq=0.00Hz, RMS=0.0188g
+21:48:37.485 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0188 g
+21:48:37.485 > 📊 ICM: ax=-440, ay=-220, az=16104 | Freq=0.00Hz, RMS=0.0188g
+21:48:37.698 > 📊 ICM: ax=-324, ay=-176, az=16052 | Freq=0.00Hz, RMS=0.0187g
+21:48:37.698 > 📊 ICM: ax=-452, ay=-152, az=16092 | Freq=0.00Hz, RMS=0.0187g
+21:48:37.731 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0187 g
+21:48:38.020 > 📊 ICM: ax=-208, ay=-144, az=16144 | Freq=0.00Hz, RMS=0.0186g
+21:48:38.020 > 📊 ICM: ax=-320, ay=-120, az=16152 | Freq=0.00Hz, RMS=0.0186g
+21:48:38.020 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0186 g
+21:48:38.036 > 📊 ICM: ax=-280, ay=-104, az=16152 | Freq=0.00Hz, RMS=0.0186g
+21:48:38.254 > 📊 ICM: ax=-328, ay=-196, az=16096 | Freq=0.00Hz, RMS=0.0186g
+21:48:38.303 > 📊 ICM: ax=-344, ay=-236, az=16096 | Freq=0.00Hz, RMS=0.0186g
+21:48:38.362 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0186 g
+21:48:38.362 > 📊 ICM: ax=-224, ay=-148, az=16104 | Freq=0.00Hz, RMS=0.0186g
+21:48:38.585 > 📊 ICM: ax=-288, ay=-184, az=16156 | Freq=0.00Hz, RMS=0.0187g
+21:48:38.594 > 📊 ICM: ax=-348, ay=-156, az=16096 | Freq=0.00Hz, RMS=0.0187g
+21:48:38.594 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0187 g
+21:48:38.804 > 📊 ICM: ax=-420, ay=-184, az=16036 | Freq=0.00Hz, RMS=0.0186g
+21:48:38.804 > 📊 ICM: ax=-416, ay=-120, az=16000 | Freq=0.00Hz, RMS=0.0187g
+21:48:38.878 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0187 g
+21:48:39.026 > 📊 ICM: ax=-264, ay=-164, az=16116 | Freq=0.00Hz, RMS=0.0187g
+21:48:39.131 > 📊 ICM: ax=-328, ay=-136, az=16108 | Freq=0.00Hz, RMS=0.0187g
+21:48:39.131 > 📊 ICM: ax=-264, ay=-144, az=15988 | Freq=0.00Hz, RMS=0.0187g
+21:48:39.159 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0187 g
+21:48:39.356 > 📊 ICM: ax=-320, ay=-84, az=16084 | Freq=0.00Hz, RMS=0.0187g
+21:48:39.368 > 📊 ICM: ax=-280, ay=-108, az=16124 | Freq=0.00Hz, RMS=0.0186g
+21:48:39.453 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0186 g
+21:48:39.576 > 📊 ICM: ax=-328, ay=-120, az=16064 | Freq=0.00Hz, RMS=0.0186g
+21:48:39.686 > 📊 ICM: ax=-288, ay=-196, az=15988 | Freq=0.00Hz, RMS=0.0186g
+21:48:39.735 > 📊 ICM: ax=-252, ay=-192, az=16004 | Freq=0.00Hz, RMS=0.0186g
+21:48:39.735 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0186 g
+21:48:39.793 > 📊 ICM: ax=-256, ay=-188, az=16088 | Freq=0.00Hz, RMS=0.0186g
+21:48:40.023 > 📊 ICM: ax=-368, ay=-176, az=16024 | Freq=0.00Hz, RMS=0.0186g
+21:48:40.023 > 📊 ICM: ax=-404, ay=-100, az=16048 | Freq=0.00Hz, RMS=0.0186g
+21:48:40.023 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0186 g
+21:48:40.120 > 📊 ICM: ax=-340, ay=-192, az=16088 | Freq=0.00Hz, RMS=0.0185g
+21:48:40.235 > 📊 ICM: ax=-352, ay=-60, az=16144 | Freq=0.00Hz, RMS=0.0184g
+21:48:40.301 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0184 g
+21:48:40.446 > 📊 ICM: ax=-288, ay=-172, az=16028 | Freq=0.00Hz, RMS=0.0184g
+21:48:40.446 > 📊 ICM: ax=-340, ay=-136, az=16124 | Freq=0.00Hz, RMS=0.0184g
+21:48:40.585 > 📊 ICM: ax=-316, ay=-248, az=16148 | Freq=0.00Hz, RMS=0.0184g
+21:48:40.585 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0184 g
+21:48:40.785 > 📊 ICM: ax=-244, ay=-160, az=16036 | Freq=0.00Hz, RMS=0.0185g
+21:48:40.876 > 📊 ICM: ax=-320, ay=-148, az=16108 | Freq=0.00Hz, RMS=0.0185g
+21:48:40.886 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0185 g
+21:48:40.886 > 📊 ICM: ax=-304, ay=-240, az=16056 | Freq=0.00Hz, RMS=0.0185g
+21:48:41.101 > 📊 ICM: ax=-288, ay=-192, az=16040 | Freq=0.00Hz, RMS=0.0185g
+21:48:41.117 > 📊 ICM: ax=-312, ay=-80, az=15996 | Freq=0.00Hz, RMS=0.0185g
+21:48:41.165 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0185 g
+21:48:41.442 > 📊 ICM: ax=-276, ay=-180, az=16068 | Freq=0.00Hz, RMS=0.0185g
+21:48:41.442 > 📊 ICM: ax=-364, ay=-156, az=16028 | Freq=0.00Hz, RMS=0.0186g
+21:48:41.452 > 📊 ICM: ax=-344, ay=-200, az=16008 | Freq=0.00Hz, RMS=0.0186g
+21:48:41.452 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0186 g
+21:48:41.550 > 📊 ICM: ax=-340, ay=-140, az=16020 | Freq=0.00Hz, RMS=0.0186g
+21:48:41.735 > 📊 ICM: ax=-296, ay=-172, az=16060 | Freq=0.00Hz, RMS=0.0185g
+21:48:41.735 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0184 g
+21:48:41.885 > 📊 ICM: ax=-248, ay=-208, az=16060 | Freq=0.00Hz, RMS=0.0185g
+21:48:41.885 > 📊 ICM: ax=-336, ay=-124, az=16128 | Freq=0.00Hz, RMS=0.0185g
+21:48:42.024 > 📊 ICM: ax=-352, ay=-256, az=16084 | Freq=0.00Hz, RMS=0.0185g
+21:48:42.106 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0185 g
+21:48:42.111 > 📊 ICM: ax=-276, ay=-136, az=16120 | Freq=0.00Hz, RMS=0.0185g
+21:48:42.305 > 📊 ICM: ax=-364, ay=-164, az=16072 | Freq=0.00Hz, RMS=0.0185g
+21:48:42.321 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0184 g
+21:48:42.537 > 📊 ICM: ax=-416, ay=-204, az=16012 | Freq=0.00Hz, RMS=0.0185g
+21:48:42.537 > 📊 ICM: ax=-236, ay=-188, az=16188 | Freq=0.00Hz, RMS=0.0185g
+21:48:42.593 > 📊 ICM: ax=-300, ay=-104, az=15976 | Freq=0.00Hz, RMS=0.0185g
+21:48:42.593 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0185 g
+21:48:42.763 > 📊 ICM: ax=-244, ay=-156, az=16076 | Freq=0.00Hz, RMS=0.0185g
+21:48:42.868 > 📊 ICM: ax=-264, ay=-196, az=16000 | Freq=0.00Hz, RMS=0.0186g
+21:48:42.868 > 📊 ICM: ax=-248, ay=-140, az=16056 | Freq=0.00Hz, RMS=0.0186g
+21:48:42.868 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0186 g
+21:48:43.092 > 📊 ICM: ax=-304, ay=-152, az=16144 | Freq=0.00Hz, RMS=0.0186g
+21:48:43.164 > 📊 ICM: ax=-312, ay=-180, az=16160 | Freq=0.00Hz, RMS=0.0186g
+21:48:43.164 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0186 g
+21:48:43.197 > 📊 ICM: ax=-320, ay=-200, az=16104 | Freq=0.00Hz, RMS=0.0186g
+21:48:43.425 > 📊 ICM: ax=-324, ay=-112, az=16088 | Freq=0.00Hz, RMS=0.0185g
+21:48:43.461 > 📊 ICM: ax=-296, ay=-200, az=16128 | Freq=0.00Hz, RMS=0.0184g
+21:48:43.461 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0184 g
+21:48:43.643 > 📊 ICM: ax=-316, ay=-136, az=16064 | Freq=0.00Hz, RMS=0.0185g
+21:48:43.643 > 📊 ICM: ax=-312, ay=-88, az=16044 | Freq=0.00Hz, RMS=0.0185g
+21:48:43.725 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0184 g
+21:48:43.975 > 📊 ICM: ax=-324, ay=-204, az=16204 | Freq=0.00Hz, RMS=0.0184g
+21:48:43.975 > 📊 ICM: ax=-192, ay=-224, az=16032 | Freq=0.00Hz, RMS=0.0184g
+21:48:43.975 > 📊 ICM: ax=-340, ay=-140, az=16116 | Freq=0.00Hz, RMS=0.0182g
+21:48:44.024 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0182 g
+21:48:44.193 > 📊 ICM: ax=-336, ay=-128, az=16056 | Freq=0.00Hz, RMS=0.0182g
+21:48:44.193 > 📊 ICM: ax=-332, ay=-64, az=16076 | Freq=0.00Hz, RMS=0.0183g
+21:48:44.307 > 📊 ICM: ax=-384, ay=-168, az=16076 | Freq=0.00Hz, RMS=0.0183g
+21:48:44.307 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0183 g
+21:48:44.523 > 📊 ICM: ax=-328, ay=-124, az=16080 | Freq=0.00Hz, RMS=0.0182g
+21:48:44.595 > 📊 ICM: ax=-280, ay=-272, az=16084 | Freq=0.00Hz, RMS=0.0183g
+21:48:44.595 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0184 g
+21:48:44.620 > 📊 ICM: ax=-212, ay=-88, az=16084 | Freq=0.00Hz, RMS=0.0184g
+21:48:44.854 > 📊 ICM: ax=-344, ay=-232, az=16096 | Freq=0.00Hz, RMS=0.0185g
+21:48:44.870 > 📊 ICM: ax=-348, ay=-180, az=16028 | Freq=0.00Hz, RMS=0.0185g
+21:48:44.870 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0185 g
+21:48:45.070 > 📊 ICM: ax=-272, ay=-116, az=16172 | Freq=0.00Hz, RMS=0.0184g
+21:48:45.167 > 📊 ICM: ax=-236, ay=-140, az=16064 | Freq=0.00Hz, RMS=0.0185g
+21:48:45.167 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0185 g
+21:48:45.296 > 📊 ICM: ax=-340, ay=-196, az=15956 | Freq=0.00Hz, RMS=0.0185g
+21:48:45.401 > 📊 ICM: ax=-360, ay=-172, az=16352 | Freq=0.00Hz, RMS=0.0184g
+21:48:45.401 > 📊 ICM: ax=-356, ay=-140, az=16128 | Freq=0.00Hz, RMS=0.0184g
+21:48:45.453 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0184 g
+21:48:45.626 > 📊 ICM: ax=-388, ay=-256, az=16084 | Freq=0.00Hz, RMS=0.0184g
+21:48:45.735 > 📊 ICM: ax=-244, ay=-100, az=16132 | Freq=0.00Hz, RMS=0.0184g
+21:48:45.735 > 📊 ICM: ax=-304, ay=-108, az=16072 | Freq=0.00Hz, RMS=0.0185g
+21:48:45.735 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0185 g
+21:48:45.951 > 📊 ICM: ax=-344, ay=-248, az=16052 | Freq=0.00Hz, RMS=0.0185g
+21:48:46.018 > 📊 ICM: ax=-412, ay=-236, az=16096 | Freq=0.00Hz, RMS=0.0185g
+21:48:46.018 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0185 g
+21:48:46.066 > 📊 ICM: ax=-412, ay=-100, az=16052 | Freq=0.00Hz, RMS=0.0186g
+21:48:46.285 > 📊 ICM: ax=-240, ay=-188, az=16072 | Freq=0.00Hz, RMS=0.0185g
+21:48:46.310 > 📊 ICM: ax=-196, ay=-252, az=15964 | Freq=0.00Hz, RMS=0.0185g
+21:48:46.310 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0186 g
+21:48:46.395 > 📊 ICM: ax=320, ay=200, az=15876 | Freq=0.00Hz, RMS=0.0187g
+21:48:46.501 > 📊 ICM: ax=76, ay=-12, az=16044 | Freq=0.00Hz, RMS=0.0187g
+21:48:46.612 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0187 g
+21:48:46.612 > 📊 ICM: ax=-44, ay=-16, az=16064 | Freq=0.00Hz, RMS=0.0187g
+21:48:46.834 > 📊 ICM: ax=-128, ay=-236, az=16016 | Freq=0.00Hz, RMS=0.0186g
+21:48:46.834 > 📊 ICM: ax=-208, ay=-208, az=16072 | Freq=0.00Hz, RMS=0.0186g
+21:48:46.881 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0186 g
+21:48:47.052 > 📊 ICM: ax=-276, ay=-168, az=16104 | Freq=0.00Hz, RMS=0.0186g
+21:48:47.159 > 📊 ICM: ax=-408, ay=-172, az=16048 | Freq=0.00Hz, RMS=0.0186g
+21:48:47.159 > 📊 ICM: ax=-384, ay=-184, az=16160 | Freq=0.00Hz, RMS=0.0185g
+21:48:47.168 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0185 g
+21:48:47.453 > 📊 ICM: ax=-308, ay=-132, az=16124 | Freq=0.00Hz, RMS=0.0185g
+21:48:47.453 > 📊 ICM: ax=-412, ay=-220, az=16132 | Freq=0.00Hz, RMS=0.0184g
+21:48:47.453 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0184 g
+21:48:47.493 > 📊 ICM: ax=-360, ay=-172, az=16064 | Freq=0.00Hz, RMS=0.0184g
+21:48:47.708 > 📊 ICM: ax=-364, ay=-180, az=16152 | Freq=0.00Hz, RMS=0.0184g
+21:48:47.733 > 📊 ICM: ax=-336, ay=-208, az=16088 | Freq=0.00Hz, RMS=0.0185g
+21:48:47.733 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0185 g
+21:48:47.822 > 📊 ICM: ax=-308, ay=-120, az=16092 | Freq=0.00Hz, RMS=0.0184g
+21:48:48.022 > 📊 ICM: ax=-264, ay=-224, az=16004 | Freq=0.00Hz, RMS=0.0184g
+21:48:48.022 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0184 g
+21:48:48.149 > 📊 ICM: ax=-404, ay=-136, az=16132 | Freq=0.00Hz, RMS=0.0184g
+21:48:48.149 > 📊 ICM: ax=-196, ay=-208, az=16044 | Freq=0.00Hz, RMS=0.0184g
+21:48:48.305 > 📊 ICM: ax=-368, ay=-244, az=16072 | Freq=0.00Hz, RMS=0.0184g
+21:48:48.305 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0184 g
+21:48:48.482 > 📊 ICM: ax=-324, ay=-204, az=16112 | Freq=0.00Hz, RMS=0.0184g
+21:48:48.594 > 📊 ICM: ax=-296, ay=-100, az=16052 | Freq=0.00Hz, RMS=0.0183g
+21:48:48.594 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0183 g
+21:48:48.594 > 📊 ICM: ax=-368, ay=-160, az=16104 | Freq=0.00Hz, RMS=0.0183g
+21:48:48.813 > 📊 ICM: ax=-352, ay=-120, az=16004 | Freq=0.00Hz, RMS=0.0183g
+21:48:48.880 > 📊 ICM: ax=-244, ay=-168, az=16084 | Freq=0.00Hz, RMS=0.0183g
+21:48:48.917 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0183 g
+21:48:49.032 > 📊 ICM: ax=-340, ay=-164, az=16108 | Freq=0.00Hz, RMS=0.0184g
+21:48:49.143 > 📊 ICM: ax=-224, ay=-108, az=16088 | Freq=0.00Hz, RMS=0.0182g
+21:48:49.159 > 📊 ICM: ax=-352, ay=-228, az=16156 | Freq=0.00Hz, RMS=0.0181g
+21:48:49.167 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0182 g
+21:48:49.251 > 📊 ICM: ax=-260, ay=-160, az=16088 | Freq=0.00Hz, RMS=0.0182g
+21:48:49.449 > 📊 ICM: ax=-328, ay=-192, az=16132 | Freq=0.00Hz, RMS=0.0182g
+21:48:49.449 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0181 g
+21:48:49.585 > 📊 ICM: ax=-288, ay=-496, az=16080 | Freq=0.00Hz, RMS=0.0181g
+21:48:49.695 > 📊 ICM: ax=-316, ay=-504, az=16096 | Freq=0.00Hz, RMS=0.0181g
+21:48:49.695 > 📊 ICM: ax=-200, ay=-208, az=16092 | Freq=0.00Hz, RMS=0.0180g
+21:48:49.804 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0180 g
+21:48:49.804 > 📊 ICM: ax=-336, ay=-244, az=16056 | Freq=0.00Hz, RMS=0.0180g
+21:48:50.018 > 📊 ICM: ax=-320, ay=-192, az=16144 | Freq=0.00Hz, RMS=0.0182g
+21:48:50.018 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0181 g
+21:48:50.135 > 📊 ICM: ax=-160, ay=-220, az=16112 | Freq=0.00Hz, RMS=0.0181g
+21:48:50.135 > 📊 ICM: ax=-348, ay=-72, az=16156 | Freq=0.00Hz, RMS=0.0181g
+21:48:50.305 > 📊 ICM: ax=-360, ay=-168, az=16060 | Freq=0.00Hz, RMS=0.0181g
+21:48:50.346 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0181 g
+21:48:50.346 > 📊 ICM: ax=-216, ay=-188, az=16040 | Freq=0.00Hz, RMS=0.0181g
+21:48:50.595 > 📊 ICM: ax=-300, ay=-252, az=16108 | Freq=0.00Hz, RMS=0.0181g
+21:48:50.595 > 📊 ICM: ax=-368, ay=-216, az=16116 | Freq=0.00Hz, RMS=0.0181g
+21:48:50.595 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0181 g
+21:48:50.880 > 📊 ICM: ax=-404, ay=-124, az=16128 | Freq=0.00Hz, RMS=0.0181g
+21:48:50.880 > 📊 ICM: ax=-320, ay=-156, az=16092 | Freq=0.00Hz, RMS=0.0181g
+21:48:50.880 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0180 g
+21:48:51.015 > 📊 ICM: ax=-304, ay=-144, az=15996 | Freq=0.00Hz, RMS=0.0181g
+21:48:51.015 > 📊 ICM: ax=-332, ay=-108, az=16088 | Freq=0.00Hz, RMS=0.0181g
+21:48:51.159 > 📊 ICM: ax=-364, ay=-176, az=16056 | Freq=0.00Hz, RMS=0.0181g
+21:48:51.167 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0182 g
+21:48:51.346 > 📊 ICM: ax=-268, ay=-148, az=16052 | Freq=0.00Hz, RMS=0.0181g
+21:48:51.453 > 📊 ICM: ax=-300, ay=-140, az=16028 | Freq=0.00Hz, RMS=0.0181g
+21:48:51.453 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0181 g
+21:48:51.662 > 📊 ICM: ax=-348, ay=-224, az=16000 | Freq=0.00Hz, RMS=0.0181g
+21:48:51.662 > 📊 ICM: ax=-164, ay=-112, az=16108 | Freq=0.20Hz, RMS=0.0181g
+21:48:51.726 > 📊 ICM: ax=-344, ay=-104, az=16084 | Freq=0.20Hz, RMS=0.0182g
+21:48:51.774 > ✓ Updated - Freq: 0.20 Hz, RMS: 0.0182 g
+21:48:51.894 > 📊 ICM: ax=-232, ay=-128, az=16052 | Freq=0.20Hz, RMS=0.0182g
+21:48:52.019 > 📊 ICM: ax=-304, ay=-264, az=16060 | Freq=0.20Hz, RMS=0.0183g
+21:48:52.019 > 📊 ICM: ax=-408, ay=-124, az=16092 | Freq=0.20Hz, RMS=0.0184g
+21:48:52.019 > ✓ Updated - Freq: 0.20 Hz, RMS: 0.0184 g
+21:48:52.226 > 📊 ICM: ax=-400, ay=-140, az=16080 | Freq=0.20Hz, RMS=0.0184g
+21:48:52.309 > 📊 ICM: ax=-352, ay=-164, az=16016 | Freq=0.20Hz, RMS=0.0185g
+21:48:52.309 > ✓ Updated - Freq: 0.20 Hz, RMS: 0.0185 g
+21:48:52.332 > 📊 ICM: ax=-288, ay=-160, az=15980 | Freq=0.20Hz, RMS=0.0186g
+21:48:52.594 > 📊 ICM: ax=-276, ay=-168, az=16092 | Freq=0.20Hz, RMS=0.0186g
+21:48:52.594 > 📊 ICM: ax=-380, ay=-296, az=16056 | Freq=0.20Hz, RMS=0.0187g
+21:48:52.594 > ✓ Updated - Freq: 0.20 Hz, RMS: 0.0187 g
+21:48:52.660 > 📊 ICM: ax=-404, ay=-140, az=16084 | Freq=0.20Hz, RMS=0.0187g
+21:48:52.867 > 📊 ICM: ax=-372, ay=-180, az=16084 | Freq=0.20Hz, RMS=0.0188g
+21:48:52.885 > ✓ Updated - Freq: 0.20 Hz, RMS: 0.0189 g
+21:48:52.885 > 📊 ICM: ax=-312, ay=-120, az=16140 | Freq=0.20Hz, RMS=0.0188g
+21:48:53.099 > 📊 ICM: ax=-320, ay=-208, az=16080 | Freq=0.20Hz, RMS=0.0189g
+21:48:53.107 > 📊 ICM: ax=-360, ay=-112, az=16056 | Freq=0.20Hz, RMS=0.0190g
+21:48:53.161 > ✓ Updated - Freq: 0.20 Hz, RMS: 0.0190 g
+21:48:53.326 > 📊 ICM: ax=-252, ay=-176, az=16052 | Freq=0.20Hz, RMS=0.0190g
+21:48:53.434 > 📊 ICM: ax=-304, ay=-120, az=16096 | Freq=0.20Hz, RMS=0.0192g
+21:48:53.451 > 📊 ICM: ax=-332, ay=-168, az=15992 | Freq=0.20Hz, RMS=0.0193g
+21:48:53.451 > ✓ Updated - Freq: 0.20 Hz, RMS: 0.0193 g
+21:48:53.652 > 📊 ICM: ax=-248, ay=-204, az=16116 | Freq=0.20Hz, RMS=0.0194g
+21:48:53.652 > 📊 ICM: ax=-472, ay=-76, az=16040 | Freq=0.20Hz, RMS=0.0194g
+21:48:53.725 > ✓ Updated - Freq: 0.20 Hz, RMS: 0.0193 g
+21:48:53.757 > 📊 ICM: ax=-268, ay=-176, az=16088 | Freq=0.20Hz, RMS=0.0193g
+21:48:53.985 > 📊 ICM: ax=-360, ay=-196, az=16080 | Freq=0.20Hz, RMS=0.0194g
+21:48:54.018 > 📊 ICM: ax=-504, ay=-132, az=16048 | Freq=0.20Hz, RMS=0.0194g
+21:48:54.018 > ✓ Updated - Freq: 0.20 Hz, RMS: 0.0193 g
+21:48:54.096 > 📊 ICM: ax=-296, ay=-156, az=16076 | Freq=0.00Hz, RMS=0.0194g
+21:48:54.304 > 📊 ICM: ax=-328, ay=-220, az=16028 | Freq=0.00Hz, RMS=0.0194g
+21:48:54.304 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0195 g
+21:48:54.425 > 📊 ICM: ax=-344, ay=-116, az=16064 | Freq=0.00Hz, RMS=0.0195g
+21:48:54.425 > 📊 ICM: ax=-272, ay=-148, az=16112 | Freq=0.00Hz, RMS=0.0194g
+21:48:54.585 > 📊 ICM: ax=-296, ay=-136, az=16116 | Freq=0.00Hz, RMS=0.0194g
+21:48:54.585 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0194 g
+21:48:54.751 > 📊 ICM: ax=-292, ay=-140, az=16012 | Freq=0.00Hz, RMS=0.0194g
+21:48:54.860 > 📊 ICM: ax=-232, ay=-184, az=16032 | Freq=0.00Hz, RMS=0.0194g
+21:48:54.860 > 📊 ICM: ax=-316, ay=-244, az=16048 | Freq=0.00Hz, RMS=0.0193g
+21:48:54.976 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0193 g
+21:48:54.976 > 📊 ICM: ax=-376, ay=-196, az=16120 | Freq=0.00Hz, RMS=0.0192g
+21:48:55.166 > 📊 ICM: ax=-352, ay=-128, az=16028 | Freq=0.00Hz, RMS=0.0193g
+21:48:55.194 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0193 g
+21:48:55.194 > 📊 ICM: ax=-320, ay=-116, az=16036 | Freq=0.00Hz, RMS=0.0193g
+21:48:55.452 > 📊 ICM: ax=-232, ay=-172, az=16132 | Freq=0.00Hz, RMS=0.0191g
+21:48:55.452 > 📊 ICM: ax=-340, ay=-220, az=16108 | Freq=0.00Hz, RMS=0.0191g
+21:48:55.526 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0191 g
+21:48:55.526 > 📊 ICM: ax=-392, ay=-208, az=16056 | Freq=0.00Hz, RMS=0.0190g
+21:48:55.736 > 📊 ICM: ax=-392, ay=-176, az=16208 | Freq=0.00Hz, RMS=0.0190g
+21:48:55.736 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0190 g
+21:48:55.852 > 📊 ICM: ax=-300, ay=-312, az=16056 | Freq=0.00Hz, RMS=0.0190g
+21:48:55.852 > 📊 ICM: ax=-296, ay=-176, az=16044 | Freq=0.00Hz, RMS=0.0189g
+21:48:56.020 > 📊 ICM: ax=-244, ay=-128, az=16172 | Freq=0.00Hz, RMS=0.0187g
+21:48:56.020 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0187 g
+21:48:56.183 > 📊 ICM: ax=-336, ay=-228, az=16120 | Freq=0.00Hz, RMS=0.0186g
+21:48:56.183 > 📊 ICM: ax=-284, ay=-108, az=16100 | Freq=0.00Hz, RMS=0.0187g
+21:48:56.306 > 📊 ICM: ax=-276, ay=-120, az=16032 | Freq=0.00Hz, RMS=0.0187g
+21:48:56.306 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0187 g
+21:48:56.508 > 📊 ICM: ax=-284, ay=-180, az=16064 | Freq=0.00Hz, RMS=0.0188g
+21:48:56.589 > 📊 ICM: ax=-312, ay=-220, az=16052 | Freq=0.00Hz, RMS=0.0188g
+21:48:56.589 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0188 g
+21:48:56.733 > 📊 ICM: ax=-296, ay=-208, az=16088 | Freq=0.00Hz, RMS=0.0188g
+21:48:56.840 > 📊 ICM: ax=-316, ay=-148, az=16060 | Freq=0.00Hz, RMS=0.0188g
+21:48:56.881 > 📊 ICM: ax=-300, ay=-224, az=16116 | Freq=0.00Hz, RMS=0.0188g
+21:48:56.952 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0187 g
+21:48:56.952 > 📊 ICM: ax=-276, ay=-196, az=16136 | Freq=0.00Hz, RMS=0.0187g
+21:48:57.164 > 📊 ICM: ax=-344, ay=-324, az=16032 | Freq=0.00Hz, RMS=0.0188g
+21:48:57.176 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0188 g
+21:48:57.176 > 📊 ICM: ax=-324, ay=-216, az=16088 | Freq=0.00Hz, RMS=0.0188g
+21:48:57.285 > 📊 ICM: ax=-412, ay=-188, az=16036 | Freq=0.00Hz, RMS=0.0188g
+21:48:57.451 > 📊 ICM: ax=-296, ay=-192, az=16156 | Freq=0.00Hz, RMS=0.0188g
+21:48:57.451 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0188 g
+21:48:57.609 > 📊 ICM: ax=-260, ay=-176, az=15928 | Freq=0.00Hz, RMS=0.0188g
+21:48:57.609 > 📊 ICM: ax=-320, ay=-112, az=16076 | Freq=0.00Hz, RMS=0.0188g
+21:48:57.738 > 📊 ICM: ax=-308, ay=-184, az=16072 | Freq=0.00Hz, RMS=0.0187g
+21:48:57.738 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0187 g
+21:48:57.946 > 📊 ICM: ax=-324, ay=-224, az=16028 | Freq=0.00Hz, RMS=0.0187g
+21:48:57.946 > 📊 ICM: ax=-220, ay=-208, az=16068 | Freq=0.00Hz, RMS=0.0188g
+21:48:58.020 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0188 g
+21:48:58.162 > 📊 ICM: ax=-292, ay=-164, az=16060 | Freq=0.00Hz, RMS=0.0188g
+21:48:58.276 > 📊 ICM: ax=-264, ay=-248, az=16164 | Freq=0.00Hz, RMS=0.0188g
+21:48:58.309 > 📊 ICM: ax=-272, ay=-212, az=16084 | Freq=0.00Hz, RMS=0.0187g
+21:48:58.384 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0188 g
+21:48:58.384 > 📊 ICM: ax=-308, ay=-184, az=16052 | Freq=0.00Hz, RMS=0.0188g
+21:48:58.593 > 📊 ICM: ax=-364, ay=-164, az=16080 | Freq=0.00Hz, RMS=0.0188g
+21:48:58.593 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0189 g
+21:48:58.602 > 📊 ICM: ax=-256, ay=-132, az=16048 | Freq=0.00Hz, RMS=0.0189g
+21:48:58.868 > 📊 ICM: ax=-336, ay=-144, az=16028 | Freq=0.00Hz, RMS=0.0189g
+21:48:58.868 > 📊 ICM: ax=-288, ay=-164, az=16008 | Freq=0.00Hz, RMS=0.0189g
+21:48:58.868 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0189 g
+21:48:59.043 > 📊 ICM: ax=-276, ay=-220, az=16068 | Freq=0.00Hz, RMS=0.0187g
+21:48:59.043 > 📊 ICM: ax=-356, ay=-176, az=16084 | Freq=0.00Hz, RMS=0.0187g
+21:48:59.162 > 📊 ICM: ax=-292, ay=-180, az=16068 | Freq=0.00Hz, RMS=0.0186g
+21:48:59.162 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0186 g
+21:48:59.376 > 📊 ICM: ax=-284, ay=-144, az=16068 | Freq=0.00Hz, RMS=0.0186g
+21:48:59.451 > 📊 ICM: ax=-276, ay=-152, az=16100 | Freq=0.00Hz, RMS=0.0185g
+21:48:59.451 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0185 g
+21:48:59.593 > 📊 ICM: ax=-320, ay=-204, az=16008 | Freq=0.00Hz, RMS=0.0185g
+21:48:59.703 > 📊 ICM: ax=-352, ay=-152, az=16116 | Freq=0.00Hz, RMS=0.0185g
+21:48:59.703 > 📊 ICM: ax=-320, ay=-172, az=16084 | Freq=0.00Hz, RMS=0.0184g
+21:48:59.736 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0184 g
+21:48:59.923 > 📊 ICM: ax=-328, ay=-116, az=16072 | Freq=0.00Hz, RMS=0.0184g
+21:49:00.023 > 📊 ICM: ax=-372, ay=-112, az=16064 | Freq=0.00Hz, RMS=0.0184g
+21:49:00.023 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0184 g
+21:49:00.026 > 📊 ICM: ax=-344, ay=-264, az=16120 | Freq=0.00Hz, RMS=0.0184g
+21:49:00.310 > 📊 ICM: ax=-276, ay=-196, az=16076 | Freq=0.00Hz, RMS=0.0184g
+21:49:00.310 > 📊 ICM: ax=-320, ay=-124, az=16084 | Freq=0.00Hz, RMS=0.0184g
+21:49:00.310 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0183 g
+21:49:00.476 > 📊 ICM: ax=-352, ay=-204, az=16108 | Freq=0.00Hz, RMS=0.0184g
+21:49:00.476 > 📊 ICM: ax=-212, ay=-160, az=16104 | Freq=0.00Hz, RMS=0.0183g
+21:49:00.584 > 📊 ICM: ax=-300, ay=-216, az=16120 | Freq=0.00Hz, RMS=0.0182g
+21:49:00.584 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0182 g
+21:49:00.803 > 📊 ICM: ax=-312, ay=-180, az=16100 | Freq=0.00Hz, RMS=0.0183g
+21:49:00.803 > 📊 ICM: ax=-232, ay=-140, az=16112 | Freq=0.00Hz, RMS=0.0183g
+21:49:00.876 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0183 g
+21:49:01.026 > 📊 ICM: ax=-368, ay=-200, az=16132 | Freq=0.00Hz, RMS=0.0182g
+21:49:01.135 > 📊 ICM: ax=-388, ay=-112, az=16024 | Freq=0.00Hz, RMS=0.0181g
+21:49:01.135 > 📊 ICM: ax=-332, ay=-184, az=16112 | Freq=0.00Hz, RMS=0.0181g
+21:49:01.242 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0181 g
+21:49:01.242 > 📊 ICM: ax=-324, ay=-124, az=16080 | Freq=0.00Hz, RMS=0.0181g
+21:49:01.452 > 📊 ICM: ax=-300, ay=-172, az=16056 | Freq=0.00Hz, RMS=0.0181g
+21:49:01.452 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0181 g
+21:49:01.467 > 📊 ICM: ax=-264, ay=-160, az=16124 | Freq=0.00Hz, RMS=0.0181g
+21:49:01.685 > 📊 ICM: ax=-356, ay=-156, az=16148 | Freq=0.00Hz, RMS=0.0181g
+21:49:01.685 > 📊 ICM: ax=-240, ay=-52, az=16012 | Freq=0.00Hz, RMS=0.0182g
+21:49:01.793 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0182 g
+21:49:01.793 > 📊 ICM: ax=-376, ay=-180, az=16156 | Freq=0.00Hz, RMS=0.0181g
+21:49:02.009 > 📊 ICM: ax=-360, ay=-200, az=16160 | Freq=0.00Hz, RMS=0.0181g
+21:49:02.009 > 📊 ICM: ax=-324, ay=-212, az=16160 | Freq=0.00Hz, RMS=0.0181g
+21:49:02.009 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0181 g
+21:49:02.123 > 📊 ICM: ax=-388, ay=-144, az=16132 | Freq=0.00Hz, RMS=0.0181g
+21:49:02.309 > 📊 ICM: ax=-340, ay=-288, az=16048 | Freq=0.00Hz, RMS=0.0181g
+21:49:02.309 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0181 g
+21:49:02.566 > 📊 ICM: ax=-316, ay=-148, az=16060 | Freq=0.00Hz, RMS=0.0181g
+21:49:02.566 > 📊 ICM: ax=-348, ay=-252, az=16244 | Freq=0.00Hz, RMS=0.0180g
+21:49:02.582 > 📊 ICM: ax=-352, ay=-196, az=16068 | Freq=0.00Hz, RMS=0.0179g
+21:49:02.582 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0179 g
+21:49:02.786 > 📊 ICM: ax=-364, ay=-236, az=16076 | Freq=0.00Hz, RMS=0.0179g
+21:49:02.878 > 📊 ICM: ax=-184, ay=-156, az=15980 | Freq=0.00Hz, RMS=0.0179g
+21:49:02.878 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0179 g
+21:49:03.116 > 📊 ICM: ax=-284, ay=-232, az=16080 | Freq=0.00Hz, RMS=0.0179g
+21:49:03.116 > 📊 ICM: ax=-280, ay=-144, az=16100 | Freq=0.00Hz, RMS=0.0179g
+21:49:03.165 > 📊 ICM: ax=-276, ay=-140, az=16104 | Freq=0.00Hz, RMS=0.0180g
+21:49:03.165 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0179 g
+21:49:03.226 > 📊 ICM: ax=-336, ay=-180, az=16052 | Freq=0.00Hz, RMS=0.0179g
+21:49:03.451 > 📊 ICM: ax=-300, ay=-156, az=16036 | Freq=0.00Hz, RMS=0.0179g
+21:49:03.451 > 📊 ICM: ax=-372, ay=-212, az=16132 | Freq=0.00Hz, RMS=0.0179g
+21:49:03.551 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0179 g
+21:49:03.551 > 📊 ICM: ax=-384, ay=-176, az=16136 | Freq=0.00Hz, RMS=0.0179g
+21:49:03.735 > 📊 ICM: ax=-332, ay=-276, az=16152 | Freq=0.00Hz, RMS=0.0181g
+21:49:03.735 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0180 g
+21:49:03.886 > 📊 ICM: ax=-228, ay=-168, az=16088 | Freq=0.00Hz, RMS=0.0180g
+21:49:03.914 > 📊 ICM: ax=-344, ay=-200, az=16000 | Freq=0.00Hz, RMS=0.0181g
+21:49:04.019 > 📊 ICM: ax=-400, ay=-276, az=16008 | Freq=0.00Hz, RMS=0.0181g
+21:49:04.019 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0181 g
+21:49:04.210 > 📊 ICM: ax=-320, ay=-92, az=16124 | Freq=0.00Hz, RMS=0.0181g
+21:49:04.210 > 📊 ICM: ax=-308, ay=-104, az=16132 | Freq=0.00Hz, RMS=0.0180g
+21:49:04.309 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0180 g
+21:49:04.435 > 📊 ICM: ax=-336, ay=-192, az=16188 | Freq=0.00Hz, RMS=0.0180g
+21:49:04.546 > 📊 ICM: ax=-380, ay=-204, az=16032 | Freq=0.00Hz, RMS=0.0181g
+21:49:04.593 > 📊 ICM: ax=-384, ay=-268, az=16016 | Freq=0.00Hz, RMS=0.0181g
+21:49:04.593 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0181 g
+21:49:04.760 > 📊 ICM: ax=-316, ay=-164, az=16080 | Freq=0.00Hz, RMS=0.0181g
+21:49:04.871 > 📊 ICM: ax=-336, ay=-184, az=16104 | Freq=0.00Hz, RMS=0.0181g
+21:49:04.877 > 📊 ICM: ax=-384, ay=-92, az=16104 | Freq=0.00Hz, RMS=0.0181g
+21:49:04.985 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0181 g
+21:49:04.985 > 📊 ICM: ax=-288, ay=-72, az=16088 | Freq=0.00Hz, RMS=0.0182g
+21:49:05.167 > 📊 ICM: ax=-268, ay=-152, az=16088 | Freq=0.00Hz, RMS=0.0182g
+21:49:05.167 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0183 g
+21:49:05.309 > 📊 ICM: ax=-316, ay=-240, az=16132 | Freq=0.00Hz, RMS=0.0183g
+21:49:05.309 > 📊 ICM: ax=-284, ay=-148, az=16056 | Freq=0.00Hz, RMS=0.0182g
+21:49:05.452 > 📊 ICM: ax=-308, ay=-132, az=16020 | Freq=0.00Hz, RMS=0.0182g
+21:49:05.452 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0182 g
+21:49:05.641 > 📊 ICM: ax=-312, ay=-124, az=16056 | Freq=0.00Hz, RMS=0.0182g
+21:49:05.641 > 📊 ICM: ax=-200, ay=-240, az=16032 | Freq=0.00Hz, RMS=0.0182g
+21:49:05.735 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0183 g
+21:49:05.866 > 📊 ICM: ax=-264, ay=-240, az=16012 | Freq=0.00Hz, RMS=0.0183g
+21:49:05.974 > 📊 ICM: ax=-268, ay=-112, az=16200 | Freq=0.00Hz, RMS=0.0182g
+21:49:06.024 > 📊 ICM: ax=-420, ay=-176, az=16136 | Freq=0.00Hz, RMS=0.0180g
+21:49:06.085 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0181 g
+21:49:06.085 > 📊 ICM: ax=-316, ay=-52, az=16088 | Freq=0.00Hz, RMS=0.0181g
+21:49:06.306 > 📊 ICM: ax=-292, ay=-192, az=16064 | Freq=0.00Hz, RMS=0.0180g
+21:49:06.306 > 📊 ICM: ax=-248, ay=-240, az=16132 | Freq=0.00Hz, RMS=0.0180g
+21:49:06.306 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0180 g
+21:49:06.524 > 📊 ICM: ax=-340, ay=-104, az=16124 | Freq=0.00Hz, RMS=0.0179g
+21:49:06.591 > 📊 ICM: ax=-324, ay=-156, az=16076 | Freq=0.00Hz, RMS=0.0179g
+21:49:06.591 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0179 g
+21:49:06.744 > 📊 ICM: ax=-320, ay=-212, az=16080 | Freq=0.00Hz, RMS=0.0179g
+21:49:06.744 > 📊 ICM: ax=-304, ay=-184, az=16112 | Freq=0.00Hz, RMS=0.0179g
+21:49:06.875 > 📊 ICM: ax=-372, ay=-124, az=16076 | Freq=0.00Hz, RMS=0.0180g
+21:49:06.875 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0179 g
+21:49:07.076 > 📊 ICM: ax=-312, ay=-184, az=16044 | Freq=0.00Hz, RMS=0.0179g
+21:49:07.165 > 📊 ICM: ax=-400, ay=-156, az=16116 | Freq=0.00Hz, RMS=0.0180g
+21:49:07.168 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0180 g
+21:49:07.293 > 📊 ICM: ax=-264, ay=-224, az=16076 | Freq=0.00Hz, RMS=0.0180g
+21:49:07.402 > 📊 ICM: ax=-388, ay=-152, az=16048 | Freq=0.00Hz, RMS=0.0180g
+21:49:07.402 > 📊 ICM: ax=-280, ay=-164, az=16072 | Freq=0.00Hz, RMS=0.0180g
+21:49:07.451 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0179 g
+21:49:07.735 > 📊 ICM: ax=-320, ay=-152, az=16056 | Freq=0.00Hz, RMS=0.0180g
+21:49:07.737 > 📊 ICM: ax=-272, ay=-192, az=16056 | Freq=0.00Hz, RMS=0.0180g
+21:49:07.737 > 📊 ICM: ax=-332, ay=-228, az=16060 | Freq=0.00Hz, RMS=0.0179g
+21:49:07.737 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0179 g
+21:49:07.955 > 📊 ICM: ax=-352, ay=-184, az=16084 | Freq=0.00Hz, RMS=0.0180g
+21:49:08.019 > 📊 ICM: ax=-280, ay=-224, az=16040 | Freq=0.00Hz, RMS=0.0180g
+21:49:08.066 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0180 g
+21:49:08.066 > 📊 ICM: ax=-364, ay=-100, az=16076 | Freq=0.00Hz, RMS=0.0180g
+21:49:08.278 > 📊 ICM: ax=-284, ay=-192, az=16052 | Freq=0.00Hz, RMS=0.0181g
+21:49:08.310 > 📊 ICM: ax=-276, ay=-144, az=16076 | Freq=0.00Hz, RMS=0.0181g
+21:49:08.310 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0180 g
+21:49:08.494 > 📊 ICM: ax=-316, ay=-292, az=16072 | Freq=0.00Hz, RMS=0.0181g
+21:49:08.494 > 📊 ICM: ax=-368, ay=-216, az=16172 | Freq=0.00Hz, RMS=0.0181g
+21:49:08.583 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0181 g
+21:49:08.713 > 📊 ICM: ax=-296, ay=-204, az=16088 | Freq=0.00Hz, RMS=0.0181g
+21:49:08.836 > 📊 ICM: ax=-320, ay=-224, az=16108 | Freq=0.00Hz, RMS=0.0181g
+21:49:08.836 > 📊 ICM: ax=-280, ay=-184, az=16156 | Freq=0.00Hz, RMS=0.0181g
+21:49:08.875 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0181 g
+21:49:09.045 > 📊 ICM: ax=-284, ay=-148, az=16072 | Freq=0.00Hz, RMS=0.0181g
+21:49:09.167 > 📊 ICM: ax=-340, ay=-200, az=16048 | Freq=0.00Hz, RMS=0.0181g
+21:49:09.167 > 📊 ICM: ax=-284, ay=-100, az=16128 | Freq=0.00Hz, RMS=0.0181g
+21:49:09.167 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0181 g
+21:49:09.385 > 📊 ICM: ax=-328, ay=-132, az=16132 | Freq=0.00Hz, RMS=0.0180g
+21:49:09.453 > 📊 ICM: ax=-248, ay=-252, az=16096 | Freq=0.00Hz, RMS=0.0179g
+21:49:09.495 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0180 g
+21:49:09.495 > 📊 ICM: ax=-332, ay=-264, az=16064 | Freq=0.00Hz, RMS=0.0180g
+21:49:09.709 > 📊 ICM: ax=-296, ay=-132, az=16076 | Freq=0.00Hz, RMS=0.0179g
+21:49:09.736 > 📊 ICM: ax=-316, ay=-200, az=16036 | Freq=0.00Hz, RMS=0.0179g
+21:49:09.736 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0179 g
+21:49:09.826 > 📊 ICM: ax=-324, ay=-200, az=16148 | Freq=0.00Hz, RMS=0.0178g
+21:49:09.936 > 📊 ICM: ax=-420, ay=-60, az=16164 | Freq=0.00Hz, RMS=0.0178g
+21:49:10.019 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0178 g
+21:49:10.156 > 📊 ICM: ax=-336, ay=-192, az=16092 | Freq=0.00Hz, RMS=0.0177g
+21:49:10.259 > 📊 ICM: ax=-372, ay=-164, az=16104 | Freq=0.00Hz, RMS=0.0177g
+21:49:10.259 > 📊 ICM: ax=-268, ay=-144, az=16080 | Freq=0.00Hz, RMS=0.0178g
+21:49:10.309 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0178 g
+21:49:10.485 > 📊 ICM: ax=-336, ay=-100, az=16104 | Freq=0.00Hz, RMS=0.0179g
+21:49:10.485 > 📊 ICM: ax=-236, ay=-96, az=16120 | Freq=0.00Hz, RMS=0.0179g
+21:49:10.594 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0179 g
+21:49:10.594 > 📊 ICM: ax=-320, ay=-204, az=16052 | Freq=0.00Hz, RMS=0.0178g
+21:49:10.812 > 📊 ICM: ax=-348, ay=-180, az=16060 | Freq=0.00Hz, RMS=0.0178g
+21:49:10.876 > 📊 ICM: ax=-288, ay=-220, az=16112 | Freq=0.00Hz, RMS=0.0177g
+21:49:10.876 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0178 g
+21:49:10.925 > 📊 ICM: ax=-308, ay=-220, az=15944 | Freq=0.00Hz, RMS=0.0178g
+21:49:11.143 > 📊 ICM: ax=-256, ay=-200, az=16084 | Freq=0.00Hz, RMS=0.0178g
+21:49:11.167 > 📊 ICM: ax=-244, ay=-184, az=16160 | Freq=0.00Hz, RMS=0.0178g
+21:49:11.251 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0178 g
+21:49:11.251 > 📊 ICM: ax=-292, ay=-132, az=16088 | Freq=0.00Hz, RMS=0.0178g
+21:49:11.451 > 📊 ICM: ax=-316, ay=-236, az=16076 | Freq=0.00Hz, RMS=0.0178g
+21:49:11.476 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0178 g
+21:49:11.477 > 📊 ICM: ax=-240, ay=-196, az=16068 | Freq=0.00Hz, RMS=0.0178g
+21:49:11.585 > 📊 ICM: ax=-356, ay=-176, az=16120 | Freq=0.00Hz, RMS=0.0177g
+21:49:11.735 > 📊 ICM: ax=-392, ay=-168, az=16116 | Freq=0.00Hz, RMS=0.0177g
+21:49:11.735 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0178 g
+21:49:11.913 > 📊 ICM: ax=-280, ay=-160, az=16148 | Freq=0.00Hz, RMS=0.0178g
+21:49:12.024 > 📊 ICM: ax=-276, ay=-144, az=16020 | Freq=0.00Hz, RMS=0.0179g
+21:49:12.024 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0179 g
+21:49:12.244 > 📊 ICM: ax=-304, ay=-124, az=16076 | Freq=0.00Hz, RMS=0.0179g
+21:49:12.244 > 📊 ICM: ax=-344, ay=-256, az=16088 | Freq=0.00Hz, RMS=0.0179g
+21:49:12.310 > 📊 ICM: ax=-352, ay=-156, az=16148 | Freq=0.00Hz, RMS=0.0179g
+21:49:12.356 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0179 g
+21:49:12.356 > 📊 ICM: ax=-312, ay=-208, az=16044 | Freq=0.00Hz, RMS=0.0179g
+21:49:12.576 > 📊 ICM: ax=-244, ay=-196, az=16076 | Freq=0.00Hz, RMS=0.0180g
+21:49:12.584 > 📊 ICM: ax=-320, ay=-220, az=16024 | Freq=0.00Hz, RMS=0.0181g
+21:49:12.584 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0181 g
+21:49:12.684 > 📊 ICM: ax=-308, ay=-252, az=16044 | Freq=0.00Hz, RMS=0.0181g
+21:49:12.876 > 📊 ICM: ax=-312, ay=-128, az=16096 | Freq=0.00Hz, RMS=0.0180g
+21:49:12.902 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0180 g
+21:49:12.902 > 📊 ICM: ax=-264, ay=-124, az=16112 | Freq=0.00Hz, RMS=0.0180g
+21:49:13.010 > 📊 ICM: ax=-208, ay=-232, az=16140 | Freq=0.00Hz, RMS=0.0180g
+21:49:13.165 > 📊 ICM: ax=-260, ay=-84, az=16048 | Freq=0.00Hz, RMS=0.0180g
+21:49:13.165 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0180 g
+21:49:13.346 > 📊 ICM: ax=-280, ay=-148, az=16136 | Freq=0.00Hz, RMS=0.0180g
+21:49:13.346 > 📊 ICM: ax=-296, ay=-192, az=16032 | Freq=0.00Hz, RMS=0.0181g
+21:49:13.451 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0180 g
+21:49:13.567 > 📊 ICM: ax=-316, ay=-176, az=16024 | Freq=0.00Hz, RMS=0.0181g
+21:49:13.673 > 📊 ICM: ax=-312, ay=-140, az=16092 | Freq=0.00Hz, RMS=0.0181g
+21:49:13.735 > 📊 ICM: ax=-316, ay=-148, az=16104 | Freq=0.00Hz, RMS=0.0181g
+21:49:13.735 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0181 g
+21:49:13.895 > 📊 ICM: ax=-468, ay=-64, az=16104 | Freq=0.00Hz, RMS=0.0181g
+21:49:13.895 > 📊 ICM: ax=-340, ay=-192, az=16016 | Freq=0.00Hz, RMS=0.0182g
+21:49:14.019 > 📊 ICM: ax=-288, ay=-196, az=16124 | Freq=0.00Hz, RMS=0.0183g
+21:49:14.019 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0183 g
+21:49:14.223 > 📊 ICM: ax=-304, ay=-176, az=16144 | Freq=0.00Hz, RMS=0.0183g
+21:49:14.305 > 📊 ICM: ax=-324, ay=-188, az=16016 | Freq=0.00Hz, RMS=0.0183g
+21:49:14.335 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0182 g
+21:49:14.335 > 📊 ICM: ax=-296, ay=-152, az=16100 | Freq=0.00Hz, RMS=0.0182g
+21:49:14.445 > 📊 ICM: ax=-320, ay=-220, az=16028 | Freq=0.00Hz, RMS=0.0182g
+21:49:14.595 > 📊 ICM: ax=-144, ay=-272, az=16128 | Freq=0.00Hz, RMS=0.0182g
+21:49:14.666 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0182 g
+21:49:14.666 > 📊 ICM: ax=-360, ay=-228, az=15996 | Freq=0.00Hz, RMS=0.0183g
+21:49:14.774 > 📊 ICM: ax=-316, ay=-264, az=16064 | Freq=0.00Hz, RMS=0.0184g
+21:49:14.881 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0184 g
+21:49:14.995 > 📊 ICM: ax=-420, ay=-128, az=16148 | Freq=0.00Hz, RMS=0.0184g
+21:49:15.101 > 📊 ICM: ax=-368, ay=-164, az=16152 | Freq=0.00Hz, RMS=0.0183g
+21:49:15.101 > 📊 ICM: ax=-280, ay=-184, az=16108 | Freq=0.00Hz, RMS=0.0182g
+21:49:15.162 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0182 g
+21:49:15.435 > 📊 ICM: ax=-292, ay=-252, az=16036 | Freq=0.00Hz, RMS=0.0182g
+21:49:15.435 > 📊 ICM: ax=-332, ay=-224, az=16024 | Freq=0.00Hz, RMS=0.0182g
+21:49:15.452 > 📊 ICM: ax=-284, ay=-240, az=16088 | Freq=0.00Hz, RMS=0.0183g
+21:49:15.452 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0182 g
+21:49:15.738 > 📊 ICM: ax=-308, ay=-132, az=16056 | Freq=0.00Hz, RMS=0.0182g
+21:49:15.738 > 📊 ICM: ax=-320, ay=-208, az=16056 | Freq=0.00Hz, RMS=0.0182g
+21:49:15.738 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0182 g
+21:49:15.765 > 📊 ICM: ax=-280, ay=-264, az=16120 | Freq=0.00Hz, RMS=0.0181g
+21:49:15.876 > 📊 ICM: ax=-260, ay=-80, az=16096 | Freq=0.00Hz, RMS=0.0181g
+21:49:16.023 > 📊 ICM: ax=-356, ay=-216, az=16108 | Freq=0.00Hz, RMS=0.0182g
+21:49:16.025 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0181 g
+21:49:16.206 > 📊 ICM: ax=-264, ay=-136, az=16040 | Freq=0.00Hz, RMS=0.0181g
+21:49:16.309 > 📊 ICM: ax=-332, ay=-108, az=16128 | Freq=0.00Hz, RMS=0.0181g
+21:49:16.311 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0180 g
+21:49:16.426 > 📊 ICM: ax=-376, ay=-172, az=16092 | Freq=0.00Hz, RMS=0.0180g
+21:49:16.537 > 📊 ICM: ax=-412, ay=-116, az=15996 | Freq=0.00Hz, RMS=0.0180g
+21:49:16.537 > 📊 ICM: ax=-224, ay=-108, az=16116 | Freq=0.00Hz, RMS=0.0180g
+21:49:16.593 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0180 g
+21:49:16.646 > 📊 ICM: ax=-328, ay=-96, az=16124 | Freq=0.00Hz, RMS=0.0181g
+21:49:16.866 > 📊 ICM: ax=-260, ay=-192, az=16080 | Freq=0.00Hz, RMS=0.0181g
+21:49:16.881 > 📊 ICM: ax=-308, ay=-188, az=16036 | Freq=0.00Hz, RMS=0.0182g
+21:49:16.882 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0182 g
+21:49:17.085 > 📊 ICM: ax=-332, ay=-184, az=16068 | Freq=0.00Hz, RMS=0.0182g
+21:49:17.167 > 📊 ICM: ax=-304, ay=-212, az=16132 | Freq=0.00Hz, RMS=0.0182g
+21:49:17.168 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0182 g
+21:49:17.192 > 📊 ICM: ax=-244, ay=-236, az=16104 | Freq=0.00Hz, RMS=0.0182g
+21:49:17.453 > 📊 ICM: ax=-392, ay=-180, az=16072 | Freq=0.00Hz, RMS=0.0181g
+21:49:17.453 > 📊 ICM: ax=-208, ay=-164, az=16116 | Freq=0.00Hz, RMS=0.0181g
+21:49:17.453 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0181 g
+21:49:17.526 > 📊 ICM: ax=-320, ay=-152, az=16088 | Freq=0.00Hz, RMS=0.0182g
+21:49:17.734 > 📊 ICM: ax=-308, ay=-260, az=16104 | Freq=0.00Hz, RMS=0.0183g
+21:49:17.734 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0183 g
+21:49:17.856 > 📊 ICM: ax=-260, ay=-124, az=16048 | Freq=0.00Hz, RMS=0.0183g
+21:49:17.961 > 📊 ICM: ax=-368, ay=-152, az=16108 | Freq=0.00Hz, RMS=0.0183g
+21:49:18.018 > 📊 ICM: ax=-332, ay=-168, az=16040 | Freq=0.00Hz, RMS=0.0183g
+21:49:18.018 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0184 g
+21:49:18.186 > 📊 ICM: ax=-332, ay=-200, az=16104 | Freq=0.00Hz, RMS=0.0185g
+21:49:18.292 > 📊 ICM: ax=-352, ay=-256, az=16044 | Freq=0.00Hz, RMS=0.0185g
+21:49:18.309 > 📊 ICM: ax=-296, ay=-228, az=16064 | Freq=0.00Hz, RMS=0.0186g
+21:49:18.309 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0186 g
+21:49:18.597 > 📊 ICM: ax=-316, ay=-124, az=16112 | Freq=0.00Hz, RMS=0.0185g
+21:49:18.597 > 📊 ICM: ax=-296, ay=-212, az=16188 | Freq=0.00Hz, RMS=0.0185g
+21:49:18.597 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0186 g
+21:49:18.734 > 📊 ICM: ax=-288, ay=-164, az=16088 | Freq=0.00Hz, RMS=0.0186g
+21:49:18.734 > 📊 ICM: ax=-384, ay=-148, az=16012 | Freq=0.00Hz, RMS=0.0186g
+21:49:18.882 > 📊 ICM: ax=-304, ay=-104, az=16068 | Freq=0.00Hz, RMS=0.0186g
+21:49:18.907 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0185 g
+21:49:19.059 > 📊 ICM: ax=-328, ay=-148, az=16084 | Freq=0.00Hz, RMS=0.0186g
+21:49:19.059 > 📊 ICM: ax=-292, ay=-124, az=16144 | Freq=0.00Hz, RMS=0.0185g
+21:49:19.160 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0185 g
+21:49:19.276 > 📊 ICM: ax=-320, ay=-184, az=16076 | Freq=0.00Hz, RMS=0.0185g
+21:49:19.276 > 📊 ICM: ax=-352, ay=-148, az=16016 | Freq=0.00Hz, RMS=0.0185g
+21:49:19.449 > 📊 ICM: ax=-328, ay=-180, az=16028 | Freq=0.00Hz, RMS=0.0185g
+21:49:19.449 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0185 g
+21:49:19.610 > 📊 ICM: ax=-228, ay=-104, az=16096 | Freq=0.00Hz, RMS=0.0184g
+21:49:19.723 > 📊 ICM: ax=-332, ay=-108, az=16096 | Freq=0.00Hz, RMS=0.0184g
+21:49:19.723 > 📊 ICM: ax=-264, ay=-188, az=16088 | Freq=0.00Hz, RMS=0.0184g
+21:49:19.735 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0184 g
+21:49:20.018 > 📊 ICM: ax=-356, ay=-224, az=16056 | Freq=0.00Hz, RMS=0.0185g
+21:49:20.018 > 📊 ICM: ax=-344, ay=-276, az=16084 | Freq=0.00Hz, RMS=0.0184g
+21:49:20.018 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0185 g
+21:49:20.160 > 📊 ICM: ax=-348, ay=-240, az=16072 | Freq=0.00Hz, RMS=0.0184g
+21:49:20.276 > 📊 ICM: ax=-232, ay=-124, az=16032 | Freq=0.00Hz, RMS=0.0184g
+21:49:20.310 > 📊 ICM: ax=-396, ay=-172, az=16064 | Freq=0.00Hz, RMS=0.0184g
+21:49:20.310 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0184 g
+21:49:20.596 > 📊 ICM: ax=-324, ay=-200, az=16104 | Freq=0.00Hz, RMS=0.0183g
+21:49:20.596 > 📊 ICM: ax=-344, ay=-212, az=16104 | Freq=0.00Hz, RMS=0.0183g
+21:49:20.605 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0183 g
+21:49:20.605 > 📊 ICM: ax=-260, ay=-208, az=16068 | Freq=0.00Hz, RMS=0.0183g
+21:49:20.715 > 📊 ICM: ax=-388, ay=-136, az=16104 | Freq=0.00Hz, RMS=0.0182g
+21:49:20.869 > 📊 ICM: ax=-332, ay=-148, az=16064 | Freq=0.00Hz, RMS=0.0181g
+21:49:20.869 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0181 g
+21:49:21.047 > 📊 ICM: ax=-248, ay=-256, az=16120 | Freq=0.00Hz, RMS=0.0181g
+21:49:21.047 > 📊 ICM: ax=-332, ay=-120, az=16160 | Freq=0.00Hz, RMS=0.0180g
+21:49:21.168 > 📊 ICM: ax=-392, ay=-276, az=15996 | Freq=0.00Hz, RMS=0.0181g
+21:49:21.267 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0181 g
+21:49:21.267 > 📊 ICM: ax=-200, ay=-228, az=16104 | Freq=0.00Hz, RMS=0.0180g
+21:49:21.376 > 📊 ICM: ax=-364, ay=-200, az=16044 | Freq=0.00Hz, RMS=0.0181g
+21:49:21.451 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0181 g
+21:49:21.485 > 📊 ICM: ax=-256, ay=-84, az=16060 | Freq=0.00Hz, RMS=0.0181g
+21:49:21.703 > 📊 ICM: ax=-300, ay=-132, az=16120 | Freq=0.00Hz, RMS=0.0181g
+21:49:21.734 > 📊 ICM: ax=-344, ay=-116, az=16068 | Freq=0.00Hz, RMS=0.0181g
+21:49:21.734 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0181 g
+21:49:21.815 > 📊 ICM: ax=-232, ay=-92, az=16056 | Freq=0.00Hz, RMS=0.0181g
+21:49:22.013 > 📊 ICM: ax=-332, ay=-224, az=16064 | Freq=0.00Hz, RMS=0.0181g
+21:49:22.029 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0182 g
+21:49:22.029 > 📊 ICM: ax=-324, ay=-184, az=16156 | Freq=0.00Hz, RMS=0.0182g
+21:49:22.309 > 📊 ICM: ax=-252, ay=-132, az=16096 | Freq=0.00Hz, RMS=0.0182g
+21:49:22.309 > 📊 ICM: ax=-296, ay=-188, az=16024 | Freq=0.00Hz, RMS=0.0182g
+21:49:22.309 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0181 g
+21:49:22.477 > 📊 ICM: ax=-292, ay=-176, az=16120 | Freq=0.00Hz, RMS=0.0180g
+21:49:22.478 > 📊 ICM: ax=-296, ay=-168, az=16096 | Freq=0.00Hz, RMS=0.0181g
+21:49:22.585 > 📊 ICM: ax=-288, ay=-68, az=16088 | Freq=0.00Hz, RMS=0.0181g
+21:49:22.593 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0181 g
+21:49:22.803 > 📊 ICM: ax=-284, ay=-140, az=16084 | Freq=0.00Hz, RMS=0.0181g
+21:49:22.803 > 📊 ICM: ax=-284, ay=-56, az=16112 | Freq=0.00Hz, RMS=0.0180g
+21:49:22.910 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0180 g
+21:49:22.910 > 📊 ICM: ax=-276, ay=-240, az=16096 | Freq=0.00Hz, RMS=0.0179g
+21:49:23.162 > 📊 ICM: ax=-336, ay=-140, az=16096 | Freq=0.00Hz, RMS=0.0181g
+21:49:23.162 > 📊 ICM: ax=-288, ay=-244, az=16056 | Freq=0.00Hz, RMS=0.0181g
+21:49:23.162 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0181 g
+21:49:23.350 > 📊 ICM: ax=-400, ay=-192, az=16052 | Freq=0.00Hz, RMS=0.0181g
+21:49:23.448 > 📊 ICM: ax=-372, ay=-176, az=16068 | Freq=0.00Hz, RMS=0.0181g
+21:49:23.448 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0181 g
+21:49:23.463 > 📊 ICM: ax=-300, ay=-56, az=16112 | Freq=0.00Hz, RMS=0.0181g
+21:49:23.686 > 📊 ICM: ax=-296, ay=-128, az=16148 | Freq=0.00Hz, RMS=0.0180g
+21:49:23.736 > 📊 ICM: ax=-380, ay=-112, az=16120 | Freq=0.00Hz, RMS=0.0181g
+21:49:23.736 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0181 g
+21:49:23.902 > 📊 ICM: ax=-348, ay=-136, az=16172 | Freq=0.00Hz, RMS=0.0181g
+21:49:23.902 > 📊 ICM: ax=-304, ay=-220, az=16076 | Freq=0.00Hz, RMS=0.0181g
+21:49:24.018 > 📊 ICM: ax=-312, ay=-208, az=16096 | Freq=0.00Hz, RMS=0.0180g
+21:49:24.125 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0180 g
+21:49:24.125 > 📊 ICM: ax=-276, ay=-160, az=16028 | Freq=0.00Hz, RMS=0.0181g
+21:49:24.234 > 📊 ICM: ax=-236, ay=-204, az=16124 | Freq=0.00Hz, RMS=0.0181g
+21:49:24.303 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0180 g
+21:49:24.346 > 📊 ICM: ax=-292, ay=-96, az=16068 | Freq=0.00Hz, RMS=0.0181g
+21:49:24.566 > 📊 ICM: ax=-204, ay=-176, az=16064 | Freq=0.00Hz, RMS=0.0180g
+21:49:24.566 > 📊 ICM: ax=-352, ay=-168, az=16068 | Freq=0.00Hz, RMS=0.0181g
+21:49:24.674 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0181 g
+21:49:24.674 > 📊 ICM: ax=-368, ay=-120, az=15976 | Freq=0.00Hz, RMS=0.0181g
+21:49:24.873 > 📊 ICM: ax=-396, ay=-156, az=16184 | Freq=0.00Hz, RMS=0.0181g
+21:49:24.873 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0181 g
+21:49:25.001 > 📊 ICM: ax=-284, ay=-128, az=16140 | Freq=0.00Hz, RMS=0.0181g
+21:49:25.019 > 📊 ICM: ax=-392, ay=-268, az=16124 | Freq=0.00Hz, RMS=0.0181g
+21:49:25.162 > 📊 ICM: ax=-380, ay=-132, az=16000 | Freq=0.00Hz, RMS=0.0181g
+21:49:25.225 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0181 g
+21:49:25.225 > 📊 ICM: ax=-368, ay=-224, az=16108 | Freq=0.00Hz, RMS=0.0180g
+21:49:25.445 > 📊 ICM: ax=-380, ay=-144, az=16120 | Freq=0.00Hz, RMS=0.0181g
+21:49:25.445 > 📊 ICM: ax=-296, ay=-128, az=16076 | Freq=0.00Hz, RMS=0.0182g
+21:49:25.553 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0182 g
+21:49:25.553 > 📊 ICM: ax=-300, ay=-224, az=16120 | Freq=0.00Hz, RMS=0.0181g
+21:49:25.736 > 📊 ICM: ax=-164, ay=-172, az=16064 | Freq=0.00Hz, RMS=0.0182g
+21:49:25.736 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0182 g
+21:49:25.886 > 📊 ICM: ax=-304, ay=-140, az=15968 | Freq=0.00Hz, RMS=0.0182g
+21:49:25.993 > 📊 ICM: ax=-256, ay=-104, az=16032 | Freq=0.00Hz, RMS=0.0183g
+21:49:25.993 > 📊 ICM: ax=-260, ay=-196, az=16140 | Freq=0.00Hz, RMS=0.0183g
+21:49:26.106 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0183 g
+21:49:26.106 > 📊 ICM: ax=-328, ay=-232, az=16108 | Freq=0.00Hz, RMS=0.0183g
+21:49:26.303 > 📊 ICM: ax=-352, ay=-204, az=16096 | Freq=0.00Hz, RMS=0.0183g
+21:49:26.303 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0183 g
+21:49:26.436 > 📊 ICM: ax=-328, ay=-192, az=16064 | Freq=0.00Hz, RMS=0.0183g
+21:49:26.542 > 📊 ICM: ax=-344, ay=-200, az=16112 | Freq=0.00Hz, RMS=0.0183g
+21:49:26.593 > 📊 ICM: ax=-316, ay=-156, az=16112 | Freq=0.00Hz, RMS=0.0183g
+21:49:26.593 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0183 g
+21:49:26.653 > 📊 ICM: ax=-400, ay=-188, az=16104 | Freq=0.00Hz, RMS=0.0182g
+21:49:26.872 > 📊 ICM: ax=-368, ay=-128, az=16108 | Freq=0.00Hz, RMS=0.0182g
+21:49:26.872 > 📊 ICM: ax=-364, ay=-148, az=16088 | Freq=0.00Hz, RMS=0.0182g
+21:49:26.872 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0182 g
+21:49:26.977 > 📊 ICM: ax=-328, ay=-136, az=16156 | Freq=0.00Hz, RMS=0.0182g
+21:49:27.159 > 📊 ICM: ax=-328, ay=-180, az=16104 | Freq=0.00Hz, RMS=0.0179g
+21:49:27.159 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0179 g
+21:49:27.312 > 📊 ICM: ax=-396, ay=-184, az=16088 | Freq=0.00Hz, RMS=0.0178g
+21:49:27.427 > 📊 ICM: ax=-284, ay=-220, az=16076 | Freq=0.00Hz, RMS=0.0179g
+21:49:27.427 > 📊 ICM: ax=-348, ay=-244, az=16032 | Freq=0.00Hz, RMS=0.0179g
+21:49:27.451 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0178 g
+21:49:27.537 > 📊 ICM: ax=-236, ay=-68, az=16064 | Freq=0.00Hz, RMS=0.0178g
+21:49:27.735 > 📊 ICM: ax=-328, ay=-224, az=16104 | Freq=0.00Hz, RMS=0.0179g
+21:49:27.735 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0179 g
+21:49:27.861 > 📊 ICM: ax=-260, ay=-168, az=16108 | Freq=0.00Hz, RMS=0.0179g
+21:49:27.867 > 📊 ICM: ax=-460, ay=-96, az=16040 | Freq=0.00Hz, RMS=0.0179g
+21:49:28.021 > 📊 ICM: ax=-332, ay=-128, az=16084 | Freq=0.00Hz, RMS=0.0179g
+21:49:28.021 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0179 g
+21:49:28.196 > 📊 ICM: ax=-316, ay=-164, az=16080 | Freq=0.00Hz, RMS=0.0178g
+21:49:28.301 > 📊 ICM: ax=-368, ay=-208, az=16044 | Freq=0.00Hz, RMS=0.0179g
+21:49:28.301 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0178 g
+21:49:28.417 > 📊 ICM: ax=-256, ay=-180, az=16084 | Freq=0.00Hz, RMS=0.0178g
+21:49:28.447 > 📊 ICM: ax=-320, ay=-188, az=16032 | Freq=0.00Hz, RMS=0.0178g
+21:49:28.586 > 📊 ICM: ax=-312, ay=-124, az=16088 | Freq=0.00Hz, RMS=0.0178g
+21:49:28.593 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0178 g
+21:49:28.635 > 📊 ICM: ax=-360, ay=-68, az=16148 | Freq=0.00Hz, RMS=0.0177g
+21:49:28.743 > 📊 ICM: ax=-328, ay=-188, az=16176 | Freq=0.00Hz, RMS=0.0176g
+21:49:28.875 > 📊 ICM: ax=-344, ay=-176, az=16120 | Freq=0.00Hz, RMS=0.0176g
+21:49:28.875 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0176 g
+21:49:28.966 > 📊 ICM: ax=-308, ay=-64, az=16072 | Freq=0.00Hz, RMS=0.0176g
+21:49:29.150 > 📊 ICM: ax=-312, ay=-148, az=16108 | Freq=0.00Hz, RMS=0.0176g
+21:49:29.150 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0176 g
+21:49:29.294 > 📊 ICM: ax=-284, ay=-84, az=16124 | Freq=0.00Hz, RMS=0.0176g
+21:49:29.294 > 📊 ICM: ax=-388, ay=-204, az=16036 | Freq=0.00Hz, RMS=0.0177g
+21:49:29.446 > 📊 ICM: ax=-292, ay=-260, az=16172 | Freq=0.00Hz, RMS=0.0178g
+21:49:29.446 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0178 g
+21:49:29.736 > 📊 ICM: ax=-336, ay=-220, az=16068 | Freq=0.00Hz, RMS=0.0179g
+21:49:29.736 > 📊 ICM: ax=-252, ay=-160, az=16108 | Freq=0.00Hz, RMS=0.0180g
+21:49:29.736 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0180 g
+21:49:29.736 > 📊 ICM: ax=-200, ay=-112, az=16040 | Freq=0.00Hz, RMS=0.0180g
+21:49:29.848 > 📊 ICM: ax=-328, ay=-92, az=16068 | Freq=0.00Hz, RMS=0.0181g
+21:49:30.015 > 📊 ICM: ax=-264, ay=-144, az=16072 | Freq=0.00Hz, RMS=0.0180g
+21:49:30.015 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0181 g
+21:49:30.171 > 📊 ICM: ax=-344, ay=-100, az=16104 | Freq=0.00Hz, RMS=0.0181g
+21:49:30.171 > 📊 ICM: ax=-304, ay=-148, az=16136 | Freq=0.00Hz, RMS=0.0181g
+21:49:30.285 > 📊 ICM: ax=-232, ay=-88, az=16120 | Freq=0.00Hz, RMS=0.0181g
+21:49:30.303 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0181 g
+21:49:30.507 > 📊 ICM: ax=-260, ay=-216, az=16132 | Freq=0.00Hz, RMS=0.0181g
+21:49:30.507 > 📊 ICM: ax=-360, ay=-192, az=16096 | Freq=0.00Hz, RMS=0.0181g
+21:49:30.590 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0181 g
+21:49:30.618 > [173396][E][Wire.cpp:513] requestFrom(): i2cRead returned Error 📊 ICM: ax=-332, ay=-148, az=16068 | Freq=0.00Hz, RMS=0.0181g
+21:49:30.618 > -1
+21:49:30.835 > 📊 ICM: ax=-264, ay=-220, az=16056 | Freq=0.00Hz, RMS=0.0182g
+21:49:30.877 > 📊 ICM: ax=-372, ay=-248, az=16084 | Freq=0.00Hz, RMS=0.0182g
+21:49:30.877 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0182 g
+21:49:30.943 > 📊 ICM: ax=-372, ay=-52, az=16068 | Freq=0.00Hz, RMS=0.0183g
+21:49:31.162 > 📊 ICM: ax=-300, ay=-168, az=16084 | Freq=0.00Hz, RMS=0.0182g
+21:49:31.172 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0183 g
+21:49:31.172 > 📊 ICM: ax=-340, ay=-172, az=16108 | Freq=0.00Hz, RMS=0.0183g
+21:49:31.385 > 📊 ICM: ax=-372, ay=-248, az=16016 | Freq=0.00Hz, RMS=0.0184g
+21:49:31.442 > 📊 ICM: ax=-312, ay=-220, az=16124 | Freq=0.00Hz, RMS=0.0184g
+21:49:31.442 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0184 g
+21:49:31.603 > 📊 ICM: ax=-348, ay=-120, az=16116 | Freq=0.00Hz, RMS=0.0184g
+21:49:31.603 > 📊 ICM: ax=-256, ay=-196, az=16044 | Freq=0.00Hz, RMS=0.0185g
+21:49:31.731 > 📊 ICM: ax=-280, ay=-208, az=16132 | Freq=0.00Hz, RMS=0.0185g
+21:49:31.731 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0185 g
+21:49:31.925 > 📊 ICM: ax=-204, ay=-176, az=16108 | Freq=0.00Hz, RMS=0.0185g
+21:49:32.014 > 📊 ICM: ax=-272, ay=-152, az=16108 | Freq=0.00Hz, RMS=0.0185g
+21:49:32.014 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0185 g
+21:49:32.151 > 📊 ICM: ax=-360, ay=-180, az=16064 | Freq=0.00Hz, RMS=0.0185g
+21:49:32.266 > 📊 ICM: ax=-308, ay=-148, az=16032 | Freq=0.00Hz, RMS=0.0185g
+21:49:32.266 > 📊 ICM: ax=-324, ay=-220, az=16064 | Freq=0.00Hz, RMS=0.0186g
+21:49:32.290 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0186 g
+21:49:32.585 > 📊 ICM: ax=-336, ay=-104, az=16072 | Freq=0.00Hz, RMS=0.0186g
+21:49:32.585 > 📊 ICM: ax=-356, ay=-288, az=16096 | Freq=0.00Hz, RMS=0.0187g
+21:49:32.596 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0187 g
+21:49:32.596 > 📊 ICM: ax=-312, ay=-152, az=16092 | Freq=0.00Hz, RMS=0.0187g
+21:49:32.810 > 📊 ICM: ax=-304, ay=-204, az=16084 | Freq=0.00Hz, RMS=0.0187g
+21:49:32.868 > 📊 ICM: ax=-360, ay=-216, az=16108 | Freq=0.00Hz, RMS=0.0187g
+21:49:32.868 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0188 g
+21:49:32.926 > 📊 ICM: ax=-356, ay=-220, az=16056 | Freq=0.00Hz, RMS=0.0188g
+21:49:33.152 > 📊 ICM: ax=-296, ay=-112, az=16056 | Freq=0.00Hz, RMS=0.0188g
+21:49:33.152 > 📊 ICM: ax=-388, ay=-224, az=16040 | Freq=0.00Hz, RMS=0.0188g
+21:49:33.152 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0188 g
+21:49:33.352 > 📊 ICM: ax=-272, ay=-196, az=16184 | Freq=0.00Hz, RMS=0.0188g
+21:49:33.368 > 📊 ICM: ax=-416, ay=-196, az=16112 | Freq=0.00Hz, RMS=0.0187g
+21:49:33.432 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0188 g
+21:49:33.476 > 📊 ICM: ax=-356, ay=-84, az=16136 | Freq=0.00Hz, RMS=0.0188g
+21:49:33.693 > 📊 ICM: ax=-288, ay=-172, az=16080 | Freq=0.00Hz, RMS=0.0188g
+21:49:33.693 > 📊 ICM: ax=-264, ay=-144, az=16072 | Freq=0.00Hz, RMS=0.0187g
+21:49:33.726 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0188 g
+21:49:33.915 > 📊 ICM: ax=-332, ay=-140, az=16180 | Freq=0.00Hz, RMS=0.0188g
+21:49:34.014 > 📊 ICM: ax=-280, ay=-188, az=16092 | Freq=0.00Hz, RMS=0.0189g
+21:49:34.014 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0189 g
+21:49:34.128 > 📊 ICM: ax=-212, ay=-216, az=16080 | Freq=0.00Hz, RMS=0.0189g
+21:49:34.161 > [176907][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+21:49:34.303 > 📊 ICM: ax=-232, ay=-200, az=16136 | Freq=0.00Hz, RMS=0.0189g
+21:49:34.303 > 📊 ICM: ax=-244, ay=-184, az=16076 | Freq=0.00Hz, RMS=0.0189g
+21:49:34.353 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0189 g
+21:49:34.358 > 📊 ICM: ax=-296, ay=-148, az=16060 | Freq=0.00Hz, RMS=0.0189g
+21:49:34.576 > 📊 ICM: ax=-284, ay=-200, az=16080 | Freq=0.00Hz, RMS=0.0189g
+21:49:34.585 > 📊 ICM: ax=-364, ay=-84, az=16052 | Freq=0.00Hz, RMS=0.0189g
+21:49:34.585 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0189 g
+21:49:34.791 > 📊 ICM: ax=-236, ay=-136, az=16132 | Freq=0.00Hz, RMS=0.0188g
+21:49:34.791 > 📊 ICM: ax=-216, ay=-252, az=16160 | Freq=0.00Hz, RMS=0.0187g
+21:49:34.873 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0187 g
+21:49:35.012 > 📊 ICM: ax=-268, ay=-180, az=16056 | Freq=0.00Hz, RMS=0.0187g
+21:49:35.012 > 📊 ICM: ax=-308, ay=-188, az=16076 | Freq=0.00Hz, RMS=0.0186g
+21:49:35.159 > 📊 ICM: ax=-292, ay=-136, az=16104 | Freq=0.00Hz, RMS=0.0186g
+21:49:35.238 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0185 g
+21:49:35.262 > 📊 ICM: ax=-280, ay=-156, az=16052 | Freq=0.00Hz, RMS=0.0185g
+21:49:35.446 > 📊 ICM: ax=-296, ay=-108, az=16080 | Freq=0.00Hz, RMS=0.0185g
+21:49:35.446 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0185 g
+21:49:35.566 > 📊 ICM: ax=-316, ay=-120, az=16040 | Freq=0.00Hz, RMS=0.0185g
+21:49:35.676 > 📊 ICM: ax=-268, ay=-40, az=16132 | Freq=0.00Hz, RMS=0.0184g
+21:49:35.676 > 📊 ICM: ax=-328, ay=-180, az=16052 | Freq=0.00Hz, RMS=0.0184g
+21:49:35.733 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0184 g
+21:49:35.896 > 📊 ICM: ax=-316, ay=-176, az=16168 | Freq=0.00Hz, RMS=0.0183g
+21:49:36.003 > 📊 ICM: ax=-280, ay=-200, az=16152 | Freq=0.00Hz, RMS=0.0183g
+21:49:36.012 > 📊 ICM: ax=-300, ay=-180, az=16040 | Freq=0.00Hz, RMS=0.0183g
+21:49:36.018 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0183 g
+21:49:36.117 > 📊 ICM: ax=-312, ay=-168, az=16116 | Freq=0.00Hz, RMS=0.0183g
+21:49:36.301 > 📊 ICM: ax=-260, ay=-184, az=16140 | Freq=0.00Hz, RMS=0.0183g
+21:49:36.301 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0183 g
+21:49:36.443 > 📊 ICM: ax=-404, ay=-164, az=16072 | Freq=0.00Hz, RMS=0.0183g
+21:49:36.443 > 📊 ICM: ax=-288, ay=-160, az=16140 | Freq=0.00Hz, RMS=0.0182g
+21:49:36.587 > 📊 ICM: ax=-392, ay=-172, az=16040 | Freq=0.00Hz, RMS=0.0181g
+21:49:36.623 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0182 g
+21:49:36.771 > 📊 ICM: ax=-364, ay=-228, az=16036 | Freq=0.00Hz, RMS=0.0181g
+21:49:36.867 > 📊 ICM: ax=-320, ay=-304, az=16060 | Freq=0.00Hz, RMS=0.0182g
+21:49:36.867 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0182 g
+21:49:36.991 > 📊 ICM: ax=-188, ay=-192, az=16092 | Freq=0.00Hz, RMS=0.0183g
+21:49:37.097 > 📊 ICM: ax=-312, ay=-136, az=16056 | Freq=0.00Hz, RMS=0.0182g
+21:49:37.145 > 📊 ICM: ax=-396, ay=-184, az=16140 | Freq=0.00Hz, RMS=0.0183g
+21:49:37.145 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0183 g
+21:49:37.323 > 📊 ICM: ax=-324, ay=-212, az=16012 | Freq=0.00Hz, RMS=0.0183g
+21:49:37.428 > 📊 ICM: ax=-352, ay=-152, az=16056 | Freq=0.00Hz, RMS=0.0183g
+21:49:37.428 > 📊 ICM: ax=-352, ay=-192, az=16124 | Freq=0.00Hz, RMS=0.0183g
+21:49:37.444 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0183 g
+21:49:37.728 > 📊 ICM: ax=-372, ay=-160, az=16076 | Freq=0.00Hz, RMS=0.0182g
+21:49:37.728 > 📊 ICM: ax=-276, ay=-148, az=16096 | Freq=0.00Hz, RMS=0.0183g
+21:49:37.728 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0184 g
+21:49:37.873 > 📊 ICM: ax=-360, ay=-180, az=16120 | Freq=0.00Hz, RMS=0.0183g
+21:49:37.986 > 📊 ICM: ax=-356, ay=-116, az=16052 | Freq=0.00Hz, RMS=0.0184g
+21:49:37.999 > 📊 ICM: ax=-384, ay=-204, az=16052 | Freq=0.00Hz, RMS=0.0183g
+21:49:38.009 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0183 g
+21:49:38.195 > 📊 ICM: ax=-344, ay=-224, az=16064 | Freq=0.00Hz, RMS=0.0183g
+21:49:38.195 > 📊 ICM: ax=-228, ay=-132, az=15992 | Freq=0.00Hz, RMS=0.0184g
+21:49:38.291 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0184 g
+21:49:38.525 > 📊 ICM: ax=-332, ay=-212, az=16128 | Freq=0.00Hz, RMS=0.0184g
+21:49:38.525 > 📊 ICM: ax=-372, ay=-208, az=16088 | Freq=0.00Hz, RMS=0.0185g
+21:49:38.525 > [181307][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+21:49:38.534 > 📊 ICM: ax=-336, ay=-212, az=16096 | Freq=0.00Hz, RMS=0.0185g
+21:49:38.587 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0184 g
+21:49:38.866 > 📊 ICM: ax=-284, ay=-188, az=16156 | Freq=0.00Hz, RMS=0.0183g
+21:49:38.866 > 📊 ICM: ax=-308, ay=-180, az=16068 | Freq=0.00Hz, RMS=0.0184g
+21:49:38.866 > 📊 ICM: ax=-400, ay=-80, az=16028 | Freq=0.00Hz, RMS=0.0184g
+21:49:38.963 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0184 g
+21:49:38.963 > 📊 ICM: ax=-296, ay=-112, az=16156 | Freq=0.00Hz, RMS=0.0185g
+21:49:39.150 > 📊 ICM: ax=-276, ay=-208, az=16084 | Freq=0.00Hz, RMS=0.0186g
+21:49:39.150 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0185 g
+21:49:39.188 > 📊 ICM: ax=-296, ay=-160, az=16088 | Freq=0.00Hz, RMS=0.0185g
+21:49:39.415 > 📊 ICM: ax=-272, ay=-212, az=16148 | Freq=0.00Hz, RMS=0.0185g
+21:49:39.447 > 📊 ICM: ax=-256, ay=-224, az=16064 | Freq=0.00Hz, RMS=0.0184g
+21:49:39.447 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0185 g
+21:49:39.633 > 📊 ICM: ax=-240, ay=-184, az=16096 | Freq=0.00Hz, RMS=0.0185g
+21:49:39.633 > 📊 ICM: ax=-372, ay=-184, az=16148 | Freq=0.00Hz, RMS=0.0184g
+21:49:39.745 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0184 g
+21:49:39.745 > 📊 ICM: ax=-384, ay=-264, az=16108 | Freq=0.00Hz, RMS=0.0184g
+21:49:39.962 > 📊 ICM: ax=-340, ay=-100, az=16088 | Freq=0.00Hz, RMS=0.0185g
+21:49:39.962 > 📊 ICM: ax=-280, ay=-120, az=16100 | Freq=0.00Hz, RMS=0.0184g
+21:49:40.018 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0184 g
+21:49:40.075 > 📊 ICM: ax=-348, ay=-80, az=16164 | Freq=0.00Hz, RMS=0.0184g
+21:49:40.293 > 📊 ICM: ax=-248, ay=-168, az=16116 | Freq=0.00Hz, RMS=0.0184g
+21:49:40.293 > 📊 ICM: ax=-312, ay=-124, az=16056 | Freq=0.00Hz, RMS=0.0184g
+21:49:40.399 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0184 g
+21:49:40.399 > 📊 ICM: ax=-272, ay=-220, az=15876 | Freq=0.00Hz, RMS=0.0185g
+21:49:40.582 > 📊 ICM: ax=-256, ay=-224, az=16068 | Freq=0.00Hz, RMS=0.0185g
+21:49:40.622 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0185 g
+21:49:40.622 > 📊 ICM: ax=-388, ay=-116, az=16104 | Freq=0.00Hz, RMS=0.0185g
+21:49:40.845 > 📊 ICM: ax=-264, ay=-116, az=16032 | Freq=0.00Hz, RMS=0.0184g
+21:49:40.868 > 📊 ICM: ax=-348, ay=-132, az=16092 | Freq=0.00Hz, RMS=0.0183g
+21:49:40.868 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0183 g
+21:49:40.952 > 📊 ICM: ax=-328, ay=-132, az=16092 | Freq=0.00Hz, RMS=0.0183g
+21:49:41.147 > 📊 ICM: ax=-396, ay=-128, az=16128 | Freq=0.00Hz, RMS=0.0182g
+21:49:41.147 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0183 g
+21:49:41.275 > 📊 ICM: ax=-328, ay=-220, az=16136 | Freq=0.00Hz, RMS=0.0183g
+21:49:41.391 > 📊 ICM: ax=-304, ay=-188, az=16072 | Freq=0.00Hz, RMS=0.0183g
+21:49:41.391 > 📊 ICM: ax=-368, ay=-156, az=16048 | Freq=0.00Hz, RMS=0.0183g
+21:49:41.443 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0183 g
+21:49:41.617 > 📊 ICM: ax=-324, ay=-160, az=16076 | Freq=0.00Hz, RMS=0.0183g
+21:49:41.725 > 📊 ICM: ax=-320, ay=-236, az=16092 | Freq=0.00Hz, RMS=0.0183g
+21:49:41.725 > 📊 ICM: ax=-328, ay=-180, az=16060 | Freq=0.00Hz, RMS=0.0183g
+21:49:41.836 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0183 g
+21:49:41.836 > 📊 ICM: ax=-236, ay=-116, az=16052 | Freq=0.00Hz, RMS=0.0183g
+21:49:42.005 > 📊 ICM: ax=-272, ay=-88, az=16044 | Freq=0.00Hz, RMS=0.0183g
+21:49:42.005 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0182 g
+21:49:42.165 > 📊 ICM: ax=-208, ay=-204, az=16072 | Freq=0.00Hz, RMS=0.0182g
+21:49:42.165 > 📊 ICM: ax=-420, ay=-164, az=15968 | Freq=0.00Hz, RMS=0.0182g
+21:49:42.297 > 📊 ICM: ax=-304, ay=-188, az=16048 | Freq=0.00Hz, RMS=0.0183g
+21:49:42.297 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0183 g
+21:49:42.385 > 📊 ICM: ax=-264, ay=-128, az=16088 | Freq=0.00Hz, RMS=0.0182g
+21:49:42.585 > 📊 ICM: ax=-204, ay=-128, az=16076 | Freq=0.00Hz, RMS=0.0182g
+21:49:42.606 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0183 g
+21:49:42.606 > 📊 ICM: ax=-372, ay=-196, az=16132 | Freq=0.00Hz, RMS=0.0183g
+21:49:42.713 > 📊 ICM: ax=-304, ay=-200, az=16112 | Freq=0.00Hz, RMS=0.0183g
+21:49:42.869 > 📊 ICM: ax=-320, ay=-200, az=16160 | Freq=0.00Hz, RMS=0.0182g
+21:49:42.869 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0182 g
+21:49:43.036 > 📊 ICM: ax=-388, ay=-192, az=16044 | Freq=0.00Hz, RMS=0.0182g
+21:49:43.156 > 📊 ICM: ax=-308, ay=-180, az=16100 | Freq=0.00Hz, RMS=0.0182g
+21:49:43.158 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0182 g
+21:49:43.262 > 📊 ICM: ax=-344, ay=-144, az=16016 | Freq=0.00Hz, RMS=0.0182g
+21:49:43.376 > 📊 ICM: ax=-312, ay=-112, az=16080 | Freq=0.00Hz, RMS=0.0183g
+21:49:43.443 > 📊 ICM: ax=-240, ay=-188, az=16044 | Freq=0.00Hz, RMS=0.0183g
+21:49:43.443 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0183 g
+21:49:43.596 > 📊 ICM: ax=-272, ay=-176, az=16076 | Freq=0.00Hz, RMS=0.0183g
+21:49:43.707 > 📊 ICM: ax=-316, ay=-204, az=16148 | Freq=0.00Hz, RMS=0.0184g
+21:49:43.727 > 📊 ICM: ax=-280, ay=-196, az=16100 | Freq=0.00Hz, RMS=0.0185g
+21:49:43.727 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0184 g
+21:49:43.810 > 📊 ICM: ax=-340, ay=-204, az=16060 | Freq=0.00Hz, RMS=0.0185g
+21:49:44.010 > 📊 ICM: ax=-312, ay=-180, az=16032 | Freq=0.00Hz, RMS=0.0186g
+21:49:44.010 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0185 g
+21:49:44.142 > 📊 ICM: ax=-260, ay=-220, az=16024 | Freq=0.00Hz, RMS=0.0185g
+21:49:44.142 > 📊 ICM: ax=-264, ay=-112, az=16120 | Freq=0.00Hz, RMS=0.0185g
+21:49:44.299 > 📊 ICM: ax=-296, ay=-136, az=16140 | Freq=0.00Hz, RMS=0.0184g
+21:49:44.299 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0184 g
+21:49:44.324 > [187102][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+21:49:44.472 > 📊 ICM: ax=-400, ay=-136, az=16176 | Freq=0.00Hz, RMS=0.0184g
+21:49:44.472 > 📊 ICM: ax=-328, ay=-144, az=16100 | Freq=0.00Hz, RMS=0.0184g
+21:49:44.579 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0185 g
+21:49:44.692 > 📊 ICM: ax=-296, ay=-132, az=16068 | Freq=0.00Hz, RMS=0.0185g
+21:49:44.806 > 📊 ICM: ax=-288, ay=-168, az=16028 | Freq=0.00Hz, RMS=0.0184g
+21:49:44.869 > 📊 ICM: ax=-308, ay=-196, az=16140 | Freq=0.00Hz, RMS=0.0183g
+21:49:44.869 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0183 g
+21:49:45.025 > 📊 ICM: ax=-324, ay=-180, az=16036 | Freq=0.00Hz, RMS=0.0182g
+21:49:45.131 > 📊 ICM: ax=-384, ay=-252, az=16140 | Freq=0.00Hz, RMS=0.0182g
+21:49:45.131 > 📊 ICM: ax=-372, ay=-68, az=16220 | Freq=0.00Hz, RMS=0.0181g
+21:49:45.148 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0181 g
+21:49:45.357 > 📊 ICM: ax=-312, ay=-104, az=16120 | Freq=0.00Hz, RMS=0.0181g
+21:49:45.428 > 📊 ICM: ax=-328, ay=-240, az=16136 | Freq=0.00Hz, RMS=0.0180g
+21:49:45.428 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0181 g
+21:49:45.571 > 📊 ICM: ax=-300, ay=-148, az=16104 | Freq=0.00Hz, RMS=0.0181g
+21:49:45.571 > 📊 ICM: ax=-436, ay=-120, az=16096 | Freq=0.00Hz, RMS=0.0180g
+21:49:45.716 > 📊 ICM: ax=-332, ay=-172, az=16032 | Freq=0.00Hz, RMS=0.0179g
+21:49:45.716 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0179 g
+21:49:45.788 > 📊 ICM: ax=-320, ay=-76, az=16128 | Freq=0.00Hz, RMS=0.0179g
+21:49:45.901 > 📊 ICM: ax=-196, ay=-216, az=16064 | Freq=0.00Hz, RMS=0.0179g
+21:49:46.005 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0179 g
+21:49:46.117 > 📊 ICM: ax=-464, ay=-256, az=16068 | Freq=0.00Hz, RMS=0.0179g
+21:49:46.230 > 📊 ICM: ax=-336, ay=-272, az=16108 | Freq=0.00Hz, RMS=0.0178g
+21:49:46.230 > 📊 ICM: ax=-220, ay=-240, az=16140 | Freq=0.00Hz, RMS=0.0178g
+21:49:46.286 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0177 g
+21:49:46.334 > 📊 ICM: ax=-296, ay=-84, az=16040 | Freq=0.00Hz, RMS=0.0177g
+21:49:46.560 > 📊 ICM: ax=-280, ay=-148, az=16100 | Freq=0.00Hz, RMS=0.0176g
+21:49:46.576 > 📊 ICM: ax=-376, ay=-104, az=16100 | Freq=0.00Hz, RMS=0.0176g
+21:49:46.576 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0176 g
+21:49:46.778 > 📊 ICM: ax=-308, ay=-136, az=16116 | Freq=0.00Hz, RMS=0.0176g
+21:49:46.883 > 📊 ICM: ax=-492, ay=-156, az=16116 | Freq=0.00Hz, RMS=0.0176g
+21:49:46.883 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0176 g
+21:49:46.883 > 📊 ICM: ax=-280, ay=-80, az=16060 | Freq=0.00Hz, RMS=0.0176g
+21:49:47.116 > 📊 ICM: ax=-324, ay=-276, az=16080 | Freq=0.00Hz, RMS=0.0176g
+21:49:47.182 > 📊 ICM: ax=-272, ay=-400, az=16104 | Freq=0.00Hz, RMS=0.0175g
+21:49:47.182 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0175 g
+21:49:47.214 > 📊 ICM: ax=-36, ay=-220, az=16100 | Freq=0.00Hz, RMS=0.0176g
+21:49:47.334 > 📊 ICM: ax=-364, ay=-180, az=16108 | Freq=0.00Hz, RMS=0.0176g
+21:49:47.472 > 📊 ICM: ax=-492, ay=-164, az=16056 | Freq=0.00Hz, RMS=0.0176g
+21:49:47.472 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0177 g
+21:49:47.666 > 📊 ICM: ax=-384, ay=-144, az=16064 | Freq=0.00Hz, RMS=0.0177g
+21:49:47.666 > 📊 ICM: ax=-204, ay=-176, az=16088 | Freq=0.00Hz, RMS=0.0177g
+21:49:47.763 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0179 g
+21:49:47.763 > 📊 ICM: ax=-480, ay=-168, az=16116 | Freq=0.00Hz, RMS=0.0179g
+21:49:47.997 > 📊 ICM: ax=-176, ay=-192, az=16068 | Freq=0.00Hz, RMS=0.0179g
+21:49:47.997 > 📊 ICM: ax=-328, ay=-96, az=16148 | Freq=0.00Hz, RMS=0.0179g
+21:49:48.053 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0179 g
+21:49:48.319 > 📊 ICM: ax=-300, ay=-188, az=16060 | Freq=0.00Hz, RMS=0.0179g
+21:49:48.319 > 📊 ICM: ax=-308, ay=-224, az=16144 | Freq=0.00Hz, RMS=0.0179g
+21:49:48.335 > 📊 ICM: ax=-304, ay=-180, az=16132 | Freq=0.00Hz, RMS=0.0179g
+21:49:48.335 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0179 g
+21:49:48.544 > 📊 ICM: ax=-276, ay=-140, az=16056 | Freq=0.00Hz, RMS=0.0179g
+21:49:48.650 > 📊 ICM: ax=-312, ay=-232, az=16076 | Freq=0.00Hz, RMS=0.0179g
+21:49:48.650 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0178 g
+21:49:48.650 > 📊 ICM: ax=-368, ay=-92, az=16164 | Freq=0.00Hz, RMS=0.0178g
+21:49:48.877 > 📊 ICM: ax=-356, ay=-212, az=16104 | Freq=0.00Hz, RMS=0.0178g
+21:49:48.934 > 📊 ICM: ax=-280, ay=-180, az=16100 | Freq=0.00Hz, RMS=0.0178g
+21:49:48.934 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0178 g
+21:49:49.086 > 📊 ICM: ax=-368, ay=-204, az=16084 | Freq=0.00Hz, RMS=0.0177g
+21:49:49.086 > 📊 ICM: ax=-316, ay=-176, az=16076 | Freq=0.00Hz, RMS=0.0177g
+21:49:49.224 > 📊 ICM: ax=-308, ay=-204, az=16044 | Freq=0.00Hz, RMS=0.0177g
+21:49:49.224 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0177 g
+21:49:49.415 > 📊 ICM: ax=-264, ay=-92, az=16048 | Freq=0.00Hz, RMS=0.0177g
+21:49:49.415 > 📊 ICM: ax=-296, ay=-184, az=16164 | Freq=0.00Hz, RMS=0.0177g
+21:49:49.511 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0176 g
+21:49:49.633 > 📊 ICM: ax=-348, ay=-128, az=16084 | Freq=0.00Hz, RMS=0.0176g
+21:49:49.746 > 📊 ICM: ax=-244, ay=-196, az=16096 | Freq=0.00Hz, RMS=0.0177g
+21:49:49.746 > 📊 ICM: ax=-240, ay=-200, az=16036 | Freq=0.00Hz, RMS=0.0178g
+21:49:49.818 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0179 g
+21:49:49.964 > 📊 ICM: ax=-344, ay=-148, az=16072 | Freq=0.00Hz, RMS=0.0179g
+21:49:49.964 > 📊 ICM: ax=-312, ay=-84, az=16088 | Freq=0.00Hz, RMS=0.0178g
+21:49:50.117 > 📊 ICM: ax=-256, ay=-292, az=16096 | Freq=0.00Hz, RMS=0.0178g
+21:49:50.117 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0178 g
+21:49:50.308 > 📊 ICM: ax=-284, ay=-172, az=16120 | Freq=0.00Hz, RMS=0.0178g
+21:49:50.408 > 📊 ICM: ax=-300, ay=-200, az=16128 | Freq=0.00Hz, RMS=0.0178g
+21:49:50.419 > 📊 ICM: ax=-400, ay=-280, az=15976 | Freq=0.00Hz, RMS=0.0178g
+21:49:50.419 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0178 g
+21:49:50.714 > 📊 ICM: ax=-384, ay=-240, az=16084 | Freq=0.00Hz, RMS=0.0178g
+21:49:50.714 > 📊 ICM: ax=-264, ay=-104, az=16128 | Freq=0.00Hz, RMS=0.0178g
+21:49:50.714 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0178 g
+21:49:50.850 > 📊 ICM: ax=-380, ay=-248, az=16084 | Freq=0.00Hz, RMS=0.0178g
+21:49:50.850 > 📊 ICM: ax=-388, ay=-196, az=16140 | Freq=0.00Hz, RMS=0.0178g
+21:49:51.025 > 📊 ICM: ax=-332, ay=-132, az=16120 | Freq=0.00Hz, RMS=0.0178g
+21:49:51.025 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0178 g
+21:49:51.184 > 📊 ICM: ax=-328, ay=-236, az=16080 | Freq=0.00Hz, RMS=0.0179g
+21:49:51.184 > 📊 ICM: ax=-260, ay=-244, az=16048 | Freq=0.00Hz, RMS=0.0179g
+21:49:51.340 > 📊 ICM: ax=-240, ay=-192, az=16112 | Freq=0.00Hz, RMS=0.0179g
+21:49:51.340 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0178 g
+21:49:51.512 > 📊 ICM: ax=-244, ay=-168, az=16032 | Freq=0.00Hz, RMS=0.0179g
+21:49:51.512 > 📊 ICM: ax=-284, ay=-152, az=16164 | Freq=0.00Hz, RMS=0.0179g
+21:49:51.623 > 📊 ICM: ax=-276, ay=-204, az=16156 | Freq=0.00Hz, RMS=0.0179g
+21:49:51.623 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0179 g
+21:49:51.913 > 📊 ICM: ax=-228, ay=-176, az=16032 | Freq=0.00Hz, RMS=0.0180g
+21:49:51.913 > 📊 ICM: ax=-248, ay=-116, az=16060 | Freq=0.00Hz, RMS=0.0179g
+21:49:51.913 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0179 g
+21:49:52.056 > 📊 ICM: ax=-268, ay=-152, az=16100 | Freq=0.00Hz, RMS=0.0179g
+21:49:52.168 > 📊 ICM: ax=-248, ay=-196, az=16120 | Freq=0.00Hz, RMS=0.0179g
+21:49:52.168 > 📊 ICM: ax=-300, ay=-88, az=16084 | Freq=0.00Hz, RMS=0.0178g
+21:49:52.211 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0178 g
+21:49:52.497 > 📊 ICM: ax=-248, ay=-216, az=16128 | Freq=0.00Hz, RMS=0.0177g
+21:49:52.497 > 📊 ICM: ax=-364, ay=-188, az=16072 | Freq=0.00Hz, RMS=0.0176g
+21:49:52.497 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0176 g
+21:49:52.618 > 📊 ICM: ax=-308, ay=-216, az=16160 | Freq=0.00Hz, RMS=0.0176g
+21:49:52.618 > 📊 ICM: ax=-260, ay=-96, az=16148 | Freq=0.00Hz, RMS=0.0176g
+21:49:52.788 > 📊 ICM: ax=-248, ay=-132, az=16088 | Freq=0.00Hz, RMS=0.0175g
+21:49:52.788 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0175 g
+21:49:52.933 > 📊 ICM: ax=-276, ay=-180, az=16080 | Freq=0.00Hz, RMS=0.0175g
+21:49:52.933 > 📊 ICM: ax=-324, ay=-104, az=16088 | Freq=0.00Hz, RMS=0.0175g
+21:49:53.071 > 📊 ICM: ax=-256, ay=-112, az=16104 | Freq=0.00Hz, RMS=0.0175g
+21:49:53.071 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0175 g
+21:49:53.272 > 📊 ICM: ax=-320, ay=-180, az=16064 | Freq=0.00Hz, RMS=0.0175g
+21:49:53.369 > 📊 ICM: ax=-228, ay=-88, az=16040 | Freq=0.00Hz, RMS=0.0176g
+21:49:53.369 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0176 g
+21:49:53.489 > 📊 ICM: ax=-276, ay=-108, az=16100 | Freq=0.00Hz, RMS=0.0175g
+21:49:53.671 > 📊 ICM: ax=-272, ay=-288, az=16060 | Freq=0.00Hz, RMS=0.0177g
+21:49:53.671 > 📊 ICM: ax=-348, ay=-212, az=16112 | Freq=0.00Hz, RMS=0.0177g
+21:49:53.671 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0177 g
+21:49:53.821 > 📊 ICM: ax=-352, ay=-176, az=16108 | Freq=0.00Hz, RMS=0.0177g
+21:49:53.933 > 📊 ICM: ax=-264, ay=-200, az=16076 | Freq=0.00Hz, RMS=0.0177g
+21:49:53.933 > 📊 ICM: ax=-376, ay=-84, az=16084 | Freq=0.00Hz, RMS=0.0177g
+21:49:53.965 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0176 g
+21:49:54.157 > 📊 ICM: ax=-392, ay=-204, az=16080 | Freq=0.00Hz, RMS=0.0177g
+21:49:54.157 > 📊 ICM: ax=-276, ay=-88, az=16100 | Freq=0.00Hz, RMS=0.0177g
+21:49:54.246 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0178 g
+21:49:54.375 > 📊 ICM: ax=-348, ay=-108, az=16124 | Freq=0.00Hz, RMS=0.0178g
+21:49:54.375 > 📊 ICM: ax=-400, ay=-168, az=16084 | Freq=0.00Hz, RMS=0.0177g
+21:49:54.544 > 📊 ICM: ax=-312, ay=-220, az=16040 | Freq=0.00Hz, RMS=0.0178g
+21:49:54.544 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0178 g
+21:49:54.704 > 📊 ICM: ax=-240, ay=-152, az=16076 | Freq=0.00Hz, RMS=0.0178g
+21:49:54.704 > 📊 ICM: ax=-308, ay=-80, az=16096 | Freq=0.00Hz, RMS=0.0178g
+21:49:54.834 > 📊 ICM: ax=-360, ay=-132, az=16160 | Freq=0.00Hz, RMS=0.0177g
+21:49:54.834 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0177 g
+21:49:55.036 > 📊 ICM: ax=-300, ay=-196, az=16048 | Freq=0.00Hz, RMS=0.0177g
+21:49:55.036 > 📊 ICM: ax=-356, ay=-248, az=16080 | Freq=0.00Hz, RMS=0.0177g
+21:49:55.133 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0177 g
+21:49:55.254 > 📊 ICM: ax=-328, ay=-204, az=16108 | Freq=0.00Hz, RMS=0.0177g
+21:49:55.368 > 📊 ICM: ax=-312, ay=-124, az=16152 | Freq=0.00Hz, RMS=0.0177g
+21:49:55.437 > 📊 ICM: ax=-296, ay=-268, az=16024 | Freq=0.00Hz, RMS=0.0178g
+21:49:55.437 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0178 g
+21:49:55.583 > 📊 ICM: ax=-208, ay=-216, az=16064 | Freq=0.00Hz, RMS=0.0177g
+21:49:55.697 > 📊 ICM: ax=-424, ay=-108, az=16104 | Freq=0.00Hz, RMS=0.0178g
+21:49:55.727 > 📊 ICM: ax=-264, ay=-116, az=16128 | Freq=0.00Hz, RMS=0.0177g
+21:49:55.727 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0178 g
+21:49:55.915 > 📊 ICM: ax=-372, ay=-200, az=16052 | Freq=0.00Hz, RMS=0.0178g
+21:49:55.915 > 📊 ICM: ax=-284, ay=-92, az=16076 | Freq=0.00Hz, RMS=0.0178g
+21:49:56.026 > 📊 ICM: ax=-332, ay=-128, az=16100 | Freq=0.00Hz, RMS=0.0177g
+21:49:56.026 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0177 g
+21:49:56.137 > 📊 ICM: ax=-300, ay=-136, az=16028 | Freq=0.00Hz, RMS=0.0178g
+21:49:56.321 > 📊 ICM: ax=-240, ay=-164, az=16176 | Freq=0.00Hz, RMS=0.0177g
+21:49:56.321 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0177 g
+21:49:56.329 > [199108][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+21:49:56.459 > 📊 ICM: ax=-292, ay=-192, az=16088 | Freq=0.00Hz, RMS=0.0177g
+21:49:56.459 > 📊 ICM: ax=-388, ay=-152, az=16116 | Freq=0.00Hz, RMS=0.0178g
+21:49:56.601 > 📊 ICM: ax=-320, ay=-204, az=16124 | Freq=0.00Hz, RMS=0.0177g
+21:49:56.601 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0178 g
+21:49:56.795 > 📊 ICM: ax=-332, ay=-212, az=16164 | Freq=0.00Hz, RMS=0.0177g
+21:49:56.795 > 📊 ICM: ax=-256, ay=-196, az=16072 | Freq=0.00Hz, RMS=0.0176g
+21:49:56.894 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0177 g
+21:49:57.123 > 📊 ICM: ax=-280, ay=-144, az=16132 | Freq=0.00Hz, RMS=0.0177g
+21:49:57.123 > 📊 ICM: ax=-400, ay=-168, az=16076 | Freq=0.00Hz, RMS=0.0177g
+21:49:57.199 > 📊 ICM: ax=-272, ay=-172, az=16080 | Freq=0.00Hz, RMS=0.0176g
+21:49:57.199 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0176 g
+21:49:57.344 > 📊 ICM: ax=-304, ay=-136, az=16180 | Freq=0.00Hz, RMS=0.0176g
+21:49:57.481 > 📊 ICM: ax=-340, ay=-156, az=16056 | Freq=0.00Hz, RMS=0.0176g
+21:49:57.481 > 📊 ICM: ax=-276, ay=-116, az=16096 | Freq=0.00Hz, RMS=0.0176g
+21:49:57.481 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0176 g
+21:49:57.773 > 📊 ICM: ax=-348, ay=-216, az=16120 | Freq=0.00Hz, RMS=0.0177g
+21:49:57.773 > 📊 ICM: ax=-320, ay=-148, az=16036 | Freq=0.00Hz, RMS=0.0177g
+21:49:57.773 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0177 g
+21:49:57.885 > 📊 ICM: ax=-320, ay=-184, az=16052 | Freq=0.00Hz, RMS=0.0177g
+21:49:57.885 > 📊 ICM: ax=-392, ay=-300, az=16088 | Freq=0.00Hz, RMS=0.0178g
+21:49:58.069 > 📊 ICM: ax=-268, ay=-184, az=16084 | Freq=0.00Hz, RMS=0.0178g
+21:49:58.118 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0178 g
+21:49:58.118 > 📊 ICM: ax=-348, ay=-196, az=16076 | Freq=0.00Hz, RMS=0.0178g
+21:49:58.216 > 📊 ICM: ax=-312, ay=-232, az=16120 | Freq=0.00Hz, RMS=0.0178g
+21:49:58.353 > 📊 ICM: ax=-364, ay=-164, az=16124 | Freq=0.00Hz, RMS=0.0177g
+21:49:58.353 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0177 g
+21:49:58.554 > 📊 ICM: ax=-292, ay=-136, az=16064 | Freq=0.00Hz, RMS=0.0176g
+21:49:58.649 > 📊 ICM: ax=-304, ay=-128, az=16116 | Freq=0.00Hz, RMS=0.0176g
+21:49:58.649 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0175 g
+21:49:58.883 > 📊 ICM: ax=-380, ay=-112, az=16088 | Freq=0.00Hz, RMS=0.0175g
+21:49:58.883 > 📊 ICM: ax=-260, ay=-176, az=16104 | Freq=0.00Hz, RMS=0.0175g
+21:49:58.930 > 📊 ICM: ax=-256, ay=-204, az=16128 | Freq=0.00Hz, RMS=0.0175g
+21:49:58.930 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0175 g
+21:49:59.101 > 📊 ICM: ax=-272, ay=-232, az=16124 | Freq=0.00Hz, RMS=0.0175g
+21:49:59.214 > 📊 ICM: ax=-368, ay=-240, az=16064 | Freq=0.00Hz, RMS=0.0175g
+21:49:59.231 > 📊 ICM: ax=-316, ay=-212, az=16096 | Freq=0.00Hz, RMS=0.0175g
+21:49:59.231 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0175 g
+21:49:59.516 > 📊 ICM: ax=-412, ay=-212, az=16140 | Freq=0.00Hz, RMS=0.0175g
+21:49:59.516 > 📊 ICM: ax=-380, ay=-216, az=16124 | Freq=0.00Hz, RMS=0.0174g
+21:49:59.516 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0175 g
+21:49:59.652 > 📊 ICM: ax=-244, ay=-140, az=16076 | Freq=0.00Hz, RMS=0.0175g
+21:49:59.652 > 📊 ICM: ax=-208, ay=-96, az=16088 | Freq=0.00Hz, RMS=0.0175g
+21:49:59.804 > 📊 ICM: ax=-384, ay=-220, az=16080 | Freq=0.00Hz, RMS=0.0174g
+21:49:59.804 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0175 g
+21:49:59.975 > 📊 ICM: ax=-376, ay=-276, az=16132 | Freq=0.00Hz, RMS=0.0174g
+21:49:59.975 > 📊 ICM: ax=-308, ay=-104, az=16132 | Freq=0.00Hz, RMS=0.0174g
+21:50:00.086 > 📊 ICM: ax=-356, ay=-212, az=16060 | Freq=0.00Hz, RMS=0.0174g
+21:50:00.102 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0174 g
+21:50:00.303 > 📊 ICM: ax=-360, ay=-236, az=16108 | Freq=0.00Hz, RMS=0.0174g
+21:50:00.303 > 📊 ICM: ax=-292, ay=-264, az=16148 | Freq=0.00Hz, RMS=0.0174g
+21:50:00.384 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0174 g
+21:50:00.418 > 📊 ICM: ax=-468, ay=-56, az=16020 | Freq=0.00Hz, RMS=0.0175g
+21:50:00.635 > 📊 ICM: ax=-364, ay=-172, az=16024 | Freq=0.00Hz, RMS=0.0175g
+21:50:00.667 > 📊 ICM: ax=-392, ay=-112, az=16012 | Freq=0.00Hz, RMS=0.0175g
+21:50:00.667 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0175 g
+21:50:00.860 > 📊 ICM: ax=-328, ay=-204, az=16092 | Freq=0.00Hz, RMS=0.0175g
+21:50:00.958 > 📊 ICM: ax=-316, ay=-168, az=16072 | Freq=0.00Hz, RMS=0.0176g
+21:50:00.958 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0176 g
+21:50:00.974 > 📊 ICM: ax=-316, ay=-48, az=16060 | Freq=0.00Hz, RMS=0.0177g
+21:50:01.184 > 📊 ICM: ax=-368, ay=-212, az=16128 | Freq=0.00Hz, RMS=0.0177g
+21:50:01.248 > 📊 ICM: ax=-384, ay=-220, az=16104 | Freq=0.00Hz, RMS=0.0179g
+21:50:01.248 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0178 g
+21:50:01.418 > 📊 ICM: ax=-272, ay=-264, az=16064 | Freq=0.00Hz, RMS=0.0178g
+21:50:01.418 > 📊 ICM: ax=-312, ay=-148, az=16032 | Freq=0.00Hz, RMS=0.0179g
+21:50:01.547 > 📊 ICM: ax=-376, ay=-112, az=16124 | Freq=0.00Hz, RMS=0.0179g
+21:50:01.547 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0179 g
+21:50:01.748 > 📊 ICM: ax=-328, ay=-96, az=16088 | Freq=0.00Hz, RMS=0.0179g
+21:50:01.748 > 📊 ICM: ax=-344, ay=-196, az=16096 | Freq=0.00Hz, RMS=0.0180g
+21:50:01.852 > 📊 ICM: ax=-300, ay=-192, az=16060 | Freq=0.00Hz, RMS=0.0180g
+21:50:01.868 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0180 g
+21:50:02.077 > 📊 ICM: ax=-340, ay=-104, az=16084 | Freq=0.00Hz, RMS=0.0181g
+21:50:02.151 > 📊 ICM: ax=-232, ay=-152, az=16016 | Freq=0.00Hz, RMS=0.0181g
+21:50:02.151 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0181 g
+21:50:02.287 > 📊 ICM: ax=-316, ay=-148, az=16140 | Freq=0.00Hz, RMS=0.0181g
+21:50:02.401 > 📊 ICM: ax=-448, ay=-192, az=16052 | Freq=0.00Hz, RMS=0.0181g
+21:50:02.437 > 📊 ICM: ax=-292, ay=-208, az=16100 | Freq=0.00Hz, RMS=0.0182g
+21:50:02.437 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0182 g
+21:50:02.618 > 📊 ICM: ax=-292, ay=-260, az=16072 | Freq=0.00Hz, RMS=0.0182g
+21:50:02.715 > 📊 ICM: ax=-364, ay=-280, az=16224 | Freq=0.00Hz, RMS=0.0182g
+21:50:02.715 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0184 g
+21:50:02.837 > 📊 ICM: ax=-100, ay=-104, az=16136 | Freq=0.00Hz, RMS=0.0184g
+21:50:02.837 > 📊 ICM: ax=-240, ay=-60, az=16136 | Freq=0.00Hz, RMS=0.0183g
+21:50:02.997 > 📊 ICM: ax=-328, ay=-128, az=16056 | Freq=0.00Hz, RMS=0.0183g
+21:50:02.997 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0183 g
+21:50:03.165 > 📊 ICM: ax=-284, ay=-92, az=16144 | Freq=0.00Hz, RMS=0.0182g
+21:50:03.165 > 📊 ICM: ax=-248, ay=-128, az=16012 | Freq=0.00Hz, RMS=0.0182g
+21:50:03.296 > 📊 ICM: ax=-352, ay=-244, az=16132 | Freq=0.00Hz, RMS=0.0182g
+21:50:03.395 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0182 g
+21:50:03.395 > 📊 ICM: ax=-296, ay=-260, az=16080 | Freq=0.00Hz, RMS=0.0183g
+21:50:03.502 > 📊 ICM: ax=-276, ay=-136, az=16060 | Freq=0.00Hz, RMS=0.0183g
+21:50:03.613 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0183 g
+21:50:03.618 > 📊 ICM: ax=-348, ay=-116, az=16136 | Freq=0.00Hz, RMS=0.0182g
+21:50:03.835 > 📊 ICM: ax=-196, ay=-128, az=16068 | Freq=0.00Hz, RMS=0.0182g
+21:50:03.839 > 📊 ICM: ax=-328, ay=-36, az=16184 | Freq=0.00Hz, RMS=0.0183g
+21:50:03.867 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0183 g
+21:50:04.053 > 📊 ICM: ax=-252, ay=-168, az=16080 | Freq=0.00Hz, RMS=0.0182g
+21:50:04.053 > 📊 ICM: ax=-284, ay=-96, az=16052 | Freq=0.00Hz, RMS=0.0182g
+21:50:04.167 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0183 g
+21:50:04.168 > 📊 ICM: ax=-320, ay=-268, az=15944 | Freq=0.00Hz, RMS=0.0183g
+21:50:04.439 > 📊 ICM: ax=-280, ay=-276, az=16004 | Freq=0.00Hz, RMS=0.0183g
+21:50:04.439 > 📊 ICM: ax=-312, ay=-180, az=16100 | Freq=0.00Hz, RMS=0.0183g
+21:50:04.496 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0183 g
+21:50:04.496 > 📊 ICM: ax=-316, ay=-152, az=16120 | Freq=0.00Hz, RMS=0.0183g
+21:50:04.710 > 📊 ICM: ax=-252, ay=-232, az=16008 | Freq=0.00Hz, RMS=0.0183g
+21:50:04.718 > 📊 ICM: ax=-364, ay=-188, az=16076 | Freq=0.00Hz, RMS=0.0183g
+21:50:04.718 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0183 g
+21:50:04.931 > 📊 ICM: ax=-408, ay=-152, az=16088 | Freq=0.00Hz, RMS=0.0184g
+21:50:04.931 > 📊 ICM: ax=-432, ay=-176, az=16088 | Freq=0.00Hz, RMS=0.0184g
+21:50:05.008 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0185 g
+21:50:05.152 > 📊 ICM: ax=-372, ay=-248, az=16136 | Freq=0.00Hz, RMS=0.0185g
+21:50:05.267 > 📊 ICM: ax=-368, ay=-208, az=16040 | Freq=0.00Hz, RMS=0.0185g
+21:50:05.268 > 📊 ICM: ax=-324, ay=-140, az=16068 | Freq=0.00Hz, RMS=0.0184g
+21:50:05.297 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0184 g
+21:50:05.486 > 📊 ICM: ax=-284, ay=-164, az=16084 | Freq=0.00Hz, RMS=0.0185g
+21:50:05.580 > 📊 ICM: ax=-312, ay=-204, az=16096 | Freq=0.00Hz, RMS=0.0185g
+21:50:05.580 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0185 g
+21:50:05.595 > 📊 ICM: ax=-320, ay=-220, az=16084 | Freq=0.00Hz, RMS=0.0185g
+21:50:05.812 > 📊 ICM: ax=-420, ay=-188, az=16104 | Freq=0.00Hz, RMS=0.0186g
+21:50:05.860 > 📊 ICM: ax=-356, ay=-288, az=16116 | Freq=0.00Hz, RMS=0.0185g
+21:50:05.868 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0185 g
+21:50:05.917 > 📊 ICM: ax=-284, ay=-180, az=16064 | Freq=0.00Hz, RMS=0.0186g
+21:50:06.144 > 📊 ICM: ax=-244, ay=-148, az=16048 | Freq=0.00Hz, RMS=0.0186g
+21:50:06.151 > 📊 ICM: ax=-292, ay=-164, az=16060 | Freq=0.00Hz, RMS=0.0186g
+21:50:06.151 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0186 g
+21:50:06.250 > 📊 ICM: ax=-296, ay=-80, az=16116 | Freq=0.00Hz, RMS=0.0186g
+21:50:06.434 > 📊 ICM: ax=-316, ay=-236, az=16100 | Freq=0.00Hz, RMS=0.0185g
+21:50:06.440 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0185 g
+21:50:06.587 > 📊 ICM: ax=-240, ay=-244, az=16120 | Freq=0.00Hz, RMS=0.0185g
+21:50:06.692 > 📊 ICM: ax=-368, ay=-172, az=16068 | Freq=0.00Hz, RMS=0.0186g
+21:50:06.726 > 📊 ICM: ax=-220, ay=-184, az=16072 | Freq=0.00Hz, RMS=0.0185g
+21:50:06.726 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0185 g
+21:50:06.917 > 📊 ICM: ax=-356, ay=-192, az=16108 | Freq=0.00Hz, RMS=0.0185g
+21:50:07.008 > 📊 ICM: ax=-236, ay=-212, az=15996 | Freq=0.00Hz, RMS=0.0186g
+21:50:07.008 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0186 g
+21:50:07.036 > 📊 ICM: ax=-284, ay=-148, az=16140 | Freq=0.00Hz, RMS=0.0186g
+21:50:07.036 > [209814][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+21:50:07.248 > 📊 ICM: ax=-356, ay=-172, az=16076 | Freq=0.00Hz, RMS=0.0187g
+21:50:07.248 > 📊 ICM: ax=-400, ay=-96, az=16016 | Freq=0.00Hz, RMS=0.0186g
+21:50:07.285 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0187 g
+21:50:07.352 > 📊 ICM: ax=-336, ay=-216, az=16028 | Freq=0.00Hz, RMS=0.0186g
+21:50:07.574 > 📊 ICM: ax=-320, ay=-204, az=16064 | Freq=0.00Hz, RMS=0.0187g
+21:50:07.582 > 📊 ICM: ax=-232, ay=-196, az=16032 | Freq=0.00Hz, RMS=0.0187g
+21:50:07.582 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0187 g
+21:50:07.686 > 📊 ICM: ax=-284, ay=-224, az=16096 | Freq=0.00Hz, RMS=0.0187g
+21:50:07.862 > 📊 ICM: ax=-312, ay=-172, az=16104 | Freq=0.00Hz, RMS=0.0187g
+21:50:07.868 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0187 g
+21:50:08.014 > 📊 ICM: ax=-240, ay=-152, az=16128 | Freq=0.00Hz, RMS=0.0186g
+21:50:08.127 > 📊 ICM: ax=-204, ay=-100, az=16076 | Freq=0.00Hz, RMS=0.0186g
+21:50:08.127 > 📊 ICM: ax=-292, ay=-120, az=16084 | Freq=0.00Hz, RMS=0.0185g
+21:50:08.152 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0185 g
+21:50:08.345 > 📊 ICM: ax=-376, ay=-200, az=15992 | Freq=0.00Hz, RMS=0.0185g
+21:50:08.435 > 📊 ICM: ax=-360, ay=-204, az=16040 | Freq=0.00Hz, RMS=0.0185g
+21:50:08.435 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0185 g
+21:50:08.569 > 📊 ICM: ax=-216, ay=-56, az=16092 | Freq=0.00Hz, RMS=0.0185g
+21:50:08.569 > 📊 ICM: ax=-360, ay=-112, az=16064 | Freq=0.00Hz, RMS=0.0185g
+21:50:08.721 > 📊 ICM: ax=-288, ay=-168, az=16168 | Freq=0.00Hz, RMS=0.0185g
+21:50:08.721 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0185 g
+21:50:08.893 > 📊 ICM: ax=-308, ay=-192, az=16060 | Freq=0.00Hz, RMS=0.0185g
+21:50:09.003 > 📊 ICM: ax=-248, ay=-264, az=16032 | Freq=0.00Hz, RMS=0.0186g
+21:50:09.008 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0186 g
+21:50:09.008 > 📊 ICM: ax=-296, ay=-132, az=16136 | Freq=0.00Hz, RMS=0.0186g
+21:50:09.115 > 📊 ICM: ax=-328, ay=-156, az=16120 | Freq=0.00Hz, RMS=0.0186g
+21:50:09.221 > 📊 ICM: ax=-324, ay=-84, az=16092 | Freq=0.00Hz, RMS=0.0185g
+21:50:09.338 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0185 g
+21:50:09.339 > 📊 ICM: ax=-384, ay=-196, az=16132 | Freq=0.00Hz, RMS=0.0185g
+21:50:09.443 > 📊 ICM: ax=-328, ay=-100, az=16072 | Freq=0.00Hz, RMS=0.0185g
+21:50:09.576 > 📊 ICM: ax=-356, ay=-108, az=16040 | Freq=0.00Hz, RMS=0.0184g
+21:50:09.576 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0184 g
+21:50:09.772 > 📊 ICM: ax=-324, ay=-200, az=16080 | Freq=0.00Hz, RMS=0.0183g
+21:50:09.863 > 📊 ICM: ax=-288, ay=-180, az=15988 | Freq=0.00Hz, RMS=0.0183g
+21:50:09.863 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0182 g
+21:50:09.996 > 📊 ICM: ax=-348, ay=-188, az=16048 | Freq=0.00Hz, RMS=0.0182g
+21:50:10.101 > 📊 ICM: ax=-300, ay=-132, az=16076 | Freq=0.00Hz, RMS=0.0181g
+21:50:10.144 > 📊 ICM: ax=-308, ay=-208, az=16048 | Freq=0.00Hz, RMS=0.0180g
+21:50:10.144 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0180 g
+21:50:10.324 > 📊 ICM: ax=-280, ay=-156, az=16048 | Freq=0.00Hz, RMS=0.0180g
+21:50:10.432 > 📊 ICM: ax=-332, ay=-184, az=16076 | Freq=0.00Hz, RMS=0.0180g
+21:50:10.432 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0181 g
+21:50:10.438 > 📊 ICM: ax=-292, ay=-152, az=16100 | Freq=0.00Hz, RMS=0.0181g
+21:50:10.547 > [213325][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+21:50:10.725 > 📊 ICM: ax=-320, ay=-184, az=16120 | Freq=0.00Hz, RMS=0.0181g
+21:50:10.725 > 📊 ICM: ax=-336, ay=-148, az=16128 | Freq=0.00Hz, RMS=0.0181g
+21:50:10.768 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0181 g
+21:50:10.769 > 📊 ICM: ax=-344, ay=-204, az=16056 | Freq=0.00Hz, RMS=0.0181g
+21:50:10.876 > 📊 ICM: ax=-376, ay=-68, az=16108 | Freq=0.00Hz, RMS=0.0180g
+21:50:11.008 > 📊 ICM: ax=-280, ay=-188, az=16080 | Freq=0.00Hz, RMS=0.0180g
+21:50:11.008 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0180 g
+21:50:11.204 > 📊 ICM: ax=-268, ay=-212, az=16220 | Freq=0.00Hz, RMS=0.0179g
+21:50:11.204 > 📊 ICM: ax=-236, ay=-196, az=16016 | Freq=0.00Hz, RMS=0.0179g
+21:50:11.293 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0178 g
+21:50:11.424 > 📊 ICM: ax=-292, ay=-108, az=16080 | Freq=0.00Hz, RMS=0.0178g
+21:50:11.424 > 📊 ICM: ax=-300, ay=-80, az=16164 | Freq=0.00Hz, RMS=0.0178g
+21:50:11.579 > 📊 ICM: ax=-312, ay=-140, az=16112 | Freq=0.00Hz, RMS=0.0178g
+21:50:11.579 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0178 g
+21:50:11.753 > 📊 ICM: ax=-268, ay=-124, az=16136 | Freq=0.00Hz, RMS=0.0177g
+21:50:11.858 > 📊 ICM: ax=-360, ay=-172, az=16052 | Freq=0.00Hz, RMS=0.0178g
+21:50:11.858 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0178 g
+21:50:11.972 > 📊 ICM: ax=-288, ay=-156, az=16020 | Freq=0.00Hz, RMS=0.0178g
+21:50:11.972 > 📊 ICM: ax=-236, ay=-228, az=16168 | Freq=0.00Hz, RMS=0.0178g
+21:50:12.150 > 📊 ICM: ax=-280, ay=-220, az=16088 | Freq=0.00Hz, RMS=0.0178g
+21:50:12.150 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0178 g
+21:50:12.307 > 📊 ICM: ax=-204, ay=-164, az=16028 | Freq=0.00Hz, RMS=0.0179g
+21:50:12.307 > 📊 ICM: ax=-288, ay=-152, az=16140 | Freq=0.00Hz, RMS=0.0178g
+21:50:12.435 > 📊 ICM: ax=-344, ay=-200, az=16132 | Freq=0.00Hz, RMS=0.0179g
+21:50:12.435 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0179 g
+21:50:12.635 > 📊 ICM: ax=-312, ay=-228, az=16076 | Freq=0.00Hz, RMS=0.0179g
+21:50:12.635 > 📊 ICM: ax=-392, ay=-172, az=16016 | Freq=0.00Hz, RMS=0.0180g
+21:50:12.717 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0180 g
+21:50:12.856 > 📊 ICM: ax=-344, ay=-180, az=16008 | Freq=0.00Hz, RMS=0.0180g
+21:50:12.856 > 📊 ICM: ax=-264, ay=-84, az=16024 | Freq=0.00Hz, RMS=0.0179g
+21:50:12.962 > 📊 ICM: ax=-204, ay=-152, az=16120 | Freq=0.00Hz, RMS=0.0179g
+21:50:13.078 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0179 g
+21:50:13.078 > 📊 ICM: ax=-316, ay=-188, az=16056 | Freq=0.00Hz, RMS=0.0180g
+21:50:13.290 > 📊 ICM: ax=-360, ay=-216, az=16044 | Freq=0.00Hz, RMS=0.0180g
+21:50:13.291 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0180 g
+21:50:13.298 > 📊 ICM: ax=-424, ay=-224, az=16144 | Freq=0.00Hz, RMS=0.0180g
+21:50:13.510 > 📊 ICM: ax=-352, ay=-280, az=16120 | Freq=0.00Hz, RMS=0.0181g
+21:50:13.576 > 📊 ICM: ax=-288, ay=-144, az=16040 | Freq=0.00Hz, RMS=0.0182g
+21:50:13.576 > ✓ Updated - Freq: 0.00 Hz, RMS: 0.0182 g
+21:50:13.623 > 📊 ICM: ax=-164, ay=20, az=16036 | Freq=0.00Hz, RMS=0.0182g
+21:50:13.848 > 📊 ICM: ax=-124, ay=104, az=15996 | Freq=0.00Hz, RMS=0.0182g
+21:50:13.848 > 📊 ICM: ax=-124, ay=12, az=16020 | Freq=0.00Hz, RMS=0.0182g

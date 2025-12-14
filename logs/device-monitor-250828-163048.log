@@ -1,0 +1,816 @@
+16:30:48.740 > [  2037][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:30:48.746 > 🔄 Reconnecting I2C...
+16:30:48.847 > ✅ Reconnected.
+16:30:48.850 > [  2145][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:30:48.856 > 🔄 Reconnecting I2C...
+16:30:48.957 > ✅ Reconnected.
+16:30:48.989 > [  2287][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:30:48.997 > 🔄 Reconnecting I2C...
+16:30:49.096 > ✅ Reconnected.
+16:30:49.096 > ❌ All attempts failed in readBQ34Z100_Byte.
+16:30:49.140 > [  2438][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:30:49.145 > 🔄 Reconnecting I2C...
+16:30:49.260 > ✅ Reconnected.
+16:30:49.290 > [  2587][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:30:49.292 > 🔄 Reconnecting I2C...
+16:30:49.402 > ✅ Reconnected.
+16:30:49.441 > [  2737][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:30:49.447 > 🔄 Reconnecting I2C...
+16:30:49.550 > ✅ Reconnected.
+16:30:49.550 > ❌ All attempts failed in readBQ34Z100.
+16:30:49.591 > [  2888][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:30:49.599 > 🔄 Reconnecting I2C...
+16:30:49.708 > ✅ Reconnected.
+16:30:49.740 > [  3037][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:30:49.748 > 🔄 Reconnecting I2C...
+16:30:49.851 > ✅ Reconnected.
+16:30:49.891 > [  3187][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:30:49.896 > 🔄 Reconnecting I2C...
+16:30:50.000 > ✅ Reconnected.
+16:30:50.000 > ❌ All attempts failed in readBQ34Z100.
+16:30:50.042 > [  3338][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:30:50.048 > 🔄 Reconnecting I2C...
+16:30:50.165 > ✅ Reconnected.
+16:30:50.191 > [  3487][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:30:50.198 > 🔄 Reconnecting I2C...
+16:30:50.299 > ✅ Reconnected.
+16:30:50.341 > [  3637][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:30:50.349 > 🔄 Reconnecting I2C...
+16:30:50.446 > ✅ Reconnected.
+16:30:50.449 > ❌ All attempts failed in readBQ34Z100.
+16:30:50.491 > [  3788][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:30:50.499 > 🔄 Reconnecting I2C...
+16:30:50.600 > ✅ Reconnected.
+16:30:50.641 > [  3937][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:30:50.648 > 🔄 Reconnecting I2C...
+16:30:50.744 > ✅ Reconnected.
+16:30:50.791 > [  4087][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:30:50.794 > 🔄 Reconnecting I2C...
+16:30:50.892 > ✅ Reconnected.
+16:30:50.892 > ❌ All attempts failed in readBQ34Z100.
+16:30:50.942 > [  4238][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:30:50.949 > 🔄 Reconnecting I2C...
+16:30:51.054 > ✅ Reconnected.
+16:30:51.090 > [  4387][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:30:51.098 > 🔄 Reconnecting I2C...
+16:30:51.197 > ✅ Reconnected.
+16:30:51.240 > [  4537][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:30:51.247 > 🔄 Reconnecting I2C...
+16:30:51.348 > ✅ Reconnected.
+16:30:51.350 > ❌ All attempts failed in readBQ34Z100.
+16:30:51.392 > [  4688][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:30:51.400 > 🔄 Reconnecting I2C...
+16:30:51.500 > ✅ Reconnected.
+16:30:51.540 > [  4837][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:30:51.544 > 🔄 Reconnecting I2C...
+16:30:51.645 > ✅ Reconnected.
+16:30:51.690 > [  4987][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:30:51.696 > 🔄 Reconnecting I2C...
+16:30:51.798 > ✅ Reconnected.
+16:30:51.798 > ❌ All attempts failed in readBQ34Z100.
+16:30:51.798 > >> Membaca BQ1
+16:30:51.798 > SOC BATT 1                255
+16:30:51.798 > Tegangan                  65535
+16:30:51.798 > SOH                       65535
+16:30:51.798 > Cycle                     65535
+16:30:51.798 > Current                   -1
+16:30:51.798 > AvgTimeEmpty (formatted): -
+16:30:51.798 > AvgTimeFull (formatted):  -
+16:30:52.799 > [  6094][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:30:52.804 > 🔄 Reconnecting I2C...
+16:30:52.905 > ✅ Reconnected.
+16:30:52.906 > [  6201][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:30:52.913 > 🔄 Reconnecting I2C...
+16:30:53.013 > ✅ Reconnected.
+16:30:53.041 > [  6337][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:30:53.046 > 🔄 Reconnecting I2C...
+16:30:53.146 > ✅ Reconnected.
+16:30:53.146 > ❌ All attempts failed in readBQ34Z100_Byte.
+16:30:53.187 > [  6487][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:30:53.196 > 🔄 Reconnecting I2C...
+16:30:53.297 > ✅ Reconnected.
+16:30:53.335 > [  6637][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:30:53.347 > 🔄 Reconnecting I2C...
+16:30:53.448 > ✅ Reconnected.
+16:30:53.490 > [  6787][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:30:53.498 > 🔄 Reconnecting I2C...
+16:30:53.598 > ✅ Reconnected.
+16:30:53.599 > ❌ All attempts failed in readBQ34Z100.
+16:30:53.640 > [  6937][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:30:53.647 > 🔄 Reconnecting I2C...
+16:30:53.748 > ✅ Reconnected.
+16:30:53.790 > [  7087][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:30:53.798 > 🔄 Reconnecting I2C...
+16:30:53.896 > ✅ Reconnected.
+16:30:53.940 > [  7237][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:30:53.948 > 🔄 Reconnecting I2C...
+16:30:54.044 > ✅ Reconnected.
+16:30:54.044 > ❌ All attempts failed in readBQ34Z100.
+16:30:54.091 > [  7387][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:30:54.097 > 🔄 Reconnecting I2C...
+16:30:54.198 > ✅ Reconnected.
+16:30:54.241 > [  7537][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:30:54.248 > 🔄 Reconnecting I2C...
+16:30:54.348 > ✅ Reconnected.
+16:30:54.389 > [  7687][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:30:54.398 > 🔄 Reconnecting I2C...
+16:30:54.497 > ✅ Reconnected.
+16:30:54.497 > ❌ All attempts failed in readBQ34Z100.
+16:30:54.541 > [  7837][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:30:54.547 > 🔄 Reconnecting I2C...
+16:30:54.648 > ✅ Reconnected.
+16:30:54.689 > [  7987][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:30:54.698 > 🔄 Reconnecting I2C...
+16:30:54.798 > ✅ Reconnected.
+16:30:54.840 > [  8137][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:30:54.849 > 🔄 Reconnecting I2C...
+16:30:54.949 > ✅ Reconnected.
+16:30:54.949 > ❌ All attempts failed in readBQ34Z100.
+16:30:54.991 > [  8287][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:30:54.998 > 🔄 Reconnecting I2C...
+16:30:55.099 > ✅ Reconnected.
+16:30:55.140 > [  8437][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:30:55.148 > 🔄 Reconnecting I2C...
+16:30:55.248 > ✅ Reconnected.
+16:30:55.291 > [  8587][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:30:55.299 > 🔄 Reconnecting I2C...
+16:30:55.399 > ✅ Reconnected.
+16:30:55.399 > ❌ All attempts failed in readBQ34Z100.
+16:30:55.441 > [  8737][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:30:55.447 > 🔄 Reconnecting I2C...
+16:30:55.549 > ✅ Reconnected.
+16:30:55.590 > [  8887][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:30:55.597 > 🔄 Reconnecting I2C...
+16:30:55.695 > ✅ Reconnected.
+16:30:55.741 > [  9037][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:30:55.748 > 🔄 Reconnecting I2C...
+16:30:55.849 > ✅ Reconnected.
+16:30:55.849 > ❌ All attempts failed in readBQ34Z100.
+16:30:55.849 > >> Membaca BQ1
+16:30:55.849 > SOC BATT 1                255
+16:30:55.849 > Tegangan                  65535
+16:30:55.849 > SOH                       65535
+16:30:55.849 > Cycle                     65535
+16:30:55.849 > Current                   -1
+16:30:55.849 > AvgTimeEmpty (formatted): -
+16:30:55.849 > AvgTimeFull (formatted):  -
+16:30:56.850 > [ 10145][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:30:56.866 > 🔄 Reconnecting I2C...
+16:30:56.952 > ✅ Reconnected.
+16:30:56.957 > [ 10252][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:30:56.963 > 🔄 Reconnecting I2C...
+16:30:57.063 > ✅ Reconnected.
+16:30:57.090 > [ 10387][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:30:57.098 > 🔄 Reconnecting I2C...
+16:30:57.197 > ✅ Reconnected.
+16:30:57.197 > ❌ All attempts failed in readBQ34Z100_Byte.
+16:30:57.239 > [ 10537][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:30:57.249 > 🔄 Reconnecting I2C...
+16:30:57.349 > ✅ Reconnected.
+16:30:57.392 > [ 10687][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:30:57.398 > 🔄 Reconnecting I2C...
+16:30:57.499 > ✅ Reconnected.
+16:30:57.542 > [ 10837][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:30:57.548 > 🔄 Reconnecting I2C...
+16:30:57.649 > ✅ Reconnected.
+16:30:57.649 > ❌ All attempts failed in readBQ34Z100.
+16:30:57.691 > [ 10987][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:30:57.693 > 🔄 Reconnecting I2C...
+16:30:57.793 > ✅ Reconnected.
+16:30:57.834 > [ 11137][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:30:57.845 > 🔄 Reconnecting I2C...
+16:30:57.943 > ✅ Reconnected.
+16:30:57.991 > [ 11287][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:30:57.998 > 🔄 Reconnecting I2C...
+16:30:58.094 > ✅ Reconnected.
+16:30:58.100 > ❌ All attempts failed in readBQ34Z100.
+16:30:58.141 > [ 11437][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:30:58.141 > 🔄 Reconnecting I2C...
+16:30:58.243 > ✅ Reconnected.
+16:30:58.291 > [ 11587][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:30:58.298 > 🔄 Reconnecting I2C...
+16:30:58.393 > ✅ Reconnected.
+16:30:58.441 > [ 11737][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:30:58.448 > 🔄 Reconnecting I2C...
+16:30:58.548 > ✅ Reconnected.
+16:30:58.549 > ❌ All attempts failed in readBQ34Z100.
+16:30:58.590 > [ 11887][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:30:58.599 > 🔄 Reconnecting I2C...
+16:30:58.698 > ✅ Reconnected.
+16:30:58.740 > [ 12037][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:30:58.745 > 🔄 Reconnecting I2C...
+16:30:58.848 > ✅ Reconnected.
+16:30:58.891 > [ 12187][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:30:58.896 > 🔄 Reconnecting I2C...
+16:30:58.998 > ✅ Reconnected.
+16:30:58.998 > ❌ All attempts failed in readBQ34Z100.
+16:30:59.040 > [ 12337][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:30:59.048 > 🔄 Reconnecting I2C...
+16:30:59.147 > ✅ Reconnected.
+16:30:59.190 > [ 12487][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:30:59.196 > 🔄 Reconnecting I2C...
+16:30:59.298 > ✅ Reconnected.
+16:30:59.341 > [ 12637][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:30:59.348 > 🔄 Reconnecting I2C...
+16:30:59.445 > ✅ Reconnected.
+16:30:59.445 > ❌ All attempts failed in readBQ34Z100.
+16:30:59.488 > [ 12787][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:30:59.497 > 🔄 Reconnecting I2C...
+16:30:59.598 > ✅ Reconnected.
+16:30:59.634 > [ 12937][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:30:59.648 > 🔄 Reconnecting I2C...
+16:30:59.744 > ✅ Reconnected.
+16:30:59.786 > [ 13087][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:30:59.799 > 🔄 Reconnecting I2C...
+16:30:59.893 > ✅ Reconnected.
+16:30:59.899 > ❌ All attempts failed in readBQ34Z100.
+16:30:59.899 > >> Membaca BQ1
+16:30:59.899 > SOC BATT 1                255
+16:30:59.899 > Tegangan                  65535
+16:30:59.899 > SOH                       65535
+16:30:59.899 > Cycle                     65535
+16:30:59.899 > Current                   -1
+16:30:59.899 > AvgTimeEmpty (formatted): -
+16:30:59.899 > AvgTimeFull (formatted):  -
+16:31:00.899 > [ 14195][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:31:00.906 > 🔄 Reconnecting I2C...
+16:31:01.007 > ✅ Reconnected.
+16:31:01.007 > [ 14302][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:31:01.014 > 🔄 Reconnecting I2C...
+16:31:01.115 > ✅ Reconnected.
+16:31:01.140 > [ 14437][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:31:01.149 > 🔄 Reconnecting I2C...
+16:31:01.249 > ✅ Reconnected.
+16:31:01.249 > ❌ All attempts failed in readBQ34Z100_Byte.
+16:31:01.291 > [ 14587][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:31:01.298 > 🔄 Reconnecting I2C...
+16:31:01.399 > ✅ Reconnected.
+16:31:01.440 > [ 14737][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:31:01.449 > 🔄 Reconnecting I2C...
+16:31:01.548 > ✅ Reconnected.
+16:31:01.591 > [ 14887][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:31:01.599 > 🔄 Reconnecting I2C...
+16:31:01.692 > ✅ Reconnected.
+16:31:01.700 > ❌ All attempts failed in readBQ34Z100.
+16:31:01.741 > [ 15037][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:31:01.742 > 🔄 Reconnecting I2C...
+16:31:01.847 > ✅ Reconnected.
+16:31:01.891 > [ 15187][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:31:01.919 > 🔄 Reconnecting I2C...
+16:31:01.999 > ✅ Reconnected.
+16:31:02.041 > [ 15337][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:31:02.045 > 🔄 Reconnecting I2C...
+16:31:02.149 > ✅ Reconnected.
+16:31:02.149 > ❌ All attempts failed in readBQ34Z100.
+16:31:02.191 > [ 15487][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:31:02.199 > 🔄 Reconnecting I2C...
+16:31:02.298 > ✅ Reconnected.
+16:31:02.339 > [ 15637][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:31:02.347 > 🔄 Reconnecting I2C...
+16:31:02.448 > ✅ Reconnected.
+16:31:02.491 > [ 15787][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:31:02.499 > 🔄 Reconnecting I2C...
+16:31:02.599 > ✅ Reconnected.
+16:31:02.599 > ❌ All attempts failed in readBQ34Z100.
+16:31:02.641 > [ 15937][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:31:02.649 > 🔄 Reconnecting I2C...
+16:31:02.743 > ✅ Reconnected.
+16:31:02.790 > [ 16087][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:31:02.798 > 🔄 Reconnecting I2C...
+16:31:02.895 > ✅ Reconnected.
+16:31:02.935 > [ 16237][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:31:02.945 > 🔄 Reconnecting I2C...
+16:31:03.049 > ✅ Reconnected.
+16:31:03.049 > ❌ All attempts failed in readBQ34Z100.
+16:31:03.086 > [ 16387][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:31:03.096 > 🔄 Reconnecting I2C...
+16:31:03.199 > ✅ Reconnected.
+16:31:03.241 > [ 16537][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:31:03.245 > 🔄 Reconnecting I2C...
+16:31:03.349 > ✅ Reconnected.
+16:31:03.391 > [ 16687][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:31:03.398 > 🔄 Reconnecting I2C...
+16:31:03.498 > ✅ Reconnected.
+16:31:03.498 > ❌ All attempts failed in readBQ34Z100.
+16:31:03.541 > [ 16837][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:31:03.548 > 🔄 Reconnecting I2C...
+16:31:03.648 > ✅ Reconnected.
+16:31:03.691 > [ 16987][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:31:03.692 > 🔄 Reconnecting I2C...
+16:31:03.799 > ✅ Reconnected.
+16:31:03.841 > [ 17137][E][Wire.cpp:499] requestFrom(): i2cWriteReadNonStop returned Error -1
+16:31:03.849 > 🔄 Reconnecting I2C...
+16:31:03.948 > ✅ Reconnected.
+16:31:03.948 > ❌ All attempts failed in readBQ34Z100.
+16:31:03.948 > >> Membaca BQ1
+16:31:03.948 > SOC BATT 1                255
+16:31:03.948 > Tegangan                  65535
+16:31:03.948 > SOH                       65535
+16:31:03.948 > Cycle                     65535
+16:31:03.948 > Current                   -1
+16:31:03.948 > AvgTimeEmpty (formatted): -
+16:31:03.948 > AvgTimeFull (formatted):  -
+16:31:04.947 > 100
+16:31:04.951 > >> Membaca BQ1
+16:31:04.951 > SOC BATT 1                100
+16:31:04.951 > Tegangan                  1315
+16:31:04.951 > SOH                       32
+16:31:04.951 > Cycle                     0
+16:31:04.951 > Current                   10
+16:31:04.951 > AvgTimeEmpty (formatted): -
+16:31:04.951 > AvgTimeFull (formatted):  0h 0m
+16:31:05.957 > 100
+16:31:05.962 > >> Membaca BQ1
+16:31:05.962 > SOC BATT 1                100
+16:31:05.962 > Tegangan                  1315
+16:31:05.962 > SOH                       32
+16:31:05.962 > Cycle                     0
+16:31:05.962 > Current                   10
+16:31:05.962 > AvgTimeEmpty (formatted): -
+16:31:05.962 > AvgTimeFull (formatted):  0h 0m
+16:31:06.991 > 100
+16:31:06.993 > >> Membaca BQ1
+16:31:06.998 > SOC BATT 1                100
+16:31:06.998 > Tegangan                  1315
+16:31:06.998 > SOH                       32
+16:31:06.998 > Cycle                     0
+16:31:06.998 > Current                   10
+16:31:06.998 > AvgTimeEmpty (formatted): -
+16:31:06.998 > AvgTimeFull (formatted):  0h 0m
+16:31:08.038 > 100
+16:31:08.045 > >> Membaca BQ1
+16:31:08.045 > SOC BATT 1                100
+16:31:08.045 > Tegangan                  1315
+16:31:08.045 > SOH                       32
+16:31:08.045 > Cycle                     0
+16:31:08.045 > Current                   10
+16:31:08.045 > AvgTimeEmpty (formatted): -
+16:31:08.045 > AvgTimeFull (formatted):  0h 0m
+16:31:09.092 > 100
+16:31:09.131 > >> Membaca BQ1
+16:31:09.131 > SOC BATT 1                100
+16:31:09.131 > Tegangan                  1315
+16:31:09.131 > SOH                       32
+16:31:09.131 > Cycle                     0
+16:31:09.131 > Current                   10
+16:31:09.131 > AvgTimeEmpty (formatted): -
+16:31:09.131 > AvgTimeFull (formatted):  0h 0m
+16:31:10.141 > 100
+16:31:10.145 > >> Membaca BQ1
+16:31:10.148 > SOC BATT 1                100
+16:31:10.148 > Tegangan                  1315
+16:31:10.148 > SOH                       32
+16:31:10.148 > Cycle                     0
+16:31:10.148 > Current                   10
+16:31:10.148 > AvgTimeEmpty (formatted): -
+16:31:10.148 > AvgTimeFull (formatted):  0h 0m
+16:31:11.191 > 100
+16:31:11.197 > >> Membaca BQ1
+16:31:11.197 > SOC BATT 1                100
+16:31:11.197 > Tegangan                  1315
+16:31:11.197 > SOH                       32
+16:31:11.197 > Cycle                     0
+16:31:11.197 > Current                   10
+16:31:11.197 > AvgTimeEmpty (formatted): -
+16:31:11.197 > AvgTimeFull (formatted):  0h 0m
+16:31:12.235 > 100
+16:31:12.244 > >> Membaca BQ1
+16:31:12.244 > SOC BATT 1                100
+16:31:12.244 > Tegangan                  1315
+16:31:12.244 > SOH                       32
+16:31:12.244 > Cycle                     0
+16:31:12.244 > Current                   10
+16:31:12.244 > AvgTimeEmpty (formatted): -
+16:31:12.244 > AvgTimeFull (formatted):  0h 0m
+16:31:13.291 > 100
+16:31:13.295 > >> Membaca BQ1
+16:31:13.295 > SOC BATT 1                100
+16:31:13.295 > Tegangan                  1315
+16:31:13.295 > SOH                       32
+16:31:13.295 > Cycle                     0
+16:31:13.295 > Current                   10
+16:31:13.295 > AvgTimeEmpty (formatted): -
+16:31:13.295 > AvgTimeFull (formatted):  0h 0m
+16:31:14.342 > 100
+16:31:14.348 > >> Membaca BQ1
+16:31:14.348 > SOC BATT 1                100
+16:31:14.348 > Tegangan                  1315
+16:31:14.348 > SOH                       32
+16:31:14.348 > Cycle                     0
+16:31:14.348 > Current                   10
+16:31:14.348 > AvgTimeEmpty (formatted): -
+16:31:14.348 > AvgTimeFull (formatted):  0h 0m
+16:31:15.392 > 100
+16:31:15.398 > >> Membaca BQ1
+16:31:15.398 > SOC BATT 1                100
+16:31:15.398 > Tegangan                  1315
+16:31:15.398 > SOH                       32
+16:31:15.398 > Cycle                     0
+16:31:15.398 > Current                   10
+16:31:15.398 > AvgTimeEmpty (formatted): -
+16:31:15.398 > AvgTimeFull (formatted):  0h 0m
+16:31:16.439 > 100
+16:31:16.448 > >> Membaca BQ1
+16:31:16.448 > SOC BATT 1                100
+16:31:16.448 > Tegangan                  1315
+16:31:16.448 > SOH                       32
+16:31:16.448 > Cycle                     0
+16:31:16.448 > Current                   50
+16:31:16.448 > AvgTimeEmpty (formatted): -
+16:31:16.448 > AvgTimeFull (formatted):  0h 0m
+16:31:17.492 > 100
+16:31:17.497 > >> Membaca BQ1
+16:31:17.497 > SOC BATT 1                100
+16:31:17.497 > Tegangan                  1315
+16:31:17.497 > SOH                       32
+16:31:17.497 > Cycle                     0
+16:31:17.497 > Current                   48
+16:31:17.497 > AvgTimeEmpty (formatted): -
+16:31:17.497 > AvgTimeFull (formatted):  0h 0m
+16:31:18.542 > 100
+16:31:18.548 > >> Membaca BQ1
+16:31:18.550 > SOC BATT 1                100
+16:31:18.550 > Tegangan                  1315
+16:31:18.550 > SOH                       32
+16:31:18.550 > Cycle                     0
+16:31:18.550 > Current                   50
+16:31:18.550 > AvgTimeEmpty (formatted): -
+16:31:18.550 > AvgTimeFull (formatted):  0h 0m
+16:31:19.592 > 100
+16:31:19.593 > >> Membaca BQ1
+16:31:19.593 > SOC BATT 1                100
+16:31:19.593 > Tegangan                  1315
+16:31:19.593 > SOH                       32
+16:31:19.593 > Cycle                     0
+16:31:19.593 > Current                   48
+16:31:19.593 > AvgTimeEmpty (formatted): -
+16:31:19.593 > AvgTimeFull (formatted):  0h 0m
+16:31:20.642 > 100
+16:31:20.645 > >> Membaca BQ1
+16:31:20.645 > SOC BATT 1                100
+16:31:20.645 > Tegangan                  1315
+16:31:20.645 > SOH                       32
+16:31:20.645 > Cycle                     0
+16:31:20.645 > Current                   48
+16:31:20.645 > AvgTimeEmpty (formatted): -
+16:31:20.645 > AvgTimeFull (formatted):  0h 0m
+16:31:21.692 > 100
+16:31:21.697 > >> Membaca BQ1
+16:31:21.697 > SOC BATT 1                100
+16:31:21.697 > Tegangan                  1315
+16:31:21.697 > SOH                       32
+16:31:21.697 > Cycle                     0
+16:31:21.699 > Current                   48
+16:31:21.699 > AvgTimeEmpty (formatted): -
+16:31:21.699 > AvgTimeFull (formatted):  0h 0m
+16:31:22.742 > 100
+16:31:22.772 > >> Membaca BQ1
+16:31:22.772 > SOC BATT 1                100
+16:31:22.772 > Tegangan                  1315
+16:31:22.772 > SOH                       32
+16:31:22.772 > Cycle                     0
+16:31:22.772 > Current                   50
+16:31:22.772 > AvgTimeEmpty (formatted): -
+16:31:22.772 > AvgTimeFull (formatted):  0h 0m
+16:31:23.792 > 100
+16:31:23.798 > >> Membaca BQ1
+16:31:23.798 > SOC BATT 1                100
+16:31:23.798 > Tegangan                  1315
+16:31:23.798 > SOH                       32
+16:31:23.798 > Cycle                     0
+16:31:23.798 > Current                   48
+16:31:23.798 > AvgTimeEmpty (formatted): -
+16:31:23.798 > AvgTimeFull (formatted):  0h 0m
+16:31:24.842 > 100
+16:31:24.843 > >> Membaca BQ1
+16:31:24.843 > SOC BATT 1                100
+16:31:24.843 > Tegangan                  1315
+16:31:24.843 > SOH                       32
+16:31:24.843 > Cycle                     0
+16:31:24.843 > Current                   50
+16:31:24.843 > AvgTimeEmpty (formatted): -
+16:31:24.843 > AvgTimeFull (formatted):  0h 0m
+16:31:25.892 > 100
+16:31:25.892 > >> Membaca BQ1
+16:31:25.892 > SOC BATT 1                100
+16:31:25.892 > Tegangan                  1315
+16:31:25.892 > SOH                       32
+16:31:25.892 > Cycle                     0
+16:31:25.892 > Current                   48
+16:31:25.892 > AvgTimeEmpty (formatted): -
+16:31:25.892 > AvgTimeFull (formatted):  0h 0m
+16:31:26.941 > 100
+16:31:26.944 > >> Membaca BQ1
+16:31:26.949 > SOC BATT 1                100
+16:31:26.949 > Tegangan                  1315
+16:31:26.949 > SOH                       32
+16:31:26.949 > Cycle                     0
+16:31:26.949 > Current                   48
+16:31:26.949 > AvgTimeEmpty (formatted): -
+16:31:26.949 > AvgTimeFull (formatted):  0h 0m
+16:31:27.991 > 100
+16:31:27.999 > >> Membaca BQ1
+16:31:27.999 > SOC BATT 1                100
+16:31:27.999 > Tegangan                  1314
+16:31:27.999 > SOH                       32
+16:31:27.999 > Cycle                     0
+16:31:27.999 > Current                   48
+16:31:27.999 > AvgTimeEmpty (formatted): -
+16:31:27.999 > AvgTimeFull (formatted):  0h 0m
+16:31:29.043 > 100
+16:31:29.048 > >> Membaca BQ1
+16:31:29.048 > SOC BATT 1                100
+16:31:29.048 > Tegangan                  1315
+16:31:29.048 > SOH                       32
+16:31:29.048 > Cycle                     0
+16:31:29.048 > Current                   50
+16:31:29.048 > AvgTimeEmpty (formatted): -
+16:31:29.048 > AvgTimeFull (formatted):  0h 0m
+16:31:30.092 > 100
+16:31:30.095 > >> Membaca BQ1
+16:31:30.095 > SOC BATT 1                100
+16:31:30.095 > Tegangan                  1315
+16:31:30.095 > SOH                       32
+16:31:30.095 > Cycle                     0
+16:31:30.095 > Current                   48
+16:31:30.095 > AvgTimeEmpty (formatted): -
+16:31:30.095 > AvgTimeFull (formatted):  0h 0m
+16:31:31.142 > 100
+16:31:31.149 > >> Membaca BQ1
+16:31:31.149 > SOC BATT 1                100
+16:31:31.149 > Tegangan                  1315
+16:31:31.149 > SOH                       32
+16:31:31.149 > Cycle                     0
+16:31:31.149 > Current                   48
+16:31:31.149 > AvgTimeEmpty (formatted): -
+16:31:31.149 > AvgTimeFull (formatted):  0h 0m
+16:31:32.189 > 100
+16:31:32.198 > >> Membaca BQ1
+16:31:32.198 > SOC BATT 1                100
+16:31:32.198 > Tegangan                  1315
+16:31:32.198 > SOH                       32
+16:31:32.198 > Cycle                     0
+16:31:32.198 > Current                   50
+16:31:32.198 > AvgTimeEmpty (formatted): -
+16:31:32.198 > AvgTimeFull (formatted):  0h 0m
+16:31:33.238 > 100
+16:31:33.249 > >> Membaca BQ1
+16:31:33.249 > SOC BATT 1                100
+16:31:33.249 > Tegangan                  1315
+16:31:33.249 > SOH                       32
+16:31:33.249 > Cycle                     0
+16:31:33.249 > Current                   48
+16:31:33.249 > AvgTimeEmpty (formatted): -
+16:31:33.249 > AvgTimeFull (formatted):  0h 0m
+16:31:34.292 > 100
+16:31:34.292 > >> Membaca BQ1
+16:31:34.292 > SOC BATT 1                100
+16:31:34.292 > Tegangan                  1315
+16:31:34.292 > SOH                       32
+16:31:34.292 > Cycle                     0
+16:31:34.300 > Current                   50
+16:31:34.300 > AvgTimeEmpty (formatted): -
+16:31:34.300 > AvgTimeFull (formatted):  0h 0m
+16:31:35.342 > 100
+16:31:35.349 > >> Membaca BQ1
+16:31:35.350 > SOC BATT 1                100
+16:31:35.350 > Tegangan                  1315
+16:31:35.350 > SOH                       32
+16:31:35.350 > Cycle                     0
+16:31:35.350 > Current                   48
+16:31:35.350 > AvgTimeEmpty (formatted): -
+16:31:35.350 > AvgTimeFull (formatted):  0h 0m
+16:31:36.392 > 100
+16:31:36.397 > >> Membaca BQ1
+16:31:36.399 > SOC BATT 1                100
+16:31:36.399 > Tegangan                  1315
+16:31:36.399 > SOH                       32
+16:31:36.399 > Cycle                     0
+16:31:36.399 > Current                   50
+16:31:36.399 > AvgTimeEmpty (formatted): -
+16:31:36.399 > AvgTimeFull (formatted):  0h 0m
+16:31:37.440 > 100
+16:31:37.445 > >> Membaca BQ1
+16:31:37.445 > SOC BATT 1                100
+16:31:37.445 > Tegangan                  1315
+16:31:37.445 > SOH                       32
+16:31:37.445 > Cycle                     0
+16:31:37.445 > Current                   48
+16:31:37.445 > AvgTimeEmpty (formatted): -
+16:31:37.445 > AvgTimeFull (formatted):  0h 0m
+16:31:38.492 > 100
+16:31:38.495 > >> Membaca BQ1
+16:31:38.495 > SOC BATT 1                100
+16:31:38.495 > Tegangan                  1315
+16:31:38.495 > SOH                       32
+16:31:38.495 > Cycle                     0
+16:31:38.495 > Current                   48
+16:31:38.495 > AvgTimeEmpty (formatted): -
+16:31:38.495 > AvgTimeFull (formatted):  0h 0m
+16:31:39.541 > 100
+16:31:39.546 > >> Membaca BQ1
+16:31:39.550 > SOC BATT 1                100
+16:31:39.550 > Tegangan                  1315
+16:31:39.550 > SOH                       32
+16:31:39.550 > Cycle                     0
+16:31:39.550 > Current                   50
+16:31:39.550 > AvgTimeEmpty (formatted): -
+16:31:39.550 > AvgTimeFull (formatted):  0h 0m
+16:31:40.593 > 100
+16:31:40.595 > >> Membaca BQ1
+16:31:40.595 > SOC BATT 1                100
+16:31:40.595 > Tegangan                  1315
+16:31:40.595 > SOH                       32
+16:31:40.595 > Cycle                     0
+16:31:40.595 > Current                   48
+16:31:40.595 > AvgTimeEmpty (formatted): -
+16:31:40.595 > AvgTimeFull (formatted):  0h 0m
+16:31:41.643 > 100
+16:31:41.645 > >> Membaca BQ1
+16:31:41.645 > SOC BATT 1                100
+16:31:41.645 > Tegangan                  1314
+16:31:41.645 > SOH                       32
+16:31:41.645 > Cycle                     0
+16:31:41.645 > Current                   48
+16:31:41.645 > AvgTimeEmpty (formatted): -
+16:31:41.645 > AvgTimeFull (formatted):  0h 0m
+16:31:42.691 > 100
+16:31:42.698 > >> Membaca BQ1
+16:31:42.698 > SOC BATT 1                100
+16:31:42.698 > Tegangan                  1315
+16:31:42.698 > SOH                       32
+16:31:42.698 > Cycle                     0
+16:31:42.698 > Current                   50
+16:31:42.698 > AvgTimeEmpty (formatted): -
+16:31:42.698 > AvgTimeFull (formatted):  0h 0m
+16:31:43.742 > 100
+16:31:43.747 > >> Membaca BQ1
+16:31:43.747 > SOC BATT 1                100
+16:31:43.747 > Tegangan                  1315
+16:31:43.747 > SOH                       32
+16:31:43.747 > Cycle                     0
+16:31:43.747 > Current                   48
+16:31:43.747 > AvgTimeEmpty (formatted): -
+16:31:43.747 > AvgTimeFull (formatted):  0h 0m
+16:31:44.792 > 100
+16:31:44.799 > >> Membaca BQ1
+16:31:44.799 > SOC BATT 1                100
+16:31:44.799 > Tegangan                  1315
+16:31:44.799 > SOH                       32
+16:31:44.799 > Cycle                     0
+16:31:44.799 > Current                   48
+16:31:44.799 > AvgTimeEmpty (formatted): -
+16:31:44.799 > AvgTimeFull (formatted):  0h 0m
+16:31:45.836 > 100
+16:31:45.845 > >> Membaca BQ1
+16:31:45.845 > SOC BATT 1                100
+16:31:45.845 > Tegangan                  1315
+16:31:45.845 > SOH                       32
+16:31:45.845 > Cycle                     0
+16:31:45.845 > Current                   48
+16:31:45.845 > AvgTimeEmpty (formatted): -
+16:31:45.845 > AvgTimeFull (formatted):  0h 0m
+16:31:46.891 > 100
+16:31:46.891 > >> Membaca BQ1
+16:31:46.900 > SOC BATT 1                100
+16:31:46.900 > Tegangan                  1315
+16:31:46.900 > SOH                       32
+16:31:46.900 > Cycle                     0
+16:31:46.901 > Current                   50
+16:31:46.901 > AvgTimeEmpty (formatted): -
+16:31:46.901 > AvgTimeFull (formatted):  0h 0m
+16:31:47.942 > 100
+16:31:47.948 > >> Membaca BQ1
+16:31:47.948 > SOC BATT 1                100
+16:31:47.948 > Tegangan                  1315
+16:31:47.948 > SOH                       32
+16:31:47.948 > Cycle                     0
+16:31:47.948 > Current                   48
+16:31:47.948 > AvgTimeEmpty (formatted): -
+16:31:47.948 > AvgTimeFull (formatted):  0h 0m
+16:31:48.992 > 100
+16:31:48.992 > >> Membaca BQ1
+16:31:48.992 > SOC BATT 1                100
+16:31:48.992 > Tegangan                  1315
+16:31:48.992 > SOH                       32
+16:31:48.992 > Cycle                     0
+16:31:48.992 > Current                   50
+16:31:48.992 > AvgTimeEmpty (formatted): -
+16:31:48.992 > AvgTimeFull (formatted):  0h 0m
+16:31:50.040 > 100
+16:31:50.049 > >> Membaca BQ1
+16:31:50.049 > SOC BATT 1                100
+16:31:50.049 > Tegangan                  1315
+16:31:50.049 > SOH                       32
+16:31:50.049 > Cycle                     0
+16:31:50.049 > Current                   48
+16:31:50.049 > AvgTimeEmpty (formatted): -
+16:31:50.049 > AvgTimeFull (formatted):  0h 0m
+16:31:51.088 > 100
+16:31:51.096 > >> Membaca BQ1
+16:31:51.096 > SOC BATT 1                100
+16:31:51.096 > Tegangan                  1314
+16:31:51.096 > SOH                       32
+16:31:51.096 > Cycle                     0
+16:31:51.096 > Current                   48
+16:31:51.096 > AvgTimeEmpty (formatted): -
+16:31:51.096 > AvgTimeFull (formatted):  0h 0m
+16:31:52.144 > 100
+16:31:52.144 > >> Membaca BQ1
+16:31:52.144 > SOC BATT 1                100
+16:31:52.144 > Tegangan                  1315
+16:31:52.144 > SOH                       32
+16:31:52.144 > Cycle                     0
+16:31:52.144 > Current                   48
+16:31:52.144 > AvgTimeEmpty (formatted): -
+16:31:52.144 > AvgTimeFull (formatted):  0h 0m
+16:31:53.193 > 100
+16:31:53.199 > >> Membaca BQ1
+16:31:53.199 > SOC BATT 1                100
+16:31:53.199 > Tegangan                  1315
+16:31:53.199 > SOH                       32
+16:31:53.199 > Cycle                     0
+16:31:53.199 > Current                   50
+16:31:53.199 > AvgTimeEmpty (formatted): -
+16:31:53.199 > AvgTimeFull (formatted):  0h 0m
+16:31:54.242 > 100
+16:31:54.245 > >> Membaca BQ1
+16:31:54.245 > SOC BATT 1                100
+16:31:54.250 > Tegangan                  1315
+16:31:54.250 > SOH                       32
+16:31:54.250 > Cycle                     0
+16:31:54.250 > Current                   48
+16:31:54.250 > AvgTimeEmpty (formatted): -
+16:31:54.250 > AvgTimeFull (formatted):  0h 0m
+16:31:55.292 > 100
+16:31:55.297 > >> Membaca BQ1
+16:31:55.297 > SOC BATT 1                100
+16:31:55.297 > Tegangan                  1314
+16:31:55.297 > SOH                       32
+16:31:55.297 > Cycle                     0
+16:31:55.297 > Current                   48
+16:31:55.297 > AvgTimeEmpty (formatted): -
+16:31:55.297 > AvgTimeFull (formatted):  0h 0m
+16:31:56.342 > 100
+16:31:56.344 > >> Membaca BQ1
+16:31:56.344 > SOC BATT 1                100
+16:31:56.344 > Tegangan                  1315
+16:31:56.344 > SOH                       32
+16:31:56.344 > Cycle                     0
+16:31:56.344 > Current                   50
+16:31:56.344 > AvgTimeEmpty (formatted): -
+16:31:56.344 > AvgTimeFull (formatted):  0h 0m
+16:31:57.393 > 100
+16:31:57.395 > >> Membaca BQ1
+16:31:57.395 > SOC BATT 1                100
+16:31:57.395 > Tegangan                  1314
+16:31:57.395 > SOH                       32
+16:31:57.395 > Cycle                     0
+16:31:57.395 > Current                   48
+16:31:57.395 > AvgTimeEmpty (formatted): -
+16:31:57.395 > AvgTimeFull (formatted):  0h 0m
+16:31:58.443 > 100
+16:31:58.449 > >> Membaca BQ1
+16:31:58.449 > SOC BATT 1                100
+16:31:58.449 > Tegangan                  1315
+16:31:58.449 > SOH                       32
+16:31:59.494 > Cycle                     0
+16:31:59.494 > Current                   48
+16:31:59.494 > AvgTimeEmpty (formatted): -
+16:31:59.494 > AvgTimeFull (formatted):  0h 0m
+16:31:59.494 > 100
+16:31:59.498 > >> Membaca BQ1
+16:31:59.498 > SOC BATT 1                100
+16:31:59.498 > Tegangan                  1315
+16:31:59.498 > SOH                       32
+16:31:59.498 > Cycle                     0
+16:31:59.500 > Current                   50
+16:31:59.500 > AvgTimeEmpty (formatted): -
+16:31:59.500 > AvgTimeFull (formatted):  0h 0m
+16:32:00.542 > 100
+16:32:00.542 > >> Membaca BQ1
+16:32:00.550 > SOC BATT 1                100
+16:32:00.550 > Tegangan                  1315
+16:32:00.550 > SOH                       32
+16:32:00.550 > Cycle                     0
+16:32:00.550 > Current                   48
+16:32:00.550 > AvgTimeEmpty (formatted): -
+16:32:00.550 > AvgTimeFull (formatted):  0h 0m
+16:32:01.593 > 100
+16:32:01.598 > >> Membaca BQ1
+16:32:01.600 > SOC BATT 1                100
+16:32:01.600 > Tegangan                  1314
+16:32:01.600 > SOH                       32
+16:32:01.600 > Cycle                     0
+16:32:01.600 > Current                   50
+16:32:01.600 > AvgTimeEmpty (formatted): -
+16:32:01.600 > AvgTimeFull (formatted):  0h 0m
+16:32:02.643 > 100
+16:32:02.649 > >> Membaca BQ1
+16:32:02.649 > SOC BATT 1                100
+16:32:02.649 > Tegangan                  1314
+16:32:02.649 > SOH                       32
+16:32:02.649 > Cycle                     0
+16:32:02.649 > Current                   48
+16:32:02.649 > AvgTimeEmpty (formatted): -
+16:32:02.649 > AvgTimeFull (formatted):  0h 0m

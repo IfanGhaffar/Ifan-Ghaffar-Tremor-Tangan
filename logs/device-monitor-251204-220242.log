@@ -1,0 +1,31 @@
+22:03:11.938 > Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+22:03:11.938 > 
+22:03:11.938 > Core  1 register dump:
+22:03:11.938 > PC      : 0x42061e66  PS      : 0x00060530  A0      : 0x8200b8a6  A1      : 0x3fcba970  
+22:03:11.938 > A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00060520  A5      : 0x00060523  
+22:03:11.938 > A6      : 0x00060523  A7      : 0x00000001  A8      : 0x18e318e3  A9      : 0x00000004  
+22:03:11.938 > A10     : 0x00060523  A11     : 0x3fc9fbac  A12     : 0x80000020  A13     : 0x00000007  
+22:03:11.938 > A14     : 0x02c955d0  A15     : 0x00ffffff  SAR     : 0x00000013  EXCCAUSE: 0x0000001c  
+22:03:11.938 > EXCVADDR: 0x18e3190f  LBEG    : 0x40056f5c  LEND    : 0x40056f72  LCOUNT  : 0x00000000  
+22:03:11.938 > 
+22:03:11.938 > 
+22:03:11.938 > Backtrace: 0x42061e63:0x3fcba970 0x4200b8a3:0x3fcba990 0x42023989:0x3fcba9c0 0x42004d65:0x3fcbaa10
+22:03:11.938 > 
+22:03:11.938 > 
+22:03:11.938 > 
+22:03:11.938 > 
+22:03:11.938 > ELF file SHA256: f1bf64cc388988b0
+22:03:11.938 > 
+22:03:11.938 > Rebooting...
+22:03:11.938 > ESP-ROM:esp32s3-20210327
+22:03:11.938 > Build:Mar 27 2021
+22:03:11.979 > rst:0xc (RTC_SW_CPU_RST),boot:0x29 (SPI_FAST_FLASH_BOOT)
+22:03:11.979 > Saved PC:0x42064eae
+22:03:11.979 > SPIWP:0xee
+22:03:11.979 > mode:DIO, clock div:1
+22:03:11.979 > load:0x3fce3808,len:0x4bc
+22:03:11.979 > load:0x403c9700,len:0xbd8
+22:03:11.979 > load:0x403cc700,len:0x2a0c
+22:03:11.979 > entry 0x403c98d0
+22:03:13.015 > WHO_AM_I = 0xEA
+22:03:13.015 > ✔ ICM20948 terdeteksi!

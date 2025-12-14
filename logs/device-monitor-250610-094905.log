@@ -1,0 +1,1304 @@
+09:49:06.205 > >> Membaca BQ1
+09:49:06.205 > SOC BATT 1    16
+09:49:06.205 > Tegangan      1330
+09:49:06.205 > SOH           100
+09:49:06.205 > Cycle         0
+09:49:06.205 > Current       0
+09:49:06.205 > AvgTimeEmpty (formatted): 587h 40m
+09:49:06.205 > AvgTimeFull   65535
+09:49:07.221 > >> Membaca BQ1
+09:49:07.221 > SOC BATT 1    16
+09:49:07.221 > Tegangan      1330
+09:49:07.221 > SOH           100
+09:49:07.221 > Cycle         0
+09:49:07.221 > Current       0
+09:49:07.221 > AvgTimeEmpty (formatted): 881h 30m
+09:49:07.221 > AvgTimeFull   65535
+09:49:08.255 > >> Membaca BQ1
+09:49:08.255 > SOC BATT 1    16
+09:49:08.255 > Tegangan      1330
+09:49:08.255 > SOH           100
+09:49:08.255 > Cycle         0
+09:49:08.255 > Current       0
+09:49:08.255 > AvgTimeEmpty (formatted): 881h 30m
+09:49:08.255 > AvgTimeFull   65535
+09:49:09.303 > >> Membaca BQ1
+09:49:09.303 > SOC BATT 1    16
+09:49:09.303 > Tegangan      1330
+09:49:09.303 > SOH           100
+09:49:09.303 > Cycle         0
+09:49:09.303 > Current       0
+09:49:09.303 > AvgTimeEmpty (formatted): 881h 30m
+09:49:09.303 > AvgTimeFull   65535
+09:49:10.365 > >> Membaca BQ1
+09:49:10.365 > SOC BATT 1    16
+09:49:10.365 > Tegangan      1330
+09:49:10.365 > SOH           100
+09:49:10.365 > Cycle         0
+09:49:10.365 > Current       0
+09:49:10.365 > AvgTimeEmpty (formatted): 881h 30m
+09:49:10.365 > AvgTimeFull   65535
+09:49:11.405 > >> Membaca BQ1
+09:49:11.405 > SOC BATT 1    16
+09:49:11.405 > Tegangan      1330
+09:49:11.405 > SOH           100
+09:49:11.405 > Cycle         0
+09:49:11.405 > Current       0
+09:49:11.405 > AvgTimeEmpty (formatted): 881h 30m
+09:49:11.405 > AvgTimeFull   65535
+09:49:12.461 > >> Membaca BQ1
+09:49:12.461 > SOC BATT 1    16
+09:49:12.461 > Tegangan      1330
+09:49:12.461 > SOH           100
+09:49:12.461 > Cycle         0
+09:49:12.461 > Current       0
+09:49:12.461 > AvgTimeEmpty (formatted): 881h 30m
+09:49:12.461 > AvgTimeFull   65535
+09:49:13.502 > >> Membaca BQ1
+09:49:13.502 > SOC BATT 1    16
+09:49:13.502 > Tegangan      1330
+09:49:13.502 > SOH           100
+09:49:13.502 > Cycle         0
+09:49:13.502 > Current       0
+09:49:13.502 > AvgTimeEmpty (formatted): 881h 30m
+09:49:13.502 > AvgTimeFull   65535
+09:49:14.557 > >> Membaca BQ1
+09:49:14.557 > SOC BATT 1    16
+09:49:14.557 > Tegangan      1330
+09:49:14.557 > SOH           100
+09:49:14.557 > Cycle         0
+09:49:14.557 > Current       0
+09:49:14.557 > AvgTimeEmpty (formatted): -
+09:49:14.557 > AvgTimeFull   65535
+09:49:15.607 > >> Membaca BQ1
+09:49:15.607 > SOC BATT 1    16
+09:49:15.607 > Tegangan      1330
+09:49:15.607 > SOH           100
+09:49:15.607 > Cycle         0
+09:49:15.607 > Current       0
+09:49:15.607 > AvgTimeEmpty (formatted): -
+09:49:15.607 > AvgTimeFull   65535
+09:49:16.656 > >> Membaca BQ1
+09:49:16.656 > SOC BATT 1    16
+09:49:16.656 > Tegangan      1330
+09:49:16.656 > SOH           100
+09:49:16.656 > Cycle         0
+09:49:16.656 > Current       0
+09:49:16.656 > AvgTimeEmpty (formatted): -
+09:49:16.656 > AvgTimeFull   65535
+09:49:17.708 > >> Membaca BQ1
+09:49:17.708 > SOC BATT 1    16
+09:49:17.708 > Tegangan      1330
+09:49:17.708 > SOH           100
+09:49:17.708 > Cycle         0
+09:49:17.708 > Current       0
+09:49:17.708 > AvgTimeEmpty (formatted): -
+09:49:17.708 > AvgTimeFull   65535
+09:49:18.760 > >> Membaca BQ1
+09:49:18.760 > SOC BATT 1    16
+09:49:18.760 > Tegangan      1330
+09:49:18.760 > SOH           100
+09:49:18.760 > Cycle         0
+09:49:18.760 > Current       0
+09:49:18.760 > AvgTimeEmpty (formatted): -
+09:49:18.760 > AvgTimeFull   65535
+09:49:19.806 > >> Membaca BQ1
+09:49:19.806 > SOC BATT 1    16
+09:49:19.806 > Tegangan      1330
+09:49:19.806 > SOH           100
+09:49:19.806 > Cycle         0
+09:49:19.806 > Current       0
+09:49:19.806 > AvgTimeEmpty (formatted): -
+09:49:19.806 > AvgTimeFull   65535
+09:49:20.858 > >> Membaca BQ1
+09:49:20.858 > SOC BATT 1    16
+09:49:20.858 > Tegangan      1330
+09:49:20.858 > SOH           100
+09:49:20.858 > Cycle         0
+09:49:20.858 > Current       0
+09:49:20.858 > AvgTimeEmpty (formatted): -
+09:49:20.858 > AvgTimeFull   65535
+09:49:21.908 > >> Membaca BQ1
+09:49:21.908 > SOC BATT 1    16
+09:49:21.908 > Tegangan      1330
+09:49:21.908 > SOH           100
+09:49:21.908 > Cycle         0
+09:49:21.908 > Current       0
+09:49:21.908 > AvgTimeEmpty (formatted): -
+09:49:21.908 > AvgTimeFull   65535
+09:49:22.962 > >> Membaca BQ1
+09:49:22.962 > SOC BATT 1    16
+09:49:22.962 > Tegangan      1330
+09:49:22.962 > SOH           100
+09:49:22.962 > Cycle         0
+09:49:22.962 > Current       0
+09:49:22.962 > AvgTimeEmpty (formatted): -
+09:49:22.962 > AvgTimeFull   65535
+09:49:24.012 > >> Membaca BQ1
+09:49:24.012 > SOC BATT 1    16
+09:49:24.012 > Tegangan      1330
+09:49:24.012 > SOH           100
+09:49:24.012 > Cycle         0
+09:49:24.012 > Current       0
+09:49:24.012 > AvgTimeEmpty (formatted): -
+09:49:24.012 > AvgTimeFull   65535
+09:49:25.059 > >> Membaca BQ1
+09:49:25.059 > SOC BATT 1    16
+09:49:25.059 > Tegangan      1330
+09:49:25.059 > SOH           100
+09:49:25.059 > Cycle         0
+09:49:25.059 > Current       0
+09:49:25.059 > AvgTimeEmpty (formatted): -
+09:49:25.059 > AvgTimeFull   65535
+09:49:26.109 > >> Membaca BQ1
+09:49:26.109 > SOC BATT 1    16
+09:49:26.109 > Tegangan      1330
+09:49:26.109 > SOH           100
+09:49:26.109 > Cycle         0
+09:49:26.109 > Current       0
+09:49:26.109 > AvgTimeEmpty (formatted): -
+09:49:26.109 > AvgTimeFull   65535
+09:49:27.161 > >> Membaca BQ1
+09:49:27.161 > SOC BATT 1    16
+09:49:27.161 > Tegangan      1330
+09:49:27.161 > SOH           100
+09:49:27.161 > Cycle         0
+09:49:27.161 > Current       0
+09:49:27.161 > AvgTimeEmpty (formatted): -
+09:49:27.161 > AvgTimeFull   65535
+09:49:28.211 > >> Membaca BQ1
+09:49:28.211 > SOC BATT 1    16
+09:49:28.211 > Tegangan      1330
+09:49:28.211 > SOH           100
+09:49:28.211 > Cycle         0
+09:49:28.211 > Current       0
+09:49:28.211 > AvgTimeEmpty (formatted): -
+09:49:28.211 > AvgTimeFull   65535
+09:49:29.261 > >> Membaca BQ1
+09:49:29.261 > SOC BATT 1    16
+09:49:29.261 > Tegangan      1330
+09:49:29.261 > SOH           100
+09:49:29.261 > Cycle         0
+09:49:29.261 > Current       0
+09:49:29.261 > AvgTimeEmpty (formatted): -
+09:49:29.261 > AvgTimeFull   65535
+09:49:30.310 > >> Membaca BQ1
+09:49:30.310 > SOC BATT 1    16
+09:49:30.310 > Tegangan      1330
+09:49:30.310 > SOH           100
+09:49:30.310 > Cycle         0
+09:49:30.310 > Current       0
+09:49:30.310 > AvgTimeEmpty (formatted): -
+09:49:30.310 > AvgTimeFull   65535
+09:49:31.365 > >> Membaca BQ1
+09:49:31.365 > SOC BATT 1    16
+09:49:31.365 > Tegangan      1330
+09:49:31.365 > SOH           100
+09:49:31.365 > Cycle         0
+09:49:31.365 > Current       0
+09:49:31.365 > AvgTimeEmpty (formatted): -
+09:49:31.365 > AvgTimeFull   65535
+09:49:32.412 > >> Membaca BQ1
+09:49:32.412 > SOC BATT 1    16
+09:49:32.412 > Tegangan      1330
+09:49:32.412 > SOH           100
+09:49:32.412 > Cycle         0
+09:49:32.412 > Current       0
+09:49:32.412 > AvgTimeEmpty (formatted): -
+09:49:32.412 > AvgTimeFull   65535
+09:49:33.462 > >> Membaca BQ1
+09:49:33.462 > SOC BATT 1    16
+09:49:33.462 > Tegangan      1330
+09:49:33.462 > SOH           100
+09:49:33.462 > Cycle         0
+09:49:33.462 > Current       0
+09:49:33.462 > AvgTimeEmpty (formatted): -
+09:49:33.462 > AvgTimeFull   65535
+09:49:34.514 > >> Membaca BQ1
+09:49:34.514 > SOC BATT 1    16
+09:49:34.514 > Tegangan      1330
+09:49:34.514 > SOH           100
+09:49:34.514 > Cycle         0
+09:49:34.514 > Current       0
+09:49:34.514 > AvgTimeEmpty (formatted): -
+09:49:34.514 > AvgTimeFull   65535
+09:49:35.556 > >> Membaca BQ1
+09:49:35.556 > SOC BATT 1    16
+09:49:35.556 > Tegangan      1330
+09:49:35.556 > SOH           100
+09:49:35.556 > Cycle         0
+09:49:35.556 > Current       0
+09:49:35.556 > AvgTimeEmpty (formatted): -
+09:49:35.556 > AvgTimeFull   65535
+09:49:36.601 > >> Membaca BQ1
+09:49:36.617 > SOC BATT 1    16
+09:49:36.617 > Tegangan      1330
+09:49:36.617 > SOH           100
+09:49:36.617 > Cycle         0
+09:49:36.617 > Current       0
+09:49:36.617 > AvgTimeEmpty (formatted): -
+09:49:36.617 > AvgTimeFull   65535
+09:49:37.652 > >> Membaca BQ1
+09:49:37.652 > SOC BATT 1    16
+09:49:37.652 > Tegangan      1330
+09:49:37.652 > SOH           100
+09:49:37.652 > Cycle         0
+09:49:37.652 > Current       0
+09:49:37.652 > AvgTimeEmpty (formatted): -
+09:49:37.652 > AvgTimeFull   65535
+09:49:38.715 > >> Membaca BQ1
+09:49:38.715 > SOC BATT 1    16
+09:49:38.715 > Tegangan      1330
+09:49:38.715 > SOH           100
+09:49:38.715 > Cycle         0
+09:49:38.715 > Current       0
+09:49:38.715 > AvgTimeEmpty (formatted): -
+09:49:38.715 > AvgTimeFull   65535
+09:49:39.766 > >> Membaca BQ1
+09:49:39.766 > SOC BATT 1    16
+09:49:39.766 > Tegangan      1330
+09:49:39.766 > SOH           100
+09:49:39.766 > Cycle         0
+09:49:39.766 > Current       0
+09:49:39.766 > AvgTimeEmpty (formatted): -
+09:49:39.766 > AvgTimeFull   65535
+09:49:40.805 > >> Membaca BQ1
+09:49:40.805 > SOC BATT 1    16
+09:49:40.805 > Tegangan      1330
+09:49:40.805 > SOH           100
+09:49:40.805 > Cycle         0
+09:49:40.805 > Current       0
+09:49:40.805 > AvgTimeEmpty (formatted): -
+09:49:40.805 > AvgTimeFull   65535
+09:49:41.856 > >> Membaca BQ1
+09:49:41.856 > SOC BATT 1    16
+09:49:41.856 > Tegangan      1330
+09:49:41.856 > SOH           100
+09:49:41.856 > Cycle         0
+09:49:41.856 > Current       0
+09:49:41.856 > AvgTimeEmpty (formatted): -
+09:49:41.856 > AvgTimeFull   65535
+09:49:42.905 > >> Membaca BQ1
+09:49:42.905 > SOC BATT 1    16
+09:49:42.905 > Tegangan      1330
+09:49:42.905 > SOH           100
+09:49:42.905 > Cycle         0
+09:49:42.905 > Current       0
+09:49:42.905 > AvgTimeEmpty (formatted): -
+09:49:42.905 > AvgTimeFull   65535
+09:49:43.953 > >> Membaca BQ1
+09:49:43.953 > SOC BATT 1    16
+09:49:43.953 > Tegangan      1330
+09:49:43.953 > SOH           100
+09:49:43.953 > Cycle         0
+09:49:43.953 > Current       0
+09:49:43.953 > AvgTimeEmpty (formatted): -
+09:49:43.953 > AvgTimeFull   65535
+09:49:45.013 > >> Membaca BQ1
+09:49:45.013 > SOC BATT 1    16
+09:49:45.013 > Tegangan      1330
+09:49:45.013 > SOH           100
+09:49:45.013 > Cycle         0
+09:49:45.013 > Current       0
+09:49:45.013 > AvgTimeEmpty (formatted): -
+09:49:45.013 > AvgTimeFull   65535
+09:49:46.052 > >> Membaca BQ1
+09:49:46.068 > SOC BATT 1    16
+09:49:46.068 > Tegangan      1330
+09:49:46.068 > SOH           100
+09:49:46.068 > Cycle         0
+09:49:46.068 > Current       0
+09:49:46.068 > AvgTimeEmpty (formatted): -
+09:49:46.068 > AvgTimeFull   65535
+09:49:47.106 > >> Membaca BQ1
+09:49:47.106 > SOC BATT 1    16
+09:49:47.106 > Tegangan      1330
+09:49:47.106 > SOH           100
+09:49:47.106 > Cycle         0
+09:49:47.106 > Current       0
+09:49:47.106 > AvgTimeEmpty (formatted): -
+09:49:47.106 > AvgTimeFull   65535
+09:49:48.153 > >> Membaca BQ1
+09:49:48.153 > SOC BATT 1    16
+09:49:48.153 > Tegangan      1330
+09:49:48.153 > SOH           100
+09:49:48.153 > Cycle         0
+09:49:48.153 > Current       0
+09:49:48.153 > AvgTimeEmpty (formatted): -
+09:49:48.153 > AvgTimeFull   65535
+09:49:49.206 > >> Membaca BQ1
+09:49:49.206 > SOC BATT 1    16
+09:49:49.206 > Tegangan      1330
+09:49:49.206 > SOH           100
+09:49:49.206 > Cycle         0
+09:49:49.206 > Current       0
+09:49:49.206 > AvgTimeEmpty (formatted): -
+09:49:49.206 > AvgTimeFull   65535
+09:49:50.255 > >> Membaca BQ1
+09:49:50.255 > SOC BATT 1    16
+09:49:50.255 > Tegangan      1330
+09:49:50.255 > SOH           100
+09:49:50.255 > Cycle         0
+09:49:50.255 > Current       0
+09:49:50.255 > AvgTimeEmpty (formatted): -
+09:49:50.255 > AvgTimeFull   65535
+09:49:51.304 > >> Membaca BQ1
+09:49:51.304 > SOC BATT 1    16
+09:49:51.304 > Tegangan      1330
+09:49:51.304 > SOH           100
+09:49:51.304 > Cycle         0
+09:49:51.304 > Current       0
+09:49:51.304 > AvgTimeEmpty (formatted): -
+09:49:51.304 > AvgTimeFull   65535
+09:49:52.367 > >> Membaca BQ1
+09:49:52.367 > SOC BATT 1    16
+09:49:52.367 > Tegangan      1330
+09:49:52.367 > SOH           100
+09:49:52.367 > Cycle         0
+09:49:52.367 > Current       0
+09:49:52.367 > AvgTimeEmpty (formatted): -
+09:49:52.367 > AvgTimeFull   65535
+09:49:53.405 > >> Membaca BQ1
+09:49:53.405 > SOC BATT 1    16
+09:49:53.405 > Tegangan      1330
+09:49:53.405 > SOH           100
+09:49:53.405 > Cycle         0
+09:49:53.405 > Current       0
+09:49:53.405 > AvgTimeEmpty (formatted): -
+09:49:53.405 > AvgTimeFull   65535
+09:49:54.454 > >> Membaca BQ1
+09:49:54.454 > SOC BATT 1    16
+09:49:54.454 > Tegangan      1330
+09:49:54.454 > SOH           100
+09:49:54.454 > Cycle         0
+09:49:54.454 > Current       0
+09:49:54.454 > AvgTimeEmpty (formatted): -
+09:49:54.454 > AvgTimeFull   65535
+09:49:55.503 > >> Membaca BQ1
+09:49:55.503 > SOC BATT 1    16
+09:49:55.503 > Tegangan      1330
+09:49:55.503 > SOH           100
+09:49:55.503 > Cycle         0
+09:49:55.503 > Current       0
+09:49:55.503 > AvgTimeEmpty (formatted): -
+09:49:55.503 > AvgTimeFull   65535
+09:49:56.566 > >> Membaca BQ1
+09:49:56.566 > SOC BATT 1    16
+09:49:56.566 > Tegangan      1330
+09:49:56.566 > SOH           100
+09:49:56.566 > Cycle         0
+09:49:56.566 > Current       0
+09:49:56.566 > AvgTimeEmpty (formatted): -
+09:49:56.566 > AvgTimeFull   65535
+09:49:57.616 > >> Membaca BQ1
+09:49:57.616 > SOC BATT 1    16
+09:49:57.616 > Tegangan      1330
+09:49:57.616 > SOH           100
+09:49:57.616 > Cycle         0
+09:49:57.616 > Current       0
+09:49:57.616 > AvgTimeEmpty (formatted): -
+09:49:57.616 > AvgTimeFull   65535
+09:49:58.662 > >> Membaca BQ1
+09:49:58.662 > SOC BATT 1    16
+09:49:58.662 > Tegangan      1330
+09:49:58.662 > SOH           100
+09:49:58.662 > Cycle         0
+09:49:58.662 > Current       0
+09:49:58.662 > AvgTimeEmpty (formatted): -
+09:49:58.662 > AvgTimeFull   65535
+09:49:59.711 > >> Membaca BQ1
+09:49:59.711 > SOC BATT 1    16
+09:49:59.711 > Tegangan      1330
+09:49:59.711 > SOH           100
+09:49:59.711 > Cycle         0
+09:49:59.711 > Current       0
+09:49:59.711 > AvgTimeEmpty (formatted): -
+09:49:59.711 > AvgTimeFull   65535
+09:50:00.759 > >> Membaca BQ1
+09:50:00.759 > SOC BATT 1    16
+09:50:00.759 > Tegangan      1330
+09:50:00.759 > SOH           100
+09:50:00.759 > Cycle         0
+09:50:00.759 > Current       0
+09:50:00.759 > AvgTimeEmpty (formatted): -
+09:50:00.759 > AvgTimeFull   65535
+09:50:01.808 > >> Membaca BQ1
+09:50:01.808 > SOC BATT 1    16
+09:50:01.808 > Tegangan      1330
+09:50:01.808 > SOH           100
+09:50:01.808 > Cycle         0
+09:50:01.808 > Current       -215
+09:50:01.808 > AvgTimeEmpty (formatted): -
+09:50:01.808 > AvgTimeFull   65535
+09:50:02.857 > >> Membaca BQ1
+09:50:02.857 > SOC BATT 1    16
+09:50:02.857 > Tegangan      1330
+09:50:02.857 > SOH           100
+09:50:02.857 > Cycle         0
+09:50:02.857 > Current       -180
+09:50:02.857 > AvgTimeEmpty (formatted): 70h 31m
+09:50:02.857 > AvgTimeFull   65535
+09:50:03.910 > >> Membaca BQ1
+09:50:03.910 > SOC BATT 1    16
+09:50:03.910 > Tegangan      1330
+09:50:03.910 > SOH           100
+09:50:03.910 > Cycle         0
+09:50:03.910 > Current       -176
+09:50:03.910 > AvgTimeEmpty (formatted): 50h 22m
+09:50:03.910 > AvgTimeFull   65535
+09:50:04.954 > >> Membaca BQ1
+09:50:04.954 > SOC BATT 1    16
+09:50:04.954 > Tegangan      1330
+09:50:04.954 > SOH           100
+09:50:04.954 > Cycle         0
+09:50:04.954 > Current       -176
+09:50:04.954 > AvgTimeEmpty (formatted): 39h 11m
+09:50:04.954 > AvgTimeFull   65535
+09:50:06.017 > >> Membaca BQ1
+09:50:06.017 > SOC BATT 1    16
+09:50:06.017 > Tegangan      1330
+09:50:06.017 > SOH           100
+09:50:06.017 > Cycle         0
+09:50:06.017 > Current       -174
+09:50:06.017 > AvgTimeEmpty (formatted): 33h 16m
+09:50:06.017 > AvgTimeFull   65535
+09:50:07.066 > >> Membaca BQ1
+09:50:07.066 > SOC BATT 1    16
+09:50:07.066 > Tegangan      1330
+09:50:07.066 > SOH           100
+09:50:07.066 > Cycle         0
+09:50:07.066 > Current       -175
+09:50:07.066 > AvgTimeEmpty (formatted): 28h 54m
+09:50:07.066 > AvgTimeFull   65535
+09:50:08.104 > >> Membaca BQ1
+09:50:08.104 > SOC BATT 1    16
+09:50:08.104 > Tegangan      1330
+09:50:08.104 > SOH           100
+09:50:08.104 > Cycle         0
+09:50:08.104 > Current       -175
+09:50:08.104 > AvgTimeEmpty (formatted): 25h 33m
+09:50:08.104 > AvgTimeFull   65535
+09:50:09.156 > >> Membaca BQ1
+09:50:09.156 > SOC BATT 1    16
+09:50:09.156 > Tegangan      1330
+09:50:09.156 > SOH           100
+09:50:09.156 > Cycle         0
+09:50:09.156 > Current       -174
+09:50:09.156 > AvgTimeEmpty (formatted): 23h 12m
+09:50:09.156 > AvgTimeFull   65535
+09:50:10.212 > >> Membaca BQ1
+09:50:10.212 > SOC BATT 1    16
+09:50:10.212 > Tegangan      1330
+09:50:10.212 > SOH           100
+09:50:10.212 > Cycle         0
+09:50:10.212 > Current       -175
+09:50:10.212 > AvgTimeEmpty (formatted): 21h 30m
+09:50:10.212 > AvgTimeFull   65535
+09:50:11.256 > >> Membaca BQ1
+09:50:11.256 > SOC BATT 1    16
+09:50:11.256 > Tegangan      1330
+09:50:11.256 > SOH           100
+09:50:11.256 > Cycle         0
+09:50:11.256 > Current       -174
+09:50:11.256 > AvgTimeEmpty (formatted): 19h 49m
+09:50:11.256 > AvgTimeFull   65535
+09:50:12.311 > >> Membaca BQ1
+09:50:12.311 > SOC BATT 1    16
+09:50:12.311 > Tegangan      1330
+09:50:12.311 > SOH           100
+09:50:12.311 > Cycle         0
+09:50:12.311 > Current       -174
+09:50:12.311 > AvgTimeEmpty (formatted): 18h 45m
+09:50:12.311 > AvgTimeFull   65535
+09:50:13.359 > >> Membaca BQ1
+09:50:13.359 > SOC BATT 1    16
+09:50:13.359 > Tegangan      1330
+09:50:13.359 > SOH           100
+09:50:13.359 > Cycle         0
+09:50:13.359 > Current       -174
+09:50:13.359 > AvgTimeEmpty (formatted): 17h 37m
+09:50:13.359 > AvgTimeFull   65535
+09:50:14.409 > >> Membaca BQ1
+09:50:14.409 > SOC BATT 1    16
+09:50:14.409 > Tegangan      1330
+09:50:14.409 > SOH           100
+09:50:14.409 > Cycle         0
+09:50:14.409 > Current       -174
+09:50:14.409 > AvgTimeEmpty (formatted): 16h 57m
+09:50:14.409 > AvgTimeFull   65535
+09:50:15.453 > >> Membaca BQ1
+09:50:15.453 > SOC BATT 1    16
+09:50:15.453 > Tegangan      1330
+09:50:15.453 > SOH           100
+09:50:15.453 > Cycle         0
+09:50:15.453 > Current       -172
+09:50:15.453 > AvgTimeEmpty (formatted): 16h 10m
+09:50:15.453 > AvgTimeFull   65535
+09:50:16.506 > >> Membaca BQ1
+09:50:16.506 > SOC BATT 1    16
+09:50:16.506 > Tegangan      1330
+09:50:16.506 > SOH           100
+09:50:16.506 > Cycle         0
+09:50:16.506 > Current       -172
+09:50:16.506 > AvgTimeEmpty (formatted): 15h 36m
+09:50:16.506 > AvgTimeFull   65535
+09:50:17.555 > >> Membaca BQ1
+09:50:17.555 > SOC BATT 1    16
+09:50:17.555 > Tegangan      1330
+09:50:17.555 > SOH           100
+09:50:17.555 > Cycle         0
+09:50:17.555 > Current       -173
+09:50:17.555 > AvgTimeEmpty (formatted): 15h 4m
+09:50:17.555 > AvgTimeFull   65535
+09:50:18.605 > >> Membaca BQ1
+09:50:18.605 > SOC BATT 1    16
+09:50:18.605 > Tegangan      1330
+09:50:18.605 > SOH           100
+09:50:18.605 > Cycle         0
+09:50:18.605 > Current       -172
+09:50:18.605 > AvgTimeEmpty (formatted): 14h 34m
+09:50:18.605 > AvgTimeFull   65535
+09:50:19.667 > >> Membaca BQ1
+09:50:19.667 > SOC BATT 1    16
+09:50:19.667 > Tegangan      1330
+09:50:19.667 > SOH           100
+09:50:19.667 > Cycle         0
+09:50:19.667 > Current       -171
+09:50:19.667 > AvgTimeEmpty (formatted): 14h 13m
+09:50:19.667 > AvgTimeFull   65535
+09:50:20.715 > >> Membaca BQ1
+09:50:20.715 > SOC BATT 1    16
+09:50:20.715 > Tegangan      1330
+09:50:20.715 > SOH           100
+09:50:20.715 > Cycle         0
+09:50:20.715 > Current       -171
+09:50:20.715 > AvgTimeEmpty (formatted): 13h 33m
+09:50:20.715 > AvgTimeFull   65535
+09:50:21.760 > >> Membaca BQ1
+09:50:21.760 > SOC BATT 1    16
+09:50:21.760 > Tegangan      1330
+09:50:21.760 > SOH           100
+09:50:21.760 > Cycle         0
+09:50:21.760 > Current       -171
+09:50:21.760 > AvgTimeEmpty (formatted): 13h 15m
+09:50:21.760 > AvgTimeFull   65535
+09:50:22.813 > >> Membaca BQ1
+09:50:22.813 > SOC BATT 1    16
+09:50:22.813 > Tegangan      1330
+09:50:22.813 > SOH           100
+09:50:22.813 > Cycle         0
+09:50:22.813 > Current       -172
+09:50:22.813 > AvgTimeEmpty (formatted): 12h 57m
+09:50:22.813 > AvgTimeFull   65535
+09:50:23.860 > >> Membaca BQ1
+09:50:23.860 > SOC BATT 1    16
+09:50:23.860 > Tegangan      1330
+09:50:23.860 > SOH           100
+09:50:23.860 > Cycle         0
+09:50:23.860 > Current       -172
+09:50:23.860 > AvgTimeEmpty (formatted): 12h 46m
+09:50:23.860 > AvgTimeFull   65535
+09:50:24.910 > >> Membaca BQ1
+09:50:24.910 > SOC BATT 1    16
+09:50:24.910 > Tegangan      1330
+09:50:24.910 > SOH           100
+09:50:24.910 > Cycle         0
+09:50:24.910 > Current       -172
+09:50:24.910 > AvgTimeEmpty (formatted): 12h 35m
+09:50:24.910 > AvgTimeFull   65535
+09:50:25.957 > >> Membaca BQ1
+09:50:25.957 > SOC BATT 1    16
+09:50:25.957 > Tegangan      1330
+09:50:25.957 > SOH           100
+09:50:25.957 > Cycle         0
+09:50:25.957 > Current       -171
+09:50:25.957 > AvgTimeEmpty (formatted): 12h 25m
+09:50:25.957 > AvgTimeFull   65535
+09:50:27.005 > >> Membaca BQ1
+09:50:27.005 > SOC BATT 1    16
+09:50:27.005 > Tegangan      1330
+09:50:27.005 > SOH           100
+09:50:27.005 > Cycle         0
+09:50:27.005 > Current       -170
+09:50:27.005 > AvgTimeEmpty (formatted): 12h 14m
+09:50:27.005 > AvgTimeFull   65535
+09:50:28.053 > >> Membaca BQ1
+09:50:28.053 > SOC BATT 1    16
+09:50:28.053 > Tegangan      1330
+09:50:28.053 > SOH           100
+09:50:28.053 > Cycle         0
+09:50:28.053 > Current       -171
+09:50:28.053 > AvgTimeEmpty (formatted): 12h 4m
+09:50:28.053 > AvgTimeFull   65535
+09:50:29.103 > >> Membaca BQ1
+09:50:29.119 > SOC BATT 1    16
+09:50:29.119 > Tegangan      1330
+09:50:29.119 > SOH           100
+09:50:29.119 > Cycle         0
+09:50:29.119 > Current       -170
+09:50:29.119 > AvgTimeEmpty (formatted): 11h 59m
+09:50:29.119 > AvgTimeFull   65535
+09:50:30.168 > >> Membaca BQ1
+09:50:30.168 > SOC BATT 1    16
+09:50:30.168 > Tegangan      1330
+09:50:30.168 > SOH           100
+09:50:30.168 > Cycle         0
+09:50:30.168 > Current       -169
+09:50:30.168 > AvgTimeEmpty (formatted): 11h 50m
+09:50:30.168 > AvgTimeFull   65535
+09:50:31.207 > >> Membaca BQ1
+09:50:31.207 > SOC BATT 1    16
+09:50:31.207 > Tegangan      1330
+09:50:31.207 > SOH           100
+09:50:31.207 > Cycle         0
+09:50:31.207 > Current       -170
+09:50:31.207 > AvgTimeEmpty (formatted): 11h 45m
+09:50:31.207 > AvgTimeFull   65535
+09:50:32.266 > >> Membaca BQ1
+09:50:32.266 > SOC BATT 1    16
+09:50:32.266 > Tegangan      1330
+09:50:32.266 > SOH           100
+09:50:32.266 > Cycle         0
+09:50:32.266 > Current       -170
+09:50:32.266 > AvgTimeEmpty (formatted): 11h 36m
+09:50:32.266 > AvgTimeFull   65535
+09:50:33.307 > >> Membaca BQ1
+09:50:33.307 > SOC BATT 1    16
+09:50:33.307 > Tegangan      1330
+09:50:33.307 > SOH           100
+09:50:33.307 > Cycle         0
+09:50:33.307 > Current       -171
+09:50:33.307 > AvgTimeEmpty (formatted): 11h 31m
+09:50:33.307 > AvgTimeFull   65535
+09:50:34.353 > >> Membaca BQ1
+09:50:34.369 > SOC BATT 1    16
+09:50:34.369 > Tegangan      1330
+09:50:34.369 > SOH           100
+09:50:34.369 > Cycle         0
+09:50:34.369 > Current       -170
+09:50:34.369 > AvgTimeEmpty (formatted): 11h 26m
+09:50:34.369 > AvgTimeFull   65535
+09:50:35.403 > >> Membaca BQ1
+09:50:35.403 > SOC BATT 1    16
+09:50:35.403 > Tegangan      1330
+09:50:35.403 > SOH           100
+09:50:35.403 > Cycle         0
+09:50:35.403 > Current       -170
+09:50:35.403 > AvgTimeEmpty (formatted): 11h 22m
+09:50:35.403 > AvgTimeFull   65535
+09:50:36.457 > >> Membaca BQ1
+09:50:36.457 > SOC BATT 1    16
+09:50:36.457 > Tegangan      1330
+09:50:36.457 > SOH           100
+09:50:36.457 > Cycle         0
+09:50:36.457 > Current       -170
+09:50:36.457 > AvgTimeEmpty (formatted): 11h 17m
+09:50:36.457 > AvgTimeFull   65535
+09:50:37.510 > >> Membaca BQ1
+09:50:37.510 > SOC BATT 1    16
+09:50:37.510 > Tegangan      1330
+09:50:37.510 > SOH           100
+09:50:37.510 > Cycle         0
+09:50:37.510 > Current       -169
+09:50:37.510 > AvgTimeEmpty (formatted): 11h 13m
+09:50:37.510 > AvgTimeFull   65535
+09:50:38.557 > >> Membaca BQ1
+09:50:38.557 > SOC BATT 1    16
+09:50:38.557 > Tegangan      1330
+09:50:38.557 > SOH           100
+09:50:38.557 > Cycle         0
+09:50:38.557 > Current       -170
+09:50:38.557 > AvgTimeEmpty (formatted): 11h 9m
+09:50:38.557 > AvgTimeFull   65535
+09:50:39.605 > >> Membaca BQ1
+09:50:39.605 > SOC BATT 1    16
+09:50:39.605 > Tegangan      1330
+09:50:39.605 > SOH           100
+09:50:39.605 > Cycle         0
+09:50:39.605 > Current       -169
+09:50:39.605 > AvgTimeEmpty (formatted): 11h 5m
+09:50:39.605 > AvgTimeFull   65535
+09:50:40.656 > >> Membaca BQ1
+09:50:40.656 > SOC BATT 1    16
+09:50:40.656 > Tegangan      1330
+09:50:40.656 > SOH           100
+09:50:40.656 > Cycle         0
+09:50:40.656 > Current       -169
+09:50:40.656 > AvgTimeEmpty (formatted): 11h 5m
+09:50:40.656 > AvgTimeFull   65535
+09:50:41.707 > >> Membaca BQ1
+09:50:41.707 > SOC BATT 1    16
+09:50:41.707 > Tegangan      1330
+09:50:41.707 > SOH           100
+09:50:41.707 > Cycle         0
+09:50:41.707 > Current       -168
+09:50:41.707 > AvgTimeEmpty (formatted): 11h 0m
+09:50:41.707 > AvgTimeFull   65535
+09:50:42.756 > >> Membaca BQ1
+09:50:42.756 > SOC BATT 1    16
+09:50:42.756 > Tegangan      1330
+09:50:42.756 > SOH           100
+09:50:42.756 > Cycle         0
+09:50:42.756 > Current       -169
+09:50:42.756 > AvgTimeEmpty (formatted): 10h 56m
+09:50:42.756 > AvgTimeFull   65535
+09:50:43.808 > >> Membaca BQ1
+09:50:43.808 > SOC BATT 1    16
+09:50:43.808 > Tegangan      1330
+09:50:43.808 > SOH           100
+09:50:43.808 > Cycle         0
+09:50:43.808 > Current       -169
+09:50:43.808 > AvgTimeEmpty (formatted): 10h 52m
+09:50:43.808 > AvgTimeFull   65535
+09:50:44.857 > >> Membaca BQ1
+09:50:44.857 > SOC BATT 1    16
+09:50:44.857 > Tegangan      1330
+09:50:44.857 > SOH           100
+09:50:44.857 > Cycle         0
+09:50:44.857 > Current       -169
+09:50:44.857 > AvgTimeEmpty (formatted): 10h 52m
+09:50:44.857 > AvgTimeFull   65535
+09:50:45.905 > >> Membaca BQ1
+09:50:45.905 > SOC BATT 1    16
+09:50:45.905 > Tegangan      1330
+09:50:45.905 > SOH           100
+09:50:45.905 > Cycle         0
+09:50:45.905 > Current       -170
+09:50:45.905 > AvgTimeEmpty (formatted): 10h 48m
+09:50:45.905 > AvgTimeFull   65535
+09:50:46.957 > >> Membaca BQ1
+09:50:46.957 > SOC BATT 1    16
+09:50:46.957 > Tegangan      1330
+09:50:46.957 > SOH           100
+09:50:46.957 > Cycle         0
+09:50:46.957 > Current       -169
+09:50:46.957 > AvgTimeEmpty (formatted): 10h 48m
+09:50:46.957 > AvgTimeFull   65535
+09:50:48.007 > >> Membaca BQ1
+09:50:48.007 > SOC BATT 1    16
+09:50:48.007 > Tegangan      1330
+09:50:48.007 > SOH           100
+09:50:48.007 > Cycle         0
+09:50:48.007 > Current       -167
+09:50:48.007 > AvgTimeEmpty (formatted): 10h 48m
+09:50:48.007 > AvgTimeFull   65535
+09:50:49.057 > >> Membaca BQ1
+09:50:49.057 > SOC BATT 1    16
+09:50:49.057 > Tegangan      1330
+09:50:49.057 > SOH           100
+09:50:49.057 > Cycle         0
+09:50:49.057 > Current       -168
+09:50:49.057 > AvgTimeEmpty (formatted): 10h 44m
+09:50:49.057 > AvgTimeFull   65535
+09:50:50.108 > >> Membaca BQ1
+09:50:50.108 > SOC BATT 1    16
+09:50:50.108 > Tegangan      1330
+09:50:50.108 > SOH           100
+09:50:50.108 > Cycle         0
+09:50:50.108 > Current       -169
+09:50:50.108 > AvgTimeEmpty (formatted): 10h 44m
+09:50:50.108 > AvgTimeFull   65535
+09:50:51.158 > >> Membaca BQ1
+09:50:51.158 > SOC BATT 1    16
+09:50:51.158 > Tegangan      1330
+09:50:51.158 > SOH           100
+09:50:51.158 > Cycle         0
+09:50:51.158 > Current       -169
+09:50:51.158 > AvgTimeEmpty (formatted): 10h 44m
+09:50:51.158 > AvgTimeFull   65535
+09:50:52.208 > >> Membaca BQ1
+09:50:52.208 > SOC BATT 1    16
+09:50:52.208 > Tegangan      1330
+09:50:52.208 > SOH           100
+09:50:52.208 > Cycle         0
+09:50:52.208 > Current       -168
+09:50:52.208 > AvgTimeEmpty (formatted): 10h 40m
+09:50:52.208 > AvgTimeFull   65535
+09:50:53.256 > >> Membaca BQ1
+09:50:53.256 > SOC BATT 1    16
+09:50:53.256 > Tegangan      1330
+09:50:53.256 > SOH           100
+09:50:53.256 > Cycle         0
+09:50:53.256 > Current       -168
+09:50:53.256 > AvgTimeEmpty (formatted): 10h 40m
+09:50:53.256 > AvgTimeFull   65535
+09:50:54.308 > >> Membaca BQ1
+09:50:54.308 > SOC BATT 1    16
+09:50:54.308 > Tegangan      1330
+09:50:54.308 > SOH           100
+09:50:54.308 > Cycle         0
+09:50:54.308 > Current       -168
+09:50:54.308 > AvgTimeEmpty (formatted): 10h 40m
+09:50:54.308 > AvgTimeFull   65535
+09:50:55.356 > >> Membaca BQ1
+09:50:55.356 > SOC BATT 1    16
+09:50:55.356 > Tegangan      1330
+09:50:55.356 > SOH           100
+09:50:55.356 > Cycle         0
+09:50:55.356 > Current       -168
+09:50:55.356 > AvgTimeEmpty (formatted): 10h 40m
+09:50:55.356 > AvgTimeFull   65535
+09:50:56.406 > >> Membaca BQ1
+09:50:56.406 > SOC BATT 1    16
+09:50:56.406 > Tegangan      1330
+09:50:56.406 > SOH           100
+09:50:56.406 > Cycle         0
+09:50:56.406 > Current       -166
+09:50:56.406 > AvgTimeEmpty (formatted): 10h 40m
+09:50:56.406 > AvgTimeFull   65535
+09:50:57.458 > >> Membaca BQ1
+09:50:57.458 > SOC BATT 1    16
+09:50:57.458 > Tegangan      1330
+09:50:57.458 > SOH           100
+09:50:57.458 > Cycle         0
+09:50:57.458 > Current       -167
+09:50:57.458 > AvgTimeEmpty (formatted): 10h 40m
+09:50:57.458 > AvgTimeFull   65535
+09:50:58.506 > >> Membaca BQ1
+09:50:58.506 > SOC BATT 1    16
+09:50:58.506 > Tegangan      1330
+09:50:58.506 > SOH           100
+09:50:58.506 > Cycle         0
+09:50:58.506 > Current       -166
+09:50:58.506 > AvgTimeEmpty (formatted): 10h 40m
+09:50:58.506 > AvgTimeFull   65535
+09:50:59.560 > >> Membaca BQ1
+09:50:59.560 > SOC BATT 1    16
+09:50:59.560 > Tegangan      1330
+09:50:59.560 > SOH           100
+09:50:59.560 > Cycle         0
+09:50:59.560 > Current       -168
+09:50:59.560 > AvgTimeEmpty (formatted): 10h 36m
+09:50:59.560 > AvgTimeFull   65535
+09:51:00.618 > >> Membaca BQ1
+09:51:00.618 > SOC BATT 1    16
+09:51:00.618 > Tegangan      1330
+09:51:00.618 > SOH           100
+09:51:00.618 > Cycle         0
+09:51:00.618 > Current       -167
+09:51:00.618 > AvgTimeEmpty (formatted): 10h 36m
+09:51:00.618 > AvgTimeFull   65535
+09:51:01.667 > >> Membaca BQ1
+09:51:01.667 > SOC BATT 1    16
+09:51:01.667 > Tegangan      1330
+09:51:01.667 > SOH           100
+09:51:01.667 > Cycle         0
+09:51:01.667 > Current       -166
+09:51:01.667 > AvgTimeEmpty (formatted): 10h 36m
+09:51:01.667 > AvgTimeFull   65535
+09:51:02.719 > >> Membaca BQ1
+09:51:02.719 > SOC BATT 1    16
+09:51:02.719 > Tegangan      1330
+09:51:02.719 > SOH           100
+09:51:02.719 > Cycle         0
+09:51:02.719 > Current       -168
+09:51:02.719 > AvgTimeEmpty (formatted): 10h 36m
+09:51:02.719 > AvgTimeFull   65535
+09:51:03.756 > >> Membaca BQ1
+09:51:03.756 > SOC BATT 1    16
+09:51:03.756 > Tegangan      1330
+09:51:03.756 > SOH           100
+09:51:03.756 > Cycle         0
+09:51:03.756 > Current       -166
+09:51:03.756 > AvgTimeEmpty (formatted): 10h 36m
+09:51:03.756 > AvgTimeFull   65535
+09:51:04.806 > >> Membaca BQ1
+09:51:04.806 > SOC BATT 1    16
+09:51:04.806 > Tegangan      1330
+09:51:04.806 > SOH           100
+09:51:04.806 > Cycle         0
+09:51:04.806 > Current       -166
+09:51:04.806 > AvgTimeEmpty (formatted): 10h 36m
+09:51:04.806 > AvgTimeFull   65535
+09:51:05.864 > >> Membaca BQ1
+09:51:05.864 > SOC BATT 1    16
+09:51:05.864 > Tegangan      1330
+09:51:05.864 > SOH           100
+09:51:05.864 > Cycle         0
+09:51:05.864 > Current       -166
+09:51:05.864 > AvgTimeEmpty (formatted): 10h 36m
+09:51:05.864 > AvgTimeFull   65535
+09:51:06.909 > >> Membaca BQ1
+09:51:06.909 > SOC BATT 1    16
+09:51:06.909 > Tegangan      1330
+09:51:06.909 > SOH           100
+09:51:06.909 > Cycle         0
+09:51:06.909 > Current       -165
+09:51:06.909 > AvgTimeEmpty (formatted): 10h 36m
+09:51:06.909 > AvgTimeFull   65535
+09:51:07.969 > >> Membaca BQ1
+09:51:07.969 > SOC BATT 1    16
+09:51:07.969 > Tegangan      1330
+09:51:07.969 > SOH           100
+09:51:07.969 > Cycle         0
+09:51:07.969 > Current       -166
+09:51:07.969 > AvgTimeEmpty (formatted): 10h 36m
+09:51:07.969 > AvgTimeFull   65535
+09:51:09.018 > >> Membaca BQ1
+09:51:09.018 > SOC BATT 1    16
+09:51:09.018 > Tegangan      1330
+09:51:09.018 > SOH           100
+09:51:09.018 > Cycle         0
+09:51:09.018 > Current       -166
+09:51:09.018 > AvgTimeEmpty (formatted): 10h 36m
+09:51:09.018 > AvgTimeFull   65535
+09:51:10.065 > >> Membaca BQ1
+09:51:10.065 > SOC BATT 1    16
+09:51:10.065 > Tegangan      1330
+09:51:10.065 > SOH           100
+09:51:10.065 > Cycle         0
+09:51:10.065 > Current       -166
+09:51:10.065 > AvgTimeEmpty (formatted): 10h 36m
+09:51:10.065 > AvgTimeFull   65535
+09:51:11.119 > >> Membaca BQ1
+09:51:11.119 > SOC BATT 1    16
+09:51:11.119 > Tegangan      1330
+09:51:11.119 > SOH           100
+09:51:11.119 > Cycle         0
+09:51:11.119 > Current       -166
+09:51:11.119 > AvgTimeEmpty (formatted): 10h 36m
+09:51:11.119 > AvgTimeFull   65535
+09:51:12.154 > >> Membaca BQ1
+09:51:12.170 > SOC BATT 1    16
+09:51:12.170 > Tegangan      1330
+09:51:12.170 > SOH           100
+09:51:12.170 > Cycle         0
+09:51:12.170 > Current       -166
+09:51:12.170 > AvgTimeEmpty (formatted): 10h 36m
+09:51:12.170 > AvgTimeFull   65535
+09:51:13.204 > >> Membaca BQ1
+09:51:13.204 > SOC BATT 1    16
+09:51:13.204 > Tegangan      1330
+09:51:13.204 > SOH           100
+09:51:13.204 > Cycle         0
+09:51:13.204 > Current       -167
+09:51:13.204 > AvgTimeEmpty (formatted): 10h 36m
+09:51:13.204 > AvgTimeFull   65535
+09:51:14.255 > >> Membaca BQ1
+09:51:14.255 > SOC BATT 1    16
+09:51:14.255 > Tegangan      1330
+09:51:14.255 > SOH           100
+09:51:14.255 > Cycle         0
+09:51:14.255 > Current       -166
+09:51:14.255 > AvgTimeEmpty (formatted): 10h 36m
+09:51:14.255 > AvgTimeFull   65535
+09:51:15.305 > >> Membaca BQ1
+09:51:15.305 > SOC BATT 1    16
+09:51:15.305 > Tegangan      1330
+09:51:15.305 > SOH           100
+09:51:15.305 > Cycle         0
+09:51:15.305 > Current       -164
+09:51:15.305 > AvgTimeEmpty (formatted): 10h 36m
+09:51:15.305 > AvgTimeFull   65535
+09:51:16.358 > >> Membaca BQ1
+09:51:16.371 > SOC BATT 1    16
+09:51:16.371 > Tegangan      1330
+09:51:16.371 > SOH           100
+09:51:16.371 > Cycle         0
+09:51:16.371 > Current       -167
+09:51:16.371 > AvgTimeEmpty (formatted): 10h 36m
+09:51:16.371 > AvgTimeFull   65535
+09:51:17.414 > >> Membaca BQ1
+09:51:17.414 > SOC BATT 1    16
+09:51:17.414 > Tegangan      1331
+09:51:17.414 > SOH           100
+09:51:17.414 > Cycle         0
+09:51:17.414 > Current       -166
+09:51:17.414 > AvgTimeEmpty (formatted): 10h 36m
+09:51:17.414 > AvgTimeFull   65535
+09:51:18.455 > >> Membaca BQ1
+09:51:18.455 > SOC BATT 1    16
+09:51:18.455 > Tegangan      1330
+09:51:18.455 > SOH           100
+09:51:18.455 > Cycle         0
+09:51:18.455 > Current       -164
+09:51:18.455 > AvgTimeEmpty (formatted): 10h 36m
+09:51:18.455 > AvgTimeFull   65535
+09:51:19.519 > >> Membaca BQ1
+09:51:19.519 > SOC BATT 1    16
+09:51:19.519 > Tegangan      1330
+09:51:19.519 > SOH           100
+09:51:19.519 > Cycle         0
+09:51:19.519 > Current       -165
+09:51:19.519 > AvgTimeEmpty (formatted): 10h 36m
+09:51:19.519 > AvgTimeFull   65535
+09:51:20.557 > >> Membaca BQ1
+09:51:20.557 > SOC BATT 1    16
+09:51:20.557 > Tegangan      1330
+09:51:20.557 > SOH           100
+09:51:20.557 > Cycle         0
+09:51:20.557 > Current       -166
+09:51:20.557 > AvgTimeEmpty (formatted): 10h 36m
+09:51:20.557 > AvgTimeFull   65535
+09:51:21.613 > >> Membaca BQ1
+09:51:21.613 > SOC BATT 1    16
+09:51:21.613 > Tegangan      1330
+09:51:21.613 > SOH           100
+09:51:21.613 > Cycle         0
+09:51:21.613 > Current       -166
+09:51:21.613 > AvgTimeEmpty (formatted): 10h 36m
+09:51:21.613 > AvgTimeFull   65535
+09:51:22.656 > >> Membaca BQ1
+09:51:22.656 > SOC BATT 1    16
+09:51:22.656 > Tegangan      1330
+09:51:22.656 > SOH           100
+09:51:22.656 > Cycle         0
+09:51:22.656 > Current       -166
+09:51:22.656 > AvgTimeEmpty (formatted): 10h 36m
+09:51:22.656 > AvgTimeFull   65535
+09:51:23.712 > >> Membaca BQ1
+09:51:23.712 > SOC BATT 1    16
+09:51:23.712 > Tegangan      1330
+09:51:23.712 > SOH           100
+09:51:23.712 > Cycle         0
+09:51:23.712 > Current       -164
+09:51:23.712 > AvgTimeEmpty (formatted): 10h 36m
+09:51:23.712 > AvgTimeFull   65535
+09:51:24.769 > >> Membaca BQ1
+09:51:24.769 > SOC BATT 1    16
+09:51:24.769 > Tegangan      1330
+09:51:24.769 > SOH           100
+09:51:24.769 > Cycle         0
+09:51:24.769 > Current       -166
+09:51:24.769 > AvgTimeEmpty (formatted): 10h 36m
+09:51:24.769 > AvgTimeFull   65535
+09:51:25.806 > >> Membaca BQ1
+09:51:25.806 > SOC BATT 1    16
+09:51:25.806 > Tegangan      1330
+09:51:25.806 > SOH           100
+09:51:25.806 > Cycle         0
+09:51:25.806 > Current       -166
+09:51:25.806 > AvgTimeEmpty (formatted): 10h 36m
+09:51:25.806 > AvgTimeFull   65535
+09:51:26.870 > >> Membaca BQ1
+09:51:26.870 > SOC BATT 1    16
+09:51:26.870 > Tegangan      1330
+09:51:26.870 > SOH           100
+09:51:26.870 > Cycle         0
+09:51:26.870 > Current       -164
+09:51:26.870 > AvgTimeEmpty (formatted): 10h 36m
+09:51:26.870 > AvgTimeFull   65535
+09:51:27.913 > >> Membaca BQ1
+09:51:27.913 > SOC BATT 1    16
+09:51:27.913 > Tegangan      1330
+09:51:27.913 > SOH           100
+09:51:27.913 > Cycle         0
+09:51:27.913 > Current       -165
+09:51:27.913 > AvgTimeEmpty (formatted): 10h 36m
+09:51:27.913 > AvgTimeFull   65535
+09:51:28.958 > >> Membaca BQ1
+09:51:28.958 > SOC BATT 1    16
+09:51:28.958 > Tegangan      1330
+09:51:28.958 > SOH           100
+09:51:28.958 > Cycle         0
+09:51:28.958 > Current       -164
+09:51:28.958 > AvgTimeEmpty (formatted): 10h 40m
+09:51:28.958 > AvgTimeFull   65535
+09:51:30.006 > >> Membaca BQ1
+09:51:30.006 > SOC BATT 1    16
+09:51:30.006 > Tegangan      1330
+09:51:30.006 > SOH           100
+09:51:30.006 > Cycle         0
+09:51:30.006 > Current       -164
+09:51:30.006 > AvgTimeEmpty (formatted): 10h 40m
+09:51:30.006 > AvgTimeFull   65535
+09:51:31.059 > >> Membaca BQ1
+09:51:31.059 > SOC BATT 1    16
+09:51:31.059 > Tegangan      1330
+09:51:31.059 > SOH           100
+09:51:31.059 > Cycle         0
+09:51:31.059 > Current       -164
+09:51:31.059 > AvgTimeEmpty (formatted): 10h 40m
+09:51:31.059 > AvgTimeFull   65535
+09:51:32.110 > >> Membaca BQ1
+09:51:32.110 > SOC BATT 1    16
+09:51:32.110 > Tegangan      1330
+09:51:32.110 > SOH           100
+09:51:32.110 > Cycle         0
+09:51:32.110 > Current       -164
+09:51:32.110 > AvgTimeEmpty (formatted): 10h 40m
+09:51:32.110 > AvgTimeFull   65535
+09:51:33.163 > >> Membaca BQ1
+09:51:33.163 > SOC BATT 1    16
+09:51:33.163 > Tegangan      1330
+09:51:33.163 > SOH           100
+09:51:33.163 > Cycle         0
+09:51:33.163 > Current       -164
+09:51:33.163 > AvgTimeEmpty (formatted): 10h 40m
+09:51:33.163 > AvgTimeFull   65535
+09:51:34.207 > >> Membaca BQ1
+09:51:34.207 > SOC BATT 1    16
+09:51:34.207 > Tegangan      1330
+09:51:34.207 > SOH           100
+09:51:34.207 > Cycle         0
+09:51:34.207 > Current       -164
+09:51:34.207 > AvgTimeEmpty (formatted): 10h 40m
+09:51:34.207 > AvgTimeFull   65535
+09:51:35.256 > >> Membaca BQ1
+09:51:35.256 > SOC BATT 1    16
+09:51:35.256 > Tegangan      1330
+09:51:35.256 > SOH           100
+09:51:35.256 > Cycle         0
+09:51:35.256 > Current       -164
+09:51:35.256 > AvgTimeEmpty (formatted): 10h 40m
+09:51:35.256 > AvgTimeFull   65535
+09:51:36.307 > >> Membaca BQ1
+09:51:36.307 > SOC BATT 1    16
+09:51:36.307 > Tegangan      1330
+09:51:36.307 > SOH           100
+09:51:36.307 > Cycle         0
+09:51:36.307 > Current       -165
+09:51:36.307 > AvgTimeEmpty (formatted): 10h 40m
+09:51:36.307 > AvgTimeFull   65535
+09:51:37.358 > >> Membaca BQ1
+09:51:37.358 > SOC BATT 1    16
+09:51:37.358 > Tegangan      1330
+09:51:37.358 > SOH           100
+09:51:37.358 > Cycle         0
+09:51:37.358 > Current       -164
+09:51:37.358 > AvgTimeEmpty (formatted): 10h 40m
+09:51:37.358 > AvgTimeFull   65535
+09:51:38.407 > >> Membaca BQ1
+09:51:38.407 > SOC BATT 1    16
+09:51:38.407 > Tegangan      1330
+09:51:38.407 > SOH           100
+09:51:38.407 > Cycle         0
+09:51:38.407 > Current       -165
+09:51:38.407 > AvgTimeEmpty (formatted): 10h 40m
+09:51:38.407 > AvgTimeFull   65535
+09:51:39.455 > >> Membaca BQ1
+09:51:39.455 > SOC BATT 1    16
+09:51:39.455 > Tegangan      1330
+09:51:39.455 > SOH           100
+09:51:39.455 > Cycle         0
+09:51:39.455 > Current       -166
+09:51:39.455 > AvgTimeEmpty (formatted): 10h 39m
+09:51:39.455 > AvgTimeFull   65535
+09:51:40.520 > >> Membaca BQ1
+09:51:40.520 > SOC BATT 1    16
+09:51:40.520 > Tegangan      1330
+09:51:40.520 > SOH           100
+09:51:40.520 > Cycle         0
+09:51:40.520 > Current       -164
+09:51:40.520 > AvgTimeEmpty (formatted): 10h 39m
+09:51:40.520 > AvgTimeFull   65535
+09:51:41.555 > >> Membaca BQ1
+09:51:41.555 > SOC BATT 1    16
+09:51:41.555 > Tegangan      1330
+09:51:41.555 > SOH           100
+09:51:41.555 > Cycle         0
+09:51:41.555 > Current       -165
+09:51:41.555 > AvgTimeEmpty (formatted): 10h 39m
+09:51:41.555 > AvgTimeFull   65535
+09:51:42.607 > >> Membaca BQ1
+09:51:42.607 > SOC BATT 1    16
+09:51:42.607 > Tegangan      1330
+09:51:42.607 > SOH           100
+09:51:42.607 > Cycle         0
+09:51:42.607 > Current       -165
+09:51:42.607 > AvgTimeEmpty (formatted): 10h 39m
+09:51:42.607 > AvgTimeFull   65535
+09:51:43.656 > >> Membaca BQ1
+09:51:43.656 > SOC BATT 1    16
+09:51:43.656 > Tegangan      1330
+09:51:43.656 > SOH           100
+09:51:43.656 > Cycle         0
+09:51:43.656 > Current       -164
+09:51:43.656 > AvgTimeEmpty (formatted): 10h 39m
+09:51:43.656 > AvgTimeFull   65535
+09:51:44.711 > >> Membaca BQ1
+09:51:44.711 > SOC BATT 1    16
+09:51:44.711 > Tegangan      1330
+09:51:44.711 > SOH           100
+09:51:44.711 > Cycle         0
+09:51:44.711 > Current       -164
+09:51:44.711 > AvgTimeEmpty (formatted): 10h 39m
+09:51:44.711 > AvgTimeFull   65535
+09:51:45.769 > >> Membaca BQ1
+09:51:45.769 > SOC BATT 1    16
+09:51:45.769 > Tegangan      1330
+09:51:45.769 > SOH           100
+09:51:45.769 > Cycle         0
+09:51:45.769 > Current       -164
+09:51:45.769 > AvgTimeEmpty (formatted): 10h 39m
+09:51:45.769 > AvgTimeFull   65535
+09:51:46.808 > >> Membaca BQ1
+09:51:46.808 > SOC BATT 1    16
+09:51:46.808 > Tegangan      1330
+09:51:46.808 > SOH           100
+09:51:46.808 > Cycle         0
+09:51:46.808 > Current       -164
+09:51:46.808 > AvgTimeEmpty (formatted): 10h 39m
+09:51:46.808 > AvgTimeFull   65535
+09:51:47.857 > >> Membaca BQ1
+09:51:47.857 > SOC BATT 1    16
+09:51:47.857 > Tegangan      1330
+09:51:47.857 > SOH           100
+09:51:47.857 > Cycle         0
+09:51:47.857 > Current       -165
+09:51:47.857 > AvgTimeEmpty (formatted): 10h 39m
+09:51:47.857 > AvgTimeFull   65535
+09:51:48.906 > >> Membaca BQ1
+09:51:48.906 > SOC BATT 1    16
+09:51:48.906 > Tegangan      1330
+09:51:48.906 > SOH           100
+09:51:48.906 > Cycle         0
+09:51:48.906 > Current       -164
+09:51:48.906 > AvgTimeEmpty (formatted): 10h 39m
+09:51:48.906 > AvgTimeFull   65535
+09:51:49.957 > >> Membaca BQ1
+09:51:49.957 > SOC BATT 1    16
+09:51:49.957 > Tegangan      1330
+09:51:49.957 > SOH           100
+09:51:49.957 > Cycle         0
+09:51:49.957 > Current       -164
+09:51:49.957 > AvgTimeEmpty (formatted): 10h 39m
+09:51:49.957 > AvgTimeFull   65535
+09:51:51.018 > >> Membaca BQ1
+09:51:51.018 > SOC BATT 1    16
+09:51:51.018 > Tegangan      1330
+09:51:51.018 > SOH           100
+09:51:51.018 > Cycle         0
+09:51:51.018 > Current       -164
+09:51:51.018 > AvgTimeEmpty (formatted): 10h 39m
+09:51:51.018 > AvgTimeFull   65535
+09:51:52.060 > >> Membaca BQ1
+09:51:52.060 > SOC BATT 1    16
+09:51:52.060 > Tegangan      1330
+09:51:52.060 > SOH           100
+09:51:52.060 > Cycle         0
+09:51:52.060 > Current       -164
+09:51:52.060 > AvgTimeEmpty (formatted): 10h 39m
+09:51:52.060 > AvgTimeFull   65535
+09:51:53.112 > >> Membaca BQ1
+09:51:53.112 > SOC BATT 1    16
+09:51:53.112 > Tegangan      1330
+09:51:53.112 > SOH           100
+09:51:53.112 > Cycle         0
+09:51:53.112 > Current       -164
+09:51:53.112 > AvgTimeEmpty (formatted): 10h 43m
+09:51:53.112 > AvgTimeFull   65535
+09:51:54.157 > >> Membaca BQ1
+09:51:54.157 > SOC BATT 1    16
+09:51:54.157 > Tegangan      1330
+09:51:54.157 > SOH           100
+09:51:54.157 > Cycle         0
+09:51:54.157 > Current       -164
+09:51:54.157 > AvgTimeEmpty (formatted): 10h 43m
+09:51:54.157 > AvgTimeFull   65535
+09:51:55.218 > >> Membaca BQ1
+09:51:55.218 > SOC BATT 1    16
+09:51:55.218 > Tegangan      1330
+09:51:55.218 > SOH           100
+09:51:55.218 > Cycle         0
+09:51:55.218 > Current       -164
+09:51:55.218 > AvgTimeEmpty (formatted): 10h 43m
+09:51:55.218 > AvgTimeFull   65535
+09:51:56.257 > >> Membaca BQ1
+09:51:56.257 > SOC BATT 1    16
+09:51:56.257 > Tegangan      1330
+09:51:56.257 > SOH           100
+09:51:56.257 > Cycle         0
+09:51:56.257 > Current       -164
+09:51:56.257 > AvgTimeEmpty (formatted): 10h 43m
+09:51:56.257 > AvgTimeFull   65535

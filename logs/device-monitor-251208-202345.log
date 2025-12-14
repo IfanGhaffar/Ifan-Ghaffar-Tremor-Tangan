@@ -1,0 +1,2380 @@
+20:23:55.334 > [ 11685][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:23:57.107 > 📌 Active Screen: menu
+20:23:57.450 > [ 13805][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:23:58.127 > 📊 ICM: ax=-11940, ay=-11264, az=3136 | Tilt=-75.28°, Trend=1.020
+20:23:58.135 > 📌 Active Screen: MONITOR
+20:23:58.428 > ✓ Updated - Tilt: -75.26°, Trend: 1.022
+20:23:58.428 > 📊 ICM: ax=-11980, ay=-11212, az=3292 | Tilt=-74.63°, Trend=1.021
+20:23:58.729 > 📊 ICM: ax=-11936, ay=-11296, az=3236 | Tilt=-74.83°, Trend=1.022
+20:23:58.832 > ✓ Updated - Tilt: -75.22°, Trend: 1.024
+20:23:59.026 > 📊 ICM: ax=-12080, ay=-11324, az=3228 | Tilt=-75.04°, Trend=1.030
+20:23:59.323 > 📊 ICM: ax=-12124, ay=-11196, az=3132 | Tilt=-75.52°, Trend=1.025
+20:23:59.361 > ✓ Updated - Tilt: -75.52°, Trend: 1.025
+20:23:59.833 > 📊 ICM: ax=-12012, ay=-11248, az=3204 | Tilt=-75.07°, Trend=1.023
+20:23:59.833 > ✓ Updated - Tilt: -74.93°, Trend: 1.018
+20:23:59.926 > 📊 ICM: ax=-11876, ay=-11308, az=3184 | Tilt=-74.99°, Trend=1.020
+20:24:00.226 > 📊 ICM: ax=-11984, ay=-11276, az=3376 | Tilt=-74.27°, Trend=1.025
+20:24:00.369 > ✓ Updated - Tilt: -74.87°, Trend: 1.021
+20:24:00.524 > 📊 ICM: ax=-11912, ay=-11328, az=3144 | Tilt=-75.21°, Trend=1.022
+20:24:00.822 > 📊 ICM: ax=-10316, ay=-16328, az=3960 | Tilt=-69.00°, Trend=1.203
+20:24:00.851 > ✓ Updated - Tilt: -69.00°, Trend: 1.203
+20:24:01.122 > 📊 ICM: ax=-4868, ay=-10772, az=9868 | Tilt=-26.26°, Trend=0.940
+20:24:01.325 > ✓ Updated - Tilt: -17.12°, Trend: 1.044
+20:24:01.730 > 📊 ICM: ax=-4540, ay=-9528, az=15156 | Tilt=-16.68°, Trend=1.127
+20:24:01.730 > 📊 ICM: ax=-4060, ay=-7236, az=15048 | Tilt=-15.10°, Trend=1.049
+20:24:01.858 > ✓ Updated - Tilt: -22.13°, Trend: 1.006
+20:24:02.123 > [ 18480][E][Wire.cpp:513] requestFrom(): i2cRead returned Error 📊 ICM: ax=-4120, ay=-4216, az=18264 | Tilt=-12.71°, Trend=1.171
+20:24:02.132 > -1
+20:24:02.334 > 📊 ICM: ax=-9236, ay=2516, az=14516 | Tilt=-32.47°, Trend=1.061
+20:24:02.334 > ✓ Updated - Tilt: -32.47°, Trend: 1.061
+20:24:02.629 > 📊 ICM: ax=-12488, ay=2848, az=11344 | Tilt=-47.75°, Trend=1.044
+20:24:02.926 > ✓ Updated - Tilt: -49.93°, Trend: 1.050
+20:24:02.926 > 📊 ICM: ax=-12668, ay=2984, az=12472 | Tilt=-45.45°, Trend=1.100
+20:24:03.342 > 📊 ICM: ax=-3108, ay=1500, az=14960 | Tilt=-11.74°, Trend=0.937
+20:24:03.342 > ✓ Updated - Tilt: -1.58°, Trend: 0.964
+20:24:03.528 > 📊 ICM: ax=2896, ay=1388, az=16000 | Tilt=10.26°, Trend=0.996
+20:24:03.875 > 📊 ICM: ax=3376, ay=2120, az=15428 | Tilt=12.34°, Trend=0.973
+20:24:03.875 > ✓ Updated - Tilt: 12.34°, Trend: 0.973
+20:24:04.126 > 📊 ICM: ax=744, ay=1396, az=16132 | Tilt=2.64°, Trend=0.989
+20:24:04.353 > ✓ Updated - Tilt: -15.13°, Trend: 0.862
+20:24:04.725 > 📊 ICM: ax=-6028, ay=-816, az=13764 | Tilt=-23.65°, Trend=0.918
+20:24:04.725 > 📊 ICM: ax=-16344, ay=-9304, az=10560 | Tilt=-57.13°, Trend=1.316
+20:24:04.833 > ✓ Updated - Tilt: -54.90°, Trend: 1.106
+20:24:05.024 > 📊 ICM: ax=-8164, ay=-3572, az=11252 | Tilt=-35.96°, Trend=0.876
+20:24:05.324 > 📊 ICM: ax=-1036, ay=-312, az=15568 | Tilt=-3.81°, Trend=0.952
+20:24:05.365 > ✓ Updated - Tilt: -3.81°, Trend: 0.952
+20:24:05.623 > 📊 ICM: ax=-2180, ay=4556, az=16488 | Tilt=-7.53°, Trend=1.053
+20:24:05.841 > ✓ Updated - Tilt: -4.91°, Trend: 1.019
+20:24:05.925 > 📊 ICM: ax=-1108, ay=-468, az=17252 | Tilt=-3.67°, Trend=1.056
+20:24:06.227 > 📊 ICM: ax=-1952, ay=-696, az=15036 | Tilt=-7.40°, Trend=0.926
+20:24:06.369 > ✓ Updated - Tilt: -5.26°, Trend: 0.909
+20:24:06.523 > 📊 ICM: ax=-1128, ay=632, az=16420 | Tilt=-3.93°, Trend=1.005
+20:24:06.822 > 📊 ICM: ax=-396, ay=52, az=16272 | Tilt=-1.39°, Trend=0.993
+20:24:06.839 > ✓ Updated - Tilt: -1.39°, Trend: 0.993
+20:24:07.123 > 📊 ICM: ax=4, ay=-188, az=16276 | Tilt=0.01°, Trend=0.993
+20:24:07.369 > ✓ Updated - Tilt: -0.16°, Trend: 0.983
+20:24:07.722 > 📊 ICM: ax=112, ay=-100, az=16024 | Tilt=0.40°, Trend=0.978
+20:24:07.722 > 📊 ICM: ax=84, ay=-336, az=16228 | Tilt=0.30°, Trend=0.991
+20:24:08.028 > ✓ Updated - Tilt: 0.53°, Trend: 0.995
+20:24:08.028 > 📊 ICM: ax=-24, ay=-828, az=16188 | Tilt=-0.08°, Trend=0.989
+20:24:08.326 > 📊 ICM: ax=-2300, ay=232, az=13408 | Tilt=-9.73°, Trend=0.830
+20:24:08.375 > ✓ Updated - Tilt: -9.73°, Trend: 0.830
+20:24:08.851 > 📊 ICM: ax=908, ay=11136, az=13156 | Tilt=3.95°, Trend=1.053
+20:24:08.857 > ✓ Updated - Tilt: 21.56°, Trend: 0.976
+20:24:08.926 > 📊 ICM: ax=4896, ay=14800, az=8288 | Tilt=30.57°, Trend=1.078
+20:24:09.228 > 📊 ICM: ax=4392, ay=14780, az=6160 | Tilt=35.49°, Trend=1.013
+20:24:09.333 > ✓ Updated - Tilt: 26.00°, Trend: 0.992
+20:24:09.525 > 📊 ICM: ax=-513, ay=-1, az=-1 | Tilt=-90.11°, Trend=0.031
+20:24:09.824 > 📊 ICM: ax=-1704, ay=-1, az=-1 | Tilt=-90.03°, Trend=0.104
+20:24:09.862 > ✓ Updated - Tilt: -90.03°, Trend: 0.104
+20:24:10.117 > 📊 ICM: ax=-124, ay=-14988, az=8084 | Tilt=-0.88°, Trend=1.039
+20:24:10.341 > ✓ Updated - Tilt: -6.98°, Trend: 1.069
+20:24:10.422 > 📊 ICM: ax=-744, ay=-9052, az=10552 | Tilt=-4.03°, Trend=0.850
+20:24:10.723 > 📊 ICM: ax=368, ay=-596, az=17424 | Tilt=1.21°, Trend=1.064
+20:24:11.017 > ✓ Updated - Tilt: 15.35°, Trend: 0.917
+20:24:11.017 > 📊 ICM: ax=8216, ay=-3864, az=13400 | Tilt=31.51°, Trend=0.988
+20:24:11.346 > 📊 ICM: ax=10300, ay=-2764, az=13824 | Tilt=36.69°, Trend=1.066
+20:24:11.346 > ✓ Updated - Tilt: 36.69°, Trend: 1.066
+20:24:11.623 > 📊 ICM: ax=612, ay=-244, az=21448 | Tilt=1.63°, Trend=1.310
+20:24:11.876 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:24:11.925 > 📊 ICM: ax=-10040, ay=2732, az=13016 | Tilt=-37.65°, Trend=1.017
+20:24:12.225 > 📊 ICM: ax=-10448, ay=2456, az=13172 | Tilt=-38.42°, Trend=1.037
+20:24:12.357 > ✓ Updated - Tilt: -40.57°, Trend: 0.995
+20:24:12.529 > 📊 ICM: ax=-6484, ay=92, az=12652 | Tilt=-27.13°, Trend=0.868
+20:24:12.834 > 📊 ICM: ax=-13576, ay=-11864, az=12500 | Tilt=-47.36°, Trend=1.339
+20:24:12.834 > ✓ Updated - Tilt: -47.36°, Trend: 1.339
+20:24:13.369 > 📊 ICM: ax=-10436, ay=-10732, az=3372 | Tilt=-72.09°, Trend=0.937
+20:24:13.369 > ✓ Updated - Tilt: -74.20°, Trend: 1.017
+20:24:13.426 > 📊 ICM: ax=-11368, ay=-11648, az=3156 | Tilt=-74.48°, Trend=1.012
+20:24:13.728 > 📊 ICM: ax=-11736, ay=-11764, az=2660 | Tilt=-77.23°, Trend=1.027
+20:24:13.834 > ✓ Updated - Tilt: -75.20°, Trend: 1.025
+20:24:14.028 > 📊 ICM: ax=-11580, ay=-11808, az=2836 | Tilt=-76.24°, Trend=1.024
+20:24:14.329 > 📊 ICM: ax=-11392, ay=-11944, az=2624 | Tilt=-77.03°, Trend=1.020
+20:24:14.377 > ✓ Updated - Tilt: -77.03°, Trend: 1.020
+20:24:14.630 > 📊 ICM: ax=-11576, ay=-11816, az=2640 | Tilt=-77.15°, Trend=1.022
+20:24:14.852 > ✓ Updated - Tilt: -76.64°, Trend: 1.033
+20:24:14.924 > 📊 ICM: ax=-10880, ay=-11580, az=2052 | Tilt=-79.32°, Trend=0.978
+20:24:15.225 > 📊 ICM: ax=-11216, ay=-12100, az=2532 | Tilt=-77.28°, Trend=1.019
+20:24:15.334 > ✓ Updated - Tilt: -77.14°, Trend: 1.014
+20:24:15.522 > 📊 ICM: ax=-12148, ay=-12160, az=2372 | Tilt=-78.95°, Trend=1.059
+20:24:15.828 > 📊 ICM: ax=-11388, ay=-11944, az=2460 | Tilt=-77.81°, Trend=1.018
+20:24:15.859 > ✓ Updated - Tilt: -77.81°, Trend: 1.018
+20:24:16.130 > 📊 ICM: ax=-11464, ay=-11916, az=2432 | Tilt=-78.02°, Trend=1.020
+20:24:16.334 > ✓ Updated - Tilt: -77.68°, Trend: 1.027
+20:24:16.425 > 📊 ICM: ax=-11464, ay=-11876, az=2400 | Tilt=-78.18°, Trend=1.018
+20:24:16.724 > 📊 ICM: ax=-11416, ay=-12016, az=2384 | Tilt=-78.20°, Trend=1.022
+20:24:16.869 > ✓ Updated - Tilt: -78.56°, Trend: 1.021
+20:24:17.024 > 📊 ICM: ax=-11388, ay=-11928, az=2388 | Tilt=-78.16°, Trend=1.017
+20:24:17.327 > 📊 ICM: ax=-11420, ay=-11900, az=2352 | Tilt=-78.36°, Trend=1.017
+20:24:17.351 > ✓ Updated - Tilt: -78.36°, Trend: 1.017
+20:24:17.629 > 📊 ICM: ax=-11356, ay=-12020, az=2460 | Tilt=-77.78°, Trend=1.020
+20:24:17.831 > ✓ Updated - Tilt: -78.80°, Trend: 1.023
+20:24:17.925 > 📊 ICM: ax=-11420, ay=-11948, az=2276 | Tilt=-78.73°, Trend=1.018
+20:24:18.226 > 📊 ICM: ax=-11464, ay=-11908, az=2344 | Tilt=-78.44°, Trend=1.019
+20:24:18.360 > ✓ Updated - Tilt: -78.63°, Trend: 1.019
+20:24:18.530 > 📊 ICM: ax=-11492, ay=-11872, az=2220 | Tilt=-79.07°, Trend=1.018
+20:24:18.828 > 📊 ICM: ax=-11628, ay=-11956, az=2280 | Tilt=-78.91°, Trend=1.027
+20:24:18.834 > ✓ Updated - Tilt: -78.91°, Trend: 1.027
+20:24:19.128 > 📊 ICM: ax=-11664, ay=-12016, az=2148 | Tilt=-79.57°, Trend=1.030
+20:24:19.369 > ✓ Updated - Tilt: -77.64°, Trend: 1.011
+20:24:19.430 > 📊 ICM: ax=-11296, ay=-12116, az=2428 | Tilt=-77.87°, Trend=1.022
+20:24:19.730 > 📊 ICM: ax=-11376, ay=-11948, az=2068 | Tilt=-79.70°, Trend=1.015
+20:24:20.029 > ✓ Updated - Tilt: -78.79°, Trend: 1.021
+20:24:20.029 > 📊 ICM: ax=-11312, ay=-11916, az=2408 | Tilt=-77.98°, Trend=1.014
+20:24:20.322 > 📊 ICM: ax=-11256, ay=-12036, az=2316 | Tilt=-78.37°, Trend=1.016
+20:24:20.375 > ✓ Updated - Tilt: -78.37°, Trend: 1.016
+20:24:20.628 > 📊 ICM: ax=-11472, ay=-11988, az=1868 | Tilt=-80.75°, Trend=1.019
+20:24:20.925 > ✓ Updated - Tilt: -78.75°, Trend: 1.016
+20:24:20.925 > 📊 ICM: ax=-11664, ay=-11968, az=2192 | Tilt=-79.36°, Trend=1.029
+20:24:21.228 > 📊 ICM: ax=-11324, ay=-11836, az=2244 | Tilt=-78.79°, Trend=1.009
+20:24:21.334 > ✓ Updated - Tilt: -79.09°, Trend: 1.029
+20:24:21.523 > 📊 ICM: ax=-11380, ay=-11988, az=2416 | Tilt=-78.01°, Trend=1.020
+20:24:21.826 > 📊 ICM: ax=-11336, ay=-11804, az=2320 | Tilt=-78.43°, Trend=1.009
+20:24:21.868 > ✓ Updated - Tilt: -78.43°, Trend: 1.009
+20:24:22.129 > 📊 ICM: ax=-11396, ay=-11704, az=2184 | Tilt=-79.15°, Trend=1.006
+20:24:22.351 > ✓ Updated - Tilt: -79.28°, Trend: 1.000
+20:24:22.429 > 📊 ICM: ax=-11128, ay=-11976, az=2152 | Tilt=-79.05°, Trend=1.006
+20:24:22.726 > 📊 ICM: ax=-11368, ay=-12120, az=1888 | Tilt=-80.57°, Trend=1.021
+20:24:22.826 > ✓ Updated - Tilt: -80.30°, Trend: 1.015
+20:24:23.024 > 📊 ICM: ax=-11400, ay=-11872, az=2140 | Tilt=-79.37°, Trend=1.013
+20:24:23.325 > 📊 ICM: ax=-11392, ay=-12020, az=2128 | Tilt=-79.42°, Trend=1.019
+20:24:23.361 > ✓ Updated - Tilt: -79.42°, Trend: 1.019
+20:24:23.625 > 📊 ICM: ax=-11388, ay=-12096, az=2048 | Tilt=-79.81°, Trend=1.022
+20:24:23.834 > ✓ Updated - Tilt: -79.42°, Trend: 1.016
+20:24:23.925 > 📊 ICM: ax=-11644, ay=-11848, az=2180 | Tilt=-79.40°, Trend=1.023
+20:24:24.226 > 📊 ICM: ax=-11400, ay=-12044, az=2196 | Tilt=-79.10°, Trend=1.021
+20:24:24.370 > ✓ Updated - Tilt: -79.34°, Trend: 1.021
+20:24:24.523 > 📊 ICM: ax=-11380, ay=-12064, az=2136 | Tilt=-79.37°, Trend=1.021
+20:24:24.822 > 📊 ICM: ax=-11376, ay=-12120, az=2008 | Tilt=-79.99°, Trend=1.022
+20:24:24.851 > ✓ Updated - Tilt: -79.99°, Trend: 1.022
+20:24:25.125 > 📊 ICM: ax=-11456, ay=-11948, az=2188 | Tilt=-79.19°, Trend=1.019
+20:24:25.374 > ✓ Updated - Tilt: -79.57°, Trend: 1.025
+20:24:25.427 > 📊 ICM: ax=-11508, ay=-11988, az=2128 | Tilt=-79.52°, Trend=1.023
+20:24:25.723 > 📊 ICM: ax=-11456, ay=-12052, az=2080 | Tilt=-79.71°, Trend=1.023
+20:24:25.854 > ✓ Updated - Tilt: -79.20°, Trend: 1.023
+20:24:26.025 > 📊 ICM: ax=-11500, ay=-12076, az=2056 | Tilt=-79.86°, Trend=1.026
+20:24:26.326 > 📊 ICM: ax=-11540, ay=-11928, az=2172 | Tilt=-79.34°, Trend=1.022
+20:24:26.334 > ✓ Updated - Tilt: -79.34°, Trend: 1.022
+20:24:26.630 > 📊 ICM: ax=-11392, ay=-12040, az=2212 | Tilt=-79.01°, Trend=1.021
+20:24:26.869 > ✓ Updated - Tilt: -79.69°, Trend: 1.024
+20:24:26.921 > 📊 ICM: ax=-11452, ay=-11988, az=2056 | Tilt=-79.82°, Trend=1.020
+20:24:27.227 > 📊 ICM: ax=-11488, ay=-11932, az=2132 | Tilt=-79.49°, Trend=1.019
+20:24:27.352 > ✓ Updated - Tilt: -79.82°, Trend: 1.014
+20:24:27.524 > 📊 ICM: ax=-11968, ay=-11700, az=2128 | Tilt=-79.92°, Trend=1.030
+20:24:27.830 > 📊 ICM: ax=-10348, ay=-9492, az=6128 | Tilt=-59.37°, Trend=0.935
+20:24:27.830 > ✓ Updated - Tilt: -59.37°, Trend: 0.935
+20:24:28.360 > 📊 ICM: ax=-10800, ay=-16816, az=1372 | Tilt=-82.76°, Trend=1.223
+20:24:28.360 > ✓ Updated - Tilt: -63.81°, Trend: 1.061
+20:24:28.421 > 📊 ICM: ax=-7816, ay=-15264, az=5808 | Tilt=-53.38°, Trend=1.105
+20:24:28.841 > 📊 ICM: ax=-6100, ay=-13948, az=5172 | Tilt=-49.71°, Trend=0.981
+20:24:28.841 > ✓ Updated - Tilt: -47.93°, Trend: 0.898
+20:24:29.023 > 📊 ICM: ax=-4828, ay=-12512, az=924 | Tilt=-79.17°, Trend=0.820
+20:24:29.329 > 📊 ICM: ax=-11916, ay=-15944, az=452 | Tilt=-87.83°, Trend=1.215
+20:24:29.371 > ✓ Updated - Tilt: -87.83°, Trend: 1.215
+20:24:29.626 > 📊 ICM: ax=-3576, ay=-18032, az=-8464 | Tilt=-157.10°, Trend=1.235
+20:24:29.925 > ✓ Updated - Tilt: -155.61°, Trend: 0.877
+20:24:29.925 > 📊 ICM: ax=-2620, ay=-14212, az=-5400 | Tilt=-154.12°, Trend=0.942
+20:24:30.224 > 📊 ICM: ax=-1956, ay=-15248, az=-4672 | Tilt=-157.28°, Trend=0.981
+20:24:30.326 > ✓ Updated - Tilt: -150.69°, Trend: 1.091
+20:24:30.524 > 📊 ICM: ax=692, ay=-16256, az=-7620 | Tilt=174.81°, Trend=1.097
+20:24:30.825 > 📊 ICM: ax=-4320, ay=-9752, az=-8948 | Tilt=-154.23°, Trend=0.850
+20:24:30.863 > ✓ Updated - Tilt: -154.23°, Trend: 0.850
+20:24:31.126 > 📊 ICM: ax=3272, ay=-14024, az=-5356 | Tilt=148.58°, Trend=0.938
+20:24:31.341 > ✓ Updated - Tilt: 131.80°, Trend: 1.259
+20:24:31.426 > 📊 ICM: ax=24, ay=-16252, az=-1204 | Tilt=178.86°, Trend=0.995
+20:24:31.726 > 📊 ICM: ax=2312, ay=-17996, az=-2132 | Tilt=132.68°, Trend=1.115
+20:24:31.869 > ✓ Updated - Tilt: 148.90°, Trend: 1.030
+20:24:32.329 > 📊 ICM: ax=-2352, ay=-15776, az=-4632 | Tilt=-153.08°, Trend=1.014
+20:24:32.329 > 📊 ICM: ax=5064, ay=-13932, az=-2892 | Tilt=119.73°, Trend=0.922
+20:24:32.353 > ✓ Updated - Tilt: 119.73°, Trend: 0.922
+20:24:32.629 > 📊 ICM: ax=900, ay=-17092, az=-5028 | Tilt=169.85°, Trend=1.089
+20:24:32.829 > ✓ Updated - Tilt: -98.45°, Trend: 1.026
+20:24:32.929 > 📊 ICM: ax=-2644, ay=-15376, az=440 | Tilt=-80.55°, Trend=0.953
+20:24:33.230 > 📊 ICM: ax=-1140, ay=-14556, az=1516 | Tilt=-36.94°, Trend=0.896
+20:24:33.359 > ✓ Updated - Tilt: 92.76°, Trend: 1.238
+20:24:33.530 > 📊 ICM: ax=-720, ay=-16636, az=1360 | Tilt=-27.90°, Trend=1.020
+20:24:33.825 > 📊 ICM: ax=-3476, ay=-17592, az=5972 | Tilt=-30.20°, Trend=1.154
+20:24:33.834 > ✓ Updated - Tilt: -30.20°, Trend: 1.154
+20:24:34.124 > 📊 ICM: ax=-6404, ay=-15400, az=9048 | Tilt=-35.29°, Trend=1.158
+20:24:34.426 > ✓ Updated - Tilt: -51.91°, Trend: 0.941
+20:24:34.426 > 📊 ICM: ax=-6680, ay=-16980, az=6596 | Tilt=-45.36°, Trend=1.184
+20:24:34.726 > 📊 ICM: ax=-11684, ay=-8628, az=13892 | Tilt=-40.07°, Trend=1.227
+20:24:34.853 > ✓ Updated - Tilt: -32.82°, Trend: 0.917
+20:24:35.025 > 📊 ICM: ax=-8692, ay=-9372, az=11812 | Tilt=-36.35°, Trend=1.062
+20:24:35.330 > 📊 ICM: ax=-8560, ay=-10348, az=8556 | Tilt=-45.01°, Trend=0.972
+20:24:35.330 > ✓ Updated - Tilt: -45.01°, Trend: 0.972
+20:24:35.625 > 📊 ICM: ax=-8440, ay=-4340, az=12736 | Tilt=-33.53°, Trend=0.969
+20:24:35.857 > ✓ Updated - Tilt: -22.43°, Trend: 1.008
+20:24:35.922 > 📊 ICM: ax=-6428, ay=-3596, az=15032 | Tilt=-23.15°, Trend=1.022
+20:24:36.224 > 📊 ICM: ax=-7516, ay=-2836, az=13244 | Tilt=-29.58°, Trend=0.945
+20:24:36.337 > ✓ Updated - Tilt: -26.40°, Trend: 0.942
+20:24:36.529 > 📊 ICM: ax=-8800, ay=-5116, az=12672 | Tilt=-34.78°, Trend=0.992
+20:24:36.823 > 📊 ICM: ax=-4796, ay=-2040, az=17408 | Tilt=-15.40°, Trend=1.109
+20:24:36.868 > ✓ Updated - Tilt: -15.40°, Trend: 1.109
+20:24:37.122 > 📊 ICM: ax=-4616, ay=1136, az=14712 | Tilt=-17.42°, Trend=0.944
+20:24:37.353 > ✓ Updated - Tilt: -19.19°, Trend: 0.956
+20:24:37.422 > 📊 ICM: ax=-6440, ay=-640, az=16080 | Tilt=-21.83°, Trend=1.058
+20:24:37.729 > 📊 ICM: ax=-4732, ay=-2044, az=16016 | Tilt=-16.46°, Trend=1.027
+20:24:37.833 > ✓ Updated - Tilt: -20.76°, Trend: 0.962
+20:24:38.023 > 📊 ICM: ax=-4956, ay=392, az=16500 | Tilt=-16.72°, Trend=1.052
+20:24:38.322 > 📊 ICM: ax=-1612, ay=-2744, az=19004 | Tilt=-4.85°, Trend=1.176
+20:24:38.362 > ✓ Updated - Tilt: -4.85°, Trend: 1.176
+20:24:38.362 > [ 54711][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:24:38.626 > 📊 ICM: ax=-6500, ay=-1452, az=19092 | Tilt=-18.80°, Trend=1.234
+20:24:38.847 > ✓ Updated - Tilt: 3.38°, Trend: 1.240
+20:24:38.926 > 📊 ICM: ax=-7724, ay=-1864, az=15572 | Tilt=-26.38°, Trend=1.067
+20:24:39.230 > 📊 ICM: ax=-4224, ay=2672, az=15872 | Tilt=-14.90°, Trend=1.016
+20:24:39.374 > ✓ Updated - Tilt: -19.16°, Trend: 1.063
+20:24:39.526 > 📊 ICM: ax=-4384, ay=1880, az=15504 | Tilt=-15.79°, Trend=0.990
+20:24:39.824 > 📊 ICM: ax=-5416, ay=408, az=13336 | Tilt=-22.10°, Trend=0.879
+20:24:39.849 > ✓ Updated - Tilt: -22.10°, Trend: 0.879
+20:24:40.126 > 📊 ICM: ax=-5264, ay=2076, az=15828 | Tilt=-18.40°, Trend=1.026
+20:24:40.332 > ✓ Updated - Tilt: -13.21°, Trend: 0.982
+20:24:40.426 > 📊 ICM: ax=-1956, ay=2564, az=15648 | Tilt=-7.13°, Trend=0.975
+20:24:40.860 > 📊 ICM: ax=-92, ay=1796, az=15264 | Tilt=-0.35°, Trend=0.938
+20:24:41.026 > ✓ Updated - Tilt: 4.78°, Trend: 0.981
+20:24:41.026 > 📊 ICM: ax=1380, ay=1340, az=15700 | Tilt=5.02°, Trend=0.965
+20:24:41.323 > 📊 ICM: ax=3668, ay=2052, az=13784 | Tilt=14.90°, Trend=0.880
+20:24:41.334 > ✓ Updated - Tilt: 14.90°, Trend: 0.880
+20:24:41.626 > 📊 ICM: ax=-2612, ay=2032, az=16456 | Tilt=-9.02°, Trend=1.025
+20:24:41.861 > ✓ Updated - Tilt: -3.03°, Trend: 0.990
+20:24:41.922 > 📊 ICM: ax=-556, ay=-144, az=16072 | Tilt=-1.98°, Trend=0.982
+20:24:42.226 > 📊 ICM: ax=-1624, ay=-1276, az=16776 | Tilt=-5.53°, Trend=1.032
+20:24:42.530 > ✓ Updated - Tilt: 7.80°, Trend: 1.080
+20:24:42.530 > 📊 ICM: ax=1980, ay=1512, az=14708 | Tilt=7.67°, Trend=0.910
+20:24:42.823 > 📊 ICM: ax=48, ay=496, az=15976 | Tilt=0.17°, Trend=0.976
+20:24:42.868 > ✓ Updated - Tilt: 0.17°, Trend: 0.976
+20:24:43.345 > 📊 ICM: ax=-344, ay=-556, az=16192 | Tilt=-1.22°, Trend=0.989
+20:24:43.345 > ✓ Updated - Tilt: 3.38°, Trend: 1.002
+20:24:43.426 > 📊 ICM: ax=892, ay=548, az=15968 | Tilt=3.20°, Trend=0.977
+20:24:43.657 > [ 60011][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:24:43.730 > 📊 ICM: ax=952, ay=-792, az=16084 | Tilt=3.39°, Trend=0.985
+20:24:44.023 > ✓ Updated - Tilt: 4.34°, Trend: 0.974
+20:24:44.023 > 📊 ICM: ax=-816, ay=-2936, az=17188 | Tilt=-2.72°, Trend=1.065
+20:24:44.330 > 📊 ICM: ax=-484, ay=-392, az=16016 | Tilt=-1.73°, Trend=0.978
+20:24:44.354 > ✓ Updated - Tilt: -1.73°, Trend: 0.978
+20:24:44.623 > 📊 ICM: ax=392, ay=-1492, az=16972 | Tilt=1.32°, Trend=1.040
+20:24:44.834 > ✓ Updated - Tilt: 1.18°, Trend: 0.982
+20:24:45.229 > 📊 ICM: ax=124, ay=-172, az=16112 | Tilt=0.44°, Trend=0.983
+20:24:45.229 > 📊 ICM: ax=7952, ay=-2416, az=11712 | Tilt=34.18°, Trend=0.877
+20:24:45.360 > ✓ Updated - Tilt: 2.00°, Trend: 0.982
+20:24:45.530 > 📊 ICM: ax=-2372, ay=72, az=16872 | Tilt=-8.00°, Trend=1.040
+20:24:45.824 > 📊 ICM: ax=-1384, ay=-796, az=15952 | Tilt=-4.96°, Trend=0.978
+20:24:45.834 > ✓ Updated - Tilt: -4.96°, Trend: 0.978
+20:24:46.131 > 📊 ICM: ax=236, ay=-304, az=16092 | Tilt=0.84°, Trend=0.982
+20:24:46.259 > [ 62611][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:24:46.425 > ✓ Updated - Tilt: -6.03°, Trend: 0.969
+20:24:46.534 > 📊 ICM: ax=388, ay=-1932, az=16572 | Tilt=1.34°, Trend=1.019
+20:24:46.534 > [ 62886][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:24:46.723 > 📊 ICM: ax=-2944, ay=516, az=16732 | Tilt=-9.98°, Trend=1.037
+20:24:47.023 > ✓ Updated - Tilt: -13.02°, Trend: 0.982
+20:24:47.031 > 📊 ICM: ax=300, ay=1576, az=16028 | Tilt=1.07°, Trend=0.983
+20:24:47.371 > 📊 ICM: ax=692, ay=596, az=16428 | Tilt=2.41°, Trend=1.004
+20:24:47.371 > ✓ Updated - Tilt: 2.41°, Trend: 1.004
+20:24:47.852 > 📊 ICM: ax=588, ay=40, az=16127 | Tilt=2.09°, Trend=0.985
+20:24:47.853 > ✓ Updated - Tilt: -11.43°, Trend: 1.005
+20:24:47.930 > 📊 ICM: ax=832, ay=-668, az=16912 | Tilt=2.82°, Trend=1.034
+20:24:48.229 > 📊 ICM: ax=-92, ay=1952, az=16372 | Tilt=-0.32°, Trend=1.006
+20:24:48.373 > ✓ Updated - Tilt: -1.43°, Trend: 1.102
+20:24:48.484 > [ 64837][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:24:48.829 > 📊 ICM: ax=888, ay=1036, az=15344 | Tilt=3.31°, Trend=0.940
+20:24:48.829 > 📊 ICM: ax=-768, ay=15882, az=-3314 | Tilt=-166.95°, Trend=0.991
+20:24:48.863 > ✓ Updated - Tilt: -166.95°, Trend: 0.991
+20:24:49.129 > 📊 ICM: ax=-507, ay=16379, az=220 | Tilt=-66.54°, Trend=1.000
+20:24:49.334 > ✓ Updated - Tilt: -90.37°, Trend: 0.954
+20:24:49.725 > 📊 ICM: ax=3, ay=16130, az=4619 | Tilt=0.04°, Trend=1.024
+20:24:49.725 > 📊 ICM: ax=256, ay=15361, az=-7 | Tilt=91.57°, Trend=0.938
+20:24:49.873 > ✓ Updated - Tilt: -33.70°, Trend: 0.960
+20:24:50.025 > 📊 ICM: ax=-1279, ay=16127, az=-256 | Tilt=-101.32°, Trend=0.988
+20:24:50.353 > 📊 ICM: ax=2, ay=16135, az=12 | Tilt=9.46°, Trend=0.985
+20:24:50.353 > ✓ Updated - Tilt: 9.46°, Trend: 0.985
+20:24:50.630 > 📊 ICM: ax=-508, ay=14072, az=-2309 | Tilt=-167.59°, Trend=0.871
+20:24:50.831 > ✓ Updated - Tilt: 146.71°, Trend: 0.975
+20:24:50.926 > 📊 ICM: ax=1020, ay=15608, az=3037 | Tilt=18.57°, Trend=0.972
+20:24:51.230 > 📊 ICM: ax=-260, ay=-962, az=-1798 | Tilt=-171.77°, Trend=0.125
+20:24:51.359 > ✓ Updated - Tilt: -0.46°, Trend: 0.973
+20:24:51.525 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:24:51.823 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:24:51.835 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:24:52.126 > 📊 ICM: ax=280, ay=-1, az=18716 | Tilt=0.86°, Trend=1.142
+20:24:52.365 > ✓ Updated - Tilt: 12.03°, Trend: 1.057
+20:24:52.421 > 📊 ICM: ax=515, ay=15863, az=-1276 | Tilt=158.02°, Trend=0.972
+20:24:52.834 > 📊 ICM: ax=769, ay=15347, az=2552 | Tilt=16.77°, Trend=0.951
+20:24:52.834 > ✓ Updated - Tilt: -89.02°, Trend: 1.409
+20:24:53.023 > 📊 ICM: ax=6, ay=16131, az=-257 | Tilt=178.66°, Trend=0.985
+20:24:53.323 > 📊 ICM: ax=1033, ay=17908, az=500 | Tilt=64.17°, Trend=1.095
+20:24:53.375 > ✓ Updated - Tilt: 64.17°, Trend: 1.095
+20:24:53.625 > 📊 ICM: ax=-2563, ay=15084, az=6630 | Tilt=-21.14°, Trend=1.018
+20:24:53.856 > ✓ Updated - Tilt: -45.34°, Trend: 0.959
+20:24:53.926 > 📊 ICM: ax=-5364, ay=20217, az=3019 | Tilt=-60.63°, Trend=1.290
+20:24:54.229 > 📊 ICM: ax=1524, ay=-1444, az=15616 | Tilt=5.57°, Trend=0.962
+20:24:54.334 > ✓ Updated - Tilt: -0.00°, Trend: 0.965
+20:24:54.525 > 📊 ICM: ax=255, ay=-1, az=16080 | Tilt=0.91°, Trend=0.982
+20:24:54.823 > 📊 ICM: ax=-2976, ay=-72, az=16812 | Tilt=-10.04°, Trend=1.042
+20:24:54.864 > ✓ Updated - Tilt: -10.04°, Trend: 1.042
+20:24:55.124 > 📊 ICM: ax=876, ay=-740, az=16024 | Tilt=3.13°, Trend=0.981
+20:24:55.185 > [ 71537][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:24:55.353 > ✓ Updated - Tilt: 6.42°, Trend: 0.991
+20:24:55.431 > 📊 ICM: ax=-140, ay=-108, az=16128 | Tilt=-0.50°, Trend=0.984
+20:24:55.724 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:24:55.877 > ✓ Updated - Tilt: 1.80°, Trend: 1.005
+20:24:55.986 > [ 72337][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:24:56.022 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:24:56.358 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:24:56.358 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:24:56.835 > 📊 ICM: ax=1976, ay=1288, az=16560 | Tilt=6.80°, Trend=1.021
+20:24:56.835 > ✓ Updated - Tilt: -1.64°, Trend: 0.988
+20:24:57.225 > 📊 ICM: ax=1152, ay=1612, az=15376 | Tilt=4.28°, Trend=0.946
+20:24:57.225 > 📊 ICM: ax=1428, ay=844, az=16076 | Tilt=5.08°, Trend=0.986
+20:24:57.368 > ✓ Updated - Tilt: 6.08°, Trend: 0.994
+20:24:57.525 > 📊 ICM: ax=-3144, ay=2008, az=18096 | Tilt=-9.86°, Trend=1.128
+20:24:57.829 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:24:57.845 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:24:58.126 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:24:58.373 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:24:58.424 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:24:58.725 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:24:59.025 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:24:59.025 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:24:59.329 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:24:59.370 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:24:59.629 > 📊 ICM: ax=1544, ay=16605, az=-38 | Tilt=91.41°, Trend=1.018
+20:24:59.853 > ✓ Updated - Tilt: 23.10°, Trend: 1.034
+20:24:59.926 > 📊 ICM: ax=-505, ay=18146, az=5104 | Tilt=-5.65°, Trend=1.151
+20:25:00.163 > [ 76517][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:25:00.220 > 📊 ICM: ax=1268, ay=-2756, az=16532 | Tilt=4.39°, Trend=1.026
+20:25:00.531 > ✓ Updated - Tilt: 1.72°, Trend: 1.006
+20:25:00.531 > 📊 ICM: ax=3664, ay=-4252, az=16196 | Tilt=12.75°, Trend=1.046
+20:25:00.824 > 📊 ICM: ax=3396, ay=-3700, az=15580 | Tilt=12.30°, Trend=0.999
+20:25:00.860 > ✓ Updated - Tilt: 12.30°, Trend: 0.999
+20:25:00.968 > [ 77317][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:25:01.125 > 📊 ICM: ax=-856, ay=-2856, az=15920 | Tilt=-3.08°, Trend=0.989
+20:25:01.423 > ✓ Updated - Tilt: 3.26°, Trend: 1.018
+20:25:01.423 > 📊 ICM: ax=-5, ay=15871, az=4596 | Tilt=-0.06°, Trend=1.008
+20:25:01.874 > 📊 ICM: ax=3069, ay=16136, az=540 | Tilt=80.02°, Trend=1.003
+20:25:01.874 > ✓ Updated - Tilt: 145.50°, Trend: 1.000
+20:25:02.328 > 📊 ICM: ax=-4611, ay=16151, az=8494 | Tilt=-28.50°, Trend=1.149
+20:25:02.328 > 📊 ICM: ax=-452, ay=-204, az=16128 | Tilt=-1.61°, Trend=0.985
+20:25:02.353 > ✓ Updated - Tilt: -1.61°, Trend: 0.985
+20:25:02.630 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:02.879 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:02.927 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:03.223 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:03.353 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:03.529 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:03.830 > 📊 ICM: ax=0, ay=255, az=-1 | Tilt=180.00°, Trend=0.016
+20:25:04.130 > ✓ Updated - Tilt: 180.00°, Trend: 0.016
+20:25:04.130 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:04.359 > ✓ Updated - Tilt: -0.00°, Trend: 0.979
+20:25:04.431 > 📊 ICM: ax=-180, ay=-356, az=16060 | Tilt=-0.64°, Trend=0.981
+20:25:04.729 > 📊 ICM: ax=-452, ay=-404, az=16032 | Tilt=-1.61°, Trend=0.979
+20:25:05.024 > ✓ Updated - Tilt: -1.47°, Trend: 1.474
+20:25:05.024 > 📊 ICM: ax=-513, ay=15872, az=255 | Tilt=-63.57°, Trend=0.969
+20:25:05.329 > 📊 ICM: ax=-257, ay=15872, az=0 | Tilt=-90.00°, Trend=0.969
+20:25:05.371 > ✓ Updated - Tilt: -90.00°, Trend: 0.969
+20:25:05.626 > 📊 ICM: ax=-257, ay=16127, az=255 | Tilt=-45.22°, Trend=0.985
+20:25:05.853 > ✓ Updated - Tilt: -90.00°, Trend: 0.984
+20:25:06.230 > 📊 ICM: ax=-257, ay=16383, az=0 | Tilt=-90.00°, Trend=1.000
+20:25:06.257 > 📊 ICM: ax=-257, ay=16127, az=0 | Tilt=-90.00°, Trend=0.984
+20:25:06.335 > ✓ Updated - Tilt: -90.00°, Trend: 0.984
+20:25:06.826 > 📊 ICM: ax=-257, ay=16127, az=0 | Tilt=-90.00°, Trend=0.984
+20:25:06.826 > 📊 ICM: ax=-257, ay=16127, az=0 | Tilt=-90.00°, Trend=0.984
+20:25:06.859 > ✓ Updated - Tilt: -90.00°, Trend: 0.984
+20:25:07.130 > 📊 ICM: ax=-512, ay=16127, az=255 | Tilt=-63.52°, Trend=0.985
+20:25:07.426 > ✓ Updated - Tilt: -90.00°, Trend: 1.000
+20:25:07.426 > 📊 ICM: ax=-257, ay=16127, az=0 | Tilt=-90.00°, Trend=0.984
+20:25:07.729 > 📊 ICM: ax=-257, ay=16383, az=0 | Tilt=-90.00°, Trend=1.000
+20:25:07.874 > ✓ Updated - Tilt: -90.00°, Trend: 0.969
+20:25:08.026 > 📊 ICM: ax=-257, ay=16127, az=255 | Tilt=-45.22°, Trend=0.985
+20:25:08.323 > 📊 ICM: ax=-257, ay=15872, az=255 | Tilt=-45.22°, Trend=0.969
+20:25:08.361 > ✓ Updated - Tilt: -45.22°, Trend: 0.969
+20:25:08.835 > 📊 ICM: ax=-257, ay=15872, az=0 | Tilt=-90.00°, Trend=0.969
+20:25:08.835 > ✓ Updated - Tilt: -90.00°, Trend: 0.984
+20:25:08.931 > 📊 ICM: ax=-257, ay=16127, az=255 | Tilt=-45.22°, Trend=0.985
+20:25:09.225 > 📊 ICM: ax=-257, ay=16127, az=0 | Tilt=-90.00°, Trend=0.984
+20:25:09.373 > ✓ Updated - Tilt: -90.00°, Trend: 0.984
+20:25:09.526 > 📊 ICM: ax=-257, ay=16127, az=255 | Tilt=-45.22°, Trend=0.985
+20:25:09.853 > 📊 ICM: ax=-257, ay=15872, az=0 | Tilt=-90.00°, Trend=0.969
+20:25:09.853 > ✓ Updated - Tilt: -90.00°, Trend: 0.969
+20:25:10.130 > 📊 ICM: ax=-513, ay=16127, az=255 | Tilt=-63.57°, Trend=0.985
+20:25:10.334 > ✓ Updated - Tilt: -90.00°, Trend: 0.984
+20:25:10.859 > 📊 ICM: ax=-257, ay=16383, az=0 | Tilt=-90.00°, Trend=1.000
+20:25:10.868 > 📊 ICM: ax=-257, ay=16127, az=255 | Tilt=-45.22°, Trend=0.985
+20:25:10.868 > ✓ Updated - Tilt: -90.00°, Trend: 0.984
+20:25:11.025 > 📊 ICM: ax=-512, ay=16132, az=511 | Tilt=-45.06°, Trend=0.986
+20:25:11.330 > 📊 ICM: ax=-517, ay=15872, az=0 | Tilt=-90.00°, Trend=0.969
+20:25:11.335 > ✓ Updated - Tilt: -90.00°, Trend: 0.969
+20:25:11.870 > 📊 ICM: ax=-257, ay=15872, az=0 | Tilt=-90.00°, Trend=0.969
+20:25:11.870 > ✓ Updated - Tilt: -45.22°, Trend: 0.985
+20:25:11.929 > 📊 ICM: ax=-257, ay=16127, az=0 | Tilt=-90.00°, Trend=0.984
+20:25:12.225 > 📊 ICM: ax=-257, ay=16127, az=255 | Tilt=-45.22°, Trend=0.985
+20:25:12.353 > ✓ Updated - Tilt: -45.22°, Trend: 1.000
+20:25:12.829 > 📊 ICM: ax=-257, ay=16127, az=0 | Tilt=-90.00°, Trend=0.984
+20:25:12.829 > 📊 ICM: ax=-257, ay=16127, az=255 | Tilt=-45.22°, Trend=0.985
+20:25:12.835 > ✓ Updated - Tilt: -45.22°, Trend: 0.985
+20:25:13.123 > 📊 ICM: ax=-257, ay=16127, az=255 | Tilt=-45.22°, Trend=0.985
+20:25:13.360 > ✓ Updated - Tilt: -45.22°, Trend: 0.985
+20:25:13.427 > 📊 ICM: ax=-258, ay=15872, az=255 | Tilt=-45.34°, Trend=0.969
+20:25:13.726 > 📊 ICM: ax=-257, ay=15872, az=252 | Tilt=-45.56°, Trend=0.969
+20:25:13.835 > ✓ Updated - Tilt: -108.43°, Trend: 0.984
+20:25:14.023 > 📊 ICM: ax=-257, ay=16127, az=0 | Tilt=-90.00°, Trend=0.984
+20:25:14.325 > 📊 ICM: ax=255, ay=16381, az=-1285 | Tilt=168.78°, Trend=1.003
+20:25:14.375 > ✓ Updated - Tilt: 168.78°, Trend: 1.003
+20:25:14.629 > 📊 ICM: ax=-1, ay=-1, az=16127 | Tilt=-0.00°, Trend=0.984
+20:25:14.853 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:15.224 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:15.224 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:15.335 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:15.388 > [ 91737][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:25:15.824 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:15.824 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:15.864 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:16.130 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:16.426 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:16.426 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:16.728 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:16.870 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:17.031 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:17.328 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:17.350 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:17.629 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:17.873 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:17.930 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:18.230 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:18.358 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:18.531 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:18.827 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:18.835 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:19.126 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:19.425 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:19.425 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:19.723 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:19.835 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:20.031 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:20.362 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:20.362 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:20.626 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:20.927 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:20.927 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:21.230 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:21.366 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:21.524 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:21.845 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:21.845 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:22.129 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:22.370 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:22.724 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:22.724 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:23.024 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:23.024 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:23.370 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:23.370 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:23.852 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:23.852 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:23.922 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:24.225 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:24.528 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:24.528 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:24.852 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:24.852 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:25.376 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:25.376 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:25.425 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:25.731 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:25.852 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:26.329 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:26.329 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:26.329 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:26.626 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:26.927 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:26.927 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:27.228 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:27.530 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:27.530 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:27.830 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:27.863 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:28.128 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:28.431 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:28.431 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:28.726 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:28.864 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:29.024 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:29.330 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:29.335 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:29.630 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:29.865 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:29.926 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:30.224 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:30.335 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:30.524 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:30.823 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:30.873 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:31.131 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:31.352 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:31.422 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:31.876 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:31.876 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:32.023 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:32.328 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:32.352 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:32.626 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:32.835 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:32.889 > [109237][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:25:33.230 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:33.230 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:33.368 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:33.528 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:33.829 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:33.845 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:34.129 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:34.427 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:34.427 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:34.727 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:34.835 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:35.031 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:35.330 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:35.373 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:35.585 > [111937][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:25:35.855 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:35.855 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:35.928 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:36.232 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:36.335 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:36.385 > [112737][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:25:36.524 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:36.830 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:36.862 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:37.130 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:37.335 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:37.432 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:37.724 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:38.026 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:38.026 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:38.088 > [114437][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:25:38.331 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:38.353 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:38.629 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:38.831 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:38.926 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:39.229 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:39.359 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:39.524 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:39.835 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:39.835 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:40.128 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:40.360 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:40.422 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:40.731 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:40.834 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:41.031 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:41.328 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:41.362 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:41.839 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:41.839 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:41.926 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:42.232 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:42.531 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:42.531 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:42.687 > [119037][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:25:42.827 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:42.852 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:43.125 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:43.381 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:43.428 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:43.731 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:43.850 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:44.331 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:44.331 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:44.331 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:44.630 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:44.859 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:45.228 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:45.228 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:45.335 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:45.829 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:45.829 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:45.861 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:46.339 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:46.341 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:46.728 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:46.728 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:47.025 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:47.025 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:47.335 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:47.335 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:47.863 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:47.863 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:48.225 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:48.225 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:48.335 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:48.525 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:48.828 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:48.875 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:49.129 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:49.353 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:49.430 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:49.729 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:49.875 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:50.025 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:50.326 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:50.358 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:50.626 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:50.828 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:50.885 > [127237][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:25:51.231 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:51.235 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:51.369 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:51.530 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:51.831 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:51.839 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:52.367 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:52.367 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:52.726 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:52.726 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:53.032 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:53.032 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:53.325 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:53.375 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:53.583 > [129937][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:25:53.623 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:53.854 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:53.931 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:54.227 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:54.335 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:54.388 > [130737][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:25:54.527 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:54.826 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:54.869 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:55.126 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:55.342 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:55.425 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:55.727 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:56.026 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:56.026 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:56.086 > [132437][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:25:56.331 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:56.358 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:56.626 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:56.835 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:57.231 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:57.231 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:57.359 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:57.524 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:57.835 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:57.835 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:58.130 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:58.364 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:58.431 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:58.727 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:58.835 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:59.332 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:59.332 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:59.365 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:59.626 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:25:59.835 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:25:59.927 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:26:00.232 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:26:00.370 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:26:00.525 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:26:00.841 > 📊 ICM: ax=9965, ay=15331, az=230 | Tilt=88.68°, Trend=1.116
+20:26:00.841 > ✓ Updated - Tilt: 88.68°, Trend: 1.116
+20:26:01.128 > 📊 ICM: ax=8696, ay=-5940, az=9008 | Tilt=43.99°, Trend=0.846
+20:26:01.431 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:26:01.431 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:26:01.728 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:26:01.853 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:26:02.031 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:26:02.332 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:26:02.376 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:26:02.632 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:26:02.929 > ✓ Updated - Tilt: 96.52°, Trend: 0.948
+20:26:02.929 > 📊 ICM: ax=2548, ay=15855, az=-3847 | Tilt=146.48°, Trend=1.008
+20:26:03.230 > 📊 ICM: ax=3313, ay=15612, az=-260 | Tilt=94.49°, Trend=0.974
+20:26:03.335 > ✓ Updated - Tilt: 94.83°, Trend: 0.971
+20:26:03.868 > 📊 ICM: ax=3058, ay=15101, az=-1 | Tilt=90.02°, Trend=0.940
+20:26:03.869 > 📊 ICM: ax=1525, ay=17148, az=1020 | Tilt=56.22°, Trend=1.053
+20:26:03.869 > ✓ Updated - Tilt: 56.22°, Trend: 1.053
+20:26:04.132 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:26:04.335 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:26:04.432 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:26:04.727 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:26:04.876 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:26:05.032 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:26:05.325 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:26:05.350 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:26:05.627 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:26:05.872 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:26:05.926 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:26:06.232 > 📊 ICM: ax=0, ay=0, az=0 | Tilt=0.00°, Trend=0.000
+20:26:06.353 > ✓ Updated - Tilt: 0.00°, Trend: 0.000
+20:26:06.530 > 📊 ICM: ax=2948, ay=-4904, az=14852 | Tilt=11.23°, Trend=0.971
+20:26:06.830 > 📊 ICM: ax=5996, ay=-4072, az=14896 | Tilt=21.93°, Trend=1.011
+20:26:06.878 > ✓ Updated - Tilt: 21.93°, Trend: 1.011
+20:26:07.130 > 📊 ICM: ax=5040, ay=-3188, az=15224 | Tilt=18.32°, Trend=0.998
+20:26:07.353 > ✓ Updated - Tilt: 22.64°, Trend: 0.891
+20:26:07.422 > 📊 ICM: ax=3136, ay=-4460, az=15760 | Tilt=11.25°, Trend=1.018
+20:26:07.725 > 📊 ICM: ax=-1292, ay=-8740, az=15720 | Tilt=-4.70°, Trend=1.101
+20:26:07.832 > ✓ Updated - Tilt: 1.08°, Trend: 0.984
+20:26:08.032 > 📊 ICM: ax=-4400, ay=344, az=16380 | Tilt=-15.04°, Trend=1.035
+20:26:08.362 > 📊 ICM: ax=976, ay=-4400, az=15436 | Tilt=3.62°, Trend=0.981
+20:26:08.362 > ✓ Updated - Tilt: 3.62°, Trend: 0.981
+20:26:08.631 > 📊 ICM: ax=1084, ay=-4272, az=15548 | Tilt=3.99°, Trend=0.986
+20:26:08.835 > ✓ Updated - Tilt: 3.54°, Trend: 0.988
+20:26:09.228 > 📊 ICM: ax=700, ay=-4200, az=15576 | Tilt=2.57°, Trend=0.986
+20:26:09.228 > 📊 ICM: ax=1904, ay=-5388, az=14308 | Tilt=7.58°, Trend=0.940
+20:26:09.366 > ✓ Updated - Tilt: -3.50°, Trend: 1.267
+20:26:09.525 > 📊 ICM: ax=1744, ay=-5592, az=15864 | Tilt=6.27°, Trend=1.032
+20:26:09.846 > 📊 ICM: ax=1504, ay=-844, az=15796 | Tilt=5.44°, Trend=0.970
+20:26:09.847 > ✓ Updated - Tilt: 5.44°, Trend: 0.970
+20:26:10.133 > 📊 ICM: ax=1000, ay=-3480, az=15700 | Tilt=3.64°, Trend=0.983
+20:26:10.373 > ✓ Updated - Tilt: 3.43°, Trend: 0.988
+20:26:10.727 > 📊 ICM: ax=888, ay=-3512, az=15784 | Tilt=3.22°, Trend=0.988
+20:26:10.853 > 📊 ICM: ax=884, ay=-3552, az=15768 | Tilt=3.21°, Trend=0.988
+20:26:10.853 > ✓ Updated - Tilt: 3.18°, Trend: 0.983
+20:26:11.030 > 📊 ICM: ax=816, ay=-3512, az=15664 | Tilt=2.98°, Trend=0.981
+20:26:11.377 > 📊 ICM: ax=944, ay=-3532, az=15668 | Tilt=3.45°, Trend=0.982
+20:26:11.377 > ✓ Updated - Tilt: 3.45°, Trend: 0.982
+20:26:11.855 > 📊 ICM: ax=816, ay=-3524, az=15716 | Tilt=2.97°, Trend=0.984
+20:26:11.922 > ✓ Updated - Tilt: 3.12°, Trend: 0.983
+20:26:11.922 > 📊 ICM: ax=936, ay=-3568, az=15600 | Tilt=3.43°, Trend=0.978
+20:26:12.335 > 📊 ICM: ax=916, ay=-3580, az=15676 | Tilt=3.34°, Trend=0.983
+20:26:12.531 > ✓ Updated - Tilt: 3.28°, Trend: 0.985
+20:26:12.531 > 📊 ICM: ax=952, ay=-3548, az=15772 | Tilt=3.45°, Trend=0.988
+20:26:12.833 > 📊 ICM: ax=920, ay=-3536, az=15644 | Tilt=3.37°, Trend=0.981
+20:26:12.866 > ✓ Updated - Tilt: 3.37°, Trend: 0.981
+20:26:13.290 > 📊 ICM: ax=888, ay=-3344, az=15632 | Tilt=3.25°, Trend=0.977
+20:26:13.290 > [149637][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:26:13.339 > ✓ Updated - Tilt: 3.22°, Trend: 0.985
+20:26:13.728 > 📊 ICM: ax=952, ay=-3564, az=15720 | Tilt=3.47°, Trend=0.986
+20:26:13.728 > 📊 ICM: ax=896, ay=-3612, az=15680 | Tilt=3.27°, Trend=0.984
+20:26:13.877 > ✓ Updated - Tilt: 3.38°, Trend: 0.981
+20:26:14.327 > 📊 ICM: ax=944, ay=-3544, az=15688 | Tilt=3.44°, Trend=0.983
+20:26:14.353 > 📊 ICM: ax=940, ay=-3568, az=15708 | Tilt=3.42°, Trend=0.985
+20:26:14.353 > ✓ Updated - Tilt: 3.42°, Trend: 0.985
+20:26:14.875 > 📊 ICM: ax=908, ay=-3456, az=15544 | Tilt=3.34°, Trend=0.973
+20:26:14.875 > ✓ Updated - Tilt: 3.39°, Trend: 0.990
+20:26:14.927 > 📊 ICM: ax=1000, ay=-3560, az=15660 | Tilt=3.65°, Trend=0.982
+20:26:15.353 > 📊 ICM: ax=980, ay=-3536, az=15708 | Tilt=3.57°, Trend=0.985
+20:26:15.360 > ✓ Updated - Tilt: 3.52°, Trend: 0.986
+20:26:15.825 > 📊 ICM: ax=940, ay=-3544, az=15716 | Tilt=3.42°, Trend=0.985
+20:26:15.834 > 📊 ICM: ax=948, ay=-3552, az=15744 | Tilt=3.45°, Trend=0.987
+20:26:16.125 > ✓ Updated - Tilt: 3.45°, Trend: 0.987
+20:26:16.125 > 📊 ICM: ax=884, ay=-3624, az=15612 | Tilt=3.24°, Trend=0.980
+20:26:16.427 > ✓ Updated - Tilt: 3.02°, Trend: 0.984
+20:26:16.427 > 📊 ICM: ax=868, ay=-3592, az=15604 | Tilt=3.18°, Trend=0.979
+20:26:16.835 > 📊 ICM: ax=948, ay=-3500, az=15716 | Tilt=3.45°, Trend=0.984
+20:26:16.835 > ✓ Updated - Tilt: 3.37°, Trend: 0.982
+20:26:17.025 > 📊 ICM: ax=864, ay=-3640, az=15696 | Tilt=3.15°, Trend=0.985
+20:26:17.369 > 📊 ICM: ax=956, ay=-3612, az=15620 | Tilt=3.50°, Trend=0.980
+20:26:17.369 > ✓ Updated - Tilt: 3.50°, Trend: 0.980
+20:26:17.843 > 📊 ICM: ax=984, ay=-3516, az=15684 | Tilt=3.59°, Trend=0.983
+20:26:17.927 > ✓ Updated - Tilt: 3.13°, Trend: 0.987
+20:26:17.927 > 📊 ICM: ax=928, ay=-3628, az=15648 | Tilt=3.39°, Trend=0.982
+20:26:18.370 > 📊 ICM: ax=928, ay=-3616, az=15704 | Tilt=3.38°, Trend=0.985
+20:26:18.370 > ✓ Updated - Tilt: 3.50°, Trend: 0.988
+20:26:18.827 > 📊 ICM: ax=860, ay=-3516, az=15680 | Tilt=3.14°, Trend=0.982
+20:26:18.827 > 📊 ICM: ax=864, ay=-3332, az=15656 | Tilt=3.16°, Trend=0.978
+20:26:18.853 > ✓ Updated - Tilt: 3.16°, Trend: 0.978
+20:26:19.377 > 📊 ICM: ax=860, ay=-3576, az=15660 | Tilt=3.14°, Trend=0.982
+20:26:19.377 > ✓ Updated - Tilt: 3.32°, Trend: 0.986
+20:26:19.731 > 📊 ICM: ax=932, ay=-3548, az=15708 | Tilt=3.40°, Trend=0.985
+20:26:19.731 > 📊 ICM: ax=992, ay=-3496, az=15592 | Tilt=3.64°, Trend=0.977
+20:26:19.858 > ✓ Updated - Tilt: 3.04°, Trend: 0.981
+20:26:20.330 > 📊 ICM: ax=932, ay=-3548, az=15656 | Tilt=3.41°, Trend=0.981
+20:26:20.335 > 📊 ICM: ax=892, ay=-3516, az=15680 | Tilt=3.26°, Trend=0.982
+20:26:20.335 > ✓ Updated - Tilt: 3.26°, Trend: 0.982
+20:26:20.627 > 📊 ICM: ax=1084, ay=-3628, az=15640 | Tilt=3.96°, Trend=0.982
+20:26:20.927 > ✓ Updated - Tilt: 2.95°, Trend: 0.984
+20:26:20.927 > 📊 ICM: ax=792, ay=-3548, az=15660 | Tilt=2.90°, Trend=0.981
+20:26:21.285 > 📊 ICM: ax=876, ay=-3492, az=15684 | Tilt=3.20°, Trend=0.982
+20:26:21.285 > [157637][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:26:21.346 > ✓ Updated - Tilt: 3.33°, Trend: 0.986
+20:26:21.526 > 📊 ICM: ax=1012, ay=-3620, az=15664 | Tilt=3.70°, Trend=0.983
+20:26:21.874 > 📊 ICM: ax=928, ay=-3628, az=15648 | Tilt=3.39°, Trend=0.982
+20:26:21.874 > ✓ Updated - Tilt: 3.39°, Trend: 0.982
+20:26:22.353 > 📊 ICM: ax=808, ay=-3636, az=15632 | Tilt=2.96°, Trend=0.981
+20:26:22.353 > ✓ Updated - Tilt: 3.37°, Trend: 0.982
+20:26:22.422 > 📊 ICM: ax=1028, ay=-3628, az=15640 | Tilt=3.76°, Trend=0.982
+20:26:22.670 > [159017][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:26:22.835 > 📊 ICM: ax=948, ay=-3632, az=15728 | Tilt=3.45°, Trend=0.987
+20:26:22.835 > ✓ Updated - Tilt: 3.22°, Trend: 0.985
+20:26:23.032 > 📊 ICM: ax=848, ay=-3592, az=15736 | Tilt=3.08°, Trend=0.987
+20:26:23.363 > 📊 ICM: ax=856, ay=-3480, az=15728 | Tilt=3.12°, Trend=0.985
+20:26:23.363 > ✓ Updated - Tilt: 3.12°, Trend: 0.985
+20:26:23.791 > 📊 ICM: ax=956, ay=-3444, az=15748 | Tilt=3.47°, Trend=0.986
+20:26:23.792 > [160137][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:26:23.932 > ✓ Updated - Tilt: 3.68°, Trend: 0.983
+20:26:23.932 > 📊 ICM: ax=1028, ay=-3632, az=15688 | Tilt=3.75°, Trend=0.985
+20:26:24.232 > 📊 ICM: ax=1260, ay=-3696, az=15684 | Tilt=4.59°, Trend=0.986
+20:26:24.375 > ✓ Updated - Tilt: 4.20°, Trend: 0.985
+20:26:24.832 > 📊 ICM: ax=784, ay=-3592, az=15648 | Tilt=2.87°, Trend=0.981
+20:26:24.850 > 📊 ICM: ax=936, ay=-3604, az=15580 | Tilt=3.44°, Trend=0.978
+20:26:24.850 > ✓ Updated - Tilt: 3.44°, Trend: 0.978
+20:26:25.381 > 📊 ICM: ax=876, ay=-3608, az=15640 | Tilt=3.21°, Trend=0.981
+20:26:25.382 > ✓ Updated - Tilt: 3.54°, Trend: 0.982
+20:26:25.730 > 📊 ICM: ax=940, ay=-3556, az=15688 | Tilt=3.43°, Trend=0.983
+20:26:25.730 > 📊 ICM: ax=844, ay=-3600, az=15696 | Tilt=3.08°, Trend=0.984
+20:26:25.858 > ✓ Updated - Tilt: 3.12°, Trend: 0.988
+20:26:26.333 > 📊 ICM: ax=872, ay=-3568, az=15720 | Tilt=3.17°, Trend=0.985
+20:26:26.335 > 📊 ICM: ax=924, ay=-3624, az=15680 | Tilt=3.37°, Trend=0.984
+20:26:26.335 > ✓ Updated - Tilt: 3.37°, Trend: 0.984
+20:26:26.388 > [162737][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:26:26.628 > 📊 ICM: ax=880, ay=-3528, az=15740 | Tilt=3.20°, Trend=0.986
+20:26:26.870 > ✓ Updated - Tilt: 3.59°, Trend: 0.985
+20:26:27.185 > 📊 ICM: ax=944, ay=-3524, az=15696 | Tilt=3.44°, Trend=0.984
+20:26:27.185 > [163537][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:26:27.353 > 📊 ICM: ax=1012, ay=-3600, az=15676 | Tilt=3.69°, Trend=0.984
+20:26:27.353 > ✓ Updated - Tilt: 3.54°, Trend: 0.986
+20:26:27.533 > 📊 ICM: ax=980, ay=-3612, az=15756 | Tilt=3.56°, Trend=0.988
+20:26:27.670 > [164017][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:26:27.835 > 📊 ICM: ax=948, ay=-3616, az=15692 | Tilt=3.46°, Trend=0.985
+20:26:27.835 > ✓ Updated - Tilt: 3.46°, Trend: 0.985
+20:26:28.127 > 📊 ICM: ax=1008, ay=-3644, az=15720 | Tilt=3.67°, Trend=0.987
+20:26:28.429 > ✓ Updated - Tilt: 3.53°, Trend: 0.982
+20:26:28.429 > 📊 ICM: ax=876, ay=-3532, az=15660 | Tilt=3.20°, Trend=0.981
+20:26:28.835 > 📊 ICM: ax=876, ay=-3576, az=15716 | Tilt=3.19°, Trend=0.985
+20:26:28.835 > ✓ Updated - Tilt: 3.58°, Trend: 0.983
+20:26:29.327 > 📊 ICM: ax=880, ay=-3576, az=15736 | Tilt=3.20°, Trend=0.986
+20:26:29.327 > 📊 ICM: ax=888, ay=-3584, az=15748 | Tilt=3.23°, Trend=0.987
+20:26:29.369 > ✓ Updated - Tilt: 3.23°, Trend: 0.987
+20:26:29.847 > 📊 ICM: ax=944, ay=-3560, az=15644 | Tilt=3.45°, Trend=0.981
+20:26:29.847 > ✓ Updated - Tilt: 3.60°, Trend: 0.980
+20:26:29.927 > 📊 ICM: ax=824, ay=-3536, az=15700 | Tilt=3.00°, Trend=0.984
+20:26:30.370 > 📊 ICM: ax=972, ay=-3356, az=15712 | Tilt=3.54°, Trend=0.982
+20:26:30.370 > ✓ Updated - Tilt: 3.55°, Trend: 0.979
+20:26:30.532 > 📊 ICM: ax=1004, ay=-3532, az=15716 | Tilt=3.66°, Trend=0.985
+20:26:30.855 > 📊 ICM: ax=876, ay=-3604, az=15744 | Tilt=3.18°, Trend=0.987
+20:26:30.855 > ✓ Updated - Tilt: 3.18°, Trend: 0.987
+20:26:31.130 > 📊 ICM: ax=1056, ay=-3748, az=15732 | Tilt=3.84°, Trend=0.989
+20:26:31.425 > ✓ Updated - Tilt: 3.14°, Trend: 0.980
+20:26:31.433 > 📊 ICM: ax=1036, ay=-3652, az=15696 | Tilt=3.78°, Trend=0.986
+20:26:31.725 > 📊 ICM: ax=920, ay=-3588, az=15696 | Tilt=3.35°, Trend=0.984
+20:26:31.860 > ✓ Updated - Tilt: 3.74°, Trend: 0.983
+20:26:32.333 > 📊 ICM: ax=996, ay=-3656, az=15672 | Tilt=3.64°, Trend=0.984
+20:26:32.335 > 📊 ICM: ax=928, ay=-3584, az=15672 | Tilt=3.39°, Trend=0.983
+20:26:32.335 > ✓ Updated - Tilt: 3.39°, Trend: 0.983
+20:26:32.626 > 📊 ICM: ax=1044, ay=-3812, az=15544 | Tilt=3.84°, Trend=0.979
+20:26:32.860 > ✓ Updated - Tilt: 3.12°, Trend: 0.983
+20:26:33.231 > 📊 ICM: ax=960, ay=-3528, az=15728 | Tilt=3.49°, Trend=0.986
+20:26:33.339 > 📊 ICM: ax=976, ay=-3604, az=15704 | Tilt=3.56°, Trend=0.985
+20:26:33.339 > ✓ Updated - Tilt: 3.21°, Trend: 0.985
+20:26:33.533 > 📊 ICM: ax=880, ay=-3556, az=15740 | Tilt=3.20°, Trend=0.986
+20:26:33.869 > 📊 ICM: ax=992, ay=-3596, az=15728 | Tilt=3.61°, Trend=0.987
+20:26:33.869 > ✓ Updated - Tilt: 3.61°, Trend: 0.987
+20:26:34.344 > 📊 ICM: ax=900, ay=-3644, az=15744 | Tilt=3.27°, Trend=0.988
+20:26:34.348 > ✓ Updated - Tilt: 3.31°, Trend: 0.980
+20:26:34.430 > 📊 ICM: ax=992, ay=-3628, az=15684 | Tilt=3.62°, Trend=0.984
+20:26:34.877 > 📊 ICM: ax=936, ay=-3596, az=15696 | Tilt=3.41°, Trend=0.984
+20:26:34.877 > ✓ Updated - Tilt: 3.26°, Trend: 0.985
+20:26:35.332 > 📊 ICM: ax=868, ay=-3548, az=15668 | Tilt=3.17°, Trend=0.982
+20:26:35.332 > 📊 ICM: ax=972, ay=-3528, az=15736 | Tilt=3.53°, Trend=0.986
+20:26:35.355 > ✓ Updated - Tilt: 3.53°, Trend: 0.986
+20:26:35.631 > 📊 ICM: ax=1024, ay=-3572, az=15660 | Tilt=3.74°, Trend=0.982
+20:26:35.879 > ✓ Updated - Tilt: 3.45°, Trend: 0.988
+20:26:35.930 > 📊 ICM: ax=1032, ay=-3552, az=15648 | Tilt=3.77°, Trend=0.981
+20:26:36.232 > 📊 ICM: ax=988, ay=-3592, az=15616 | Tilt=3.62°, Trend=0.980
+20:26:36.531 > ✓ Updated - Tilt: 3.55°, Trend: 0.982
+20:26:36.531 > 📊 ICM: ax=936, ay=-3540, az=15704 | Tilt=3.41°, Trend=0.984
+20:26:36.838 > 📊 ICM: ax=996, ay=-3576, az=15676 | Tilt=3.64°, Trend=0.983
+20:26:36.838 > ✓ Updated - Tilt: 3.64°, Trend: 0.983
+20:26:37.132 > 📊 ICM: ax=1012, ay=-3604, az=15652 | Tilt=3.70°, Trend=0.982
+20:26:37.364 > ✓ Updated - Tilt: 3.65°, Trend: 0.979
+20:26:37.730 > 📊 ICM: ax=968, ay=-3600, az=15716 | Tilt=3.52°, Trend=0.986
+20:26:37.841 > 📊 ICM: ax=964, ay=-3648, az=15744 | Tilt=3.50°, Trend=0.988
+20:26:37.841 > ✓ Updated - Tilt: 3.64°, Trend: 0.985
+20:26:38.333 > 📊 ICM: ax=860, ay=-3696, az=15692 | Tilt=3.14°, Trend=0.985
+20:26:38.333 > 📊 ICM: ax=1064, ay=-3660, az=15616 | Tilt=3.90°, Trend=0.981
+20:26:38.364 > ✓ Updated - Tilt: 3.90°, Trend: 0.981
+20:26:38.633 > 📊 ICM: ax=1028, ay=-3560, az=15744 | Tilt=3.74°, Trend=0.987
+20:26:38.844 > ✓ Updated - Tilt: 3.87°, Trend: 0.995
+20:26:39.232 > 📊 ICM: ax=960, ay=-3660, az=15752 | Tilt=3.49°, Trend=0.989
+20:26:39.232 > 📊 ICM: ax=1040, ay=-3592, az=15744 | Tilt=3.78°, Trend=0.988
+20:26:39.370 > ✓ Updated - Tilt: 2.91°, Trend: 0.981
+20:26:39.533 > 📊 ICM: ax=908, ay=-3740, az=15664 | Tilt=3.32°, Trend=0.984
+20:26:39.591 > [175937][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:26:39.860 > 📊 ICM: ax=940, ay=-3644, az=15692 | Tilt=3.43°, Trend=0.985
+20:26:39.860 > ✓ Updated - Tilt: 3.43°, Trend: 0.985
+20:26:40.129 > 📊 ICM: ax=1004, ay=-3620, az=15668 | Tilt=3.67°, Trend=0.983
+20:26:40.337 > ✓ Updated - Tilt: 3.73°, Trend: 0.983
+20:26:40.432 > 📊 ICM: ax=968, ay=-3612, az=15640 | Tilt=3.54°, Trend=0.981
+20:26:40.732 > 📊 ICM: ax=1056, ay=-3620, az=15768 | Tilt=3.83°, Trend=0.990
+20:26:40.970 > [177317][E][Wire.cpp:513] requestFrom(): i2cRead returned Error ✓ Updated - Tilt: 3.78°, Trend: 0.989
+20:26:40.970 > -1
+20:26:41.332 > 📊 ICM: ax=920, ay=-3604, az=15672 | Tilt=3.36°, Trend=0.983
+20:26:41.332 > 📊 ICM: ax=1072, ay=-3500, az=15728 | Tilt=3.90°, Trend=0.986
+20:26:41.347 > ✓ Updated - Tilt: 3.90°, Trend: 0.986
+20:26:41.769 > 📊 ICM: ax=936, ay=-3684, az=15792 | Tilt=3.39°, Trend=0.991
+20:26:41.769 > [178117][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:26:41.881 > ✓ Updated - Tilt: 3.18°, Trend: 0.986
+20:26:42.227 > 📊 ICM: ax=964, ay=-3524, az=15696 | Tilt=3.51°, Trend=0.984
+20:26:42.227 > 📊 ICM: ax=1040, ay=-3580, az=15664 | Tilt=3.80°, Trend=0.983
+20:26:42.360 > ✓ Updated - Tilt: 2.82°, Trend: 0.983
+20:26:42.826 > 📊 ICM: ax=932, ay=-3588, az=15744 | Tilt=3.39°, Trend=0.987
+20:26:42.835 > 📊 ICM: ax=864, ay=-3588, az=15756 | Tilt=3.14°, Trend=0.988
+20:26:42.835 > ✓ Updated - Tilt: 3.14°, Trend: 0.988
+20:26:43.121 > 📊 ICM: ax=928, ay=-3648, az=15688 | Tilt=3.39°, Trend=0.985
+20:26:43.363 > ✓ Updated - Tilt: 3.22°, Trend: 0.987
+20:26:43.728 > 📊 ICM: ax=964, ay=-3560, az=15752 | Tilt=3.50°, Trend=0.987
+20:26:43.842 > 📊 ICM: ax=904, ay=-3628, az=15640 | Tilt=3.31°, Trend=0.981
+20:26:43.842 > ✓ Updated - Tilt: 3.46°, Trend: 0.987
+20:26:44.331 > 📊 ICM: ax=868, ay=-3620, az=15636 | Tilt=3.18°, Trend=0.981
+20:26:44.369 > 📊 ICM: ax=864, ay=-3640, az=15764 | Tilt=3.14°, Trend=0.989
+20:26:44.369 > ✓ Updated - Tilt: 3.14°, Trend: 0.989
+20:26:44.835 > 📊 ICM: ax=924, ay=-3696, az=15708 | Tilt=3.37°, Trend=0.987
+20:26:44.931 > ✓ Updated - Tilt: 3.50°, Trend: 0.985
+20:26:44.931 > 📊 ICM: ax=932, ay=-3728, az=15608 | Tilt=3.42°, Trend=0.981
+20:26:45.371 > 📊 ICM: ax=972, ay=-3532, az=15632 | Tilt=3.56°, Trend=0.980
+20:26:45.371 > ✓ Updated - Tilt: 3.65°, Trend: 0.985
+20:26:45.533 > 📊 ICM: ax=972, ay=-3728, az=15748 | Tilt=3.53°, Trend=0.990
+20:26:45.854 > 📊 ICM: ax=872, ay=-3480, az=15720 | Tilt=3.17°, Trend=0.984
+20:26:45.854 > ✓ Updated - Tilt: 3.17°, Trend: 0.984
+20:26:46.376 > 📊 ICM: ax=944, ay=-3648, az=15680 | Tilt=3.45°, Trend=0.984
+20:26:46.376 > ✓ Updated - Tilt: 3.56°, Trend: 0.984
+20:26:46.433 > 📊 ICM: ax=940, ay=-3644, az=15672 | Tilt=3.43°, Trend=0.984
+20:26:46.487 > [182837][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:26:46.726 > 📊 ICM: ax=1196, ay=-3900, az=15668 | Tilt=4.37°, Trend=0.988
+20:26:46.865 > ✓ Updated - Tilt: 3.71°, Trend: 0.983
+20:26:47.325 > 📊 ICM: ax=872, ay=-3552, az=15808 | Tilt=3.16°, Trend=0.990
+20:26:47.334 > 📊 ICM: ax=1164, ay=-3756, az=15720 | Tilt=4.23°, Trend=0.989
+20:26:47.342 > ✓ Updated - Tilt: 4.23°, Trend: 0.989
+20:26:47.871 > 📊 ICM: ax=996, ay=-3780, az=15644 | Tilt=3.64°, Trend=0.984
+20:26:47.871 > ✓ Updated - Tilt: 2.84°, Trend: 0.981
+20:26:48.230 > 📊 ICM: ax=788, ay=-3496, az=15728 | Tilt=2.87°, Trend=0.985
+20:26:48.230 > 📊 ICM: ax=968, ay=-3664, az=15736 | Tilt=3.52°, Trend=0.988
+20:26:48.526 > ✓ Updated - Tilt: 3.57°, Trend: 0.987
+20:26:48.526 > 📊 ICM: ax=732, ay=-3520, az=15676 | Tilt=2.67°, Trend=0.982
+20:26:48.830 > 📊 ICM: ax=1024, ay=-3744, az=15636 | Tilt=3.75°, Trend=0.983
+20:26:48.877 > ✓ Updated - Tilt: 3.75°, Trend: 0.983
+20:26:49.127 > 📊 ICM: ax=692, ay=-3460, az=15640 | Tilt=2.53°, Trend=0.979
+20:26:49.352 > ✓ Updated - Tilt: 3.29°, Trend: 0.987
+20:26:49.727 > 📊 ICM: ax=944, ay=-3544, az=15772 | Tilt=3.43°, Trend=0.988
+20:26:49.727 > 📊 ICM: ax=1000, ay=-3556, az=15668 | Tilt=3.65°, Trend=0.983
+20:26:50.028 > ✓ Updated - Tilt: 3.81°, Trend: 0.990
+20:26:50.028 > 📊 ICM: ax=852, ay=-3672, az=15644 | Tilt=3.12°, Trend=0.982
+20:26:50.355 > 📊 ICM: ax=900, ay=-3576, az=15704 | Tilt=3.28°, Trend=0.985
+20:26:50.355 > ✓ Updated - Tilt: 3.28°, Trend: 0.985
+20:26:50.832 > 📊 ICM: ax=864, ay=-3616, az=15676 | Tilt=3.15°, Trend=0.983
+20:26:50.930 > ✓ Updated - Tilt: 3.56°, Trend: 0.981
+20:26:50.930 > 📊 ICM: ax=916, ay=-3600, az=15760 | Tilt=3.33°, Trend=0.988
+20:26:51.360 > 📊 ICM: ax=960, ay=-3648, az=15604 | Tilt=3.52°, Trend=0.980
+20:26:51.360 > ✓ Updated - Tilt: 3.85°, Trend: 0.985
+20:26:51.832 > 📊 ICM: ax=924, ay=-3604, az=15784 | Tilt=3.35°, Trend=0.990
+20:26:51.834 > 📊 ICM: ax=1136, ay=-3536, az=15876 | Tilt=4.09°, Trend=0.995
+20:26:51.842 > ✓ Updated - Tilt: 4.09°, Trend: 0.995
+20:26:52.368 > 📊 ICM: ax=988, ay=-3672, az=15796 | Tilt=3.58°, Trend=0.992
+20:26:52.368 > ✓ Updated - Tilt: 3.33°, Trend: 0.981
+20:26:52.434 > 📊 ICM: ax=956, ay=-3652, az=15632 | Tilt=3.50°, Trend=0.982
+20:26:52.685 > [189037][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:26:52.856 > 📊 ICM: ax=988, ay=-3776, az=15736 | Tilt=3.59°, Trend=0.990
+20:26:52.856 > ✓ Updated - Tilt: 3.72°, Trend: 0.983
+20:26:53.330 > 📊 ICM: ax=964, ay=-3648, az=15780 | Tilt=3.50°, Trend=0.990
+20:26:53.378 > 📊 ICM: ax=884, ay=-3540, az=15668 | Tilt=3.23°, Trend=0.982
+20:26:53.378 > ✓ Updated - Tilt: 3.23°, Trend: 0.982
+20:26:53.626 > 📊 ICM: ax=1036, ay=-3664, az=15632 | Tilt=3.79°, Trend=0.982
+20:26:53.859 > ✓ Updated - Tilt: 3.40°, Trend: 0.984
+20:26:54.226 > 📊 ICM: ax=972, ay=-3536, az=15688 | Tilt=3.55°, Trend=0.983
+20:26:54.226 > 📊 ICM: ax=1032, ay=-3624, az=15732 | Tilt=3.75°, Trend=0.987
+20:26:54.337 > ✓ Updated - Tilt: 3.39°, Trend: 0.987
+20:26:54.828 > 📊 ICM: ax=936, ay=-3828, az=15632 | Tilt=3.43°, Trend=0.984
+20:26:54.862 > 📊 ICM: ax=908, ay=-3672, az=15708 | Tilt=3.31°, Trend=0.986
+20:26:54.862 > ✓ Updated - Tilt: 3.31°, Trend: 0.986
+20:26:55.131 > 📊 ICM: ax=904, ay=-3592, az=15716 | Tilt=3.29°, Trend=0.986
+20:26:55.338 > ✓ Updated - Tilt: 3.54°, Trend: 0.985
+20:26:55.727 > 📊 ICM: ax=988, ay=-3640, az=15668 | Tilt=3.61°, Trend=0.984
+20:26:55.869 > 📊 ICM: ax=976, ay=-3512, az=15608 | Tilt=3.58°, Trend=0.978
+20:26:55.870 > ✓ Updated - Tilt: 3.59°, Trend: 0.984
+20:26:56.032 > 📊 ICM: ax=940, ay=-3468, az=15720 | Tilt=3.42°, Trend=0.984
+20:26:56.185 > [192537][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:26:56.333 > 📊 ICM: ax=1132, ay=-3580, az=15676 | Tilt=4.13°, Trend=0.984
+20:26:56.351 > ✓ Updated - Tilt: 4.13°, Trend: 0.984
+20:26:56.880 > 📊 ICM: ax=908, ay=-3768, az=15652 | Tilt=3.32°, Trend=0.984
+20:26:56.880 > ✓ Updated - Tilt: 4.69°, Trend: 0.984
+20:26:57.228 > 📊 ICM: ax=928, ay=-3732, az=15700 | Tilt=3.38°, Trend=0.987
+20:26:57.359 > 📊 ICM: ax=988, ay=-3520, az=15704 | Tilt=3.60°, Trend=0.984
+20:26:57.359 > ✓ Updated - Tilt: 3.20°, Trend: 0.978
+20:26:57.532 > 📊 ICM: ax=1028, ay=-3692, az=15700 | Tilt=3.75°, Trend=0.986
+20:26:57.833 > 📊 ICM: ax=872, ay=-3504, az=15764 | Tilt=3.17°, Trend=0.987
+20:26:57.837 > ✓ Updated - Tilt: 3.17°, Trend: 0.987
+20:26:58.364 > 📊 ICM: ax=904, ay=-3672, az=15676 | Tilt=3.30°, Trend=0.984
+20:26:58.364 > ✓ Updated - Tilt: 3.88°, Trend: 0.980
+20:26:58.731 > 📊 ICM: ax=928, ay=-3468, az=15692 | Tilt=3.38°, Trend=0.983
+20:26:58.731 > 📊 ICM: ax=948, ay=-3736, az=15700 | Tilt=3.46°, Trend=0.987
+20:26:58.792 > [195137][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:26:58.848 > ✓ Updated - Tilt: 3.36°, Trend: 0.986
+20:26:59.332 > 📊 ICM: ax=988, ay=-3764, az=15720 | Tilt=3.60°, Trend=0.988
+20:26:59.332 > 📊 ICM: ax=1132, ay=-3624, az=15712 | Tilt=4.12°, Trend=0.987
+20:26:59.377 > ✓ Updated - Tilt: 4.12°, Trend: 0.987
+20:26:59.855 > 📊 ICM: ax=892, ay=-3736, az=15756 | Tilt=3.24°, Trend=0.990
+20:26:59.855 > ✓ Updated - Tilt: 3.28°, Trend: 0.981
+20:27:00.171 > 📊 ICM: ax=964, ay=-3716, az=15632 | Tilt=3.53°, Trend=0.982
+20:27:00.172 > [196517][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:27:00.335 > 📊 ICM: ax=936, ay=-3588, az=15692 | Tilt=3.41°, Trend=0.984
+20:27:00.339 > ✓ Updated - Tilt: 2.68°, Trend: 0.982
+20:27:00.531 > 📊 ICM: ax=1108, ay=-3708, az=15752 | Tilt=4.02°, Trend=0.990
+20:27:00.864 > 📊 ICM: ax=944, ay=-3632, az=15692 | Tilt=3.44°, Trend=0.985
+20:27:00.864 > ✓ Updated - Tilt: 3.44°, Trend: 0.985
+20:27:01.131 > 📊 ICM: ax=900, ay=-3716, az=15700 | Tilt=3.28°, Trend=0.986
+20:27:01.340 > ✓ Updated - Tilt: 3.11°, Trend: 0.983
+20:27:01.431 > 📊 ICM: ax=1024, ay=-3596, az=15736 | Tilt=3.72°, Trend=0.987
+20:27:01.868 > 📊 ICM: ax=948, ay=-3648, az=15656 | Tilt=3.47°, Trend=0.983
+20:27:01.868 > ✓ Updated - Tilt: 3.17°, Trend: 0.986
+20:27:02.033 > 📊 ICM: ax=916, ay=-3604, az=15644 | Tilt=3.35°, Trend=0.981
+20:27:02.330 > 📊 ICM: ax=1264, ay=-3624, az=15740 | Tilt=4.59°, Trend=0.989
+20:27:02.346 > ✓ Updated - Tilt: 4.59°, Trend: 0.989
+20:27:02.875 > 📊 ICM: ax=912, ay=-3744, az=15720 | Tilt=3.32°, Trend=0.988
+20:27:02.875 > ✓ Updated - Tilt: 3.89°, Trend: 0.977
+20:27:02.933 > 📊 ICM: ax=976, ay=-3564, az=15732 | Tilt=3.55°, Trend=0.986
+20:27:03.232 > 📊 ICM: ax=1032, ay=-3832, az=15600 | Tilt=3.78°, Trend=0.982
+20:27:03.351 > ✓ Updated - Tilt: 4.37°, Trend: 0.983
+20:27:03.832 > 📊 ICM: ax=980, ay=-3648, az=15652 | Tilt=3.58°, Trend=0.983
+20:27:03.832 > 📊 ICM: ax=996, ay=-3664, az=15616 | Tilt=3.65°, Trend=0.981
+20:27:03.882 > ✓ Updated - Tilt: 3.65°, Trend: 0.981
+20:27:04.131 > 📊 ICM: ax=1008, ay=-3564, az=16000 | Tilt=3.60°, Trend=1.002
+20:27:04.361 > ✓ Updated - Tilt: 2.53°, Trend: 0.979
+20:27:04.571 > 📊 ICM: ax=812, ay=-3280, az=15956 | Tilt=2.91°, Trend=0.995
+20:27:04.571 > [200917][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:27:04.733 > 📊 ICM: ax=860, ay=-3644, az=15648 | Tilt=3.15°, Trend=0.982
+20:27:05.031 > ✓ Updated - Tilt: 3.39°, Trend: 0.984
+20:27:05.031 > 📊 ICM: ax=928, ay=-3488, az=15740 | Tilt=3.37°, Trend=0.986
+20:27:05.367 > 📊 ICM: ax=844, ay=-3628, az=15644 | Tilt=3.09°, Trend=0.982
+20:27:05.371 > ✓ Updated - Tilt: 3.09°, Trend: 0.982
+20:27:05.633 > 📊 ICM: ax=1012, ay=-3792, az=15676 | Tilt=3.69°, Trend=0.986
+20:27:05.846 > ✓ Updated - Tilt: 3.51°, Trend: 0.982
+20:27:06.227 > 📊 ICM: ax=904, ay=-3640, az=15656 | Tilt=3.30°, Trend=0.983
+20:27:06.375 > 📊 ICM: ax=928, ay=-3568, az=15716 | Tilt=3.38°, Trend=0.985
+20:27:06.375 > ✓ Updated - Tilt: 3.69°, Trend: 0.988
+20:27:06.855 > 📊 ICM: ax=832, ay=-3740, az=15716 | Tilt=3.03°, Trend=0.987
+20:27:06.855 > 📊 ICM: ax=832, ay=-3536, az=15620 | Tilt=3.05°, Trend=0.979
+20:27:06.855 > ✓ Updated - Tilt: 3.05°, Trend: 0.979
+20:27:07.381 > 📊 ICM: ax=832, ay=-3592, az=15720 | Tilt=3.03°, Trend=0.986
+20:27:07.381 > ✓ Updated - Tilt: 4.46°, Trend: 0.980
+20:27:07.430 > 📊 ICM: ax=1220, ay=-3912, az=15664 | Tilt=4.45°, Trend=0.988
+20:27:07.860 > 📊 ICM: ax=864, ay=-3588, az=15744 | Tilt=3.14°, Trend=0.987
+20:27:07.860 > ✓ Updated - Tilt: 3.36°, Trend: 0.986
+20:27:08.029 > 📊 ICM: ax=1068, ay=-3720, az=15624 | Tilt=3.91°, Trend=0.982
+20:27:08.327 > 📊 ICM: ax=1012, ay=-3716, az=15696 | Tilt=3.69°, Trend=0.986
+20:27:08.336 > ✓ Updated - Tilt: 3.69°, Trend: 0.986
+20:27:08.627 > 📊 ICM: ax=1028, ay=-3612, az=15620 | Tilt=3.77°, Trend=0.981
+20:27:08.867 > ✓ Updated - Tilt: 3.68°, Trend: 0.980
+20:27:08.923 > 📊 ICM: ax=968, ay=-3668, az=15652 | Tilt=3.54°, Trend=0.983
+20:27:09.233 > 📊 ICM: ax=1108, ay=-3648, az=15672 | Tilt=4.04°, Trend=0.984
+20:27:09.335 > ✓ Updated - Tilt: 3.49°, Trend: 0.987
+20:27:09.833 > 📊 ICM: ax=944, ay=-3608, az=15392 | Tilt=3.51°, Trend=0.967
+20:27:09.833 > 📊 ICM: ax=840, ay=-3540, az=15796 | Tilt=3.04°, Trend=0.989
+20:27:09.866 > ✓ Updated - Tilt: 3.04°, Trend: 0.989
+20:27:10.342 > 📊 ICM: ax=840, ay=-3652, az=15644 | Tilt=3.07°, Trend=0.982
+20:27:10.432 > ✓ Updated - Tilt: 3.37°, Trend: 0.984
+20:27:10.432 > 📊 ICM: ax=996, ay=-3588, az=15672 | Tilt=3.64°, Trend=0.983
+20:27:10.727 > 📊 ICM: ax=1044, ay=-3720, az=15652 | Tilt=3.82°, Trend=0.984
+20:27:10.874 > ✓ Updated - Tilt: 3.06°, Trend: 0.983
+20:27:11.088 > 📊 ICM: ax=948, ay=-3676, az=15556 | Tilt=3.49°, Trend=0.977
+20:27:11.088 > [207437][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:27:11.357 > 📊 ICM: ax=892, ay=-3488, az=15716 | Tilt=3.25°, Trend=0.984
+20:27:11.357 > ✓ Updated - Tilt: 3.25°, Trend: 0.984
+20:27:11.627 > 📊 ICM: ax=1000, ay=-3636, az=15692 | Tilt=3.65°, Trend=0.985
+20:27:11.835 > ✓ Updated - Tilt: 3.15°, Trend: 0.981
+20:27:12.226 > 📊 ICM: ax=988, ay=-3564, az=15684 | Tilt=3.60°, Trend=0.984
+20:27:12.360 > 📊 ICM: ax=876, ay=-3556, az=15660 | Tilt=3.20°, Trend=0.982
+20:27:12.360 > ✓ Updated - Tilt: 4.64°, Trend: 0.984
+20:27:12.470 > [208817][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:27:12.527 > 📊 ICM: ax=1008, ay=-3680, az=15720 | Tilt=3.67°, Trend=0.987
+20:27:12.833 > 📊 ICM: ax=1064, ay=-3680, az=15680 | Tilt=3.88°, Trend=0.985
+20:27:12.842 > ✓ Updated - Tilt: 3.88°, Trend: 0.985
+20:27:13.271 > 📊 ICM: ax=948, ay=-3608, az=15756 | Tilt=3.44°, Trend=0.988
+20:27:13.271 > [209617][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:27:13.434 > ✓ Updated - Tilt: 3.54°, Trend: 0.977
+20:27:13.434 > 📊 ICM: ax=952, ay=-3592, az=15608 | Tilt=3.49°, Trend=0.979
+20:27:13.859 > 📊 ICM: ax=984, ay=-3624, az=15668 | Tilt=3.59°, Trend=0.983
+20:27:14.029 > ✓ Updated - Tilt: 3.36°, Trend: 0.981
+20:27:14.029 > 📊 ICM: ax=1056, ay=-3720, az=15600 | Tilt=3.87°, Trend=0.981
+20:27:14.334 > 📊 ICM: ax=932, ay=-3628, az=15612 | Tilt=3.42°, Trend=0.980
+20:27:14.334 > ✓ Updated - Tilt: 3.42°, Trend: 0.980
+20:27:14.633 > 📊 ICM: ax=1000, ay=-3708, az=15692 | Tilt=3.65°, Trend=0.986
+20:27:14.933 > ✓ Updated - Tilt: 3.54°, Trend: 0.983
+20:27:14.933 > 📊 ICM: ax=1008, ay=-3676, az=15672 | Tilt=3.68°, Trend=0.984
+20:27:15.335 > 📊 ICM: ax=956, ay=-3704, az=15592 | Tilt=3.51°, Trend=0.980
+20:27:15.335 > ✓ Updated - Tilt: 3.21°, Trend: 0.980
+20:27:15.828 > 📊 ICM: ax=916, ay=-3576, az=15688 | Tilt=3.34°, Trend=0.984
+20:27:15.836 > 📊 ICM: ax=1012, ay=-3672, az=15664 | Tilt=3.70°, Trend=0.984
+20:27:15.869 > ✓ Updated - Tilt: 3.70°, Trend: 0.984
+20:27:16.347 > 📊 ICM: ax=940, ay=-3724, az=15640 | Tilt=3.44°, Trend=0.983
+20:27:16.349 > ✓ Updated - Tilt: 3.28°, Trend: 0.980
+20:27:16.426 > 📊 ICM: ax=1084, ay=-3736, az=15584 | Tilt=3.98°, Trend=0.980
+20:27:16.730 > 📊 ICM: ax=812, ay=-3660, az=15728 | Tilt=2.96°, Trend=0.987
+20:27:16.876 > ✓ Updated - Tilt: 2.99°, Trend: 0.983
+20:27:17.327 > 📊 ICM: ax=1152, ay=-3628, az=15716 | Tilt=4.19°, Trend=0.987
+20:27:17.335 > 📊 ICM: ax=952, ay=-3624, az=15712 | Tilt=3.47°, Trend=0.986
+20:27:17.353 > ✓ Updated - Tilt: 3.47°, Trend: 0.986
+20:27:17.631 > 📊 ICM: ax=948, ay=-3644, az=15628 | Tilt=3.47°, Trend=0.981
+20:27:17.877 > ✓ Updated - Tilt: 3.45°, Trend: 0.984
+20:27:17.986 > 📊 ICM: ax=888, ay=-3628, az=15616 | Tilt=3.25°, Trend=0.980
+20:27:17.986 > [214337][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:27:18.359 > 📊 ICM: ax=840, ay=-3576, az=15636 | Tilt=3.08°, Trend=0.980
+20:27:18.531 > ✓ Updated - Tilt: 3.46°, Trend: 0.982
+20:27:18.531 > 📊 ICM: ax=956, ay=-3640, az=15716 | Tilt=3.48°, Trend=0.986
+20:27:18.838 > 📊 ICM: ax=896, ay=-3696, az=15632 | Tilt=3.28°, Trend=0.982
+20:27:18.844 > ✓ Updated - Tilt: 3.28°, Trend: 0.982
+20:27:19.370 > 📊 ICM: ax=836, ay=-3668, az=15728 | Tilt=3.04°, Trend=0.987
+20:27:19.423 > ✓ Updated - Tilt: 3.42°, Trend: 0.988
+20:27:19.423 > 📊 ICM: ax=1032, ay=-3664, az=15680 | Tilt=3.77°, Trend=0.985
+20:27:19.836 > 📊 ICM: ax=828, ay=-3620, az=15704 | Tilt=3.02°, Trend=0.985
+20:27:19.836 > ✓ Updated - Tilt: 3.65°, Trend: 0.986
+20:27:20.326 > 📊 ICM: ax=984, ay=-3724, az=15624 | Tilt=3.60°, Trend=0.982
+20:27:20.334 > 📊 ICM: ax=1204, ay=-3768, az=15608 | Tilt=4.41°, Trend=0.983
+20:27:20.376 > ✓ Updated - Tilt: 4.41°, Trend: 0.983
+20:27:20.633 > 📊 ICM: ax=1064, ay=-3684, az=15684 | Tilt=3.88°, Trend=0.985
+20:27:20.854 > ✓ Updated - Tilt: 3.55°, Trend: 0.989
+20:27:20.934 > 📊 ICM: ax=1052, ay=-3684, az=15660 | Tilt=3.84°, Trend=0.984
+20:27:21.382 > 📊 ICM: ax=992, ay=-3688, az=15732 | Tilt=3.61°, Trend=0.988
+20:27:21.382 > ✓ Updated - Tilt: 3.87°, Trend: 0.988
+20:27:21.833 > 📊 ICM: ax=956, ay=-3616, az=15696 | Tilt=3.49°, Trend=0.985
+20:27:21.833 > 📊 ICM: ax=1004, ay=-3704, az=15632 | Tilt=3.67°, Trend=0.982
+20:27:21.861 > ✓ Updated - Tilt: 3.67°, Trend: 0.982
+20:27:22.336 > 📊 ICM: ax=936, ay=-3632, az=15584 | Tilt=3.44°, Trend=0.978
+20:27:22.434 > ✓ Updated - Tilt: 3.79°, Trend: 0.986
+20:27:22.434 > 📊 ICM: ax=940, ay=-3656, az=15644 | Tilt=3.44°, Trend=0.982
+20:27:22.728 > 📊 ICM: ax=860, ay=-3544, az=15688 | Tilt=3.14°, Trend=0.983
+20:27:22.860 > ✓ Updated - Tilt: 3.41°, Trend: 0.985
+20:27:23.029 > 📊 ICM: ax=1024, ay=-3628, az=15720 | Tilt=3.73°, Trend=0.987
+20:27:23.336 > 📊 ICM: ax=984, ay=-3592, az=15584 | Tilt=3.61°, Trend=0.978
+20:27:23.344 > ✓ Updated - Tilt: 3.61°, Trend: 0.978
+20:27:23.632 > 📊 ICM: ax=972, ay=-3520, az=15728 | Tilt=3.54°, Trend=0.985
+20:27:23.870 > ✓ Updated - Tilt: 3.15°, Trend: 0.982
+20:27:24.231 > 📊 ICM: ax=996, ay=-3556, az=15680 | Tilt=3.63°, Trend=0.983
+20:27:24.231 > 📊 ICM: ax=1008, ay=-3648, az=15692 | Tilt=3.68°, Trend=0.985
+20:27:24.335 > ✓ Updated - Tilt: 3.85°, Trend: 0.982
+20:27:24.533 > 📊 ICM: ax=1080, ay=-3664, az=15656 | Tilt=3.95°, Trend=0.984
+20:27:24.871 > 📊 ICM: ax=968, ay=-3700, az=15644 | Tilt=3.54°, Trend=0.983
+20:27:24.871 > ✓ Updated - Tilt: 3.54°, Trend: 0.983
+20:27:25.342 > 📊 ICM: ax=968, ay=-3648, az=15608 | Tilt=3.55°, Trend=0.980
+20:27:25.428 > ✓ Updated - Tilt: 3.83°, Trend: 0.984
+20:27:25.732 > 📊 ICM: ax=988, ay=-3640, az=15640 | Tilt=3.61°, Trend=0.982
+20:27:25.877 > 📊 ICM: ax=944, ay=-3556, az=15688 | Tilt=3.44°, Trend=0.983
+20:27:25.877 > ✓ Updated - Tilt: 3.74°, Trend: 0.986
+20:27:26.326 > 📊 ICM: ax=928, ay=-3652, az=15692 | Tilt=3.38°, Trend=0.985
+20:27:26.334 > 📊 ICM: ax=996, ay=-3640, az=15664 | Tilt=3.64°, Trend=0.983
+20:27:26.354 > ✓ Updated - Tilt: 3.64°, Trend: 0.983
+20:27:26.629 > 📊 ICM: ax=1180, ay=-3612, az=15720 | Tilt=4.29°, Trend=0.987
+20:27:26.875 > ✓ Updated - Tilt: 3.62°, Trend: 0.982
+20:27:27.232 > 📊 ICM: ax=964, ay=-3712, az=15720 | Tilt=3.51°, Trend=0.988
+20:27:27.232 > 📊 ICM: ax=1032, ay=-3640, az=15684 | Tilt=3.76°, Trend=0.985
+20:27:27.531 > ✓ Updated - Tilt: 3.43°, Trend: 0.984
+20:27:27.531 > 📊 ICM: ax=868, ay=-3624, az=15704 | Tilt=3.16°, Trend=0.985
+20:27:27.827 > 📊 ICM: ax=1096, ay=-3624, az=15712 | Tilt=3.99°, Trend=0.986
+20:27:27.836 > ✓ Updated - Tilt: 3.99°, Trend: 0.986
+20:27:28.127 > 📊 ICM: ax=1100, ay=-3628, az=15576 | Tilt=4.04°, Trend=0.978
+20:27:28.432 > ✓ Updated - Tilt: 3.49°, Trend: 0.984
+20:27:28.469 > 📊 ICM: ax=1068, ay=-3700, az=15676 | Tilt=3.90°, Trend=0.985
+20:27:28.836 > 📊 ICM: ax=872, ay=-3684, az=15632 | Tilt=3.19°, Trend=0.982
+20:27:29.032 > ✓ Updated - Tilt: 3.38°, Trend: 0.985
+20:27:29.032 > 📊 ICM: ax=1028, ay=-3636, az=16008 | Tilt=3.67°, Trend=1.004
+20:27:29.372 > 📊 ICM: ax=860, ay=-3584, az=15788 | Tilt=3.12°, Trend=0.990
+20:27:29.408 > ✓ Updated - Tilt: 3.12°, Trend: 0.990
+20:27:29.632 > 📊 ICM: ax=920, ay=-3600, az=15732 | Tilt=3.35°, Trend=0.987
+20:27:29.845 > ✓ Updated - Tilt: 3.54°, Trend: 0.992
+20:27:29.934 > 📊 ICM: ax=1024, ay=-3548, az=15772 | Tilt=3.71°, Trend=0.989
+20:27:30.228 > 📊 ICM: ax=1016, ay=-3652, az=15668 | Tilt=3.71°, Trend=0.984
+20:27:30.374 > ✓ Updated - Tilt: 3.59°, Trend: 0.988
+20:27:30.527 > 📊 ICM: ax=1024, ay=-3816, az=15604 | Tilt=3.75°, Trend=0.982
+20:27:30.854 > 📊 ICM: ax=896, ay=-3668, az=15632 | Tilt=3.28°, Trend=0.982
+20:27:30.854 > ✓ Updated - Tilt: 3.28°, Trend: 0.982
+20:27:31.382 > 📊 ICM: ax=968, ay=-3692, az=15660 | Tilt=3.54°, Trend=0.984
+20:27:31.382 > ✓ Updated - Tilt: 3.76°, Trend: 0.981
+20:27:31.487 > [227837][E][Wire.cpp:513] requestFrom(): i2cRead returned Error 📊 ICM: ax=920, ay=-3604, az=15720 | Tilt=3.35°, Trend=0.986
+20:27:31.487 > -1
+20:27:31.866 > 📊 ICM: ax=884, ay=-3580, az=15768 | Tilt=3.21°, Trend=0.988
+20:27:31.867 > ✓ Updated - Tilt: 3.72°, Trend: 0.985
+20:27:31.967 > [228317][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:27:32.032 > 📊 ICM: ax=1036, ay=-3804, az=15696 | Tilt=3.78°, Trend=0.988
+20:27:32.327 > 📊 ICM: ax=1044, ay=-3700, az=15748 | Tilt=3.79°, Trend=0.989
+20:27:32.343 > ✓ Updated - Tilt: 3.79°, Trend: 0.989
+20:27:32.878 > 📊 ICM: ax=932, ay=-3596, az=15708 | Tilt=3.40°, Trend=0.985
+20:27:32.878 > ✓ Updated - Tilt: 3.44°, Trend: 0.980
+20:27:33.086 > 📊 ICM: ax=928, ay=-3708, az=15740 | Tilt=3.37°, Trend=0.989
+20:27:33.093 > [229437][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:27:33.227 > 📊 ICM: ax=952, ay=-3716, az=15716 | Tilt=3.47°, Trend=0.987
+20:27:33.358 > ✓ Updated - Tilt: 3.24°, Trend: 0.984
+20:27:33.830 > 📊 ICM: ax=900, ay=-3532, az=15712 | Tilt=3.28°, Trend=0.984
+20:27:33.838 > 📊 ICM: ax=976, ay=-3596, az=15676 | Tilt=3.56°, Trend=0.983
+20:27:33.838 > ✓ Updated - Tilt: 3.56°, Trend: 0.983
+20:27:34.360 > 📊 ICM: ax=856, ay=-3624, az=15716 | Tilt=3.12°, Trend=0.986
+20:27:34.360 > ✓ Updated - Tilt: 3.92°, Trend: 0.986
+20:27:34.732 > 📊 ICM: ax=944, ay=-3796, az=15628 | Tilt=3.46°, Trend=0.983
+20:27:34.844 > 📊 ICM: ax=1060, ay=-3712, az=15732 | Tilt=3.85°, Trend=0.989
+20:27:34.844 > ✓ Updated - Tilt: 3.10°, Trend: 0.983
+20:27:35.031 > 📊 ICM: ax=1096, ay=-3752, az=15676 | Tilt=4.00°, Trend=0.986
+20:27:35.371 > 📊 ICM: ax=884, ay=-3528, az=15644 | Tilt=3.23°, Trend=0.980
+20:27:35.371 > ✓ Updated - Tilt: 3.23°, Trend: 0.980
+20:27:35.629 > 📊 ICM: ax=1156, ay=-3856, az=15604 | Tilt=4.24°, Trend=0.984
+20:27:35.850 > ✓ Updated - Tilt: 3.06°, Trend: 0.979
+20:27:36.233 > 📊 ICM: ax=924, ay=-3668, az=15788 | Tilt=3.35°, Trend=0.991
+20:27:36.235 > 📊 ICM: ax=1116, ay=-3664, az=15620 | Tilt=4.09°, Trend=0.982
+20:27:36.375 > ✓ Updated - Tilt: 4.67°, Trend: 0.987
+20:27:36.530 > 📊 ICM: ax=876, ay=-3628, az=15712 | Tilt=3.19°, Trend=0.986
+20:27:36.833 > 📊 ICM: ax=1072, ay=-3652, az=15636 | Tilt=3.92°, Trend=0.982
+20:27:36.850 > ✓ Updated - Tilt: 3.92°, Trend: 0.982
+20:27:37.377 > 📊 ICM: ax=992, ay=-3708, az=15792 | Tilt=3.59°, Trend=0.992
+20:27:37.377 > ✓ Updated - Tilt: 3.68°, Trend: 0.987
+20:27:37.434 > 📊 ICM: ax=1028, ay=-3432, az=15676 | Tilt=3.75°, Trend=0.981
+20:27:37.728 > 📊 ICM: ax=1016, ay=-3684, az=15584 | Tilt=3.73°, Trend=0.979
+20:27:37.858 > ✓ Updated - Tilt: 4.03°, Trend: 0.980
+20:27:38.028 > 📊 ICM: ax=1008, ay=-3604, az=15728 | Tilt=3.67°, Trend=0.987
+20:27:38.331 > 📊 ICM: ax=1172, ay=-3720, az=15716 | Tilt=4.26°, Trend=0.988
+20:27:38.331 > ✓ Updated - Tilt: 4.26°, Trend: 0.988
+20:27:38.393 > [234737][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:27:38.871 > 📊 ICM: ax=944, ay=-3668, az=15712 | Tilt=3.44°, Trend=0.986
+20:27:38.871 > ✓ Updated - Tilt: 3.44°, Trend: 0.984
+20:27:39.234 > 📊 ICM: ax=924, ay=-3624, az=15724 | Tilt=3.36°, Trend=0.986
+20:27:39.234 > 📊 ICM: ax=980, ay=-3700, az=15648 | Tilt=3.58°, Trend=0.983
+20:27:39.348 > ✓ Updated - Tilt: 3.50°, Trend: 0.989
+20:27:39.830 > 📊 ICM: ax=884, ay=-3616, az=15740 | Tilt=3.21°, Trend=0.987
+20:27:39.830 > 📊 ICM: ax=1088, ay=-3840, az=15668 | Tilt=3.97°, Trend=0.987
+20:27:39.877 > ✓ Updated - Tilt: 3.97°, Trend: 0.987
+20:27:40.087 > [236437][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:27:40.359 > 📊 ICM: ax=1116, ay=-3756, az=15676 | Tilt=4.07°, Trend=0.986
+20:27:40.359 > ✓ Updated - Tilt: 4.01°, Trend: 0.983
+20:27:40.425 > 📊 ICM: ax=1020, ay=-3756, az=15668 | Tilt=3.72°, Trend=0.985
+20:27:40.572 > [236917][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:27:40.839 > 📊 ICM: ax=928, ay=-3736, az=15672 | Tilt=3.39°, Trend=0.985
+20:27:40.839 > ✓ Updated - Tilt: 3.53°, Trend: 0.985
+20:27:41.034 > 📊 ICM: ax=1048, ay=-3640, az=15692 | Tilt=3.82°, Trend=0.985
+20:27:41.365 > 📊 ICM: ax=948, ay=-3628, az=15628 | Tilt=3.47°, Trend=0.981
+20:27:41.365 > ✓ Updated - Tilt: 3.47°, Trend: 0.981
+20:27:41.836 > 📊 ICM: ax=900, ay=-3728, az=15648 | Tilt=3.29°, Trend=0.983
+20:27:41.850 > ✓ Updated - Tilt: 3.41°, Trend: 0.984
+20:27:42.230 > 📊 ICM: ax=972, ay=-3572, az=15640 | Tilt=3.56°, Trend=0.981
+20:27:42.377 > 📊 ICM: ax=976, ay=-3648, az=15700 | Tilt=3.56°, Trend=0.986
+20:27:42.377 > ✓ Updated - Tilt: 4.02°, Trend: 0.984
+20:27:42.533 > 📊 ICM: ax=892, ay=-3668, az=15672 | Tilt=3.26°, Trend=0.984
+20:27:42.831 > 📊 ICM: ax=1068, ay=-3652, az=15740 | Tilt=3.88°, Trend=0.988
+20:27:42.854 > ✓ Updated - Tilt: 3.88°, Trend: 0.988
+20:27:43.377 > 📊 ICM: ax=916, ay=-3500, az=15664 | Tilt=3.35°, Trend=0.981
+20:27:43.434 > ✓ Updated - Tilt: 3.53°, Trend: 0.985
+20:27:43.434 > 📊 ICM: ax=912, ay=-3656, az=15724 | Tilt=3.32°, Trend=0.987
+20:27:43.861 > 📊 ICM: ax=844, ay=-3972, az=15656 | Tilt=3.09°, Trend=0.987
+20:27:44.033 > ✓ Updated - Tilt: 3.56°, Trend: 0.985
+20:27:44.035 > 📊 ICM: ax=932, ay=-3528, az=15784 | Tilt=3.38°, Trend=0.989
+20:27:44.334 > 📊 ICM: ax=1080, ay=-3712, az=15748 | Tilt=3.92°, Trend=0.990
+20:27:44.336 > ✓ Updated - Tilt: 3.92°, Trend: 0.990
+20:27:44.859 > 📊 ICM: ax=760, ay=-3656, az=15772 | Tilt=2.76°, Trend=0.989
+20:27:44.867 > ✓ Updated - Tilt: 4.12°, Trend: 0.984
+20:27:45.236 > 📊 ICM: ax=900, ay=-3576, az=15744 | Tilt=3.27°, Trend=0.987
+20:27:45.236 > 📊 ICM: ax=1020, ay=-3680, az=15720 | Tilt=3.71°, Trend=0.987
+20:27:45.338 > ✓ Updated - Tilt: 3.42°, Trend: 0.987
+20:27:45.829 > 📊 ICM: ax=912, ay=-3672, az=15584 | Tilt=3.35°, Trend=0.979
+20:27:45.870 > 📊 ICM: ax=972, ay=-3624, az=15696 | Tilt=3.54°, Trend=0.985
+20:27:45.870 > ✓ Updated - Tilt: 3.54°, Trend: 0.985
+20:27:46.130 > 📊 ICM: ax=944, ay=-3520, az=15748 | Tilt=3.43°, Trend=0.987
+20:27:46.431 > ✓ Updated - Tilt: 3.37°, Trend: 0.985
+20:27:46.436 > 📊 ICM: ax=1064, ay=-3712, az=15624 | Tilt=3.90°, Trend=0.982
+20:27:46.877 > 📊 ICM: ax=944, ay=-3572, az=15772 | Tilt=3.43°, Trend=0.989
+20:27:46.877 > ✓ Updated - Tilt: 3.75°, Trend: 0.981
+20:27:47.034 > 📊 ICM: ax=1248, ay=-3716, az=15632 | Tilt=4.56°, Trend=0.984
+20:27:47.330 > 📊 ICM: ax=1044, ay=-3616, az=15748 | Tilt=3.79°, Trend=0.988
+20:27:47.355 > ✓ Updated - Tilt: 3.79°, Trend: 0.988
+20:27:47.630 > 📊 ICM: ax=1180, ay=-3672, az=15616 | Tilt=4.32°, Trend=0.982
+20:27:47.881 > ✓ Updated - Tilt: 1.97°, Trend: 0.984
+20:27:48.229 > 📊 ICM: ax=916, ay=-3720, az=15712 | Tilt=3.34°, Trend=0.987
+20:27:48.360 > 📊 ICM: ax=860, ay=-3536, az=15624 | Tilt=3.15°, Trend=0.979
+20:27:48.360 > ✓ Updated - Tilt: 3.79°, Trend: 0.990
+20:27:48.832 > 📊 ICM: ax=944, ay=-3780, az=15676 | Tilt=3.45°, Trend=0.986
+20:27:48.832 > 📊 ICM: ax=928, ay=-3540, az=15788 | Tilt=3.36°, Trend=0.989
+20:27:48.836 > ✓ Updated - Tilt: 3.36°, Trend: 0.989
+20:27:48.889 > [245237][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:27:49.371 > 📊 ICM: ax=996, ay=-3680, az=15656 | Tilt=3.64°, Trend=0.983
+20:27:49.371 > ✓ Updated - Tilt: 3.18°, Trend: 0.984
+20:27:49.435 > 📊 ICM: ax=912, ay=-3636, az=15664 | Tilt=3.33°, Trend=0.983
+20:27:49.849 > 📊 ICM: ax=888, ay=-3764, az=15716 | Tilt=3.23°, Trend=0.988
+20:27:49.849 > ✓ Updated - Tilt: 3.85°, Trend: 0.981
+20:27:50.034 > 📊 ICM: ax=1044, ay=-3640, az=15696 | Tilt=3.81°, Trend=0.985
+20:27:50.331 > 📊 ICM: ax=1028, ay=-3708, az=15672 | Tilt=3.75°, Trend=0.985
+20:27:50.377 > ✓ Updated - Tilt: 3.75°, Trend: 0.985
+20:27:50.854 > 📊 ICM: ax=964, ay=-3656, az=15636 | Tilt=3.53°, Trend=0.982
+20:27:50.854 > ✓ Updated - Tilt: 3.57°, Trend: 0.985
+20:27:50.927 > 📊 ICM: ax=1004, ay=-3708, az=15652 | Tilt=3.67°, Trend=0.984
+20:27:51.228 > 📊 ICM: ax=896, ay=-3692, az=15652 | Tilt=3.28°, Trend=0.983
+20:27:51.383 > ✓ Updated - Tilt: 3.49°, Trend: 0.992
+20:27:51.532 > 📊 ICM: ax=1012, ay=-3704, az=15680 | Tilt=3.69°, Trend=0.985
+20:27:51.857 > 📊 ICM: ax=976, ay=-3712, az=15700 | Tilt=3.56°, Trend=0.986
+20:27:51.857 > ✓ Updated - Tilt: 3.56°, Trend: 0.986
+20:27:52.071 > [248417][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:27:52.133 > 📊 ICM: ax=936, ay=-3652, az=15708 | Tilt=3.41°, Trend=0.986
+20:27:52.430 > ✓ Updated - Tilt: 3.73°, Trend: 0.987
+20:27:52.430 > 📊 ICM: ax=972, ay=-3672, az=15724 | Tilt=3.54°, Trend=0.987
+20:27:52.871 > 📊 ICM: ax=784, ay=-3596, az=15732 | Tilt=2.85°, Trend=0.986
+20:27:53.033 > ✓ Updated - Tilt: 3.80°, Trend: 0.989
+20:27:53.033 > 📊 ICM: ax=1008, ay=-3628, az=15684 | Tilt=3.68°, Trend=0.984
+20:27:53.330 > 📊 ICM: ax=1032, ay=-3640, az=15756 | Tilt=3.75°, Trend=0.989
+20:27:53.347 > ✓ Updated - Tilt: 3.75°, Trend: 0.989
+20:27:53.629 > 📊 ICM: ax=1024, ay=-3640, az=15640 | Tilt=3.75°, Trend=0.982
+20:27:53.871 > ✓ Updated - Tilt: 3.27°, Trend: 0.985
+20:27:54.235 > 📊 ICM: ax=988, ay=-3604, az=15692 | Tilt=3.60°, Trend=0.985
+20:27:54.357 > 📊 ICM: ax=924, ay=-3672, az=15692 | Tilt=3.37°, Trend=0.985
+20:27:54.357 > ✓ Updated - Tilt: 3.86°, Trend: 0.982
+20:27:54.833 > 📊 ICM: ax=988, ay=-3636, az=15724 | Tilt=3.60°, Trend=0.987
+20:27:54.833 > 📊 ICM: ax=924, ay=-3732, az=15656 | Tilt=3.38°, Trend=0.984
+20:27:54.885 > ✓ Updated - Tilt: 3.38°, Trend: 0.984
+20:27:55.131 > 📊 ICM: ax=1024, ay=-3564, az=15820 | Tilt=3.70°, Trend=0.992
+20:27:55.360 > ✓ Updated - Tilt: 3.71°, Trend: 0.986
+20:27:55.424 > 📊 ICM: ax=1012, ay=-3740, az=15732 | Tilt=3.68°, Trend=0.989
+20:27:55.836 > 📊 ICM: ax=992, ay=-3588, az=15688 | Tilt=3.62°, Trend=0.984
+20:27:56.033 > ✓ Updated - Tilt: 3.38°, Trend: 0.985
+20:27:56.033 > 📊 ICM: ax=1076, ay=-3724, az=15688 | Tilt=3.92°, Trend=0.986
+20:27:56.365 > 📊 ICM: ax=908, ay=-3520, az=15712 | Tilt=3.31°, Trend=0.984
+20:27:56.365 > ✓ Updated - Tilt: 3.31°, Trend: 0.984
+20:27:56.635 > 📊 ICM: ax=1104, ay=-3720, az=15688 | Tilt=4.03°, Trend=0.986
+20:27:56.845 > ✓ Updated - Tilt: 3.63°, Trend: 0.984
+20:27:57.227 > 📊 ICM: ax=980, ay=-3612, az=15704 | Tilt=3.57°, Trend=0.985
+20:27:57.227 > 📊 ICM: ax=944, ay=-3676, az=15772 | Tilt=3.43°, Trend=0.990
+20:27:57.371 > ✓ Updated - Tilt: 3.55°, Trend: 0.982
+20:27:57.834 > 📊 ICM: ax=916, ay=-3596, az=15684 | Tilt=3.34°, Trend=0.984
+20:27:57.834 > 📊 ICM: ax=1028, ay=-3724, az=15692 | Tilt=3.75°, Trend=0.986
+20:27:57.836 > ✓ Updated - Tilt: 3.75°, Trend: 0.986
+20:27:58.131 > 📊 ICM: ax=884, ay=-3528, az=15708 | Tilt=3.22°, Trend=0.984
+20:27:58.271 > [254617][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:27:58.376 > ✓ Updated - Tilt: 3.59°, Trend: 0.991
+20:27:58.727 > 📊 ICM: ax=996, ay=-3688, az=15684 | Tilt=3.63°, Trend=0.985
+20:27:58.736 > 📊 ICM: ax=1040, ay=-3656, az=15664 | Tilt=3.80°, Trend=0.984
+20:27:58.857 > ✓ Updated - Tilt: 3.61°, Trend: 0.983
+20:27:59.033 > 📊 ICM: ax=848, ay=-3660, az=15684 | Tilt=3.09°, Trend=0.984
+20:27:59.329 > 📊 ICM: ax=1000, ay=-3732, az=15700 | Tilt=3.64°, Trend=0.987
+20:27:59.336 > ✓ Updated - Tilt: 3.64°, Trend: 0.987
+20:27:59.631 > 📊 ICM: ax=1056, ay=-3660, az=15616 | Tilt=3.87°, Trend=0.981
+20:27:59.865 > ✓ Updated - Tilt: 3.69°, Trend: 0.985
+20:27:59.935 > 📊 ICM: ax=948, ay=-3512, az=15620 | Tilt=3.47°, Trend=0.979
+20:28:00.336 > 📊 ICM: ax=868, ay=-3656, az=15608 | Tilt=3.18°, Trend=0.980
+20:28:00.336 > ✓ Updated - Tilt: 3.48°, Trend: 0.985
+20:28:00.830 > 📊 ICM: ax=948, ay=-3836, az=15692 | Tilt=3.46°, Trend=0.988
+20:28:00.830 > 📊 ICM: ax=988, ay=-3696, az=15692 | Tilt=3.60°, Trend=0.986
+20:28:00.872 > ✓ Updated - Tilt: 3.60°, Trend: 0.986
+20:28:00.872 > [257217][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:28:01.358 > 📊 ICM: ax=940, ay=-3652, az=15664 | Tilt=3.43°, Trend=0.983
+20:28:01.358 > ✓ Updated - Tilt: 3.53°, Trend: 0.987
+20:28:01.671 > 📊 ICM: ax=964, ay=-3636, az=15644 | Tilt=3.53°, Trend=0.982
+20:28:01.674 > [258017][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:28:01.730 > 📊 ICM: ax=976, ay=-3652, az=15868 | Tilt=3.52°, Trend=0.996
+20:28:01.840 > ✓ Updated - Tilt: 3.92°, Trend: 0.987
+20:28:02.332 > 📊 ICM: ax=940, ay=-3700, az=15700 | Tilt=3.43°, Trend=0.986
+20:28:02.332 > 📊 ICM: ax=1028, ay=-3636, az=15736 | Tilt=3.74°, Trend=0.988
+20:28:02.365 > ✓ Updated - Tilt: 3.74°, Trend: 0.988
+20:28:02.471 > [258817][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:28:02.635 > 📊 ICM: ax=1080, ay=-3652, az=15712 | Tilt=3.93°, Trend=0.987
+20:28:02.845 > ✓ Updated - Tilt: 3.60°, Trend: 0.982
+20:28:03.231 > 📊 ICM: ax=924, ay=-3648, az=15720 | Tilt=3.36°, Trend=0.987
+20:28:03.379 > 📊 ICM: ax=988, ay=-3708, az=15676 | Tilt=3.61°, Trend=0.985
+20:28:03.379 > ✓ Updated - Tilt: 3.50°, Trend: 0.988
+20:28:03.533 > 📊 ICM: ax=1056, ay=-3728, az=15736 | Tilt=3.84°, Trend=0.989
+20:28:03.855 > 📊 ICM: ax=972, ay=-3672, az=15620 | Tilt=3.56°, Trend=0.981
+20:28:03.855 > ✓ Updated - Tilt: 3.56°, Trend: 0.981
+20:28:04.131 > 📊 ICM: ax=1036, ay=-3500, az=15648 | Tilt=3.79°, Trend=0.981
+20:28:04.384 > ✓ Updated - Tilt: 3.54°, Trend: 0.982
+20:28:04.429 > 📊 ICM: ax=1072, ay=-3692, az=15720 | Tilt=3.90°, Trend=0.988
+20:28:04.859 > 📊 ICM: ax=992, ay=-3660, az=15732 | Tilt=3.61°, Trend=0.988
+20:28:04.859 > ✓ Updated - Tilt: 3.34°, Trend: 0.985
+20:28:05.030 > 📊 ICM: ax=960, ay=-3628, az=15704 | Tilt=3.50°, Trend=0.985
+20:28:05.336 > 📊 ICM: ax=928, ay=-3568, az=15660 | Tilt=3.39°, Trend=0.982
+20:28:05.336 > ✓ Updated - Tilt: 3.39°, Trend: 0.982
+20:28:05.860 > 📊 ICM: ax=992, ay=-3520, az=15732 | Tilt=3.61°, Trend=0.986
+20:28:05.860 > ✓ Updated - Tilt: 4.92°, Trend: 0.975
+20:28:05.935 > 📊 ICM: ax=1056, ay=-3924, az=15596 | Tilt=3.87°, Trend=0.984
+20:28:06.228 > 📊 ICM: ax=1084, ay=-3860, az=15668 | Tilt=3.96°, Trend=0.987
+20:28:06.339 > ✓ Updated - Tilt: 3.00°, Trend: 0.987
+20:28:06.533 > 📊 ICM: ax=1004, ay=-3624, az=15660 | Tilt=3.67°, Trend=0.983
+20:28:06.835 > 📊 ICM: ax=1164, ay=-3808, az=15592 | Tilt=4.27°, Trend=0.982
+20:28:06.872 > ✓ Updated - Tilt: 4.27°, Trend: 0.982
+20:28:06.872 > [263217][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:28:07.354 > 📊 ICM: ax=984, ay=-3836, az=15568 | Tilt=3.62°, Trend=0.980
+20:28:07.354 > ✓ Updated - Tilt: 3.58°, Trend: 0.985
+20:28:07.429 > 📊 ICM: ax=1076, ay=-3724, az=15660 | Tilt=3.93°, Trend=0.985
+20:28:07.733 > 📊 ICM: ax=948, ay=-3476, az=15732 | Tilt=3.45°, Trend=0.985
+20:28:07.883 > ✓ Updated - Tilt: 3.88°, Trend: 0.986
+20:28:08.331 > 📊 ICM: ax=896, ay=-3508, az=15860 | Tilt=3.23°, Trend=0.993
+20:28:08.336 > 📊 ICM: ax=1120, ay=-3824, az=15596 | Tilt=4.11°, Trend=0.982
+20:28:08.362 > ✓ Updated - Tilt: 4.11°, Trend: 0.982
+20:28:08.628 > 📊 ICM: ax=1088, ay=-3604, az=15768 | Tilt=3.95°, Trend=0.989
+20:28:08.934 > ✓ Updated - Tilt: 3.47°, Trend: 0.987
+20:28:08.941 > 📊 ICM: ax=1052, ay=-3788, az=15688 | Tilt=3.84°, Trend=0.987
+20:28:09.360 > 📊 ICM: ax=984, ay=-3616, az=15692 | Tilt=3.59°, Trend=0.985
+20:28:09.360 > ✓ Updated - Tilt: 3.95°, Trend: 0.986
+20:28:09.832 > 📊 ICM: ax=988, ay=-3720, az=15656 | Tilt=3.61°, Trend=0.984
+20:28:09.840 > 📊 ICM: ax=928, ay=-3780, az=15736 | Tilt=3.37°, Trend=0.989
+20:28:09.840 > ✓ Updated - Tilt: 3.37°, Trend: 0.989
+20:28:10.370 > 📊 ICM: ax=992, ay=-3704, az=15692 | Tilt=3.62°, Trend=0.986
+20:28:10.435 > ✓ Updated - Tilt: 3.51°, Trend: 0.985
+20:28:10.436 > 📊 ICM: ax=1052, ay=-3816, az=15716 | Tilt=3.83°, Trend=0.989
+20:28:10.694 > [267037][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:28:10.728 > 📊 ICM: ax=1072, ay=-3708, az=15764 | Tilt=3.89°, Trend=0.991
+20:28:10.854 > ✓ Updated - Tilt: 4.00°, Trend: 0.989
+20:28:11.029 > 📊 ICM: ax=868, ay=-3616, az=15720 | Tilt=3.16°, Trend=0.986
+20:28:11.331 > 📊 ICM: ax=1092, ay=-3660, az=15672 | Tilt=3.99°, Trend=0.985
+20:28:11.381 > ✓ Updated - Tilt: 3.99°, Trend: 0.985
+20:28:11.861 > 📊 ICM: ax=860, ay=-3672, az=15712 | Tilt=3.13°, Trend=0.986
+20:28:11.861 > ✓ Updated - Tilt: 3.48°, Trend: 0.991
+20:28:11.923 > 📊 ICM: ax=832, ay=-3616, az=15704 | Tilt=3.03°, Trend=0.985
+20:28:12.232 > 📊 ICM: ax=1164, ay=-3780, az=15628 | Tilt=4.26°, Trend=0.984
+20:28:12.336 > ✓ Updated - Tilt: 3.58°, Trend: 0.981
+20:28:12.833 > 📊 ICM: ax=100, ay=-3776, az=15524 | Tilt=0.37°, Trend=0.975
+20:28:12.833 > 📊 ICM: ax=600, ay=-3344, az=16052 | Tilt=2.14°, Trend=1.001
+20:28:12.866 > ✓ Updated - Tilt: 2.14°, Trend: 1.001
+20:28:13.128 > 📊 ICM: ax=1160, ay=-3720, az=15644 | Tilt=4.24°, Trend=0.984
+20:28:13.341 > ✓ Updated - Tilt: 3.37°, Trend: 0.985
+20:28:13.349 > [269692][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:28:13.429 > 📊 ICM: ax=1144, ay=-3728, az=15648 | Tilt=4.18°, Trend=0.984
+20:28:13.729 > 📊 ICM: ax=1016, ay=-3784, az=15712 | Tilt=3.70°, Trend=0.988
+20:28:14.030 > ✓ Updated - Tilt: 3.76°, Trend: 0.985
+20:28:14.036 > 📊 ICM: ax=964, ay=-3588, az=15688 | Tilt=3.52°, Trend=0.984
+20:28:14.329 > 📊 ICM: ax=1048, ay=-3684, az=15624 | Tilt=3.84°, Trend=0.982
+20:28:14.336 > ✓ Updated - Tilt: 3.84°, Trend: 0.982
+20:28:14.398 > [270743][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:28:14.633 > 📊 ICM: ax=908, ay=-3692, az=15664 | Tilt=3.32°, Trend=0.984
+20:28:14.876 > ✓ Updated - Tilt: 3.94°, Trend: 0.987
+20:28:14.933 > 📊 ICM: ax=1036, ay=-3612, az=15752 | Tilt=3.76°, Trend=0.988
+20:28:15.187 > [271543][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:28:15.364 > 📊 ICM: ax=976, ay=-3660, az=15676 | Tilt=3.56°, Trend=0.984
+20:28:15.364 > ✓ Updated - Tilt: 3.27°, Trend: 0.984
+20:28:15.533 > 📊 ICM: ax=1000, ay=-3604, az=15716 | Tilt=3.64°, Trend=0.986
+20:28:15.836 > 📊 ICM: ax=944, ay=-3752, az=15708 | Tilt=3.44°, Trend=0.987
+20:28:16.131 > ✓ Updated - Tilt: 3.44°, Trend: 0.987
+20:28:16.136 > 📊 ICM: ax=968, ay=-3596, az=15784 | Tilt=3.51°, Trend=0.990
+20:28:16.366 > ✓ Updated - Tilt: 3.61°, Trend: 0.988
+20:28:16.423 > 📊 ICM: ax=1040, ay=-3684, az=15652 | Tilt=3.80°, Trend=0.983
+20:28:16.728 > 📊 ICM: ax=1012, ay=-3952, az=15396 | Tilt=3.76°, Trend=0.972
+20:28:16.890 > [273243][E][Wire.cpp:513] requestFrom(): i2cRead returned Error ✓ Updated - Tilt: 4.43°, Trend: 0.981
+20:28:16.890 > -1
+20:28:17.033 > 📊 ICM: ax=684, ay=-3324, az=15956 | Tilt=2.45°, Trend=0.996
+20:28:17.331 > 📊 ICM: ax=1028, ay=-3672, az=15556 | Tilt=3.78°, Trend=0.978
+20:28:17.374 > ✓ Updated - Tilt: 3.78°, Trend: 0.978
+20:28:17.374 > [273723][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:28:17.628 > 📊 ICM: ax=1008, ay=-3660, az=15748 | Tilt=3.66°, Trend=0.989
+20:28:17.858 > ✓ Updated - Tilt: 3.36°, Trend: 0.982
+20:28:17.932 > 📊 ICM: ax=996, ay=-3656, az=15672 | Tilt=3.64°, Trend=0.984
+20:28:18.228 > 📊 ICM: ax=1028, ay=-3760, az=15512 | Tilt=3.79°, Trend=0.976
+20:28:18.340 > ✓ Updated - Tilt: 3.23°, Trend: 0.983
+20:28:18.533 > 📊 ICM: ax=1016, ay=-3748, az=15672 | Tilt=3.71°, Trend=0.985
+20:28:18.834 > 📊 ICM: ax=968, ay=-3596, az=15704 | Tilt=3.53°, Trend=0.985
+20:28:18.867 > ✓ Updated - Tilt: 3.53°, Trend: 0.985
+20:28:19.336 > 📊 ICM: ax=936, ay=-3712, az=15780 | Tilt=3.39°, Trend=0.991
+20:28:19.336 > ✓ Updated - Tilt: 3.58°, Trend: 0.988
+20:28:19.396 > [275743][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:28:19.736 > 📊 ICM: ax=1004, ay=-3552, az=15664 | Tilt=3.67°, Trend=0.982
+20:28:19.736 > 📊 ICM: ax=1032, ay=-3688, az=15748 | Tilt=3.75°, Trend=0.989
+20:28:20.036 > ✓ Updated - Tilt: 3.64°, Trend: 0.982
+20:28:20.036 > 📊 ICM: ax=964, ay=-3708, az=15716 | Tilt=3.51°, Trend=0.987
+20:28:20.197 > [276543][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:28:20.358 > 📊 ICM: ax=868, ay=-3632, az=15560 | Tilt=3.19°, Trend=0.977
+20:28:20.358 > ✓ Updated - Tilt: 3.19°, Trend: 0.977
+20:28:20.630 > 📊 ICM: ax=1084, ay=-3728, az=15668 | Tilt=3.96°, Trend=0.985
+20:28:20.836 > ✓ Updated - Tilt: 3.14°, Trend: 0.987
+20:28:21.230 > 📊 ICM: ax=916, ay=-3732, az=15740 | Tilt=3.33°, Trend=0.989
+20:28:21.368 > 📊 ICM: ax=992, ay=-3692, az=15744 | Tilt=3.61°, Trend=0.989
+20:28:21.368 > ✓ Updated - Tilt: 3.64°, Trend: 0.984
+20:28:21.531 > 📊 ICM: ax=1084, ay=-3708, az=15696 | Tilt=3.95°, Trend=0.987
+20:28:21.831 > 📊 ICM: ax=1016, ay=-3632, az=15688 | Tilt=3.71°, Trend=0.985
+20:28:21.839 > ✓ Updated - Tilt: 3.71°, Trend: 0.985
+20:28:21.894 > [278243][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:28:22.379 > 📊 ICM: ax=980, ay=-3664, az=15604 | Tilt=3.59°, Trend=0.980
+20:28:22.435 > ✓ Updated - Tilt: 3.37°, Trend: 0.989
+20:28:22.435 > 📊 ICM: ax=996, ay=-3604, az=15640 | Tilt=3.64°, Trend=0.981
+20:28:22.729 > 📊 ICM: ax=1092, ay=-3836, az=15664 | Tilt=3.99°, Trend=0.987
+20:28:22.851 > ✓ Updated - Tilt: 3.61°, Trend: 0.987
+20:28:23.277 > 📊 ICM: ax=956, ay=-3708, az=15848 | Tilt=3.45°, Trend=0.995
+20:28:23.277 > [279623][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:28:23.333 > 📊 ICM: ax=944, ay=-3824, az=15588 | Tilt=3.47°, Trend=0.981
+20:28:23.630 > ✓ Updated - Tilt: 3.47°, Trend: 0.981
+20:28:23.630 > 📊 ICM: ax=1208, ay=-3768, az=15716 | Tilt=4.40°, Trend=0.989
+20:28:23.869 > ✓ Updated - Tilt: 3.10°, Trend: 0.986
+20:28:23.934 > 📊 ICM: ax=880, ay=-3584, az=15804 | Tilt=3.19°, Trend=0.991
+20:28:24.076 > [280423][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:28:24.345 > 📊 ICM: ax=944, ay=-3752, az=15604 | Tilt=3.46°, Trend=0.981
+20:28:24.345 > ✓ Updated - Tilt: 3.84°, Trend: 0.986
+20:28:24.830 > 📊 ICM: ax=976, ay=-3560, az=15804 | Tilt=3.53°, Trend=0.991
+20:28:24.836 > 📊 ICM: ax=1024, ay=-3668, az=15792 | Tilt=3.71°, Trend=0.991
+20:28:24.879 > ✓ Updated - Tilt: 3.71°, Trend: 0.991
+20:28:25.132 > 📊 ICM: ax=1012, ay=-3752, az=15736 | Tilt=3.68°, Trend=0.989
+20:28:25.356 > ✓ Updated - Tilt: 3.08°, Trend: 0.983
+20:28:25.735 > 📊 ICM: ax=960, ay=-3752, az=15680 | Tilt=3.50°, Trend=0.986
+20:28:25.736 > 📊 ICM: ax=992, ay=-3676, az=15728 | Tilt=3.61°, Trend=0.988
+20:28:25.882 > ✓ Updated - Tilt: 2.79°, Trend: 0.980
+20:28:26.334 > 📊 ICM: ax=852, ay=-3564, az=15732 | Tilt=3.10°, Trend=0.986
+20:28:26.336 > 📊 ICM: ax=1104, ay=-3808, az=15644 | Tilt=4.04°, Trend=0.985
+20:28:26.362 > ✓ Updated - Tilt: 4.04°, Trend: 0.985
+20:28:26.634 > 📊 ICM: ax=700, ay=-3504, az=15788 | Tilt=2.54°, Trend=0.988
+20:28:26.837 > ✓ Updated - Tilt: 1.14°, Trend: 0.975
+20:28:26.999 > 📊 ICM: ax=828, ay=-3112, az=16056 | Tilt=2.95°, Trend=0.999
+20:28:26.999 > [283343][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:28:27.229 > 📊 ICM: ax=1076, ay=-3876, az=15644 | Tilt=3.93°, Trend=0.986
+20:28:27.480 > [283823][E][Wire.cpp:513] requestFrom(): i2cRead returned Error ✓ Updated - Tilt: 3.60°, Trend: 0.986
+20:28:27.480 > -1
+20:28:27.535 > 📊 ICM: ax=964, ay=-3644, az=15792 | Tilt=3.49°, Trend=0.991
+20:28:27.833 > 📊 ICM: ax=1008, ay=-3820, az=15652 | Tilt=3.68°, Trend=0.985
+20:28:27.856 > ✓ Updated - Tilt: 3.68°, Trend: 0.985
+20:28:28.129 > 📊 ICM: ax=1080, ay=-3632, az=15656 | Tilt=3.95°, Trend=0.983
+20:28:28.385 > ✓ Updated - Tilt: 3.78°, Trend: 0.991
+20:28:28.435 > 📊 ICM: ax=1056, ay=-3672, az=15656 | Tilt=3.86°, Trend=0.984
+20:28:28.599 > [284943][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:28:28.734 > 📊 ICM: ax=1088, ay=-3580, az=15716 | Tilt=3.96°, Trend=0.986
+20:28:28.869 > ✓ Updated - Tilt: 3.68°, Trend: 0.987
+20:28:29.335 > 📊 ICM: ax=936, ay=-3612, az=15664 | Tilt=3.42°, Trend=0.983
+20:28:29.335 > 📊 ICM: ax=852, ay=-3432, az=15644 | Tilt=3.12°, Trend=0.979
+20:28:29.346 > ✓ Updated - Tilt: 3.12°, Trend: 0.979
+20:28:29.388 > [285743][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:28:29.878 > 📊 ICM: ax=832, ay=-3536, az=15660 | Tilt=3.04°, Trend=0.981
+20:28:29.878 > ✓ Updated - Tilt: 4.25°, Trend: 0.986
+20:28:29.932 > 📊 ICM: ax=1028, ay=-3776, az=15620 | Tilt=3.77°, Trend=0.983
+20:28:30.354 > 📊 ICM: ax=896, ay=-3572, az=15704 | Tilt=3.27°, Trend=0.984
+20:28:30.354 > ✓ Updated - Tilt: 4.11°, Trend: 0.981
+20:28:30.532 > 📊 ICM: ax=1012, ay=-3596, az=15708 | Tilt=3.69°, Trend=0.985
+20:28:30.774 > [287123][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:28:30.838 > 📊 ICM: ax=988, ay=-3608, az=15776 | Tilt=3.58°, Trend=0.990
+20:28:30.838 > ✓ Updated - Tilt: 3.58°, Trend: 0.990
+20:28:31.360 > 📊 ICM: ax=952, ay=-3580, az=15712 | Tilt=3.47°, Trend=0.985
+20:28:31.370 > ✓ Updated - Tilt: 4.28°, Trend: 0.985
+20:28:31.735 > 📊 ICM: ax=788, ay=-3616, az=15732 | Tilt=2.87°, Trend=0.986
+20:28:31.836 > 📊 ICM: ax=976, ay=-3576, az=15720 | Tilt=3.55°, Trend=0.986
+20:28:32.036 > ✓ Updated - Tilt: 3.84°, Trend: 0.985
+20:28:32.036 > 📊 ICM: ax=1012, ay=-3736, az=15704 | Tilt=3.69°, Trend=0.987
+20:28:32.329 > 📊 ICM: ax=1048, ay=-3676, az=15676 | Tilt=3.82°, Trend=0.985
+20:28:32.371 > ✓ Updated - Tilt: 3.82°, Trend: 0.985
+20:28:32.629 > 📊 ICM: ax=1124, ay=-3612, az=15696 | Tilt=4.10°, Trend=0.985
+20:28:32.851 > ✓ Updated - Tilt: 3.83°, Trend: 0.982
+20:28:32.932 > 📊 ICM: ax=1088, ay=-3712, az=15648 | Tilt=3.98°, Trend=0.984
+20:28:33.377 > 📊 ICM: ax=892, ay=-3692, az=15676 | Tilt=3.26°, Trend=0.984
+20:28:33.534 > ✓ Updated - Tilt: 3.82°, Trend: 0.984
+20:28:33.534 > 📊 ICM: ax=1068, ay=-3612, az=15740 | Tilt=3.88°, Trend=0.988
+20:28:33.856 > 📊 ICM: ax=900, ay=-3732, az=15732 | Tilt=3.27°, Trend=0.988
+20:28:33.856 > ✓ Updated - Tilt: 3.27°, Trend: 0.988
+20:28:34.133 > 📊 ICM: ax=1180, ay=-3680, az=15684 | Tilt=4.30°, Trend=0.986
+20:28:34.378 > ✓ Updated - Tilt: 3.51°, Trend: 0.980
+20:28:34.436 > 📊 ICM: ax=896, ay=-3716, az=15756 | Tilt=3.25°, Trend=0.990
+20:28:34.858 > 📊 ICM: ax=900, ay=-3596, az=15716 | Tilt=3.28°, Trend=0.986
+20:28:34.858 > ✓ Updated - Tilt: 3.52°, Trend: 0.986
+20:28:35.036 > 📊 ICM: ax=1028, ay=-3692, az=15656 | Tilt=3.76°, Trend=0.984
+20:28:35.331 > 📊 ICM: ax=876, ay=-3644, az=15732 | Tilt=3.19°, Trend=0.987
+20:28:35.633 > ✓ Updated - Tilt: 3.19°, Trend: 0.987
+20:28:35.636 > 📊 ICM: ax=1100, ay=-3728, az=15708 | Tilt=4.01°, Trend=0.988
+20:28:35.866 > ✓ Updated - Tilt: 3.60°, Trend: 0.982
+20:28:36.236 > 📊 ICM: ax=960, ay=-3536, az=15716 | Tilt=3.50°, Trend=0.985
+20:28:36.236 > 📊 ICM: ax=1176, ay=-3668, az=15664 | Tilt=4.29°, Trend=0.985
+20:28:36.345 > ✓ Updated - Tilt: 3.62°, Trend: 0.986
+20:28:36.396 > [292743][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:28:36.831 > 📊 ICM: ax=980, ay=-3660, az=15652 | Tilt=3.58°, Trend=0.983
+20:28:36.879 > 📊 ICM: ax=828, ay=-3616, az=15648 | Tilt=3.03°, Trend=0.982
+20:28:36.879 > ✓ Updated - Tilt: 3.03°, Trend: 0.982
+20:28:37.350 > 📊 ICM: ax=988, ay=-3668, az=15564 | Tilt=3.63°, Trend=0.978
+20:28:37.358 > ✓ Updated - Tilt: 3.32°, Trend: 0.984
+20:28:37.436 > 📊 ICM: ax=1048, ay=-3756, az=15648 | Tilt=3.83°, Trend=0.984
+20:28:37.881 > 📊 ICM: ax=840, ay=-3616, az=15644 | Tilt=3.07°, Trend=0.981
+20:28:37.886 > ✓ Updated - Tilt: 3.56°, Trend: 0.984
+20:28:38.029 > 📊 ICM: ax=1064, ay=-3724, az=15656 | Tilt=3.89°, Trend=0.984
+20:28:38.095 > [294443][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:28:38.365 > 📊 ICM: ax=948, ay=-3708, az=15656 | Tilt=3.47°, Trend=0.984
+20:28:38.370 > ✓ Updated - Tilt: 3.47°, Trend: 0.984
+20:28:38.577 > [294923][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:28:38.633 > 📊 ICM: ax=1000, ay=-3684, az=15680 | Tilt=3.65°, Trend=0.985
+20:28:38.851 > ✓ Updated - Tilt: 3.93°, Trend: 0.986
+20:28:39.235 > 📊 ICM: ax=964, ay=-3648, az=15648 | Tilt=3.53°, Trend=0.982
+20:28:39.375 > 📊 ICM: ax=980, ay=-3636, az=15636 | Tilt=3.59°, Trend=0.982
+20:28:39.375 > ✓ Updated - Tilt: 3.68°, Trend: 0.986
+20:28:39.536 > 📊 ICM: ax=972, ay=-3712, az=15704 | Tilt=3.54°, Trend=0.987
+20:28:39.700 > [296043][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:28:39.836 > 📊 ICM: ax=1036, ay=-3620, az=15676 | Tilt=3.78°, Trend=0.984
+20:28:39.862 > ✓ Updated - Tilt: 3.78°, Trend: 0.984
+20:28:40.336 > 📊 ICM: ax=992, ay=-3608, az=15648 | Tilt=3.63°, Trend=0.982
+20:28:40.336 > ✓ Updated - Tilt: 3.63°, Trend: 0.982
+20:28:40.435 > 📊 ICM: ax=1028, ay=-3708, az=15692 | Tilt=3.75°, Trend=0.986
+20:28:40.870 > 📊 ICM: ax=960, ay=-3704, az=15700 | Tilt=3.50°, Trend=0.986
+20:28:40.870 > ✓ Updated - Tilt: 3.50°, Trend: 0.985
+20:28:41.328 > 📊 ICM: ax=936, ay=-3640, az=15656 | Tilt=3.42°, Trend=0.983
+20:28:41.336 > 📊 ICM: ax=1060, ay=-3700, az=15564 | Tilt=3.90°, Trend=0.979
+20:28:41.336 > ✓ Updated - Tilt: 3.90°, Trend: 0.979
+20:28:41.390 > [297743][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:28:41.872 > 📊 ICM: ax=944, ay=-3636, az=15580 | Tilt=3.47°, Trend=0.978
+20:28:41.880 > ✓ Updated - Tilt: 3.58°, Trend: 0.980
+20:28:41.936 > 📊 ICM: ax=1048, ay=-3728, az=15608 | Tilt=3.84°, Trend=0.982
+20:28:42.229 > 📊 ICM: ax=1000, ay=-3716, az=15664 | Tilt=3.65°, Trend=0.984
+20:28:42.353 > ✓ Updated - Tilt: 3.42°, Trend: 0.979
+20:28:42.836 > 📊 ICM: ax=992, ay=-3676, az=15704 | Tilt=3.61°, Trend=0.986
+20:28:42.836 > 📊 ICM: ax=1064, ay=-3692, az=15560 | Tilt=3.91°, Trend=0.978
+20:28:42.873 > ✓ Updated - Tilt: 3.91°, Trend: 0.978
+20:28:43.356 > 📊 ICM: ax=932, ay=-3728, az=15636 | Tilt=3.41°, Trend=0.983
+20:28:43.428 > ✓ Updated - Tilt: 3.66°, Trend: 0.988
+20:28:43.436 > 📊 ICM: ax=956, ay=-3668, az=15628 | Tilt=3.50°, Trend=0.982
+20:28:43.879 > 📊 ICM: ax=916, ay=-3620, az=15716 | Tilt=3.34°, Trend=0.986
+20:28:43.879 > ✓ Updated - Tilt: 3.49°, Trend: 0.984
+20:28:44.095 > 📊 ICM: ax=940, ay=-3716, az=15704 | Tilt=3.43°, Trend=0.987
+20:28:44.095 > [300443][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:28:44.369 > 📊 ICM: ax=920, ay=-3672, az=15644 | Tilt=3.37°, Trend=0.982
+20:28:44.395 > ✓ Updated - Tilt: 3.37°, Trend: 0.982
+20:28:44.633 > 📊 ICM: ax=1048, ay=-3660, az=15664 | Tilt=3.83°, Trend=0.984
+20:28:44.836 > ✓ Updated - Tilt: 3.46°, Trend: 0.986
+20:28:44.897 > [301243][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:28:45.235 > 📊 ICM: ax=944, ay=-3564, az=15640 | Tilt=3.45°, Trend=0.981
+20:28:45.235 > 📊 ICM: ax=1060, ay=-3688, az=15608 | Tilt=3.89°, Trend=0.981
+20:28:45.528 > ✓ Updated - Tilt: 3.92°, Trend: 0.987
+20:28:45.536 > 📊 ICM: ax=932, ay=-3616, az=15712 | Tilt=3.39°, Trend=0.986
+20:28:45.854 > 📊 ICM: ax=992, ay=-3660, az=15696 | Tilt=3.62°, Trend=0.986
+20:28:45.854 > ✓ Updated - Tilt: 3.62°, Trend: 0.986
+20:28:46.273 > 📊 ICM: ax=952, ay=-3736, az=15680 | Tilt=3.47°, Trend=0.986
+20:28:46.273 > [302623][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:28:46.340 > ✓ Updated - Tilt: 3.85°, Trend: 0.986
+20:28:46.436 > 📊 ICM: ax=1020, ay=-3756, az=15684 | Tilt=3.72°, Trend=0.986
+20:28:46.736 > 📊 ICM: ax=1008, ay=-3608, az=15660 | Tilt=3.68°, Trend=0.983
+20:28:47.032 > ✓ Updated - Tilt: 3.34°, Trend: 0.986
+20:28:47.032 > 📊 ICM: ax=1008, ay=-3636, az=15720 | Tilt=3.67°, Trend=0.987
+20:28:47.333 > 📊 ICM: ax=928, ay=-3680, az=15676 | Tilt=3.39°, Trend=0.984
+20:28:47.341 > ✓ Updated - Tilt: 3.39°, Trend: 0.984
+20:28:47.398 > [303743][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:28:47.878 > 📊 ICM: ax=976, ay=-3608, az=15644 | Tilt=3.57°, Trend=0.982
+20:28:47.878 > ✓ Updated - Tilt: 3.70°, Trend: 0.983
+20:28:48.236 > 📊 ICM: ax=904, ay=-3616, az=15672 | Tilt=3.30°, Trend=0.983
+20:28:48.236 > 📊 ICM: ax=996, ay=-3600, az=15640 | Tilt=3.64°, Trend=0.981
+20:28:48.536 > ✓ Updated - Tilt: 3.48°, Trend: 0.983
+20:28:48.537 > 📊 ICM: ax=988, ay=-3648, az=15640 | Tilt=3.61°, Trend=0.982
+20:28:48.886 > 📊 ICM: ax=988, ay=-3712, az=15740 | Tilt=3.59°, Trend=0.989
+20:28:48.886 > ✓ Updated - Tilt: 3.59°, Trend: 0.989
+20:28:49.130 > 📊 ICM: ax=1140, ay=-3720, az=15700 | Tilt=4.15°, Trend=0.987
+20:28:49.364 > ✓ Updated - Tilt: 3.50°, Trend: 0.988
+20:28:49.732 > 📊 ICM: ax=928, ay=-3596, az=15784 | Tilt=3.36°, Trend=0.990
+20:28:49.732 > 📊 ICM: ax=1012, ay=-3672, az=15696 | Tilt=3.69°, Trend=0.986
+20:28:49.838 > ✓ Updated - Tilt: 3.82°, Trend: 0.978
+20:28:49.994 > [306343][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:28:50.332 > 📊 ICM: ax=944, ay=-3720, az=15708 | Tilt=3.44°, Trend=0.987
+20:28:50.332 > 📊 ICM: ax=1008, ay=-3768, az=15700 | Tilt=3.67°, Trend=0.987
+20:28:50.373 > ✓ Updated - Tilt: 3.67°, Trend: 0.987
+20:28:50.633 > 📊 ICM: ax=1084, ay=-3604, az=15692 | Tilt=3.95°, Trend=0.985
+20:28:50.929 > ✓ Updated - Tilt: 3.73°, Trend: 0.982
+20:28:50.929 > 📊 ICM: ax=928, ay=-3628, az=15784 | Tilt=3.36°, Trend=0.990
+20:28:51.378 > 📊 ICM: ax=964, ay=-3716, az=15664 | Tilt=3.52°, Trend=0.984
+20:28:51.378 > ✓ Updated - Tilt: 3.64°, Trend: 0.985
+20:28:51.529 > 📊 ICM: ax=1048, ay=-3708, az=15684 | Tilt=3.82°, Trend=0.986
+20:28:51.856 > 📊 ICM: ax=964, ay=-3676, az=15664 | Tilt=3.52°, Trend=0.984
+20:28:51.856 > ✓ Updated - Tilt: 3.52°, Trend: 0.984
+20:28:52.381 > 📊 ICM: ax=936, ay=-3620, az=15764 | Tilt=3.40°, Trend=0.989
+20:28:52.428 > ✓ Updated - Tilt: 3.85°, Trend: 0.989
+20:28:52.436 > 📊 ICM: ax=1096, ay=-3624, az=15712 | Tilt=3.99°, Trend=0.986
+20:28:52.601 > [308943][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:28:52.736 > 📊 ICM: ax=1028, ay=-3684, az=15720 | Tilt=3.74°, Trend=0.987
+20:28:52.870 > ✓ Updated - Tilt: 4.39°, Trend: 0.983
+20:28:53.333 > 📊 ICM: ax=776, ay=-3808, az=15720 | Tilt=2.83°, Trend=0.988
+20:28:53.336 > 📊 ICM: ax=932, ay=-3612, az=15740 | Tilt=3.39°, Trend=0.987
+20:28:53.336 > ✓ Updated - Tilt: 3.39°, Trend: 0.987
+20:28:53.874 > 📊 ICM: ax=996, ay=-3688, az=15608 | Tilt=3.65°, Trend=0.981
+20:28:53.874 > ✓ Updated - Tilt: 3.36°, Trend: 0.982
+20:28:53.936 > 📊 ICM: ax=1076, ay=-3740, az=15576 | Tilt=3.95°, Trend=0.980
+20:28:54.236 > 📊 ICM: ax=992, ay=-3692, az=15608 | Tilt=3.64°, Trend=0.981
+20:28:54.350 > ✓ Updated - Tilt: 3.75°, Trend: 0.987
+20:28:54.835 > 📊 ICM: ax=960, ay=-3616, az=15740 | Tilt=3.49°, Trend=0.987
+20:28:54.876 > 📊 ICM: ax=884, ay=-3656, az=15736 | Tilt=3.22°, Trend=0.988
+20:28:54.876 > ✓ Updated - Tilt: 3.22°, Trend: 0.988
+20:28:55.136 > 📊 ICM: ax=1088, ay=-3660, az=15608 | Tilt=3.99°, Trend=0.981
+20:28:55.355 > ✓ Updated - Tilt: 3.21°, Trend: 0.988
+20:28:55.436 > 📊 ICM: ax=1028, ay=-3652, az=15648 | Tilt=3.76°, Trend=0.983
+20:28:55.736 > 📊 ICM: ax=1028, ay=-3692, az=15696 | Tilt=3.75°, Trend=0.986
+20:28:55.885 > ✓ Updated - Tilt: 3.66°, Trend: 0.988
+20:28:56.036 > 📊 ICM: ax=980, ay=-3732, az=15732 | Tilt=3.56°, Trend=0.989
+20:28:56.358 > 📊 ICM: ax=976, ay=-3768, az=15684 | Tilt=3.56°, Trend=0.986
+20:28:56.358 > ✓ Updated - Tilt: 3.56°, Trend: 0.986
+20:28:56.836 > 📊 ICM: ax=936, ay=-3600, az=15712 | Tilt=3.41°, Trend=0.985
+20:28:56.836 > ✓ Updated - Tilt: 4.33°, Trend: 0.986
+20:28:57.236 > 📊 ICM: ax=932, ay=-3672, az=15644 | Tilt=3.41°, Trend=0.982
+20:28:57.237 > 📊 ICM: ax=1076, ay=-3684, az=15752 | Tilt=3.91°, Trend=0.990
+20:28:57.370 > ✓ Updated - Tilt: 4.16°, Trend: 0.990
+20:28:57.829 > 📊 ICM: ax=944, ay=-3676, az=15780 | Tilt=3.42°, Trend=0.991
+20:28:57.836 > 📊 ICM: ax=976, ay=-3700, az=15692 | Tilt=3.56°, Trend=0.986
+20:28:57.845 > ✓ Updated - Tilt: 3.56°, Trend: 0.986
+20:28:58.130 > 📊 ICM: ax=1104, ay=-3700, az=15676 | Tilt=4.03°, Trend=0.985
+20:28:58.432 > ✓ Updated - Tilt: 3.63°, Trend: 0.987
+20:28:58.432 > 📊 ICM: ax=1032, ay=-3672, az=15760 | Tilt=3.75°, Trend=0.990
+20:28:58.849 > 📊 ICM: ax=976, ay=-3632, az=15712 | Tilt=3.55°, Trend=0.986
+20:28:58.853 > ✓ Updated - Tilt: 3.62°, Trend: 0.984
+20:28:59.036 > 📊 ICM: ax=1016, ay=-3724, az=15724 | Tilt=3.70°, Trend=0.988
+20:28:59.378 > 📊 ICM: ax=916, ay=-3580, az=15720 | Tilt=3.33°, Trend=0.986
+20:28:59.378 > ✓ Updated - Tilt: 3.33°, Trend: 0.986
+20:28:59.378 > [315723][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:28:59.858 > 📊 ICM: ax=780, ay=-3788, az=15724 | Tilt=2.84°, Trend=0.988
+20:28:59.866 > ✓ Updated - Tilt: 3.31°, Trend: 0.989
+20:28:59.936 > 📊 ICM: ax=1188, ay=-3648, az=15724 | Tilt=4.32°, Trend=0.988
+20:29:00.174 > [316523][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:29:00.237 > 📊 ICM: ax=1012, ay=-3656, az=15680 | Tilt=3.69°, Trend=0.985
+20:29:00.537 > ✓ Updated - Tilt: 4.05°, Trend: 0.985
+20:29:00.537 > 📊 ICM: ax=988, ay=-3688, az=15660 | Tilt=3.61°, Trend=0.984
+20:29:00.836 > 📊 ICM: ax=1052, ay=-3732, az=15720 | Tilt=3.83°, Trend=0.988
+20:29:00.873 > ✓ Updated - Tilt: 3.83°, Trend: 0.988
+20:29:01.301 > [317643][E][Wire.cpp:513] requestFrom(): i2cRead returned Error 📊 ICM: ax=816, ay=-3672, az=15756 | Tilt=2.96°, Trend=0.989
+20:29:01.301 > -1
+20:29:01.356 > ✓ Updated - Tilt: 3.65°, Trend: 0.986
+20:29:01.436 > 📊 ICM: ax=1044, ay=-3720, az=15696 | Tilt=3.81°, Trend=0.987
+20:29:01.737 > 📊 ICM: ax=1152, ay=-3744, az=15660 | Tilt=4.21°, Trend=0.985
+20:29:01.887 > ✓ Updated - Tilt: 2.58°, Trend: 0.984
+20:29:02.036 > 📊 ICM: ax=1056, ay=-3796, az=15672 | Tilt=3.85°, Trend=0.986
+20:29:02.101 > [318443][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:29:02.370 > 📊 ICM: ax=980, ay=-3660, az=15664 | Tilt=3.58°, Trend=0.984
+20:29:02.370 > ✓ Updated - Tilt: 3.58°, Trend: 0.984
+20:29:02.576 > [318923][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:29:02.636 > 📊 ICM: ax=1028, ay=-3608, az=15704 | Tilt=3.75°, Trend=0.985
+20:29:02.850 > ✓ Updated - Tilt: 3.70°, Trend: 0.984
+20:29:03.236 > 📊 ICM: ax=988, ay=-3584, az=15716 | Tilt=3.60°, Trend=0.986
+20:29:03.236 > 📊 ICM: ax=1044, ay=-3692, az=15640 | Tilt=3.82°, Trend=0.983
+20:29:03.377 > ✓ Updated - Tilt: 4.01°, Trend: 0.990
+20:29:03.700 > [320043][E][Wire.cpp:513] requestFrom(): i2cRead returned Error 📊 ICM: ax=1052, ay=-3676, az=15688 | Tilt=3.84°, Trend=0.986
+20:29:03.700 > -1
+20:29:03.836 > 📊 ICM: ax=944, ay=-3700, az=15736 | Tilt=3.43°, Trend=0.988
+20:29:03.864 > ✓ Updated - Tilt: 3.43°, Trend: 0.988
+20:29:04.136 > 📊 ICM: ax=1020, ay=-3652, az=15660 | Tilt=3.73°, Trend=0.983
+20:29:04.336 > ✓ Updated - Tilt: 3.73°, Trend: 0.988
+20:29:04.436 > 📊 ICM: ax=1080, ay=-3636, az=15728 | Tilt=3.93°, Trend=0.987
+20:29:04.870 > 📊 ICM: ax=936, ay=-3696, az=15672 | Tilt=3.42°, Trend=0.984
+20:29:04.870 > ✓ Updated - Tilt: 3.74°, Trend: 0.989
+20:29:05.336 > 📊 ICM: ax=968, ay=-3744, az=15632 | Tilt=3.54°, Trend=0.983
+20:29:05.336 > 📊 ICM: ax=856, ay=-3712, az=15656 | Tilt=3.13°, Trend=0.983
+20:29:05.336 > ✓ Updated - Tilt: 3.13°, Trend: 0.983
+20:29:05.394 > [321743][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:29:05.878 > 📊 ICM: ax=944, ay=-3672, az=15652 | Tilt=3.45°, Trend=0.983
+20:29:05.936 > ✓ Updated - Tilt: 3.26°, Trend: 0.983
+20:29:05.936 > 📊 ICM: ax=944, ay=-3628, az=15720 | Tilt=3.44°, Trend=0.986
+20:29:06.357 > 📊 ICM: ax=916, ay=-3728, az=15696 | Tilt=3.34°, Trend=0.986
+20:29:06.357 > ✓ Updated - Tilt: 2.89°, Trend: 0.983
+20:29:06.776 > 📊 ICM: ax=912, ay=-3688, az=15756 | Tilt=3.31°, Trend=0.989
+20:29:06.776 > [323123][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:29:06.833 > 📊 ICM: ax=1096, ay=-3756, az=15616 | Tilt=4.01°, Trend=0.983
+20:29:06.841 > ✓ Updated - Tilt: 4.01°, Trend: 0.983
+20:29:07.134 > 📊 ICM: ax=1004, ay=-3684, az=15652 | Tilt=3.67°, Trend=0.983
+20:29:07.371 > ✓ Updated - Tilt: 4.16°, Trend: 0.984
+20:29:07.736 > 📊 ICM: ax=928, ay=-3668, az=15652 | Tilt=3.39°, Trend=0.983
+20:29:07.736 > 📊 ICM: ax=1036, ay=-3688, az=15624 | Tilt=3.79°, Trend=0.982
+20:29:07.901 > [324243][E][Wire.cpp:513] requestFrom(): i2cRead returned Error ✓ Updated - Tilt: 3.71°, Trend: 0.987
+20:29:07.901 > -1
+20:29:08.036 > 📊 ICM: ax=956, ay=-3700, az=15632 | Tilt=3.50°, Trend=0.982
+20:29:08.336 > 📊 ICM: ax=1004, ay=-3596, az=15608 | Tilt=3.68°, Trend=0.980
+20:29:08.378 > ✓ Updated - Tilt: 3.68°, Trend: 0.980
+20:29:08.636 > 📊 ICM: ax=1072, ay=-3700, az=15684 | Tilt=3.91°, Trend=0.986
+20:29:08.936 > ✓ Updated - Tilt: 2.98°, Trend: 0.986
+20:29:08.936 > 📊 ICM: ax=908, ay=-3700, az=15640 | Tilt=3.32°, Trend=0.983
+20:29:09.386 > 📊 ICM: ax=976, ay=-3752, az=15660 | Tilt=3.57°, Trend=0.985
+20:29:09.386 > ✓ Updated - Tilt: 3.41°, Trend: 0.983
+20:29:09.599 > 📊 ICM: ax=992, ay=-3748, az=15688 | Tilt=3.62°, Trend=0.986
+20:29:09.599 > [325943][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:29:09.836 > 📊 ICM: ax=980, ay=-3708, az=15632 | Tilt=3.59°, Trend=0.982
+20:29:09.864 > ✓ Updated - Tilt: 3.59°, Trend: 0.982
+20:29:10.075 > [326423][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:29:10.300 > 📊 ICM: ax=880, ay=-3664, az=15568 | Tilt=3.24°, Trend=0.978
+20:29:10.300 > [326643][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:29:10.358 > ✓ Updated - Tilt: 3.68°, Trend: 0.984
+20:29:10.736 > 📊 ICM: ax=980, ay=-3748, az=15648 | Tilt=3.58°, Trend=0.984
+20:29:10.736 > 📊 ICM: ax=952, ay=-3620, az=15604 | Tilt=3.49°, Trend=0.979
+20:29:10.886 > ✓ Updated - Tilt: 3.66°, Trend: 0.981
+20:29:11.336 > 📊 ICM: ax=980, ay=-3688, az=15632 | Tilt=3.59°, Trend=0.982
+20:29:11.362 > 📊 ICM: ax=880, ay=-3636, az=15616 | Tilt=3.23°, Trend=0.980
+20:29:11.362 > ✓ Updated - Tilt: 3.23°, Trend: 0.980
+20:29:11.837 > 📊 ICM: ax=912, ay=-3708, az=15668 | Tilt=3.33°, Trend=0.984
+20:29:11.837 > ✓ Updated - Tilt: 4.27°, Trend: 0.988
+20:29:11.937 > 📊 ICM: ax=1112, ay=-3580, az=15664 | Tilt=4.06°, Trend=0.983
+20:29:12.368 > 📊 ICM: ax=916, ay=-3668, az=15688 | Tilt=3.34°, Trend=0.985
+20:29:12.368 > ✓ Updated - Tilt: 3.61°, Trend: 0.982
+20:29:12.836 > 📊 ICM: ax=980, ay=-3672, az=15676 | Tilt=3.58°, Trend=0.985
+20:29:12.836 > 📊 ICM: ax=1048, ay=-3708, az=15604 | Tilt=3.84°, Trend=0.981
+20:29:12.836 > ✓ Updated - Tilt: 3.84°, Trend: 0.981
+20:29:13.134 > 📊 ICM: ax=976, ay=-3720, az=15656 | Tilt=3.57°, Trend=0.984
+20:29:13.435 > ✓ Updated - Tilt: 4.01°, Trend: 0.984
+20:29:13.435 > 📊 ICM: ax=1088, ay=-3616, az=15656 | Tilt=3.98°, Trend=0.983
+20:29:13.736 > 📊 ICM: ax=1060, ay=-3644, az=15716 | Tilt=3.86°, Trend=0.987
+20:29:13.791 > [330143][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:29:13.856 > ✓ Updated - Tilt: 3.98°, Trend: 0.983
+20:29:14.033 > 📊 ICM: ax=988, ay=-3608, az=15676 | Tilt=3.61°, Trend=0.984
+20:29:14.334 > 📊 ICM: ax=1104, ay=-3724, az=15736 | Tilt=4.01°, Trend=0.989
+20:29:14.383 > ✓ Updated - Tilt: 4.01°, Trend: 0.989
+20:29:14.865 > 📊 ICM: ax=996, ay=-3668, az=15640 | Tilt=3.64°, Trend=0.982
+20:29:14.865 > ✓ Updated - Tilt: 3.22°, Trend: 0.982
+20:29:14.930 > 📊 ICM: ax=1028, ay=-3716, az=15644 | Tilt=3.76°, Trend=0.983
+20:29:15.337 > 📊 ICM: ax=940, ay=-3748, az=15760 | Tilt=3.41°, Trend=0.990
+20:29:15.337 > ✓ Updated - Tilt: 3.75°, Trend: 0.983
+20:29:15.500 > [331843][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:29:15.836 > 📊 ICM: ax=996, ay=-3668, az=15676 | Tilt=3.64°, Trend=0.985
+20:29:15.836 > 📊 ICM: ax=900, ay=-3548, az=15620 | Tilt=3.30°, Trend=0.979
+20:29:15.869 > ✓ Updated - Tilt: 3.30°, Trend: 0.979
+20:29:16.348 > 📊 ICM: ax=780, ay=-3552, az=15724 | Tilt=2.84°, Trend=0.985
+20:29:16.348 > ✓ Updated - Tilt: 3.44°, Trend: 0.986
+20:29:16.736 > 📊 ICM: ax=956, ay=-3688, az=15712 | Tilt=3.48°, Trend=0.987
+20:29:16.736 > 📊 ICM: ax=1084, ay=-3796, az=15644 | Tilt=3.96°, Trend=0.985
+20:29:17.036 > ✓ Updated - Tilt: 3.80°, Trend: 0.985
+20:29:17.036 > 📊 ICM: ax=980, ay=-3652, az=15752 | Tilt=3.56°, Trend=0.989
+20:29:17.337 > 📊 ICM: ax=1036, ay=-3680, az=15696 | Tilt=3.78°, Trend=0.986
+20:29:17.353 > ✓ Updated - Tilt: 3.78°, Trend: 0.986
+20:29:17.637 > 📊 ICM: ax=1004, ay=-3700, az=15564 | Tilt=3.69°, Trend=0.978
+20:29:17.881 > ✓ Updated - Tilt: 4.03°, Trend: 0.988
+20:29:17.936 > 📊 ICM: ax=1028, ay=-3700, az=15684 | Tilt=3.75°, Trend=0.986
+20:29:18.237 > 📊 ICM: ax=1024, ay=-3780, az=15628 | Tilt=3.75°, Trend=0.983
+20:29:18.362 > ✓ Updated - Tilt: 3.66°, Trend: 0.982
+20:29:18.837 > 📊 ICM: ax=980, ay=-3652, az=15668 | Tilt=3.58°, Trend=0.984
+20:29:18.838 > 📊 ICM: ax=968, ay=-3812, az=15728 | Tilt=3.52°, Trend=0.990
+20:29:18.838 > ✓ Updated - Tilt: 3.52°, Trend: 0.990
+20:29:19.367 > 📊 ICM: ax=984, ay=-3616, az=15708 | Tilt=3.58°, Trend=0.986
+20:29:19.367 > ✓ Updated - Tilt: 3.47°, Trend: 0.982
+20:29:19.436 > 📊 ICM: ax=1000, ay=-3780, az=15672 | Tilt=3.65°, Trend=0.986
+20:29:19.738 > 📊 ICM: ax=1032, ay=-3744, az=15640 | Tilt=3.78°, Trend=0.984
+20:29:19.847 > ✓ Updated - Tilt: 3.38°, Trend: 0.983
+20:29:19.896 > [336243][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:29:20.035 > 📊 ICM: ax=1216, ay=-3776, az=15572 | Tilt=4.47°, Trend=0.981
+20:29:20.376 > 📊 ICM: ax=972, ay=-3692, az=15792 | Tilt=3.52°, Trend=0.992
+20:29:20.376 > ✓ Updated - Tilt: 3.52°, Trend: 0.992
+20:29:20.854 > 📊 ICM: ax=992, ay=-3680, az=15672 | Tilt=3.62°, Trend=0.984
+20:29:20.854 > ✓ Updated - Tilt: 3.76°, Trend: 0.987
+20:29:20.936 > 📊 ICM: ax=1004, ay=-3580, az=15676 | Tilt=3.66°, Trend=0.983
+20:29:21.387 > 📊 ICM: ax=860, ay=-3444, az=15760 | Tilt=3.12°, Trend=0.986
+20:29:21.387 > ✓ Updated - Tilt: 3.73°, Trend: 0.987
+20:29:21.537 > 📊 ICM: ax=1076, ay=-3456, az=15744 | Tilt=3.91°, Trend=0.986
+20:29:21.589 > [337943][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:29:21.837 > 📊 ICM: ax=768, ay=-3576, az=15488 | Tilt=2.84°, Trend=0.971
+20:29:21.871 > ✓ Updated - Tilt: 2.84°, Trend: 0.971
+20:29:22.128 > 📊 ICM: ax=1292, ay=-3860, az=15580 | Tilt=4.74°, Trend=0.983
+20:29:22.347 > ✓ Updated - Tilt: 3.84°, Trend: 0.983
+20:29:22.436 > 📊 ICM: ax=1000, ay=-3792, az=15760 | Tilt=3.63°, Trend=0.991
+20:29:22.737 > 📊 ICM: ax=1020, ay=-3628, az=15660 | Tilt=3.73°, Trend=0.983
+20:29:23.037 > ✓ Updated - Tilt: 3.67°, Trend: 0.994
+20:29:23.038 > 📊 ICM: ax=1112, ay=-3752, az=15756 | Tilt=4.04°, Trend=0.991
+20:29:23.287 > [339643][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:29:23.356 > 📊 ICM: ax=924, ay=-3776, az=15644 | Tilt=3.38°, Trend=0.984
+20:29:23.356 > ✓ Updated - Tilt: 3.38°, Trend: 0.984
+20:29:23.636 > 📊 ICM: ax=1120, ay=-3724, az=15596 | Tilt=4.11°, Trend=0.981
+20:29:23.779 > [340123][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:29:23.842 > ✓ Updated - Tilt: 3.47°, Trend: 0.983
+20:29:23.934 > 📊 ICM: ax=1024, ay=-3640, az=15676 | Tilt=3.74°, Trend=0.984
+20:29:24.237 > 📊 ICM: ax=1016, ay=-3752, az=15668 | Tilt=3.71°, Trend=0.985
+20:29:24.370 > ✓ Updated - Tilt: 3.96°, Trend: 0.984
+20:29:24.837 > 📊 ICM: ax=940, ay=-3612, az=15544 | Tilt=3.46°, Trend=0.976
+20:29:24.837 > 📊 ICM: ax=968, ay=-3772, az=15568 | Tilt=3.56°, Trend=0.979
+20:29:24.837 > ✓ Updated - Tilt: 3.56°, Trend: 0.979
+20:29:25.373 > 📊 ICM: ax=788, ay=-3536, az=15700 | Tilt=2.87°, Trend=0.983
+20:29:25.373 > ✓ Updated - Tilt: 4.23°, Trend: 0.982
+20:29:25.430 > 📊 ICM: ax=1008, ay=-3676, az=15664 | Tilt=3.68°, Trend=0.984
+20:29:25.848 > 📊 ICM: ax=880, ay=-3624, az=15700 | Tilt=3.21°, Trend=0.985
+20:29:25.848 > ✓ Updated - Tilt: 3.87°, Trend: 0.982
+20:29:26.035 > 📊 ICM: ax=984, ay=-3752, az=15644 | Tilt=3.60°, Trend=0.984
+20:29:26.337 > 📊 ICM: ax=1000, ay=-3644, az=15788 | Tilt=3.62°, Trend=0.991
+20:29:26.372 > ✓ Updated - Tilt: 3.62°, Trend: 0.991
+20:29:26.637 > 📊 ICM: ax=1060, ay=-3688, az=15676 | Tilt=3.87°, Trend=0.985
+20:29:26.853 > ✓ Updated - Tilt: 3.90°, Trend: 0.986
+20:29:26.936 > 📊 ICM: ax=1096, ay=-3640, az=15716 | Tilt=3.99°, Trend=0.987
+20:29:27.376 > 📊 ICM: ax=972, ay=-3752, az=15632 | Tilt=3.56°, Trend=0.983
+20:29:27.376 > ✓ Updated - Tilt: 3.51°, Trend: 0.983
+20:29:27.531 > 📊 ICM: ax=1008, ay=-3656, az=15656 | Tilt=3.68°, Trend=0.983
+20:29:27.834 > 📊 ICM: ax=972, ay=-3756, az=15632 | Tilt=3.56°, Trend=0.983
+20:29:27.854 > ✓ Updated - Tilt: 3.56°, Trend: 0.983
+20:29:28.137 > 📊 ICM: ax=1032, ay=-3712, az=15716 | Tilt=3.76°, Trend=0.988
+20:29:28.388 > ✓ Updated - Tilt: 3.61°, Trend: 0.983
+20:29:28.737 > 📊 ICM: ax=880, ay=-3648, az=15676 | Tilt=3.21°, Trend=0.984
+20:29:28.737 > 📊 ICM: ax=1028, ay=-3744, az=15660 | Tilt=3.76°, Trend=0.985
+20:29:28.864 > ✓ Updated - Tilt: 3.56°, Trend: 0.985
+20:29:29.036 > 📊 ICM: ax=1080, ay=-3696, az=15384 | Tilt=4.02°, Trend=0.968
+20:29:29.337 > 📊 ICM: ax=1020, ay=-3784, az=15696 | Tilt=3.72°, Trend=0.987
+20:29:29.368 > ✓ Updated - Tilt: 3.72°, Trend: 0.987
+20:29:29.637 > 📊 ICM: ax=972, ay=-3688, az=15668 | Tilt=3.55°, Trend=0.984
+20:29:29.866 > ✓ Updated - Tilt: 3.87°, Trend: 0.988
+20:29:29.937 > 📊 ICM: ax=1096, ay=-3760, az=15648 | Tilt=4.01°, Trend=0.985
+20:29:30.346 > 📊 ICM: ax=968, ay=-3752, az=15572 | Tilt=3.56°, Trend=0.979
+20:29:30.346 > ✓ Updated - Tilt: 3.61°, Trend: 0.980
+20:29:30.394 > [346743][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:29:30.535 > 📊 ICM: ax=1124, ay=-3792, az=15572 | Tilt=4.13°, Trend=0.981
+20:29:30.834 > 📊 ICM: ax=1088, ay=-3536, az=15576 | Tilt=4.00°, Trend=0.977
+20:29:30.875 > ✓ Updated - Tilt: 4.00°, Trend: 0.977
+20:29:30.875 > [347223][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:29:31.137 > 📊 ICM: ax=1176, ay=-3792, az=15668 | Tilt=4.29°, Trend=0.987
+20:29:31.361 > ✓ Updated - Tilt: 3.48°, Trend: 0.975
+20:29:31.737 > 📊 ICM: ax=904, ay=-3552, az=15516 | Tilt=3.33°, Trend=0.973
+20:29:31.839 > 📊 ICM: ax=968, ay=-3756, az=15736 | Tilt=3.52°, Trend=0.989
+20:29:31.839 > ✓ Updated - Tilt: 3.23°, Trend: 0.983
+20:29:32.000 > [348343][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:29:32.333 > 📊 ICM: ax=1204, ay=-3676, az=15728 | Tilt=4.38°, Trend=0.989
+20:29:32.333 > 📊 ICM: ax=848, ay=-3660, az=15656 | Tilt=3.10°, Trend=0.983
+20:29:32.374 > ✓ Updated - Tilt: 3.10°, Trend: 0.983
+20:29:32.476 > [348823][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:29:32.696 > 📊 ICM: ax=876, ay=-3700, az=15744 | Tilt=3.18°, Trend=0.989
+20:29:32.696 > [349043][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:29:32.865 > ✓ Updated - Tilt: 3.50°, Trend: 0.985
+20:29:32.937 > 📊 ICM: ax=1020, ay=-3668, az=15636 | Tilt=3.73°, Trend=0.982
+20:29:33.179 > [349523][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:29:33.342 > 📊 ICM: ax=992, ay=-3588, az=15716 | Tilt=3.61°, Trend=0.986
+20:29:33.342 > ✓ Updated - Tilt: 3.61°, Trend: 0.984
+20:29:33.529 > 📊 ICM: ax=1020, ay=-3664, az=15784 | Tilt=3.70°, Trend=0.991
+20:29:33.871 > 📊 ICM: ax=812, ay=-3728, az=15672 | Tilt=2.97°, Trend=0.984
+20:29:33.871 > ✓ Updated - Tilt: 2.97°, Trend: 0.984
+20:29:34.137 > 📊 ICM: ax=1064, ay=-3608, az=15676 | Tilt=3.88°, Trend=0.984
+20:29:34.298 > [350643][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:29:34.357 > ✓ Updated - Tilt: 3.55°, Trend: 0.980
+20:29:34.437 > 📊 ICM: ax=1004, ay=-3752, az=15632 | Tilt=3.67°, Trend=0.983
+20:29:34.730 > 📊 ICM: ax=1124, ay=-3764, az=15648 | Tilt=4.11°, Trend=0.985
+20:29:34.885 > ✓ Updated - Tilt: 3.33°, Trend: 0.981
+20:29:35.032 > 📊 ICM: ax=1108, ay=-3732, az=15648 | Tilt=4.05°, Trend=0.984
+20:29:35.097 > [351443][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:29:35.335 > 📊 ICM: ax=1076, ay=-3692, az=15616 | Tilt=3.94°, Trend=0.982
+20:29:35.370 > ✓ Updated - Tilt: 3.94°, Trend: 0.982
+20:29:35.576 > [351923][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:29:35.633 > 📊 ICM: ax=1076, ay=-3640, az=15692 | Tilt=3.92°, Trend=0.985
+20:29:35.794 > [352143][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:29:35.856 > ✓ Updated - Tilt: 3.59°, Trend: 0.992
+20:29:35.936 > 📊 ICM: ax=1176, ay=-3520, az=15732 | Tilt=4.28°, Trend=0.987
+20:29:36.385 > 📊 ICM: ax=944, ay=-3592, az=15616 | Tilt=3.46°, Trend=0.980
+20:29:36.385 > ✓ Updated - Tilt: 3.55°, Trend: 0.990
+20:29:36.537 > 📊 ICM: ax=1128, ay=-3696, az=15668 | Tilt=4.12°, Trend=0.985
+20:29:36.599 > [352943][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:29:36.871 > 📊 ICM: ax=880, ay=-3580, az=15744 | Tilt=3.20°, Trend=0.987
+20:29:36.871 > ✓ Updated - Tilt: 3.20°, Trend: 0.987
+20:29:37.075 > [353423][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:29:37.131 > 📊 ICM: ax=1008, ay=-3668, az=15660 | Tilt=3.68°, Trend=0.984
+20:29:37.295 > [353643][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:29:37.352 > ✓ Updated - Tilt: 3.51°, Trend: 0.985
+20:29:37.736 > 📊 ICM: ax=996, ay=-3636, az=15688 | Tilt=3.63°, Trend=0.985
+20:29:37.736 > 📊 ICM: ax=1080, ay=-3708, az=15636 | Tilt=3.95°, Trend=0.983
+20:29:38.030 > ✓ Updated - Tilt: 4.14°, Trend: 0.990
+20:29:38.030 > 📊 ICM: ax=932, ay=-3764, az=15756 | Tilt=3.39°, Trend=0.990
+20:29:38.337 > 📊 ICM: ax=944, ay=-3716, az=15668 | Tilt=3.45°, Trend=0.985
+20:29:38.363 > ✓ Updated - Tilt: 3.45°, Trend: 0.985
+20:29:38.836 > 📊 ICM: ax=912, ay=-3660, az=15692 | Tilt=3.33°, Trend=0.985
+20:29:38.836 > ✓ Updated - Tilt: 3.64°, Trend: 0.985
+20:29:38.934 > 📊 ICM: ax=1072, ay=-3776, az=15660 | Tilt=3.92°, Trend=0.985
+20:29:39.367 > 📊 ICM: ax=896, ay=-3364, az=15744 | Tilt=3.26°, Trend=0.984
+20:29:39.367 > ✓ Updated - Tilt: 2.66°, Trend: 0.986
+20:29:39.537 > 📊 ICM: ax=1180, ay=-3844, az=15756 | Tilt=4.28°, Trend=0.992
+20:29:39.837 > 📊 ICM: ax=952, ay=-3504, az=15728 | Tilt=3.46°, Trend=0.985
+20:29:39.847 > ✓ Updated - Tilt: 3.46°, Trend: 0.985
+20:29:39.893 > [356243][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:29:40.380 > 📊 ICM: ax=908, ay=-3476, az=15692 | Tilt=3.31°, Trend=0.983
+20:29:40.380 > ✓ Updated - Tilt: 4.22°, Trend: 0.987
+20:29:40.697 > 📊 ICM: ax=848, ay=-3484, az=15728 | Tilt=3.09°, Trend=0.985
+20:29:40.697 > [357043][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:29:40.730 > 📊 ICM: ax=928, ay=-3708, az=15692 | Tilt=3.38°, Trend=0.986
+20:29:40.859 > ✓ Updated - Tilt: 3.68°, Trend: 0.984
+20:29:41.037 > 📊 ICM: ax=1020, ay=-3768, az=15668 | Tilt=3.72°, Trend=0.986
+20:29:41.182 > [357523][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:29:41.337 > 📊 ICM: ax=1020, ay=-3704, az=15768 | Tilt=3.70°, Trend=0.991
+20:29:41.337 > ✓ Updated - Tilt: 3.70°, Trend: 0.991
+20:29:41.637 > 📊 ICM: ax=1116, ay=-3564, az=15612 | Tilt=4.09°, Trend=0.980
+20:29:41.937 > ✓ Updated - Tilt: 3.94°, Trend: 0.985
+20:29:41.937 > 📊 ICM: ax=1068, ay=-3680, az=15700 | Tilt=3.89°, Trend=0.986
+20:29:42.345 > 📊 ICM: ax=800, ay=-3700, az=15704 | Tilt=2.92°, Trend=0.986
+20:29:42.354 > ✓ Updated - Tilt: 4.32°, Trend: 0.987
+20:29:42.537 > 📊 ICM: ax=1032, ay=-3712, az=15632 | Tilt=3.78°, Trend=0.983
+20:29:42.837 > 📊 ICM: ax=1008, ay=-3724, az=15668 | Tilt=3.68°, Trend=0.985
+20:29:42.881 > ✓ Updated - Tilt: 3.68°, Trend: 0.985
+20:29:42.881 > [359223][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:29:43.137 > 📊 ICM: ax=1076, ay=-3684, az=15704 | Tilt=3.92°, Trend=0.987
+20:29:43.360 > ✓ Updated - Tilt: 3.81°, Trend: 0.986
+20:29:43.737 > 📊 ICM: ax=952, ay=-3744, az=15776 | Tilt=3.45°, Trend=0.991
+20:29:43.838 > 📊 ICM: ax=916, ay=-3700, az=15664 | Tilt=3.35°, Trend=0.984
+20:29:43.838 > ✓ Updated - Tilt: 3.86°, Trend: 0.986
+20:29:44.337 > 📊 ICM: ax=996, ay=-3684, az=15676 | Tilt=3.64°, Trend=0.985
+20:29:44.337 > 📊 ICM: ax=1004, ay=-3740, az=15640 | Tilt=3.67°, Trend=0.983
+20:29:44.366 > ✓ Updated - Tilt: 3.67°, Trend: 0.983
+20:29:44.840 > 📊 ICM: ax=972, ay=-3744, az=15720 | Tilt=3.54°, Trend=0.988
+20:29:44.938 > ✓ Updated - Tilt: 3.65°, Trend: 0.987
+20:29:44.938 > 📊 ICM: ax=996, ay=-3664, az=15752 | Tilt=3.62°, Trend=0.989
+20:29:45.237 > 📊 ICM: ax=948, ay=-3708, az=15680 | Tilt=3.46°, Trend=0.985
+20:29:45.376 > ✓ Updated - Tilt: 3.66°, Trend: 0.986
+20:29:45.838 > 📊 ICM: ax=988, ay=-3684, az=15728 | Tilt=3.59°, Trend=0.988
+20:29:45.838 > 📊 ICM: ax=1036, ay=-3840, az=15648 | Tilt=3.79°, Trend=0.985
+20:29:45.853 > ✓ Updated - Tilt: 3.79°, Trend: 0.985
+20:29:46.137 > 📊 ICM: ax=1004, ay=-3712, az=15652 | Tilt=3.67°, Trend=0.984
+20:29:46.437 > ✓ Updated - Tilt: 3.72°, Trend: 0.985
+20:29:46.437 > 📊 ICM: ax=1012, ay=-3628, az=15696 | Tilt=3.69°, Trend=0.985
+20:29:46.700 > [363043][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:29:46.864 > 📊 ICM: ax=1084, ay=-3724, az=15624 | Tilt=3.97°, Trend=0.983
+20:29:46.864 > ✓ Updated - Tilt: 3.69°, Trend: 0.987
+20:29:47.175 > 📊 ICM: ax=980, ay=-3676, az=15624 | Tilt=3.59°, Trend=0.981
+20:29:47.175 > [363523][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:29:47.337 > 📊 ICM: ax=1088, ay=-3768, az=15572 | Tilt=4.00°, Trend=0.980
+20:29:47.347 > ✓ Updated - Tilt: 4.00°, Trend: 0.980
+20:29:47.637 > 📊 ICM: ax=968, ay=-3628, az=15680 | Tilt=3.53°, Trend=0.984
+20:29:47.937 > ✓ Updated - Tilt: 3.71°, Trend: 0.984
+20:29:47.937 > 📊 ICM: ax=1088, ay=-3696, az=15676 | Tilt=3.97°, Trend=0.985
+20:29:48.296 > 📊 ICM: ax=968, ay=-3580, az=15692 | Tilt=3.53°, Trend=0.984
+20:29:48.303 > [364643][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:29:48.355 > ✓ Updated - Tilt: 3.78°, Trend: 0.990
+20:29:48.537 > 📊 ICM: ax=1012, ay=-3680, az=15676 | Tilt=3.69°, Trend=0.985
+20:29:48.775 > [365123][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:29:48.837 > 📊 ICM: ax=1040, ay=-3628, az=15680 | Tilt=3.79°, Trend=0.984
+20:29:48.840 > ✓ Updated - Tilt: 3.79°, Trend: 0.984
+20:29:49.362 > 📊 ICM: ax=956, ay=-3708, az=15696 | Tilt=3.49°, Trend=0.986
+20:29:49.370 > ✓ Updated - Tilt: 3.84°, Trend: 0.980
+20:29:49.437 > 📊 ICM: ax=1036, ay=-3608, az=15620 | Tilt=3.79°, Trend=0.981
+20:29:49.737 > 📊 ICM: ax=1016, ay=-3632, az=15704 | Tilt=3.70°, Trend=0.986
+20:29:50.037 > ✓ Updated - Tilt: 3.48°, Trend: 0.987
+20:29:50.038 > 📊 ICM: ax=1020, ay=-3672, az=15640 | Tilt=3.73°, Trend=0.983
+20:29:50.337 > 📊 ICM: ax=1104, ay=-3708, az=15756 | Tilt=4.01°, Trend=0.990
+20:29:50.375 > ✓ Updated - Tilt: 4.01°, Trend: 0.990
+20:29:50.854 > 📊 ICM: ax=996, ay=-3728, az=15644 | Tilt=3.64°, Trend=0.983
+20:29:50.854 > ✓ Updated - Tilt: 3.81°, Trend: 0.982
+20:29:50.937 > 📊 ICM: ax=1116, ay=-3700, az=15692 | Tilt=4.07°, Trend=0.986
+20:29:51.237 > 📊 ICM: ax=1024, ay=-3664, az=15744 | Tilt=3.72°, Trend=0.989
+20:29:51.377 > ✓ Updated - Tilt: 3.49°, Trend: 0.984
+20:29:51.695 > 📊 ICM: ax=924, ay=-3684, az=15752 | Tilt=3.36°, Trend=0.989
+20:29:51.695 > [368043][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:29:51.863 > 📊 ICM: ax=980, ay=-3608, az=15704 | Tilt=3.57°, Trend=0.985
+20:29:51.863 > ✓ Updated - Tilt: 3.57°, Trend: 0.985
+20:29:52.137 > 📊 ICM: ax=1052, ay=-3748, az=15708 | Tilt=3.83°, Trend=0.988
+20:29:52.338 > ✓ Updated - Tilt: 3.82°, Trend: 0.982
+20:29:52.437 > 📊 ICM: ax=1048, ay=-3668, az=15664 | Tilt=3.83°, Trend=0.984
+20:29:52.870 > 📊 ICM: ax=968, ay=-3716, az=15672 | Tilt=3.53°, Trend=0.985
+20:29:52.870 > ✓ Updated - Tilt: 3.94°, Trend: 0.988
+20:29:53.038 > 📊 ICM: ax=1052, ay=-3692, az=15704 | Tilt=3.83°, Trend=0.987
+20:29:53.337 > 📊 ICM: ax=1012, ay=-3716, az=15656 | Tilt=3.70°, Trend=0.984
+20:29:53.340 > ✓ Updated - Tilt: 3.70°, Trend: 0.984
+20:29:53.398 > [369743][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:29:53.638 > 📊 ICM: ax=1096, ay=-3732, az=15596 | Tilt=4.02°, Trend=0.981
+20:29:53.876 > ✓ Updated - Tilt: 3.75°, Trend: 0.986
+20:29:53.937 > 📊 ICM: ax=1056, ay=-3728, az=15728 | Tilt=3.84°, Trend=0.989
+20:29:54.238 > 📊 ICM: ax=1004, ay=-3736, az=15684 | Tilt=3.66°, Trend=0.986
+20:29:54.355 > ✓ Updated - Tilt: 3.83°, Trend: 0.979
+20:29:54.537 > 📊 ICM: ax=1072, ay=-3652, az=15668 | Tilt=3.91°, Trend=0.984
+20:29:54.837 > 📊 ICM: ax=1056, ay=-3672, az=15576 | Tilt=3.88°, Trend=0.979
+20:29:54.887 > ✓ Updated - Tilt: 3.88°, Trend: 0.979
+20:29:55.095 > [371443][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:29:55.137 > 📊 ICM: ax=1012, ay=-3680, az=15716 | Tilt=3.68°, Trend=0.987
+20:29:55.372 > ✓ Updated - Tilt: 3.75°, Trend: 0.985
+20:29:55.438 > 📊 ICM: ax=1016, ay=-3728, az=15668 | Tilt=3.71°, Trend=0.985
+20:29:55.577 > [371923][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:29:55.738 > 📊 ICM: ax=1032, ay=-3576, az=15644 | Tilt=3.77°, Trend=0.981
+20:29:55.854 > ✓ Updated - Tilt: 3.46°, Trend: 0.984
+20:29:56.038 > 📊 ICM: ax=1060, ay=-3660, az=15624 | Tilt=3.88°, Trend=0.982
+20:29:56.338 > 📊 ICM: ax=1016, ay=-3680, az=15684 | Tilt=3.71°, Trend=0.985
+20:29:56.381 > ✓ Updated - Tilt: 3.71°, Trend: 0.985
+20:29:56.858 > 📊 ICM: ax=992, ay=-3692, az=15604 | Tilt=3.64°, Trend=0.981
+20:29:56.858 > ✓ Updated - Tilt: 3.92°, Trend: 0.986
+20:29:57.237 > 📊 ICM: ax=836, ay=-3828, az=15784 | Tilt=3.03°, Trend=0.993
+20:29:57.237 > 📊 ICM: ax=1064, ay=-3648, az=15652 | Tilt=3.89°, Trend=0.983
+20:29:57.388 > ✓ Updated - Tilt: 3.77°, Trend: 0.989
+20:29:57.537 > 📊 ICM: ax=1068, ay=-3672, az=15676 | Tilt=3.90°, Trend=0.985
+20:29:57.595 > [373943][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:29:57.871 > 📊 ICM: ax=988, ay=-3688, az=15644 | Tilt=3.61°, Trend=0.983
+20:29:57.871 > ✓ Updated - Tilt: 3.61°, Trend: 0.983
+20:29:58.077 > [374423][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:29:58.353 > 📊 ICM: ax=948, ay=-3696, az=15696 | Tilt=3.46°, Trend=0.986
+20:29:58.353 > ✓ Updated - Tilt: 3.93°, Trend: 0.984
+20:29:58.738 > 📊 ICM: ax=976, ay=-3756, az=15648 | Tilt=3.57°, Trend=0.984
+20:29:58.738 > 📊 ICM: ax=1124, ay=-3696, az=15716 | Tilt=4.09°, Trend=0.988
+20:29:58.880 > ✓ Updated - Tilt: 3.66°, Trend: 0.983
+20:29:59.200 > [375543][E][Wire.cpp:513] requestFrom(): i2cRead returned Error 📊 ICM: ax=1056, ay=-3696, az=15624 | Tilt=3.87°, Trend=0.982
+20:29:59.200 > -1
+20:29:59.337 > 📊 ICM: ax=1028, ay=-3708, az=15684 | Tilt=3.75°, Trend=0.986
+20:29:59.363 > ✓ Updated - Tilt: 3.75°, Trend: 0.986
+20:29:59.638 > 📊 ICM: ax=1032, ay=-3644, az=15624 | Tilt=3.78°, Trend=0.981
+20:29:59.839 > ✓ Updated - Tilt: 3.42°, Trend: 0.992
+20:30:00.238 > 📊 ICM: ax=992, ay=-3680, az=15620 | Tilt=3.63°, Trend=0.981
+20:30:00.371 > 📊 ICM: ax=980, ay=-3592, az=15700 | Tilt=3.57°, Trend=0.985
+20:30:00.372 > ✓ Updated - Tilt: 4.01°, Trend: 0.987
+20:30:00.538 > 📊 ICM: ax=968, ay=-3624, az=15792 | Tilt=3.51°, Trend=0.991
+20:30:00.838 > 📊 ICM: ax=1044, ay=-3672, az=15744 | Tilt=3.79°, Trend=0.989
+20:30:00.848 > ✓ Updated - Tilt: 3.79°, Trend: 0.989
+20:30:00.897 > [377243][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:30:01.379 > 📊 ICM: ax=920, ay=-3680, az=15724 | Tilt=3.35°, Trend=0.987
+20:30:01.379 > ✓ Updated - Tilt: 3.73°, Trend: 0.987
+20:30:01.437 > 📊 ICM: ax=1060, ay=-3728, az=15644 | Tilt=3.88°, Trend=0.984
+20:30:01.700 > [378043][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:30:01.737 > 📊 ICM: ax=1088, ay=-3672, az=15728 | Tilt=3.96°, Trend=0.988
+20:30:01.865 > ✓ Updated - Tilt: 3.74°, Trend: 0.984
+20:30:02.037 > 📊 ICM: ax=1060, ay=-3652, az=15676 | Tilt=3.87°, Trend=0.985
+20:30:02.177 > [378523][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:30:02.338 > 📊 ICM: ax=1020, ay=-3712, az=15632 | Tilt=3.73°, Trend=0.983
+20:30:02.342 > ✓ Updated - Tilt: 3.73°, Trend: 0.983
+20:30:02.399 > [378743][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:30:02.638 > 📊 ICM: ax=1168, ay=-3688, az=15600 | Tilt=4.28°, Trend=0.981
+20:30:02.878 > ✓ Updated - Tilt: 3.96°, Trend: 0.988
+20:30:03.201 > 📊 ICM: ax=988, ay=-3688, az=15668 | Tilt=3.61°, Trend=0.984
+20:30:03.201 > [379543][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:30:03.232 > 📊 ICM: ax=988, ay=-3660, az=15676 | Tilt=3.61°, Trend=0.984
+20:30:03.538 > ✓ Updated - Tilt: 3.84°, Trend: 0.983
+20:30:03.538 > 📊 ICM: ax=924, ay=-3728, az=15652 | Tilt=3.38°, Trend=0.984
+20:30:03.675 > [380023][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:30:03.844 > 📊 ICM: ax=984, ay=-3704, az=15644 | Tilt=3.60°, Trend=0.983
+20:30:03.844 > ✓ Updated - Tilt: 3.60°, Trend: 0.983
+20:30:03.903 > [380243][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:30:04.138 > 📊 ICM: ax=1044, ay=-3648, az=15676 | Tilt=3.81°, Trend=0.984
+20:30:04.379 > ✓ Updated - Tilt: 3.75°, Trend: 0.990
+20:30:04.438 > 📊 ICM: ax=1024, ay=-3632, az=15656 | Tilt=3.74°, Trend=0.983
+20:30:04.737 > 📊 ICM: ax=1052, ay=-3676, az=15696 | Tilt=3.83°, Trend=0.986
+20:30:05.038 > ✓ Updated - Tilt: 3.79°, Trend: 0.990
+20:30:05.038 > 📊 ICM: ax=1032, ay=-3692, az=15720 | Tilt=3.76°, Trend=0.988
+20:30:05.338 > 📊 ICM: ax=1048, ay=-3676, az=15652 | Tilt=3.83°, Trend=0.983
+20:30:05.387 > ✓ Updated - Tilt: 3.83°, Trend: 0.983
+20:30:05.603 > [381943][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:30:05.872 > 📊 ICM: ax=1064, ay=-3720, az=15692 | Tilt=3.88°, Trend=0.986
+20:30:05.872 > ✓ Updated - Tilt: 3.78°, Trend: 0.983
+20:30:05.937 > 📊 ICM: ax=1020, ay=-3656, az=15704 | Tilt=3.72°, Trend=0.986
+20:30:06.237 > 📊 ICM: ax=1016, ay=-3688, az=15692 | Tilt=3.70°, Trend=0.986
+20:30:06.348 > ✓ Updated - Tilt: 3.86°, Trend: 0.986
+20:30:06.537 > 📊 ICM: ax=988, ay=-3692, az=15604 | Tilt=3.62°, Trend=0.981
+20:30:06.838 > 📊 ICM: ax=1020, ay=-3664, az=15636 | Tilt=3.73°, Trend=0.982
+20:30:06.875 > ✓ Updated - Tilt: 3.73°, Trend: 0.982
+20:30:07.354 > 📊 ICM: ax=984, ay=-3596, az=15692 | Tilt=3.59°, Trend=0.984
+20:30:07.354 > ✓ Updated - Tilt: 3.61°, Trend: 0.985
+20:30:07.438 > 📊 ICM: ax=960, ay=-3644, az=15704 | Tilt=3.50°, Trend=0.986
+20:30:07.738 > 📊 ICM: ax=1028, ay=-3604, az=15664 | Tilt=3.75°, Trend=0.983
+20:30:07.880 > ✓ Updated - Tilt: 3.79°, Trend: 0.987
+20:30:08.337 > 📊 ICM: ax=960, ay=-3704, az=15792 | Tilt=3.48°, Trend=0.992
+20:30:08.337 > 📊 ICM: ax=1092, ay=-3648, az=15676 | Tilt=3.98°, Trend=0.985
+20:30:08.354 > ✓ Updated - Tilt: 3.98°, Trend: 0.985
+20:30:08.887 > 📊 ICM: ax=996, ay=-3648, az=15668 | Tilt=3.64°, Trend=0.984
+20:30:08.900 > ✓ Updated - Tilt: 3.59°, Trend: 0.987
+20:30:08.937 > 📊 ICM: ax=1060, ay=-3716, az=15708 | Tilt=3.86°, Trend=0.987
+20:30:09.238 > 📊 ICM: ax=972, ay=-3720, az=15664 | Tilt=3.55°, Trend=0.984
+20:30:09.366 > ✓ Updated - Tilt: 3.76°, Trend: 0.990
+20:30:09.538 > 📊 ICM: ax=1040, ay=-3776, az=15716 | Tilt=3.79°, Trend=0.989
+20:30:09.837 > 📊 ICM: ax=1048, ay=-3636, az=15636 | Tilt=3.83°, Trend=0.982
+20:30:09.843 > ✓ Updated - Tilt: 3.83°, Trend: 0.982
+20:30:10.137 > 📊 ICM: ax=1040, ay=-3760, az=15664 | Tilt=3.80°, Trend=0.985
+20:30:10.372 > ✓ Updated - Tilt: 3.86°, Trend: 0.989
+20:30:10.737 > 📊 ICM: ax=964, ay=-3688, az=15672 | Tilt=3.52°, Trend=0.984
+20:30:10.737 > 📊 ICM: ax=1028, ay=-3700, az=15732 | Tilt=3.74°, Trend=0.988
+20:30:11.037 > ✓ Updated - Tilt: 3.56°, Trend: 0.984
+20:30:11.037 > 📊 ICM: ax=944, ay=-3740, az=15632 | Tilt=3.46°, Trend=0.983
+20:30:11.373 > 📊 ICM: ax=992, ay=-3648, az=15632 | Tilt=3.63°, Trend=0.982
+20:30:11.373 > ✓ Updated - Tilt: 3.63°, Trend: 0.982
+20:30:11.637 > 📊 ICM: ax=1012, ay=-3700, az=15668 | Tilt=3.70°, Trend=0.985
+20:30:11.800 > [388143][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:30:11.937 > ✓ Updated - Tilt: 3.37°, Trend: 0.985
+20:30:11.937 > 📊 ICM: ax=1024, ay=-3680, az=15684 | Tilt=3.74°, Trend=0.985
+20:30:12.387 > 📊 ICM: ax=968, ay=-3644, az=15772 | Tilt=3.51°, Trend=0.990
+20:30:12.387 > ✓ Updated - Tilt: 3.91°, Trend: 0.986
+20:30:12.534 > 📊 ICM: ax=1076, ay=-3688, az=15660 | Tilt=3.93°, Trend=0.984
+20:30:12.600 > [388943][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:30:12.837 > 📊 ICM: ax=1008, ay=-3756, az=15764 | Tilt=3.66°, Trend=0.991
+20:30:12.870 > ✓ Updated - Tilt: 3.66°, Trend: 0.991
+20:30:13.075 > [389423][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:30:13.137 > 📊 ICM: ax=1012, ay=-3780, az=15624 | Tilt=3.71°, Trend=0.983
+20:30:13.354 > ✓ Updated - Tilt: 3.63°, Trend: 0.987
+20:30:13.437 > 📊 ICM: ax=1052, ay=-3696, az=15736 | Tilt=3.82°, Trend=0.989
+20:30:13.737 > 📊 ICM: ax=1088, ay=-3808, az=15704 | Tilt=3.96°, Trend=0.989
+20:30:14.037 > ✓ Updated - Tilt: 3.47°, Trend: 0.980
+20:30:14.037 > 📊 ICM: ax=1016, ay=-3684, az=15716 | Tilt=3.70°, Trend=0.987
+20:30:14.337 > 📊 ICM: ax=1076, ay=-3592, az=15704 | Tilt=3.92°, Trend=0.985
+20:30:14.355 > ✓ Updated - Tilt: 3.92°, Trend: 0.985
+20:30:14.637 > 📊 ICM: ax=1020, ay=-3684, az=15704 | Tilt=3.72°, Trend=0.986
+20:30:14.776 > [391123][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:30:14.937 > ✓ Updated - Tilt: 3.43°, Trend: 0.987
+20:30:14.937 > 📊 ICM: ax=1000, ay=-3756, az=15668 | Tilt=3.65°, Trend=0.985
+20:30:15.237 > 📊 ICM: ax=916, ay=-3568, az=15692 | Tilt=3.34°, Trend=0.984
+20:30:15.371 > ✓ Updated - Tilt: 3.70°, Trend: 0.984
+20:30:15.837 > 📊 ICM: ax=968, ay=-3732, az=15672 | Tilt=3.53°, Trend=0.985
+20:30:15.837 > 📊 ICM: ax=968, ay=-3684, az=15764 | Tilt=3.51°, Trend=0.990
+20:30:15.837 > ✓ Updated - Tilt: 3.51°, Trend: 0.990
+20:30:16.137 > 📊 ICM: ax=948, ay=-3652, az=15644 | Tilt=3.47°, Trend=0.982
+20:30:16.376 > ✓ Updated - Tilt: 4.04°, Trend: 0.990
+20:30:16.437 > 📊 ICM: ax=1040, ay=-3648, az=15728 | Tilt=3.78°, Trend=0.987
+20:30:16.737 > 📊 ICM: ax=1080, ay=-3652, az=15652 | Tilt=3.95°, Trend=0.983
+20:30:16.854 > ✓ Updated - Tilt: 3.87°, Trend: 0.980
+20:30:17.337 > 📊 ICM: ax=988, ay=-3792, az=15704 | Tilt=3.60°, Trend=0.988
+20:30:17.337 > 📊 ICM: ax=1012, ay=-3688, az=15688 | Tilt=3.69°, Trend=0.986
+20:30:17.379 > ✓ Updated - Tilt: 3.69°, Trend: 0.986
+20:30:17.379 > [393723][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:30:17.637 > 📊 ICM: ax=1012, ay=-3632, az=15696 | Tilt=3.69°, Trend=0.985
+20:30:17.862 > ✓ Updated - Tilt: 3.76°, Trend: 0.989
+20:30:18.179 > 📊 ICM: ax=992, ay=-3760, az=15712 | Tilt=3.61°, Trend=0.988
+20:30:18.179 > [394523][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:30:18.337 > 📊 ICM: ax=972, ay=-3636, az=15692 | Tilt=3.54°, Trend=0.985
+20:30:18.337 > ✓ Updated - Tilt: 3.82°, Trend: 0.989
+20:30:18.837 > 📊 ICM: ax=996, ay=-3704, az=15724 | Tilt=3.62°, Trend=0.988
+20:30:18.837 > 📊 ICM: ax=1040, ay=-3656, az=15696 | Tilt=3.79°, Trend=0.986
+20:30:18.873 > ✓ Updated - Tilt: 3.79°, Trend: 0.986
+20:30:19.137 > 📊 ICM: ax=1080, ay=-3688, az=15664 | Tilt=3.94°, Trend=0.984
+20:30:19.302 > [395643][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:30:19.356 > ✓ Updated - Tilt: 3.27°, Trend: 0.982
+20:30:19.438 > 📊 ICM: ax=968, ay=-3648, az=15688 | Tilt=3.53°, Trend=0.985
+20:30:19.879 > 📊 ICM: ax=996, ay=-3828, az=15672 | Tilt=3.64°, Trend=0.987
+20:30:19.879 > ✓ Updated - Tilt: 3.59°, Trend: 0.986
+20:30:20.337 > 📊 ICM: ax=988, ay=-3752, az=15648 | Tilt=3.61°, Trend=0.984
+20:30:20.362 > 📊 ICM: ax=984, ay=-3624, az=15720 | Tilt=3.58°, Trend=0.986
+20:30:20.368 > ✓ Updated - Tilt: 3.58°, Trend: 0.986
+20:30:20.637 > 📊 ICM: ax=1024, ay=-3700, az=15632 | Tilt=3.75°, Trend=0.982
+20:30:20.937 > ✓ Updated - Tilt: 3.68°, Trend: 0.985
+20:30:20.937 > 📊 ICM: ax=1044, ay=-3728, az=15748 | Tilt=3.79°, Trend=0.990
+20:30:21.237 > 📊 ICM: ax=1032, ay=-3704, az=15648 | Tilt=3.77°, Trend=0.983
+20:30:21.372 > ✓ Updated - Tilt: 3.58°, Trend: 0.988
+20:30:21.537 > 📊 ICM: ax=1072, ay=-3644, az=15728 | Tilt=3.90°, Trend=0.988
+20:30:21.847 > 📊 ICM: ax=944, ay=-3648, az=15632 | Tilt=3.46°, Trend=0.981
+20:30:21.847 > ✓ Updated - Tilt: 3.46°, Trend: 0.981
+20:30:22.137 > 📊 ICM: ax=992, ay=-3652, az=15712 | Tilt=3.61°, Trend=0.986
+20:30:22.375 > ✓ Updated - Tilt: 4.62°, Trend: 0.986
+20:30:22.438 > 📊 ICM: ax=1020, ay=-3696, az=15604 | Tilt=3.74°, Trend=0.981
+20:30:22.854 > 📊 ICM: ax=892, ay=-3720, az=15684 | Tilt=3.26°, Trend=0.985
+20:30:22.854 > ✓ Updated - Tilt: 3.47°, Trend: 0.987
+20:30:23.037 > 📊 ICM: ax=1092, ay=-3716, az=15708 | Tilt=3.98°, Trend=0.987
+20:30:23.337 > 📊 ICM: ax=1052, ay=-3668, az=15700 | Tilt=3.83°, Trend=0.986
+20:30:23.378 > ✓ Updated - Tilt: 3.83°, Trend: 0.986
+20:30:23.860 > 📊 ICM: ax=924, ay=-3696, az=15684 | Tilt=3.37°, Trend=0.985
+20:30:23.891 > ✓ Updated - Tilt: 3.56°, Trend: 0.985
+20:30:23.937 > 📊 ICM: ax=1032, ay=-3732, az=15668 | Tilt=3.77°, Trend=0.985
+20:30:24.387 > 📊 ICM: ax=920, ay=-3820, az=15668 | Tilt=3.36°, Trend=0.986
+20:30:24.387 > ✓ Updated - Tilt: 3.97°, Trend: 0.986
+20:30:24.537 > 📊 ICM: ax=1064, ay=-3732, az=15708 | Tilt=3.88°, Trend=0.988
+20:30:24.837 > 📊 ICM: ax=1276, ay=-3644, az=15676 | Tilt=4.65°, Trend=0.985
+20:30:24.866 > ✓ Updated - Tilt: 4.65°, Trend: 0.985
+20:30:25.337 > 📊 ICM: ax=960, ay=-3684, az=15704 | Tilt=3.50°, Trend=0.986
+20:30:25.437 > ✓ Updated - Tilt: 3.64°, Trend: 0.980
+20:30:25.437 > 📊 ICM: ax=988, ay=-3716, az=15644 | Tilt=3.61°, Trend=0.983
+20:30:25.501 > [401843][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:30:25.873 > 📊 ICM: ax=872, ay=-3732, az=15792 | Tilt=3.16°, Trend=0.992
+20:30:25.976 > [402323][E][Wire.cpp:513] requestFrom(): i2cRead returned Error ✓ Updated - Tilt: 4.01°, Trend: 0.988
+20:30:25.983 > -1
+20:30:26.037 > 📊 ICM: ax=1020, ay=-3760, az=15620 | Tilt=3.74°, Trend=0.983
+20:30:26.337 > 📊 ICM: ax=1088, ay=-3640, az=15624 | Tilt=3.98°, Trend=0.981
+20:30:26.355 > ✓ Updated - Tilt: 3.98°, Trend: 0.981
+20:30:26.637 > 📊 ICM: ax=1052, ay=-3740, az=15668 | Tilt=3.84°, Trend=0.985
+20:30:26.887 > ✓ Updated - Tilt: 3.62°, Trend: 0.984
+20:30:27.100 > 📊 ICM: ax=984, ay=-3648, az=15684 | Tilt=3.59°, Trend=0.985
+20:30:27.104 > [403443][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:30:27.237 > 📊 ICM: ax=944, ay=-3780, az=15696 | Tilt=3.44°, Trend=0.987
+20:30:27.537 > ✓ Updated - Tilt: 2.93°, Trend: 0.986
+20:30:27.537 > 📊 ICM: ax=1128, ay=-3788, az=15684 | Tilt=4.11°, Trend=0.987
+20:30:27.837 > 📊 ICM: ax=1060, ay=-3636, az=15664 | Tilt=3.87°, Trend=0.984
+20:30:27.847 > ✓ Updated - Tilt: 3.87°, Trend: 0.984
+20:30:27.895 > [404243][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:30:28.137 > 📊 ICM: ax=1040, ay=-3688, az=15612 | Tilt=3.81°, Trend=0.981
+20:30:28.382 > ✓ Updated - Tilt: 3.77°, Trend: 0.981
+20:30:28.737 > 📊 ICM: ax=980, ay=-3664, az=15680 | Tilt=3.58°, Trend=0.985
+20:30:28.737 > 📊 ICM: ax=1024, ay=-3760, az=15636 | Tilt=3.75°, Trend=0.984
+20:30:29.037 > ✓ Updated - Tilt: 4.05°, Trend: 0.985
+20:30:29.037 > 📊 ICM: ax=956, ay=-3688, az=15692 | Tilt=3.49°, Trend=0.986
+20:30:29.282 > [405623][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:30:29.337 > 📊 ICM: ax=1036, ay=-3720, az=15676 | Tilt=3.78°, Trend=0.985
+20:30:29.354 > ✓ Updated - Tilt: 3.78°, Trend: 0.985
+20:30:29.871 > 📊 ICM: ax=932, ay=-3660, az=15760 | Tilt=3.38°, Trend=0.989
+20:30:29.872 > ✓ Updated - Tilt: 3.50°, Trend: 0.982
+20:30:30.237 > 📊 ICM: ax=932, ay=-3684, az=15716 | Tilt=3.39°, Trend=0.987
+20:30:30.237 > 📊 ICM: ax=1016, ay=-3768, az=15592 | Tilt=3.73°, Trend=0.981
+20:30:30.398 > [406743][E][Wire.cpp:513] requestFrom(): i2cRead returned Error ✓ Updated - Tilt: 3.86°, Trend: 0.989
+20:30:30.404 > -1
+20:30:30.837 > 📊 ICM: ax=892, ay=-3804, az=15628 | Tilt=3.27°, Trend=0.983
+20:30:30.837 > 📊 ICM: ax=1036, ay=-3764, az=15784 | Tilt=3.76°, Trend=0.992
+20:30:30.881 > ✓ Updated - Tilt: 3.76°, Trend: 0.992
+20:30:30.881 > [407223][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:30:31.362 > 📊 ICM: ax=944, ay=-3772, az=15712 | Tilt=3.44°, Trend=0.988
+20:30:31.362 > ✓ Updated - Tilt: 3.58°, Trend: 0.989
+20:30:31.737 > 📊 ICM: ax=908, ay=-3700, az=15760 | Tilt=3.30°, Trend=0.990
+20:30:31.737 > 📊 ICM: ax=928, ay=-3596, az=15712 | Tilt=3.38°, Trend=0.985
+20:30:31.843 > ✓ Updated - Tilt: 3.51°, Trend: 0.984
+20:30:32.002 > [408343][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:30:32.037 > 📊 ICM: ax=1072, ay=-3664, az=15688 | Tilt=3.91°, Trend=0.985
+20:30:32.337 > 📊 ICM: ax=1000, ay=-3780, az=15684 | Tilt=3.65°, Trend=0.987
+20:30:32.377 > ✓ Updated - Tilt: 3.65°, Trend: 0.987
+20:30:32.481 > [408823][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:30:32.637 > 📊 ICM: ax=1052, ay=-3800, az=15656 | Tilt=3.84°, Trend=0.985
+20:30:32.858 > ✓ Updated - Tilt: 3.52°, Trend: 0.978
+20:30:33.237 > 📊 ICM: ax=964, ay=-3720, az=15644 | Tilt=3.53°, Trend=0.983
+20:30:33.387 > 📊 ICM: ax=996, ay=-3704, az=15740 | Tilt=3.62°, Trend=0.989
+20:30:33.387 > ✓ Updated - Tilt: 3.62°, Trend: 0.982
+20:30:33.599 > 📊 ICM: ax=960, ay=-3676, az=15644 | Tilt=3.51°, Trend=0.983
+20:30:33.604 > [409943][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:30:33.834 > 📊 ICM: ax=1044, ay=-3684, az=15392 | Tilt=3.88°, Trend=0.968
+20:30:33.871 > ✓ Updated - Tilt: 3.88°, Trend: 0.968
+20:30:34.083 > [410423][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:30:34.354 > 📊 ICM: ax=1020, ay=-3668, az=15596 | Tilt=3.74°, Trend=0.980
+20:30:34.354 > ✓ Updated - Tilt: 3.52°, Trend: 0.984
+20:30:34.438 > 📊 ICM: ax=1040, ay=-3780, az=15664 | Tilt=3.80°, Trend=0.986
+20:30:34.876 > 📊 ICM: ax=972, ay=-3676, az=15644 | Tilt=3.56°, Trend=0.983
+20:30:34.876 > ✓ Updated - Tilt: 3.61°, Trend: 0.991
+20:30:35.037 > 📊 ICM: ax=1036, ay=-3712, az=15648 | Tilt=3.79°, Trend=0.984
+20:30:35.337 > 📊 ICM: ax=1008, ay=-3632, az=15700 | Tilt=3.67°, Trend=0.985
+20:30:35.355 > ✓ Updated - Tilt: 3.67°, Trend: 0.985
+20:30:35.781 > 📊 ICM: ax=952, ay=-3696, az=15648 | Tilt=3.48°, Trend=0.983
+20:30:35.781 > [412123][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:30:35.937 > ✓ Updated - Tilt: 3.75°, Trend: 0.980
+20:30:35.937 > 📊 ICM: ax=996, ay=-3724, az=15644 | Tilt=3.64°, Trend=0.983
+20:30:36.237 > 📊 ICM: ax=1052, ay=-3696, az=15644 | Tilt=3.85°, Trend=0.983
+20:30:36.372 > ✓ Updated - Tilt: 3.64°, Trend: 0.988
+20:30:36.537 > 📊 ICM: ax=1052, ay=-3712, az=15672 | Tilt=3.84°, Trend=0.985
+20:30:36.837 > 📊 ICM: ax=816, ay=-3704, az=15640 | Tilt=2.99°, Trend=0.982
+20:30:36.849 > ✓ Updated - Tilt: 2.99°, Trend: 0.982
+20:30:37.377 > 📊 ICM: ax=984, ay=-3724, az=15652 | Tilt=3.60°, Trend=0.984
+20:30:37.377 > ✓ Updated - Tilt: 3.43°, Trend: 0.987
+20:30:37.737 > 📊 ICM: ax=968, ay=-3696, az=15652 | Tilt=3.54°, Trend=0.983
+20:30:37.737 > 📊 ICM: ax=1024, ay=-3652, az=15604 | Tilt=3.75°, Trend=0.980
+20:30:37.854 > ✓ Updated - Tilt: 3.52°, Trend: 0.989
+20:30:38.037 > 📊 ICM: ax=1008, ay=-3644, az=15680 | Tilt=3.68°, Trend=0.984
+20:30:38.337 > 📊 ICM: ax=1068, ay=-3720, az=15716 | Tilt=3.89°, Trend=0.988
+20:30:38.378 > ✓ Updated - Tilt: 3.89°, Trend: 0.988
+20:30:38.637 > 📊 ICM: ax=1040, ay=-3740, az=15652 | Tilt=3.80°, Trend=0.984
+20:30:38.859 > ✓ Updated - Tilt: 3.68°, Trend: 0.985
+20:30:38.937 > 📊 ICM: ax=1084, ay=-3668, az=15628 | Tilt=3.97°, Trend=0.982
+20:30:39.385 > 📊 ICM: ax=972, ay=-3648, az=15708 | Tilt=3.54°, Trend=0.986
+20:30:39.385 > ✓ Updated - Tilt: 3.91°, Trend: 0.983
+20:30:39.837 > 📊 ICM: ax=972, ay=-3676, az=15624 | Tilt=3.56°, Trend=0.981
+20:30:39.861 > 📊 ICM: ax=936, ay=-3768, az=15760 | Tilt=3.40°, Trend=0.991
+20:30:39.861 > ✓ Updated - Tilt: 3.40°, Trend: 0.991
+20:30:40.137 > 📊 ICM: ax=972, ay=-3768, az=15652 | Tilt=3.55°, Trend=0.984
+20:30:40.337 > ✓ Updated - Tilt: 3.63°, Trend: 0.983
+20:30:40.438 > 📊 ICM: ax=1004, ay=-3716, az=15724 | Tilt=3.65°, Trend=0.988
+20:30:40.737 > 📊 ICM: ax=1052, ay=-3688, az=15644 | Tilt=3.85°, Trend=0.983
+20:30:41.037 > ✓ Updated - Tilt: 3.63°, Trend: 0.986
+20:30:41.037 > 📊 ICM: ax=1112, ay=-3736, az=15576 | Tilt=4.08°, Trend=0.980
+20:30:41.337 > 📊 ICM: ax=1040, ay=-3740, az=15700 | Tilt=3.79°, Trend=0.987
+20:30:41.337 > ✓ Updated - Tilt: 3.79°, Trend: 0.987
+20:30:41.404 > [417743][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:30:41.883 > 📊 ICM: ax=980, ay=-3636, az=15692 | Tilt=3.57°, Trend=0.985
+20:30:41.883 > ✓ Updated - Tilt: 3.91°, Trend: 0.984
+20:30:41.938 > 📊 ICM: ax=972, ay=-3632, az=15672 | Tilt=3.55°, Trend=0.984
+20:30:42.237 > 📊 ICM: ax=1044, ay=-3720, az=15676 | Tilt=3.81°, Trend=0.985
+20:30:42.360 > ✓ Updated - Tilt: 3.63°, Trend: 0.990
+20:30:42.537 > 📊 ICM: ax=1060, ay=-3776, az=15616 | Tilt=3.88°, Trend=0.983
+20:30:42.837 > 📊 ICM: ax=1152, ay=-3740, az=15616 | Tilt=4.22°, Trend=0.983
+20:30:42.887 > ✓ Updated - Tilt: 4.22°, Trend: 0.983
+20:30:43.104 > [419443][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:30:43.371 > 📊 ICM: ax=864, ay=-3668, az=15612 | Tilt=3.17°, Trend=0.980
+20:30:43.371 > ✓ Updated - Tilt: 3.38°, Trend: 0.982
+20:30:43.438 > 📊 ICM: ax=1024, ay=-3672, az=15644 | Tilt=3.75°, Trend=0.983
+20:30:43.738 > 📊 ICM: ax=996, ay=-3532, az=15772 | Tilt=3.61°, Trend=0.988
+20:30:44.037 > ✓ Updated - Tilt: 4.17°, Trend: 0.977
+20:30:44.037 > 📊 ICM: ax=924, ay=-3612, az=15736 | Tilt=3.36°, Trend=0.987
+20:30:44.339 > 📊 ICM: ax=1028, ay=-3708, az=15676 | Tilt=3.75°, Trend=0.985
+20:30:44.370 > ✓ Updated - Tilt: 3.75°, Trend: 0.985
+20:30:44.854 > 📊 ICM: ax=988, ay=-3684, az=15720 | Tilt=3.60°, Trend=0.987
+20:30:44.854 > ✓ Updated - Tilt: 3.51°, Trend: 0.988
+20:30:44.937 > 📊 ICM: ax=1024, ay=-3868, az=15656 | Tilt=3.74°, Trend=0.986
+20:30:45.238 > 📊 ICM: ax=1100, ay=-3712, az=15656 | Tilt=4.02°, Trend=0.984
+20:30:45.378 > ✓ Updated - Tilt: 3.21°, Trend: 0.981
+20:30:45.537 > 📊 ICM: ax=1024, ay=-3704, az=15664 | Tilt=3.74°, Trend=0.984
+20:30:45.855 > 📊 ICM: ax=904, ay=-3756, az=15664 | Tilt=3.30°, Trend=0.985
+20:30:45.855 > ✓ Updated - Tilt: 3.30°, Trend: 0.985
+20:30:46.137 > 📊 ICM: ax=1008, ay=-3692, az=15720 | Tilt=3.67°, Trend=0.987
+20:30:46.388 > ✓ Updated - Tilt: 3.80°, Trend: 0.985
+20:30:46.737 > 📊 ICM: ax=944, ay=-3664, az=15664 | Tilt=3.45°, Trend=0.984
+20:30:46.860 > 📊 ICM: ax=920, ay=-3688, az=15700 | Tilt=3.35°, Trend=0.986
+20:30:46.860 > ✓ Updated - Tilt: 3.69°, Trend: 0.985
+20:30:47.038 > 📊 ICM: ax=984, ay=-3596, az=15672 | Tilt=3.59°, Trend=0.983
+20:30:47.339 > 📊 ICM: ax=1064, ay=-3688, az=15720 | Tilt=3.87°, Trend=0.988
+20:30:47.345 > ✓ Updated - Tilt: 3.87°, Trend: 0.988
+20:30:47.872 > 📊 ICM: ax=952, ay=-3688, az=15720 | Tilt=3.47°, Trend=0.987
+20:30:47.872 > ✓ Updated - Tilt: 3.83°, Trend: 0.988
+20:30:47.937 > 📊 ICM: ax=948, ay=-3708, az=15656 | Tilt=3.47°, Trend=0.984
+20:30:48.237 > 📊 ICM: ax=1108, ay=-3576, az=15652 | Tilt=4.05°, Trend=0.982
+20:30:48.347 > ✓ Updated - Tilt: 3.34°, Trend: 0.984
+20:30:48.837 > 📊 ICM: ax=872, ay=-3668, az=15708 | Tilt=3.18°, Trend=0.986
+20:30:48.837 > 📊 ICM: ax=984, ay=-3656, az=15652 | Tilt=3.60°, Trend=0.983
+20:30:48.872 > ✓ Updated - Tilt: 3.60°, Trend: 0.983
+20:30:49.137 > 📊 ICM: ax=1040, ay=-3656, az=15644 | Tilt=3.80°, Trend=0.983
+20:30:49.304 > [425643][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:30:49.361 > ✓ Updated - Tilt: 3.62°, Trend: 0.984
+20:30:49.438 > 📊 ICM: ax=1024, ay=-3664, az=15708 | Tilt=3.73°, Trend=0.986
+20:30:49.739 > 📊 ICM: ax=980, ay=-3756, az=15700 | Tilt=3.57°, Trend=0.987
+20:30:49.887 > ✓ Updated - Tilt: 3.60°, Trend: 0.987
+20:30:50.037 > 📊 ICM: ax=1044, ay=-3756, az=15660 | Tilt=3.81°, Trend=0.985
+20:30:50.337 > 📊 ICM: ax=1188, ay=-3820, az=15600 | Tilt=4.35°, Trend=0.983
+20:30:50.362 > ✓ Updated - Tilt: 4.35°, Trend: 0.983
+20:30:50.637 > 📊 ICM: ax=1360, ay=-3944, az=15652 | Tilt=4.97°, Trend=0.989
+20:30:50.937 > ✓ Updated - Tilt: 3.70°, Trend: 0.982
+20:30:50.937 > 📊 ICM: ax=944, ay=-3652, az=15652 | Tilt=3.45°, Trend=0.983
+20:30:51.004 > [427343][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:30:51.378 > 📊 ICM: ax=876, ay=-3660, az=15564 | Tilt=3.22°, Trend=0.977
+20:30:51.378 > ✓ Updated - Tilt: 3.47°, Trend: 0.979
+20:30:51.537 > 📊 ICM: ax=1108, ay=-3752, az=15660 | Tilt=4.05°, Trend=0.985
+20:30:51.851 > 📊 ICM: ax=932, ay=-3700, az=15708 | Tilt=3.40°, Trend=0.987
+20:30:51.851 > ✓ Updated - Tilt: 3.40°, Trend: 0.987
+20:30:52.379 > 📊 ICM: ax=884, ay=-3680, az=15648 | Tilt=3.23°, Trend=0.983
+20:30:52.439 > ✓ Updated - Tilt: 3.72°, Trend: 0.979
+20:30:52.439 > 📊 ICM: ax=1340, ay=-3812, az=15572 | Tilt=4.92°, Trend=0.982
+20:30:52.859 > 📊 ICM: ax=956, ay=-3704, az=15640 | Tilt=3.50°, Trend=0.983
+20:30:52.859 > ✓ Updated - Tilt: 5.09°, Trend: 0.990
+20:30:53.038 > 📊 ICM: ax=692, ay=-3636, az=15728 | Tilt=2.52°, Trend=0.986
+20:30:53.283 > [429623][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+20:30:53.338 > 📊 ICM: ax=1140, ay=-3888, az=15744 | Tilt=4.14°, Trend=0.992
+20:30:53.343 > ✓ Updated - Tilt: 4.14°, Trend: 0.992
+20:30:53.638 > 📊 ICM: ax=1492, ay=-4276, az=15280 | Tilt=5.58°, Trend=0.973
+20:30:53.871 > ✓ Updated - Tilt: 2.79°, Trend: 0.981
