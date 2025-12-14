@@ -129,6 +129,14 @@ static volatile bool sensor_updated = false;
 static SemaphoreHandle_t sensor_mutex;
 volatile bool monitor_screen_active = false;
 
+// ===== TELEGRAM SAMPLES STORAGE =====
+// store raw dynamic_g samples while the 30s countdown is running
+static const int TELEGRAM_RECORD_SECONDS = 30;
+static const int TELEGRAM_MAX_SAMPLES = ICM_SAMPLE_RATE_HZ * TELEGRAM_RECORD_SECONDS; // e.g., 100 * 30 = 3000
+static float telegram_samples[TELEGRAM_MAX_SAMPLES];
+static int telegram_samples_count = 0;
+static SemaphoreHandle_t telegram_samples_mutex;
+
 // =====================================================
 // TOUCH
 // =====================================================
@@ -189,6 +197,14 @@ void on_btn_1_clicked()
     countdown_enabled = true;   // mulai lagi
     lv_label_set_text(guider_ui.telegram_label_8, "00:00:30");
 
+    // Also clear any previously recorded telegram samples so new session starts fresh
+    if (xSemaphoreTake(telegram_samples_mutex, pdMS_TO_TICKS(100)) == pdTRUE) {
+        telegram_samples_count = 0;
+        xSemaphoreGive(telegram_samples_mutex);
+    } else {
+        Serial.println("⚠ Unable to clear telegram samples (mutex)");
+    }
+
     xSemaphoreGive(countdown_mutex);
 
     Serial.println("⏳ Timer reset oleh btn_1");
@@ -199,6 +215,78 @@ extern "C" void telegram_reset_timer(void)
 {
     // Reuse existing C++ handler to keep behavior consistent
     on_btn_1_clicked();
+}
+
+// C-callable function to compute and print stored telegram samples statistics
+extern "C" void telegram_send_data(void)
+{
+    // Acquire samples mutex and snapshot
+    if (xSemaphoreTake(telegram_samples_mutex, pdMS_TO_TICKS(100)) != pdTRUE) {
+        Serial.println("⚠ Unable to access telegram samples (mutex)");
+        return;
+    }
+
+    int n = telegram_samples_count;
+    if (n == 0) {
+        Serial.println("ℹ No telegram samples recorded.");
+        xSemaphoreGive(telegram_samples_mutex);
+        return;
+    }
+    // Compute simple stats: min, max, mean, RMS
+    float sum = 0.0f;
+    float sumsq = 0.0f;
+    float minv = telegram_samples[0];
+    float maxv = telegram_samples[0];
+    for (int i = 0; i < n; ++i) {
+        float v = telegram_samples[i];
+        sum += v;
+        sumsq += v * v;
+        if (v < minv) minv = v;
+        if (v > maxv) maxv = v;
+    }
+    float mean = sum / (float)n;
+    float rms = (n > 0) ? sqrtf(sumsq / (float)n) : 0.0f;
+
+    // Determine qualitative conclusion based on RMS thresholds used elsewhere
+    const float RMS_GOOD = 0.025f;
+    const float RMS_MODERATE = 0.10f;
+    const char *conclusion = "";
+    uint32_t color_hex = 0x7f8c8d; // default gray (idle)
+    if (rms < RMS_GOOD) {
+        conclusion = "Good";
+        color_hex = 0x00ff39;
+    } else if (rms < RMS_MODERATE) {
+        conclusion = "Moderate";
+        color_hex = 0xffd200;
+    } else {
+        conclusion = "Not Good";
+        color_hex = 0xff3b30;
+    }
+
+    Serial.println("--- Telegram Sensor Summary ---");
+    Serial.printf("Samples: %d\n", n);
+    Serial.printf("Mean dynamic_g: %.6f g\n", mean);
+    Serial.printf("RMS dynamic_g:  %.6f g\n", rms);
+    Serial.printf("Min dynamic_g:  %.6f g\n", minv);
+    Serial.printf("Max dynamic_g:  %.6f g\n", maxv);
+    Serial.printf("Conclusion: %s\n", conclusion);
+
+    // Update on-screen status label to reflect conclusion
+    lv_label_set_text(guider_ui.telegram_status, conclusion);
+    lv_obj_set_style_text_color(guider_ui.telegram_status, lv_color_hex(color_hex), LV_PART_MAIN|LV_STATE_DEFAULT);
+
+    // Optionally print a few representative samples (every Nth)
+    int step = (n > 20) ? (n / 10) : 1;
+    Serial.println("Sample preview:");
+    for (int i = 0; i < n; i += step) {
+        Serial.printf("[%4d] %.6f g\n", i, telegram_samples[i]);
+    }
+
+    // Keep data after sending (or reset if desired)
+    // If you want to clear after send, uncomment below:
+    // telegram_samples_count = 0;
+
+    xSemaphoreGive(telegram_samples_mutex);
 }
 // =====================================================
 // MONITOR TASK
@@ -385,6 +473,16 @@ void taskICMTelegram(void *pv) {
         icm_mag_buffer[icm_buf_idx] = dynamic_g;
         icm_buf_idx = (icm_buf_idx + 1) % ICM_BUFFER_SIZE;
         if (icm_samples < ICM_BUFFER_SIZE) icm_samples++;
+
+        // Also append into telegram_samples while timer is running
+        if (timer_running) {
+            if (xSemaphoreTake(telegram_samples_mutex, pdMS_TO_TICKS(10)) == pdTRUE) {
+                if (telegram_samples_count < TELEGRAM_MAX_SAMPLES) {
+                    telegram_samples[telegram_samples_count++] = dynamic_g;
+                }
+                xSemaphoreGive(telegram_samples_mutex);
+            }
+        }
 
         // Compute RMS over available samples
         float sumsq = 0.0f;
@@ -592,6 +690,7 @@ void setup() {
 
     // Create mutex untuk sensor data protection
     sensor_mutex = xSemaphoreCreateMutex();
+    telegram_samples_mutex = xSemaphoreCreateMutex();
     countdown_mutex = xSemaphoreCreateMutex();
 
     // Display & UI

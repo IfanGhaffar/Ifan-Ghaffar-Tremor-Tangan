@@ -13,6 +13,8 @@
 
 // Forward declaration for C-callable reset function implemented in main.cpp
 extern void telegram_reset_timer(void);
+// Forward declaration for C-callable send function implemented in main.cpp
+extern void telegram_send_data(void);
 
 #if LV_USE_GUIDER_SIMULATOR && LV_USE_FREEMASTER
 #include "freemaster_client.h"
@@ -289,10 +291,34 @@ static void telegram_btn_1_event_handler (lv_event_t *e)
     }
 }
 
+static void telegram_btn_2_event_handler (lv_event_t *e)
+{
+    lv_event_code_t code = lv_event_get_code(e);
+    switch (code) {
+    case LV_EVENT_CLICKED:
+    {
+        // Debounce for send button as well
+        static uint32_t last_send_ms = 0;
+        uint32_t now = lv_tick_get();
+        if (lv_tick_elaps(last_send_ms) < 300) {
+            break;
+        }
+        last_send_ms = now;
+
+        // Call C wrapper to print/send stored samples over Serial
+        telegram_send_data();
+        break;
+    }
+    default:
+        break;
+    }
+}
+
 void events_init_telegram (lv_ui *ui)
 {
     lv_obj_add_event_cb(ui->telegram, telegram_event_handler, LV_EVENT_ALL, ui);
     lv_obj_add_event_cb(ui->telegram_btn_1, telegram_btn_1_event_handler, LV_EVENT_ALL, ui);
+    lv_obj_add_event_cb(ui->telegram_btn_2, telegram_btn_2_event_handler, LV_EVENT_ALL, ui);
 }
 
 static void info_event_handler (lv_event_t *e)
