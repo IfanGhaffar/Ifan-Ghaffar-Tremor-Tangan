@@ -1,5 +1,5 @@
 /*
-* Copyright 2025 NXP
+* Copyright 2026 NXP
 * NXP Proprietary. This software is owned or controlled by NXP and may only be used strictly in
 * accordance with the applicable license terms. By expressly accepting such terms or by downloading, installing,
 * activating and/or otherwise using the software, you are agreeing that you have read, and that you agree to
@@ -90,7 +90,7 @@ void setup_scr_info(lv_ui *ui)
     //Write codes info_bar_info
     ui->info_bar_info = lv_obj_create(ui->info);
     lv_obj_set_pos(ui->info_bar_info, 76, 31);
-    lv_obj_set_size(ui->info_bar_info, 159, 127);
+    lv_obj_set_size(ui->info_bar_info, 172, 127);
     lv_obj_set_scrollbar_mode(ui->info_bar_info, LV_SCROLLBAR_MODE_OFF);
     lv_obj_add_flag(ui->info_bar_info, LV_OBJ_FLAG_HIDDEN);
 
@@ -108,18 +108,18 @@ void setup_scr_info(lv_ui *ui)
 
     //Write codes info_qrcode_1
     ui->info_qrcode_1 = lv_qrcode_create(ui->info_bar_info);
-    lv_obj_set_pos(ui->info_qrcode_1, 20, 14);
-    lv_obj_set_size(ui->info_qrcode_1, 100, 100);
-    lv_qrcode_set_size(ui->info_qrcode_1, 100);
+    lv_obj_set_pos(ui->info_qrcode_1, 14, 12);
+    lv_obj_set_size(ui->info_qrcode_1, 105, 105);
+    lv_qrcode_set_size(ui->info_qrcode_1, 105);
     lv_qrcode_set_dark_color(ui->info_qrcode_1, lv_color_hex(0x2C3224));
     lv_qrcode_set_light_color(ui->info_qrcode_1, lv_color_hex(0xffffff));
-    const char * info_qrcode_1_data = "https://www.nxp.com/";
-    lv_qrcode_update(ui->info_qrcode_1, info_qrcode_1_data, 20);
+    const char * info_qrcode_1_data = "www.linkedin.com/in/muhammad-ifan-ghaffar-a2515a193";
+    lv_qrcode_update(ui->info_qrcode_1, info_qrcode_1_data, 51);
 
     //Write codes info_btn_2
     ui->info_btn_2 = lv_button_create(ui->info_bar_info);
-    lv_obj_set_pos(ui->info_btn_2, 131, 9);
-    lv_obj_set_size(ui->info_btn_2, 16, 16);
+    lv_obj_set_pos(ui->info_btn_2, 130, 8);
+    lv_obj_set_size(ui->info_btn_2, 30, 25);
     ui->info_btn_2_label = lv_label_create(ui->info_btn_2);
     lv_label_set_text(ui->info_btn_2_label, "" LV_SYMBOL_CLOSE "");
     lv_label_set_long_mode(ui->info_btn_2_label, LV_LABEL_LONG_WRAP);

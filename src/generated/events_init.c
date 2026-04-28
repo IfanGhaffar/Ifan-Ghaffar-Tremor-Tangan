@@ -1,5 +1,5 @@
 /*
-* Copyright 2025 NXP
+* Copyright 2026 NXP
 * NXP Proprietary. This software is owned or controlled by NXP and may only be used strictly in
 * accordance with the applicable license terms. By expressly accepting such terms or by downloading, installing,
 * activating and/or otherwise using the software, you are agreeing that you have read, and that you agree to
@@ -12,9 +12,9 @@
 #include "lvgl.h"
 
 // Forward declaration for C-callable reset function implemented in main.cpp
-extern void telegram_reset_timer(void);
+extern void timer_reset_timer(void);
 // Forward declaration for C-callable send function implemented in main.cpp
-extern void telegram_send_data(void);
+extern void timer_send_data(void);
 
 #if LV_USE_GUIDER_SIMULATOR && LV_USE_FREEMASTER
 #include "freemaster_client.h"
@@ -80,7 +80,7 @@ static void menu_btn_2_event_handler (lv_event_t *e)
     switch (code) {
     case LV_EVENT_CLICKED:
     {
-        ui_load_scr_animation(&guider_ui, &guider_ui.bar_tele, guider_ui.bar_tele_del, &guider_ui.menu_del, setup_scr_bar_tele, LV_SCR_LOAD_ANIM_FADE_ON, 200, 0, true, true);
+        ui_load_scr_animation(&guider_ui, &guider_ui.timer, guider_ui.timer_del, &guider_ui.menu_del, setup_scr_timer, LV_SCR_LOAD_ANIM_FADE_ON, 200, 0, true, true);
         break;
     }
     default:
@@ -94,7 +94,7 @@ static void menu_btn_1_event_handler (lv_event_t *e)
     switch (code) {
     case LV_EVENT_CLICKED:
     {
-        ui_load_scr_animation(&guider_ui, &guider_ui.monitor, guider_ui.monitor_del, &guider_ui.menu_del, setup_scr_monitor, LV_SCR_LOAD_ANIM_FADE_ON, 200, 0, true, true);
+        ui_load_scr_animation(&guider_ui, &guider_ui.realtime, guider_ui.realtime_del, &guider_ui.menu_del, setup_scr_realtime, LV_SCR_LOAD_ANIM_FADE_ON, 200, 0, true, true);
         break;
     }
     default:
@@ -109,7 +109,7 @@ void events_init_menu (lv_ui *ui)
     lv_obj_add_event_cb(ui->menu_btn_1, menu_btn_1_event_handler, LV_EVENT_ALL, ui);
 }
 
-static void monitor_event_handler (lv_event_t *e)
+static void realtime_event_handler (lv_event_t *e)
 {
     lv_event_code_t code = lv_event_get_code(e);
     switch (code) {
@@ -120,7 +120,13 @@ static void monitor_event_handler (lv_event_t *e)
         case LV_DIR_RIGHT:
         {
             lv_indev_wait_release(lv_indev_active());
-            ui_load_scr_animation(&guider_ui, &guider_ui.menu, guider_ui.menu_del, &guider_ui.monitor_del, setup_scr_menu, LV_SCR_LOAD_ANIM_MOVE_RIGHT, 200, 0, true, true);
+            ui_load_scr_animation(&guider_ui, &guider_ui.menu, guider_ui.menu_del, &guider_ui.realtime_del, setup_scr_menu, LV_SCR_LOAD_ANIM_MOVE_RIGHT, 200, 0, true, true);
+            break;
+        }
+        case LV_DIR_LEFT:
+        {
+            lv_indev_wait_release(lv_indev_active());
+            ui_load_scr_animation(&guider_ui, &guider_ui.info, guider_ui.info_del, &guider_ui.realtime_del, setup_scr_info, LV_SCR_LOAD_ANIM_FADE_ON, 200, 0, true, true);
             break;
         }
         default:
@@ -133,13 +139,13 @@ static void monitor_event_handler (lv_event_t *e)
     }
 }
 
-static void monitor_label_2_event_handler (lv_event_t *e)
+static void realtime_label_2_event_handler (lv_event_t *e)
 {
     lv_event_code_t code = lv_event_get_code(e);
     switch (code) {
     case LV_EVENT_LONG_PRESSED:
     {
-        lv_obj_remove_flag(guider_ui.monitor_calibrate, LV_OBJ_FLAG_HIDDEN);
+        lv_obj_remove_flag(guider_ui.realtime_calibrate, LV_OBJ_FLAG_HIDDEN);
         break;
     }
     default:
@@ -147,13 +153,13 @@ static void monitor_label_2_event_handler (lv_event_t *e)
     }
 }
 
-static void monitor_btn_2_event_handler (lv_event_t *e)
+static void realtime_btn_2_event_handler (lv_event_t *e)
 {
     lv_event_code_t code = lv_event_get_code(e);
     switch (code) {
     case LV_EVENT_CLICKED:
     {
-        lv_obj_add_flag(guider_ui.monitor_calibrate, LV_OBJ_FLAG_HIDDEN);
+        lv_obj_add_flag(guider_ui.realtime_calibrate, LV_OBJ_FLAG_HIDDEN);
         break;
     }
     default:
@@ -161,14 +167,14 @@ static void monitor_btn_2_event_handler (lv_event_t *e)
     }
 }
 
-static void monitor_calibrate_done_event_handler (lv_event_t *e)
+static void realtime_calibrate_done_event_handler (lv_event_t *e)
 {
     lv_event_code_t code = lv_event_get_code(e);
     switch (code) {
     case LV_EVENT_CLICKED:
     {
-        lv_obj_add_flag(guider_ui.monitor_calibrate_done, LV_OBJ_FLAG_HIDDEN);
-        lv_obj_remove_flag(guider_ui.monitor_calibrate_start, LV_OBJ_FLAG_HIDDEN);
+        lv_obj_add_flag(guider_ui.realtime_calibrate_done, LV_OBJ_FLAG_HIDDEN);
+        lv_obj_remove_flag(guider_ui.realtime_calibrate_start, LV_OBJ_FLAG_HIDDEN);
         break;
     }
     default:
@@ -176,14 +182,14 @@ static void monitor_calibrate_done_event_handler (lv_event_t *e)
     }
 }
 
-static void monitor_btn_3_event_handler (lv_event_t *e)
+static void realtime_btn_3_event_handler (lv_event_t *e)
 {
     lv_event_code_t code = lv_event_get_code(e);
     switch (code) {
     case LV_EVENT_CLICKED:
     {
-        lv_obj_add_flag(guider_ui.monitor_calibrate_start, LV_OBJ_FLAG_HIDDEN);
-        lv_obj_remove_flag(guider_ui.monitor_calibrate_done, LV_OBJ_FLAG_HIDDEN);
+        lv_obj_add_flag(guider_ui.realtime_calibrate_start, LV_OBJ_FLAG_HIDDEN);
+        lv_obj_remove_flag(guider_ui.realtime_calibrate_done, LV_OBJ_FLAG_HIDDEN);
         break;
     }
     default:
@@ -191,16 +197,16 @@ static void monitor_btn_3_event_handler (lv_event_t *e)
     }
 }
 
-void events_init_monitor (lv_ui *ui)
+void events_init_realtime (lv_ui *ui)
 {
-    lv_obj_add_event_cb(ui->monitor, monitor_event_handler, LV_EVENT_ALL, ui);
-    lv_obj_add_event_cb(ui->monitor_label_2, monitor_label_2_event_handler, LV_EVENT_ALL, ui);
-    lv_obj_add_event_cb(ui->monitor_btn_2, monitor_btn_2_event_handler, LV_EVENT_ALL, ui);
-    lv_obj_add_event_cb(ui->monitor_calibrate_done, monitor_calibrate_done_event_handler, LV_EVENT_ALL, ui);
-    lv_obj_add_event_cb(ui->monitor_btn_3, monitor_btn_3_event_handler, LV_EVENT_ALL, ui);
+    lv_obj_add_event_cb(ui->realtime, realtime_event_handler, LV_EVENT_ALL, ui);
+    lv_obj_add_event_cb(ui->realtime_label_2, realtime_label_2_event_handler, LV_EVENT_ALL, ui);
+    lv_obj_add_event_cb(ui->realtime_btn_2, realtime_btn_2_event_handler, LV_EVENT_ALL, ui);
+    lv_obj_add_event_cb(ui->realtime_calibrate_done, realtime_calibrate_done_event_handler, LV_EVENT_ALL, ui);
+    lv_obj_add_event_cb(ui->realtime_btn_3, realtime_btn_3_event_handler, LV_EVENT_ALL, ui);
 }
 
-static void bar_tele_event_handler (lv_event_t *e)
+static void timer_event_handler (lv_event_t *e)
 {
     lv_event_code_t code = lv_event_get_code(e);
     switch (code) {
@@ -211,13 +217,13 @@ static void bar_tele_event_handler (lv_event_t *e)
         case LV_DIR_LEFT:
         {
             lv_indev_wait_release(lv_indev_active());
-            ui_load_scr_animation(&guider_ui, &guider_ui.telegram, guider_ui.telegram_del, &guider_ui.bar_tele_del, setup_scr_telegram, LV_SCR_LOAD_ANIM_FADE_ON, 200, 0, true, true);
+            ui_load_scr_animation(&guider_ui, &guider_ui.info, guider_ui.info_del, &guider_ui.timer_del, setup_scr_info, LV_SCR_LOAD_ANIM_FADE_ON, 200, 0, true, true);
             break;
         }
         case LV_DIR_RIGHT:
         {
             lv_indev_wait_release(lv_indev_active());
-            ui_load_scr_animation(&guider_ui, &guider_ui.menu, guider_ui.menu_del, &guider_ui.bar_tele_del, setup_scr_menu, LV_SCR_LOAD_ANIM_FADE_ON, 200, 0, true, true);
+            ui_load_scr_animation(&guider_ui, &guider_ui.menu, guider_ui.menu_del, &guider_ui.timer_del, setup_scr_menu, LV_SCR_LOAD_ANIM_FADE_ON, 200, 0, true, true);
             break;
         }
         default:
@@ -230,42 +236,7 @@ static void bar_tele_event_handler (lv_event_t *e)
     }
 }
 
-void events_init_bar_tele (lv_ui *ui)
-{
-    lv_obj_add_event_cb(ui->bar_tele, bar_tele_event_handler, LV_EVENT_ALL, ui);
-}
-
-static void telegram_event_handler (lv_event_t *e)
-{
-    lv_event_code_t code = lv_event_get_code(e);
-    switch (code) {
-    case LV_EVENT_GESTURE:
-    {
-        lv_dir_t dir = lv_indev_get_gesture_dir(lv_indev_active());
-        switch(dir) {
-        case LV_DIR_LEFT:
-        {
-            lv_indev_wait_release(lv_indev_active());
-            ui_load_scr_animation(&guider_ui, &guider_ui.info, guider_ui.info_del, &guider_ui.telegram_del, setup_scr_info, LV_SCR_LOAD_ANIM_FADE_ON, 200, 0, true, true);
-            break;
-        }
-        case LV_DIR_RIGHT:
-        {
-            lv_indev_wait_release(lv_indev_active());
-            ui_load_scr_animation(&guider_ui, &guider_ui.bar_tele, guider_ui.bar_tele_del, &guider_ui.telegram_del, setup_scr_bar_tele, LV_SCR_LOAD_ANIM_FADE_ON, 200, 0, true, true);
-            break;
-        }
-        default:
-            break;
-        }
-        break;
-    }
-    default:
-        break;
-    }
-}
-
-static void telegram_btn_1_event_handler (lv_event_t *e)
+static void timer_btn_1_event_handler (lv_event_t *e)
 {
     lv_event_code_t code = lv_event_get_code(e);
     switch (code) {
@@ -282,8 +253,8 @@ static void telegram_btn_1_event_handler (lv_event_t *e)
         }
         last_click_ms = now;
 
-        // Call C-accessible wrapper to reset telegram timer
-        telegram_reset_timer();
+        // Call C-accessible wrapper to reset timer
+        timer_reset_timer();
         break;
     }
     default:
@@ -291,34 +262,10 @@ static void telegram_btn_1_event_handler (lv_event_t *e)
     }
 }
 
-static void telegram_btn_2_event_handler (lv_event_t *e)
+void events_init_timer (lv_ui *ui)
 {
-    lv_event_code_t code = lv_event_get_code(e);
-    switch (code) {
-    case LV_EVENT_CLICKED:
-    {
-        // Debounce for send button as well
-        static uint32_t last_send_ms = 0;
-        uint32_t now = lv_tick_get();
-        if (lv_tick_elaps(last_send_ms) < 300) {
-            break;
-        }
-        last_send_ms = now;
-
-        // Call C wrapper to print/send stored samples over Serial
-        telegram_send_data();
-        break;
-    }
-    default:
-        break;
-    }
-}
-
-void events_init_telegram (lv_ui *ui)
-{
-    lv_obj_add_event_cb(ui->telegram, telegram_event_handler, LV_EVENT_ALL, ui);
-    lv_obj_add_event_cb(ui->telegram_btn_1, telegram_btn_1_event_handler, LV_EVENT_ALL, ui);
-    lv_obj_add_event_cb(ui->telegram_btn_2, telegram_btn_2_event_handler, LV_EVENT_ALL, ui);
+    lv_obj_add_event_cb(ui->timer, timer_event_handler, LV_EVENT_ALL, ui);
+    lv_obj_add_event_cb(ui->timer_btn_1, timer_btn_1_event_handler, LV_EVENT_ALL, ui);
 }
 
 static void info_event_handler (lv_event_t *e)
@@ -332,13 +279,13 @@ static void info_event_handler (lv_event_t *e)
         case LV_DIR_LEFT:
         {
             lv_indev_wait_release(lv_indev_active());
-            ui_load_scr_animation(&guider_ui, &guider_ui.screen_1, guider_ui.screen_1_del, &guider_ui.info_del, setup_scr_screen_1, LV_SCR_LOAD_ANIM_FADE_ON, 200, 0, true, true);
+            ui_load_scr_animation(&guider_ui, &guider_ui.menu, guider_ui.menu_del, &guider_ui.info_del, setup_scr_menu, LV_SCR_LOAD_ANIM_FADE_ON, 200, 0, true, true);
             break;
         }
         case LV_DIR_RIGHT:
         {
             lv_indev_wait_release(lv_indev_active());
-            ui_load_scr_animation(&guider_ui, &guider_ui.telegram, guider_ui.telegram_del, &guider_ui.info_del, setup_scr_telegram, LV_SCR_LOAD_ANIM_NONE, 200, 0, true, true);
+            ui_load_scr_animation(&guider_ui, &guider_ui.menu, guider_ui.menu_del, &guider_ui.info_del, setup_scr_menu, LV_SCR_LOAD_ANIM_FADE_ON, 200, 0, true, true);
             break;
         }
         default:
@@ -379,11 +326,26 @@ static void info_bar_info_event_handler (lv_event_t *e)
     }
 }
 
+static void info_btn_2_event_handler (lv_event_t *e)
+{
+    lv_event_code_t code = lv_event_get_code(e);
+    switch (code) {
+    case LV_EVENT_CLICKED:
+    {
+        lv_obj_add_flag(guider_ui.info_bar_info, LV_OBJ_FLAG_HIDDEN);
+        break;
+    }
+    default:
+        break;
+    }
+}
+
 void events_init_info (lv_ui *ui)
 {
     lv_obj_add_event_cb(ui->info, info_event_handler, LV_EVENT_ALL, ui);
     lv_obj_add_event_cb(ui->info_btn_1, info_btn_1_event_handler, LV_EVENT_ALL, ui);
     lv_obj_add_event_cb(ui->info_bar_info, info_bar_info_event_handler, LV_EVENT_ALL, ui);
+    lv_obj_add_event_cb(ui->info_btn_2, info_btn_2_event_handler, LV_EVENT_ALL, ui);
 }
 
 

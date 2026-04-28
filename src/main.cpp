@@ -55,8 +55,10 @@ char buf[30];
 
 // ====================== COUNTDOWN TIMER ======================
 static int countdown_seconds = 30;      // 1 menit
-static bool countdown_enabled = false;  // aktif saat screen telegram
+static bool countdown_enabled = false;  // aktif saat screen timer
 SemaphoreHandle_t countdown_mutex;      // untuk aman update dari task & button
+SemaphoreHandle_t timer_done_sem = NULL;
+static volatile bool timer_summary_shown = false;
 
 // Untuk menyimpan screen aktif sebelumnya
 lv_obj_t *last_active_screen = NULL;
@@ -64,11 +66,9 @@ lv_obj_t *last_active_screen = NULL;
 // Data dari ICM (replaced tilt/trend with tremor metrics)
 // We'll compute: peak frequency (Hz) and RMS amplitude (g)
 
-// Flag untuk mendeteksi apakah screen monitor atau telegram aktif
+// Flag untuk mendeteksi apakah screen monitor atau timer aktif
 volatile bool sensor_active_screen = false;
-volatile bool telegram_screen_active = false;
-
-
+volatile bool timer_screen_active = false;
 
 // =====================================================
 // CALLBACK DISPLAY LVGL
@@ -129,13 +129,13 @@ static volatile bool sensor_updated = false;
 static SemaphoreHandle_t sensor_mutex;
 volatile bool monitor_screen_active = false;
 
-// ===== TELEGRAM SAMPLES STORAGE =====
+// ===== TIMER SAMPLES STORAGE =====
 // store raw dynamic_g samples while the 30s countdown is running
-static const int TELEGRAM_RECORD_SECONDS = 30;
-static const int TELEGRAM_MAX_SAMPLES = ICM_SAMPLE_RATE_HZ * TELEGRAM_RECORD_SECONDS; // e.g., 100 * 30 = 3000
-static float telegram_samples[TELEGRAM_MAX_SAMPLES];
-static int telegram_samples_count = 0;
-static SemaphoreHandle_t telegram_samples_mutex;
+static const int TIMER_RECORD_SECONDS = 30;
+static const int TIMER_MAX_SAMPLES = ICM_SAMPLE_RATE_HZ * TIMER_RECORD_SECONDS; // e.g., 100 * 30 = 3000
+static float timer_samples[TIMER_MAX_SAMPLES];
+static int timer_samples_count = 0;
+static SemaphoreHandle_t timer_samples_mutex;
 
 // =====================================================
 // TOUCH
@@ -195,14 +195,15 @@ void on_btn_1_clicked()
 
     countdown_seconds = 30;     // reset ke 1 menit
     countdown_enabled = true;   // mulai lagi
-    lv_label_set_text(guider_ui.telegram_label_8, "00:00:30");
+    timer_summary_shown = false;
+    lv_label_set_text(guider_ui.timer_label_8, "00:00:30");
 
-    // Also clear any previously recorded telegram samples so new session starts fresh
-    if (xSemaphoreTake(telegram_samples_mutex, pdMS_TO_TICKS(100)) == pdTRUE) {
-        telegram_samples_count = 0;
-        xSemaphoreGive(telegram_samples_mutex);
+    // Also clear any previously recorded timer samples so new session starts fresh
+    if (xSemaphoreTake(timer_samples_mutex, pdMS_TO_TICKS(100)) == pdTRUE) {
+        timer_samples_count = 0;
+        xSemaphoreGive(timer_samples_mutex);
     } else {
-        Serial.println("⚠ Unable to clear telegram samples (mutex)");
+        Serial.println("⚠ Unable to clear timer samples (mutex)");
     }
 
     xSemaphoreGive(countdown_mutex);
@@ -211,34 +212,34 @@ void on_btn_1_clicked()
 }
 
 // C-callable wrapper so generated C event code can trigger the reset
-extern "C" void telegram_reset_timer(void)
+extern "C" void timer_reset_timer(void)
 {
     // Reuse existing C++ handler to keep behavior consistent
     on_btn_1_clicked();
 }
 
-// C-callable function to compute and print stored telegram samples statistics
-extern "C" void telegram_send_data(void)
+// C-callable function to compute and print stored timer samples statistics
+extern "C" void timer_send_data(void)
 {
     // Acquire samples mutex and snapshot
-    if (xSemaphoreTake(telegram_samples_mutex, pdMS_TO_TICKS(100)) != pdTRUE) {
-        Serial.println("⚠ Unable to access telegram samples (mutex)");
+    if (xSemaphoreTake(timer_samples_mutex, pdMS_TO_TICKS(100)) != pdTRUE) {
+        Serial.println("⚠ Unable to access timer samples (mutex)");
         return;
     }
 
-    int n = telegram_samples_count;
+    int n = timer_samples_count;
     if (n == 0) {
-        Serial.println("ℹ No telegram samples recorded.");
-        xSemaphoreGive(telegram_samples_mutex);
+        Serial.println("ℹ No timer samples recorded.");
+        xSemaphoreGive(timer_samples_mutex);
         return;
     }
     // Compute simple stats: min, max, mean, RMS
     float sum = 0.0f;
     float sumsq = 0.0f;
-    float minv = telegram_samples[0];
-    float maxv = telegram_samples[0];
+    float minv = timer_samples[0];
+    float maxv = timer_samples[0];
     for (int i = 0; i < n; ++i) {
-        float v = telegram_samples[i];
+        float v = timer_samples[i];
         sum += v;
         sumsq += v * v;
         if (v < minv) minv = v;
@@ -263,7 +264,7 @@ extern "C" void telegram_send_data(void)
         color_hex = 0xff3b30;
     }
 
-    Serial.println("--- Telegram Sensor Summary ---");
+    Serial.println("--- Timer Sensor Summary ---");
     Serial.printf("Samples: %d\n", n);
     Serial.printf("Mean dynamic_g: %.6f g\n", mean);
     Serial.printf("RMS dynamic_g:  %.6f g\n", rms);
@@ -272,21 +273,37 @@ extern "C" void telegram_send_data(void)
     Serial.printf("Conclusion: %s\n", conclusion);
 
     // Update on-screen status label to reflect conclusion
-    lv_label_set_text(guider_ui.telegram_status, conclusion);
-    lv_obj_set_style_text_color(guider_ui.telegram_status, lv_color_hex(color_hex), LV_PART_MAIN|LV_STATE_DEFAULT);
+    lv_label_set_text(guider_ui.timer_status, conclusion);
+    lv_obj_set_style_text_color(guider_ui.timer_status, lv_color_hex(color_hex), LV_PART_MAIN|LV_STATE_DEFAULT);
+
+    // Ambil freq terakhir yang tercatat
+    float last_freq = 0.0f;
+    if (xSemaphoreTake(sensor_mutex, pdMS_TO_TICKS(100)) == pdTRUE) {
+        last_freq = current_freq;
+        xSemaphoreGive(sensor_mutex);
+    }
+
+    char lbuf[30];
+    snprintf(lbuf, sizeof(lbuf), "%.2f Hz", last_freq);
+    lv_label_set_text(guider_ui.timer_label_9, lbuf);
+
+    snprintf(lbuf, sizeof(lbuf), "%.4f g", rms);
+    lv_label_set_text(guider_ui.timer_label_10, lbuf);
 
     // Optionally print a few representative samples (every Nth)
     int step = (n > 20) ? (n / 10) : 1;
     Serial.println("Sample preview:");
     for (int i = 0; i < n; i += step) {
-        Serial.printf("[%4d] %.6f g\n", i, telegram_samples[i]);
+        Serial.printf("[%4d] %.6f g\n", i, timer_samples[i]);
     }
+
+    timer_summary_shown = true;
 
     // Keep data after sending (or reset if desired)
     // If you want to clear after send, uncomment below:
-    // telegram_samples_count = 0;
+    // timer_samples_count = 0;
 
-    xSemaphoreGive(telegram_samples_mutex);
+    xSemaphoreGive(timer_samples_mutex);
 }
 // =====================================================
 // MONITOR TASK
@@ -307,14 +324,14 @@ void taskScreenMonitor(void *pv) {
             else if (active_scr == guider_ui.menu) {
                 Serial.println("📌 Active Screen: menu");
             }
-            else if (active_scr == guider_ui.monitor) {
+            else if (active_scr == guider_ui.realtime) {
+                Serial.println("📌 Active Screen: REAL-TIME");
+            }
+            else if (active_scr == guider_ui.info) {
                 Serial.println("📌 Active Screen: MONITOR");
             }
-            else if (active_scr == guider_ui.bar_tele) {
-                Serial.println("📌 Active Screen: MONITOR");
-            }
-            else if (active_scr == guider_ui.telegram) {
-                Serial.println("📌 Active Screen: telegram");
+            else if (active_scr == guider_ui.timer) {
+                Serial.println("📌 Active Screen: timer");
                 xSemaphoreTake(countdown_mutex, portMAX_DELAY);
                 countdown_enabled = true;   // hidupkan hitungan mundur
                 xSemaphoreGive(countdown_mutex);
@@ -433,17 +450,17 @@ void taskICMMonitor(void *pv) {
 }
 
 // =====================================================
-// ICM SENSOR TASK - TELEGRAM SCREEN
+// ICM SENSOR TASK - TIMER SCREEN
 // =====================================================
-void taskICMTelegram(void *pv) {
+void taskICMTimer(void *pv) {
     TickType_t last = xTaskGetTickCount();
     while (1) {
-        // Only sample when telegram screen is active AND timer is running
+        // Only sample when timer screen is active AND timer is running
         xSemaphoreTake(countdown_mutex, portMAX_DELAY);
         bool timer_running = countdown_enabled;
         xSemaphoreGive(countdown_mutex);
 
-        if (!telegram_screen_active || !timer_running) {
+        if (!timer_screen_active || !timer_running) {
             vTaskDelayUntil(&last, pdMS_TO_TICKS(200));
             continue;
         }
@@ -458,7 +475,7 @@ void taskICMTelegram(void *pv) {
             static uint8_t err_counter = 0;
             if (err_counter++ == 0) {
                 uint8_t who = icm_read(0x00);
-                Serial.printf("⚠ ICM Telegram: zero-reads detected. WHO_AM_I=0x%02X\n", who);
+                Serial.printf("⚠ ICM Timer: zero-reads detected. WHO_AM_I=0x%02X\n", who);
             }
             vTaskDelayUntil(&last, pdMS_TO_TICKS(100));
             continue;
@@ -474,13 +491,13 @@ void taskICMTelegram(void *pv) {
         icm_buf_idx = (icm_buf_idx + 1) % ICM_BUFFER_SIZE;
         if (icm_samples < ICM_BUFFER_SIZE) icm_samples++;
 
-        // Also append into telegram_samples while timer is running
+        // Also append into timer_samples while timer is running
         if (timer_running) {
-            if (xSemaphoreTake(telegram_samples_mutex, pdMS_TO_TICKS(10)) == pdTRUE) {
-                if (telegram_samples_count < TELEGRAM_MAX_SAMPLES) {
-                    telegram_samples[telegram_samples_count++] = dynamic_g;
+            if (xSemaphoreTake(timer_samples_mutex, pdMS_TO_TICKS(10)) == pdTRUE) {
+                if (timer_samples_count < TIMER_MAX_SAMPLES) {
+                    timer_samples[timer_samples_count++] = dynamic_g;
                 }
-                xSemaphoreGive(telegram_samples_mutex);
+                xSemaphoreGive(timer_samples_mutex);
             }
         }
 
@@ -523,7 +540,7 @@ void taskICMTelegram(void *pv) {
         // Debug output (less frequent)
         static uint8_t debug_counter = 0;
         if (debug_counter++ >= 10) {
-            Serial.printf("📊 ICM Telegram: ax=%d, ay=%d, az=%d | Freq=%.2fHz, RMS=%.4fg\n",
+            Serial.printf("📊 ICM Timer: ax=%d, ay=%d, az=%d | Freq=%.2fHz, RMS=%.4fg\n",
                           ax, ay, az, freq_hz, rms);
             debug_counter = 0;
         }
@@ -538,11 +555,12 @@ void taskCountdown(void *pv)
 
     while(1)
     {
-        // hanya berjalan kalau telegram layar aktif
+        // hanya berjalan kalau timer layar aktif
         if (countdown_enabled)
         {
             xSemaphoreTake(countdown_mutex, portMAX_DELAY);
 
+            bool just_expired = false;
             if (countdown_seconds > 0)
             {
                 countdown_seconds--;
@@ -553,27 +571,84 @@ void taskCountdown(void *pv)
 
                 char buf[20];
                 sprintf(buf, "%02d:%02d:%02d", hh, mm, ss);
-
-                lv_label_set_text(guider_ui.telegram_label_8, buf);
+                lv_label_set_text(guider_ui.timer_label_8, buf);
             }
             else
             {
-                // Jika waktu habis → otomatis berhenti
                 countdown_enabled = false;
+                just_expired = true;        // ← tandai expired
             }
-
             xSemaphoreGive(countdown_mutex);
+
+            if (just_expired)
+            {
+                xSemaphoreGive(timer_done_sem);          // ← otomatis dipanggil saat waktu habis
+            }
         }
 
         vTaskDelayUntil(&last, pdMS_TO_TICKS(1000)); // 1 detik update
     }
 }
 
+// ================= FUZZY LOGIC =====================
+// Simple fuzzy inference using RMS (tremor amplitude) and frequency
+// Produces a score in 0..100 where lower is better (Good) and higher is worse (Not Good)
+static float tri(float x, float a, float b, float c) {
+    if (x <= a) return 0.0f;
+    if (x == b) return 1.0f;
+    if (x < b) return (x - a) / (b - a);
+    if (x > b && x < c) return (c - x) / (c - b);
+    return 0.0f;
+}
+static float left_shoulder(float x, float a, float b) {
+    if (x <= a) return 1.0f;
+    if (x >= b) return 0.0f;
+    return (b - x) / (b - a);
+}
+static float right_shoulder(float x, float a, float b) {
+    if (x <= a) return 0.0f;
+    if (x >= b) return 1.0f;
+    return (x - a) / (b - a);
+}
+
+static float fuzzy_evaluate(float freq, float rms) {
+    // RMS membership (g)
+    float rms_low  = left_shoulder(rms, 0.02f, 0.05f);
+    float rms_med  = tri(rms, 0.02f, 0.05f, 0.10f);
+    float rms_high = right_shoulder(rms, 0.08f, 0.20f);
+
+    // Frequency membership (Hz)
+    float freq_low  = left_shoulder(freq, 1.0f, 3.0f);
+    float freq_med  = tri(freq, 2.0f, 5.0f, 8.0f);
+    float freq_high = right_shoulder(freq, 6.0f, 15.0f);
+
+    // Rules (simple set)
+    // Good  <- rms_low AND (freq_low OR freq_med)
+    float rule_good = fminf(rms_low, fmaxf(freq_low, freq_med));
+    // Moderate <- (rms_med AND (freq_low OR freq_med)) OR (rms_low AND freq_high)
+    float rule_moderate = fmaxf(fminf(rms_med, fmaxf(freq_low, freq_med)), fminf(rms_low, freq_high));
+    // NotGood <- rms_high OR (rms_med AND freq_high)
+    float rule_notgood = fmaxf(rms_high, fminf(rms_med, freq_high));
+
+    float denom = rule_good + rule_moderate + rule_notgood;
+    float score = 0.0f;
+    if (denom > 0.0f) {
+        const float C_GOOD = 10.0f;
+        const float C_MOD  = 50.0f;
+        const float C_NG   = 90.0f;
+        score = (rule_good * C_GOOD + rule_moderate * C_MOD + rule_notgood * C_NG) / denom;
+    }
+
+    // small temporal smoothing to reduce jitter
+    static float last_score = 0.0f;
+    const float alpha = 0.4f; // new weight
+    score = alpha * score + (1.0f - alpha) * last_score;
+    last_score = score;
+    return score;
+}
+
 // =====================================================
 // LVGL TASK
-// =====================================================
-//========== LVGL & UI TASK ==========
-// =====================================================
 void lvglTask(void *pvParameters)
 {
     TickType_t lastWakeTime = xTaskGetTickCount();
@@ -582,100 +657,108 @@ void lvglTask(void *pvParameters)
     
     while (1)
     {
-            lv_obj_t *scr = lv_scr_act();
-            monitor_screen_active = (scr == guider_ui.monitor);
-            telegram_screen_active = (scr == guider_ui.telegram);
+        if (timer_done_sem != NULL && xSemaphoreTake(timer_done_sem, 0) == pdTRUE)
+        {
+            timer_send_data();
+        }
+        lv_obj_t *scr = lv_scr_act();
+        monitor_screen_active = (scr == guider_ui.realtime);
+        timer_screen_active = (scr == guider_ui.timer);
 
-            // Update sensor UI berdasarkan screen mana yang aktif
-            if (sensor_updated) {
-                if (xSemaphoreTake(sensor_mutex, pdMS_TO_TICKS(10)) == pdTRUE) {
-                    float freq = current_freq;
-                    float rms = current_rms;
-                    sensor_updated = false;
-                    xSemaphoreGive(sensor_mutex);
+        // Update sensor UI berdasarkan screen mana yang aktif
+        if (sensor_updated) {
+            if (xSemaphoreTake(sensor_mutex, pdMS_TO_TICKS(10)) == pdTRUE) {
+                float freq = current_freq;
+                float rms = current_rms;
+                sensor_updated = false;
+                xSemaphoreGive(sensor_mutex);
 
-                    // ===== MONITOR SCREEN =====
-                    if (monitor_screen_active) {
+                // ===== MONITOR SCREEN =====
+                if (monitor_screen_active) {
+                    // Update label: frequency (Hz) and RMS amplitude (g)
+                    snprintf(buf, sizeof(buf), "%.2f Hz", freq);
+                    lv_label_set_text(guider_ui.realtime_label_3, buf);
+                    snprintf(buf, sizeof(buf), "%.4f g", rms);
+                    lv_label_set_text(guider_ui.realtime_label_5, buf);
+
+                    // Fuzzy assessment based on freq & rms
+                    float fuzzy_score = fuzzy_evaluate(freq, rms);
+                    const char *status_str;
+                    uint32_t status_color;
+                    if (fuzzy_score < 33.0f) {
+                        status_str = "Good";
+                        status_color = 0x00ff39;
+                    } else if (fuzzy_score < 66.0f) {
+                        status_str = "Moderate";
+                        status_color = 0xffd200;
+                    } else {
+                        status_str = "Not Good";
+                        status_color = 0xff3b30;
+                    }
+                    lv_label_set_text(guider_ui.realtime_label_7, status_str);
+                    lv_obj_set_style_text_color(guider_ui.realtime_label_7, lv_color_hex(status_color), LV_PART_MAIN|LV_STATE_DEFAULT);
+                    Serial.printf("🔍 Fuzzy Real-time: Score=%.1f -> %s\n", fuzzy_score, status_str);
+
+                    // Debug output
+                    static uint8_t debug_counter_monitor = 0;
+                    if (debug_counter_monitor++ >= 4) {
+                        Serial.printf("✓ Real-time - Freq: %.2f Hz, RMS: %.4f g\n", freq, rms);
+                        debug_counter_monitor = 0;
+                    }
+                }
+
+                // ===== TIMER SCREEN =====
+                if (timer_screen_active) {
+                    // Cek apakah timer masih aktif
+                    xSemaphoreTake(countdown_mutex, portMAX_DELAY);
+                    bool timer_running = countdown_enabled;
+                    xSemaphoreGive(countdown_mutex);
+
+                    // Hanya update sensor data jika timer sedang aktif
+                    if (timer_running) {
                         // Update label: frequency (Hz) and RMS amplitude (g)
                         snprintf(buf, sizeof(buf), "%.2f Hz", freq);
-                        lv_label_set_text(guider_ui.monitor_label_3, buf);
+                        lv_label_set_text(guider_ui.timer_label_9, buf);
                         snprintf(buf, sizeof(buf), "%.4f g", rms);
-                        lv_label_set_text(guider_ui.monitor_label_5, buf);
-
-                        // Update condition label based on RMS amplitude
-                        // Thresholds chosen for tremor/RMS display: adjust if needed
-                        const float RMS_GOOD = 0.025f;     // < 0.02 g considered good
-                        const float RMS_MODERATE = 0.10f; // 0.02 - 0.10 g considered moderate
-
-                        if (rms < RMS_GOOD) {
-                            lv_label_set_text(guider_ui.monitor_label_7, "Good");
-                            lv_obj_set_style_text_color(guider_ui.monitor_label_7, lv_color_hex(0x00ff39), LV_PART_MAIN|LV_STATE_DEFAULT);
-                        } else if (rms < RMS_MODERATE) {
-                            lv_label_set_text(guider_ui.monitor_label_7, "Moderate");
-                            lv_obj_set_style_text_color(guider_ui.monitor_label_7, lv_color_hex(0xffd200), LV_PART_MAIN|LV_STATE_DEFAULT);
+                        lv_label_set_text(guider_ui.timer_label_10, buf);
+                        
+                        // Fuzzy assessment based on freq & rms
+                        float fuzzy_score = fuzzy_evaluate(freq, rms);
+                        const char *status_str;
+                        uint32_t status_color;
+                        if (fuzzy_score < 33.0f) {
+                            status_str = "Good";
+                            status_color = 0x00ff39;
+                        } else if (fuzzy_score < 66.0f) {
+                            status_str = "Moderate";
+                            status_color = 0xffd200;
                         } else {
-                            lv_label_set_text(guider_ui.monitor_label_7, "Not Good");
-                            lv_obj_set_style_text_color(guider_ui.monitor_label_7, lv_color_hex(0xff3b30), LV_PART_MAIN|LV_STATE_DEFAULT);
+                            status_str = "Not Good";
+                            status_color = 0xff3b30;
                         }
+                        lv_label_set_text(guider_ui.timer_status, status_str);
+                        lv_obj_set_style_text_color(guider_ui.timer_status, lv_color_hex(status_color), LV_PART_MAIN|LV_STATE_DEFAULT);
+                        Serial.printf("🔍 Fuzzy Timer: Score=%.1f -> %s\n", fuzzy_score, status_str);
 
                         // Debug output
-                        static uint8_t debug_counter_monitor = 0;
-                        if (debug_counter_monitor++ >= 4) {
-                            Serial.printf("✓ Monitor - Freq: %.2f Hz, RMS: %.4f g\n", freq, rms);
-                            debug_counter_monitor = 0;
+                        static uint8_t debug_counter_timer = 0;
+                        if (debug_counter_timer++ >= 4) {
+                            Serial.printf("✓ Timer - Freq: %.2f Hz, RMS: %.4f g\n", freq, rms);
+                            debug_counter_timer = 0;
                         }
+                    } else if (!timer_summary_shown) {
+                        // Hanya reset ke Idle sebelum summary tampil
+                        lv_label_set_text(guider_ui.timer_label_9, "--.- Hz");
+                        lv_label_set_text(guider_ui.timer_label_10, "--.----- g");
+                        lv_label_set_text(guider_ui.timer_status, "Idle");
+                        lv_obj_set_style_text_color(guider_ui.timer_status, lv_color_hex(0x7f8c8d), LV_PART_MAIN|LV_STATE_DEFAULT);
                     }
-
-                    // ===== TELEGRAM SCREEN =====
-                    if (telegram_screen_active) {
-                        // Cek apakah timer masih aktif
-                        xSemaphoreTake(countdown_mutex, portMAX_DELAY);
-                        bool timer_running = countdown_enabled;
-                        xSemaphoreGive(countdown_mutex);
-
-                        // Hanya update sensor data jika timer sedang aktif
-                        if (timer_running) {
-                            // Update label: frequency (Hz) and RMS amplitude (g)
-                            snprintf(buf, sizeof(buf), "%.2f Hz", freq);
-                            lv_label_set_text(guider_ui.telegram_label_9, buf);
-                            snprintf(buf, sizeof(buf), "%.4f g", rms);
-                            lv_label_set_text(guider_ui.telegram_label_10, buf);
-                            
-                            // Update condition label based on RMS amplitude
-                            // Thresholds chosen for tremor/RMS display: adjust if needed
-                            const float RMS_GOOD = 0.025f;     // < 0.02 g considered good
-                            const float RMS_MODERATE = 0.10f; // 0.02 - 0.10 g considered moderate
-
-                            if (rms < RMS_GOOD) {
-                                lv_label_set_text(guider_ui.telegram_status, "Good");
-                                lv_obj_set_style_text_color(guider_ui.telegram_status, lv_color_hex(0x00ff39), LV_PART_MAIN|LV_STATE_DEFAULT);
-                            } else if (rms < RMS_MODERATE) {
-                                lv_label_set_text(guider_ui.telegram_status, "Moderate");
-                                lv_obj_set_style_text_color(guider_ui.telegram_status, lv_color_hex(0xffd200), LV_PART_MAIN|LV_STATE_DEFAULT);
-                            } else {
-                                lv_label_set_text(guider_ui.telegram_status, "Not Good");
-                                lv_obj_set_style_text_color(guider_ui.telegram_status, lv_color_hex(0xff3b30), LV_PART_MAIN|LV_STATE_DEFAULT);
-                            }
-
-                            // Debug output
-                            static uint8_t debug_counter_telegram = 0;
-                            if (debug_counter_telegram++ >= 4) {
-                                Serial.printf("✓ Telegram - Freq: %.2f Hz, RMS: %.4f g\n", freq, rms);
-                                debug_counter_telegram = 0;
-                            }
-                        } else {
-                            // Timer sudah habis - reset tampilan
-                            lv_label_set_text(guider_ui.telegram_label_9, "--.- Hz");
-                            lv_label_set_text(guider_ui.telegram_label_10, "--.----- g");
-                            lv_label_set_text(guider_ui.telegram_status, "Idle");
-                            lv_obj_set_style_text_color(guider_ui.telegram_status, lv_color_hex(0x7f8c8d), LV_PART_MAIN|LV_STATE_DEFAULT);
-                        }
-                    }
-
-                    icmDataDisplay_tilt = freq; // reusing variable name for brief display smoothing
-                    icmDataDisplay_trend = rms;
                 }
+
+                icmDataDisplay_tilt = freq; // reusing variable name for brief display smoothing
+                icmDataDisplay_trend = rms;
             }
+        }
 
         lv_timer_handler();
         vTaskDelayUntil(&lastWakeTime, pdMS_TO_TICKS(10));
@@ -690,8 +773,9 @@ void setup() {
 
     // Create mutex untuk sensor data protection
     sensor_mutex = xSemaphoreCreateMutex();
-    telegram_samples_mutex = xSemaphoreCreateMutex();
+    timer_samples_mutex = xSemaphoreCreateMutex();
     countdown_mutex = xSemaphoreCreateMutex();
+    timer_done_sem = xSemaphoreCreateBinary();
 
     // Display & UI
     init_display();
@@ -730,8 +814,8 @@ void setup() {
     xTaskCreatePinnedToCore(touchTask,           "TouchTask", 4096, NULL, 1, NULL, 0);
     xTaskCreatePinnedToCore(lvglTask,            "LVGLTask",  8192, NULL, 3, NULL, 1);
     xTaskCreatePinnedToCore(taskICMMonitor,      "ICMMonitor", 4096, NULL, 2, NULL, 0);
-    xTaskCreatePinnedToCore(taskICMTelegram,     "ICMTelegram", 4096, NULL, 2, NULL, 0);
-    xTaskCreatePinnedToCore(taskCountdown,       "CountdownTask", 2048, NULL, 2, NULL, 1);
+    xTaskCreatePinnedToCore(taskICMTimer,        "ICMTimer", 4096, NULL, 2, NULL, 0);
+    xTaskCreatePinnedToCore(taskCountdown,       "CountdownTask", 4096, NULL, 2, NULL, 1);
 }
 
 void loop() {

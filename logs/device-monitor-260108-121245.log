@@ -1,0 +1,49 @@
+12:12:46.848 > 📌 Active Screen: menu
+12:12:48.467 > 📌 Active Screen: MONITOR
+12:12:50.863 > ⚠ ICM zero-reads detected. WHO_AM_I=0x00 | regs: 2D=0x00 2E=0x00 2F=0x00 30=0x00 31=0x00 32=0x00
+12:12:50.863 > 📌 Active Screen: menu
+12:12:52.272 > 📌 Active Screen: MONITOR
+12:12:53.241 > 📌 Active Screen: telegram
+12:12:53.420 > ⚠ ICM Telegram: zero-reads detected. WHO_AM_I=0x00
+12:12:54.818 > 📌 Active Screen: menu
+12:12:55.630 > 📌 Active Screen: telegram
+12:12:57.696 > 📌 Active Screen: MONITOR
+12:12:58.407 > 📌 Active Screen: telegram
+12:13:01.483 > ⏳ Timer reset oleh btn_1
+12:13:05.477 > ⏳ Timer reset oleh btn_1
+12:13:06.805 > 📌 Active Screen: menu
+12:13:07.671 > Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+12:13:07.672 > 
+12:13:07.672 > Core  1 register dump:
+12:13:07.672 > PC      : 0x4200d63c  PS      : 0x00060330  A0      : 0x8200d6c5  A1      : 0x3fcbda70  
+12:13:07.672 > A2      : 0x00000007  A3      : 0x0000001b  A4      : 0x00000040  A5      : 0x3fcbdac8  
+12:13:07.672 > A6      : 0xffffffff  A7      : 0x3fc9caa0  A8      : 0x3fc9c9b4  A9      : 0x02000000  
+12:13:07.672 > A10     : 0xffffffff  A11     : 0x40000000  A12     : 0x00000200  A13     : 0x00000000  
+12:13:07.672 > A14     : 0x0000ffff  A15     : 0x00000004  SAR     : 0x0000001a  EXCCAUSE: 0x0000001c  
+12:13:07.672 > EXCVADDR: 0x00000003  LBEG    : 0x40056f5c  LEND    : 0x40056f72  LCOUNT  : 0x00000000  
+12:13:07.672 > 
+12:13:07.672 > 
+12:13:07.672 > Backtrace: 0x4200d639:0x3fcbda70 0x4200d6c2:0x3fcbdaa0 0x4200d87a:0x3fcbdac0 0x4200c78e:0x3fcbdaf0 0x42015cee:0x3fcbdb20 0x42015eb0:0x3fcbdb90 0x420146fb:0x3fcbdbd0 0x42014e0d:0x3fcbdbf0 0x42015479:0x3fcbdc70 0x42019a91:0x3fcbdc90 0x4200423f:0x3fcbdcc0
+12:13:07.672 > 
+12:13:07.672 > 
+12:13:07.672 > 
+12:13:07.672 > 
+12:13:07.672 > ELF file SHA256: 7210a6c3f154bc6d
+12:13:07.672 > 
+12:13:07.672 > Rebooting...
+12:13:07.672 > ESP-ROM:esp32s3-20210327
+12:13:07.672 > Build:Mar 27 2021
+12:13:07.674 > rst:0xc (RTC_SW_CPU_RST),boot:0x28 (SPI_FAST_FLASH_BOOT)
+12:13:07.674 > Saved PC:0x420645ea
+12:13:07.674 > SPIWP:0xee
+12:13:07.674 > mode:DIO, clock div:1
+12:13:07.674 > load:0x3fce3808,len:0x4bc
+12:13:07.679 > load:0x403c9700,len:0xbd8
+12:13:07.679 > load:0x403cc700,len:0x2a0c
+12:13:07.688 > entry 0x403c98d0
+12:13:08.741 > WHO_AM_I = 0x0
+12:13:08.741 > ❌ Sensor tidak terdeteksi!
+12:13:08.741 > 📌 Active Screen: screen_1 (Home)
+12:13:11.948 > [  4280][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+12:13:18.631 > 📌 Active Screen: menu
+12:13:19.652 > 📌 Active Screen: screen_1 (Home)

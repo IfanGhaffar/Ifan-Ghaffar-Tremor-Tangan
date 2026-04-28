@@ -36,7 +36,7 @@ extern lv_ui guider_ui;
 /**
  * Custom event handler untuk btn_1 (reset timer)
  */
-static void telegram_btn_1_custom_handler(lv_event_t *e)
+static void timer_btn_1_custom_handler(lv_event_t *e)
 {
     lv_event_code_t code = lv_event_get_code(e);
     if (code == LV_EVENT_CLICKED) {
@@ -51,8 +51,8 @@ static void telegram_btn_1_custom_handler(lv_event_t *e)
 void custom_init(lv_ui *ui)
 {
     /* Add custom event handlers here */
-    if (ui && ui->telegram_btn_1) {
-        lv_obj_add_event_cb(ui->telegram_btn_1, telegram_btn_1_custom_handler, LV_EVENT_CLICKED, NULL);
+    if (ui && ui->timer_btn_1) {
+        lv_obj_add_event_cb(ui->timer_btn_1, timer_btn_1_custom_handler, LV_EVENT_CLICKED, NULL);
     }
 }
 

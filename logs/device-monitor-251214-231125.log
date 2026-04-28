@@ -1,0 +1,19 @@
+23:11:41.863 > 📌 Active Screen: menu
+23:11:51.117 > 📌 Active Screen: MONITOR
+23:11:51.141 > 📊 ICM Monitor: ax=-244, ay=-108, az=16112 | Freq=0.00Hz, RMS=0.0154g
+23:11:51.250 > 📊 ICM Monitor: ax=-296, ay=-172, az=16132 | Freq=0.00Hz, RMS=0.0149g
+23:11:51.361 > ✓ Monitor - Freq: 0.00 Hz, RMS: 0.0158 g
+23:11:51.364 > 📊 ICM Monitor: ax=-312, ay=-180, az=16116 | Freq=0.00Hz, RMS=0.0156g
+23:11:51.469 > 📊 ICM Monitor: ax=-268, ay=-180, az=16088 | Freq=0.00Hz, RMS=0.0153g
+23:11:51.582 > 📊 ICM Monitor: ax=-268, ay=-148, az=16176 | Freq=0.00Hz, RMS=0.0150g
+23:11:51.692 > ✓ Monitor - Freq: 0.00 Hz, RMS: 0.0150 g
+23:11:51.694 > 📊 ICM Monitor: ax=-284, ay=-236, az=16088 | Freq=0.00Hz, RMS=0.0150g
+23:11:51.803 > ⚠ ICM zero-reads detected. WHO_AM_I=0x00 | regs: 2D=0x00 2E=0x00 2F=0x00 30=0x00 31=0x00 32=0x00
+23:12:01.107 > 📌 Active Screen: menu
+23:12:02.977 > 📌 Active Screen: MONITOR
+23:12:05.067 > 📌 Active Screen: menu
+23:12:05.857 > 📌 Active Screen: MONITOR
+23:12:08.374 > 📌 Active Screen: menu
+23:12:09.316 > 📌 Active Screen: MONITOR
+23:12:10.380 > 📌 Active Screen: menu
+23:12:10.668 > [ 46505][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1

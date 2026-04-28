@@ -1,5 +1,5 @@
 /*
-* Copyright 2025 NXP
+* Copyright 2026 NXP
 * NXP Proprietary. This software is owned or controlled by NXP and may only be used strictly in
 * accordance with the applicable license terms. By expressly accepting such terms or by downloading, installing,
 * activating and/or otherwise using the software, you are agreeing that you have read, and that you agree to
@@ -74,9 +74,8 @@ void init_scr_del_flag(lv_ui *ui)
 
     ui->screen_1_del = true;
     ui->menu_del = true;
-    ui->monitor_del = true;
-    ui->bar_tele_del = true;
-    ui->telegram_del = true;
+    ui->realtime_del = true;
+    ui->timer_del = true;
     ui->info_del = true;
 }
 

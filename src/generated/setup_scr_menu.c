@@ -1,5 +1,5 @@
 /*
-* Copyright 2025 NXP
+* Copyright 2026 NXP
 * NXP Proprietary. This software is owned or controlled by NXP and may only be used strictly in
 * accordance with the applicable license terms. By expressly accepting such terms or by downloading, installing,
 * activating and/or otherwise using the software, you are agreeing that you have read, and that you agree to
@@ -61,7 +61,7 @@ void setup_scr_menu(lv_ui *ui)
     lv_obj_set_pos(ui->menu_btn_2, 110, 100);
     lv_obj_set_size(ui->menu_btn_2, 100, 50);
     ui->menu_btn_2_label = lv_label_create(ui->menu_btn_2);
-    lv_label_set_text(ui->menu_btn_2_label, "Telegram");
+    lv_label_set_text(ui->menu_btn_2_label, "Timer");
     lv_label_set_long_mode(ui->menu_btn_2_label, LV_LABEL_LONG_WRAP);
     lv_obj_align(ui->menu_btn_2_label, LV_ALIGN_CENTER, 0, 0);
     lv_obj_set_style_pad_all(ui->menu_btn_2, 0, LV_STATE_DEFAULT);
@@ -84,7 +84,7 @@ void setup_scr_menu(lv_ui *ui)
     lv_obj_set_pos(ui->menu_btn_1, 110, 25);
     lv_obj_set_size(ui->menu_btn_1, 100, 50);
     ui->menu_btn_1_label = lv_label_create(ui->menu_btn_1);
-    lv_label_set_text(ui->menu_btn_1_label, "Monitoring");
+    lv_label_set_text(ui->menu_btn_1_label, "Real Time");
     lv_label_set_long_mode(ui->menu_btn_1_label, LV_LABEL_LONG_WRAP);
     lv_obj_align(ui->menu_btn_1_label, LV_ALIGN_CENTER, 0, 0);
     lv_obj_set_style_pad_all(ui->menu_btn_1, 0, LV_STATE_DEFAULT);

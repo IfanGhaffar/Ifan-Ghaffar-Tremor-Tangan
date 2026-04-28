@@ -1,0 +1,1301 @@
+13:10:18.633 > WHO_AM_I = 0xEA
+13:10:18.633 > ✔ ICM20948 terdeteksi!
+13:10:18.633 > 📌 Active Screen: screen_1 (Home)
+13:10:24.553 > 📌 Active Screen: menu
+13:10:26.287 > 🔍 Fuzzy Real-time: Score=5.0 -> Good
+13:10:26.287 > 🔍 Fuzzy Real-time: Score=8.5 -> Good
+13:10:26.325 > 📊 ICM Monitor: ax=1004, ay=15952, az=1020 | Freq=0.00Hz, RMS=0.0230g
+13:10:26.338 > 🔍 Fuzzy Real-time: Score=10.9 -> Good
+13:10:26.338 > 📌 Active Screen: REAL-TIME
+13:10:26.440 > 📊 ICM Monitor: ax=1024, ay=15928, az=920 | Freq=0.00Hz, RMS=0.0244g
+13:10:26.453 > 🔍 Fuzzy Real-time: Score=12.9 -> Good
+13:10:26.506 > 🔍 Fuzzy Real-time: Score=14.2 -> Good
+13:10:26.506 > ✓ Real-time - Freq: 0.00 Hz, RMS: 0.0247 g
+13:10:26.553 > 📊 ICM Monitor: ax=1056, ay=15864, az=996 | Freq=0.00Hz, RMS=0.0248g
+13:10:26.635 > 🔍 Fuzzy Real-time: Score=15.1 -> Good
+13:10:26.635 > 🔍 Fuzzy Real-time: Score=15.6 -> Good
+13:10:26.659 > 📊 ICM Monitor: ax=932, ay=15872, az=996 | Freq=0.00Hz, RMS=0.0249g
+13:10:26.690 > 🔍 Fuzzy Real-time: Score=16.0 -> Good
+13:10:26.754 > 🔍 Fuzzy Real-time: Score=16.2 -> Good
+13:10:26.773 > 📊 ICM Monitor: ax=1036, ay=15928, az=972 | Freq=0.00Hz, RMS=0.0250g
+13:10:26.820 > 🔍 Fuzzy Real-time: Score=16.5 -> Good
+13:10:26.820 > ✓ Real-time - Freq: 0.00 Hz, RMS: 0.0251 g
+13:10:26.873 > 🔍 Fuzzy Real-time: Score=16.7 -> Good
+13:10:26.873 > 📊 ICM Monitor: ax=1064, ay=15892, az=884 | Freq=0.00Hz, RMS=0.0252g
+13:10:26.938 > 🔍 Fuzzy Real-time: Score=16.8 -> Good
+13:10:26.988 > 📊 ICM Monitor: ax=932, ay=15980, az=1248 | Freq=0.00Hz, RMS=0.0251g
+13:10:27.004 > 🔍 Fuzzy Real-time: Score=16.8 -> Good
+13:10:27.103 > 🔍 Fuzzy Real-time: Score=16.8 -> Good
+13:10:27.103 > 📊 ICM Monitor: ax=1068, ay=15876, az=772 | Freq=0.00Hz, RMS=0.0250g
+13:10:27.122 > 🔍 Fuzzy Real-time: Score=16.8 -> Good
+13:10:27.122 > ✓ Real-time - Freq: 0.00 Hz, RMS: 0.0251 g
+13:10:27.186 > 🔍 Fuzzy Real-time: Score=16.7 -> Good
+13:10:27.211 > 📊 ICM Monitor: ax=1108, ay=15924, az=1024 | Freq=0.00Hz, RMS=0.0250g
+13:10:27.238 > 🔍 Fuzzy Real-time: Score=16.6 -> Good
+13:10:27.323 > 🔍 Fuzzy Real-time: Score=16.6 -> Good
+13:10:27.323 > 📊 ICM Monitor: ax=988, ay=15940, az=1000 | Freq=0.00Hz, RMS=0.0249g
+13:10:27.370 > 🔍 Fuzzy Real-time: Score=16.7 -> Good
+13:10:27.421 > 🔍 Fuzzy Real-time: Score=16.8 -> Good
+13:10:27.421 > ✓ Real-time - Freq: 0.00 Hz, RMS: 0.0252 g
+13:10:27.421 > 📊 ICM Monitor: ax=1036, ay=15796, az=896 | Freq=0.00Hz, RMS=0.0252g
+13:10:27.491 > 🔍 Fuzzy Real-time: Score=16.9 -> Good
+13:10:27.538 > 📊 ICM Monitor: ax=948, ay=15936, az=972 | Freq=0.00Hz, RMS=0.0252g
+13:10:27.553 > 🔍 Fuzzy Real-time: Score=16.9 -> Good
+13:10:27.612 > 🔍 Fuzzy Real-time: Score=17.0 -> Good
+13:10:27.653 > 📊 ICM Monitor: ax=944, ay=15832, az=892 | Freq=0.00Hz, RMS=0.0253g
+13:10:27.677 > 🔍 Fuzzy Real-time: Score=17.0 -> Good
+13:10:27.739 > 🔍 Fuzzy Real-time: Score=17.0 -> Good
+13:10:27.739 > ✓ Real-time - Freq: 0.00 Hz, RMS: 0.0253 g
+13:10:27.757 > 📊 ICM Monitor: ax=968, ay=15920, az=952 | Freq=0.00Hz, RMS=0.0253g
+13:10:27.789 > 🔍 Fuzzy Real-time: Score=17.1 -> Good
+13:10:27.855 > 🔍 Fuzzy Real-time: Score=17.1 -> Good
+13:10:27.873 > 📊 ICM Monitor: ax=1004, ay=15832, az=1084 | Freq=0.00Hz, RMS=0.0253g
+13:10:27.983 > 🔍 Fuzzy Real-time: Score=17.1 -> Good
+13:10:27.983 > 📊 ICM Monitor: ax=968, ay=15908, az=960 | Freq=0.00Hz, RMS=0.0254g
+13:10:27.983 > 🔍 Fuzzy Real-time: Score=17.2 -> Good
+13:10:28.045 > 🔍 Fuzzy Real-time: Score=17.2 -> Good
+13:10:28.045 > ✓ Real-time - Freq: 0.00 Hz, RMS: 0.0255 g
+13:10:28.088 > 📊 ICM Monitor: ax=1052, ay=15828, az=1020 | Freq=0.00Hz, RMS=0.0255g
+13:10:28.154 > 🔍 Fuzzy Real-time: Score=17.3 -> Good
+13:10:28.154 > 🔍 Fuzzy Real-time: Score=17.4 -> Good
+13:10:28.203 > 📊 ICM Monitor: ax=992, ay=15876, az=960 | Freq=0.00Hz, RMS=0.0256g
+13:10:28.227 > 🔍 Fuzzy Real-time: Score=17.4 -> Good
+13:10:28.312 > 🔍 Fuzzy Real-time: Score=17.5 -> Good
+13:10:28.312 > 📊 ICM Monitor: ax=948, ay=15804, az=976 | Freq=0.00Hz, RMS=0.0257g
+13:10:28.339 > 🔍 Fuzzy Real-time: Score=17.5 -> Good
+13:10:28.339 > ✓ Real-time - Freq: 0.00 Hz, RMS: 0.0257 g
+13:10:28.423 > 🔍 Fuzzy Real-time: Score=17.5 -> Good
+13:10:28.423 > 📊 ICM Monitor: ax=988, ay=15912, az=1016 | Freq=0.00Hz, RMS=0.0257g
+13:10:28.473 > 🔍 Fuzzy Real-time: Score=17.6 -> Good
+13:10:28.521 > 📊 ICM Monitor: ax=992, ay=15932, az=1036 | Freq=0.00Hz, RMS=0.0257g
+13:10:28.521 > 🔍 Fuzzy Real-time: Score=17.6 -> Good
+13:10:28.596 > 🔍 Fuzzy Real-time: Score=17.6 -> Good
+13:10:28.644 > 📊 ICM Monitor: ax=1036, ay=15820, az=1048 | Freq=0.00Hz, RMS=0.0258g
+13:10:28.656 > 🔍 Fuzzy Real-time: Score=17.6 -> Good
+13:10:28.656 > ✓ Real-time - Freq: 0.00 Hz, RMS: 0.0258 g
+13:10:28.753 > 🔍 Fuzzy Real-time: Score=17.6 -> Good
+13:10:28.753 > 📊 ICM Monitor: ax=1044, ay=15868, az=1008 | Freq=0.00Hz, RMS=0.0257g
+13:10:28.780 > 🔍 Fuzzy Real-time: Score=17.6 -> Good
+13:10:28.854 > 🔍 Fuzzy Real-time: Score=17.7 -> Good
+13:10:28.854 > 📊 ICM Monitor: ax=964, ay=15936, az=1028 | Freq=0.00Hz, RMS=0.0258g
+13:10:28.903 > 🔍 Fuzzy Real-time: Score=17.7 -> Good
+13:10:28.955 > 🔍 Fuzzy Real-time: Score=17.8 -> Good
+13:10:28.955 > ✓ Real-time - Freq: 0.00 Hz, RMS: 0.0259 g
+13:10:28.973 > 📊 ICM Monitor: ax=1052, ay=15964, az=960 | Freq=0.00Hz, RMS=0.0259g
+13:10:29.025 > 🔍 Fuzzy Real-time: Score=17.8 -> Good
+13:10:29.072 > 📊 ICM Monitor: ax=1048, ay=15940, az=972 | Freq=0.00Hz, RMS=0.0258g
+13:10:29.086 > 🔍 Fuzzy Real-time: Score=17.8 -> Good
+13:10:29.138 > 🔍 Fuzzy Real-time: Score=17.8 -> Good
+13:10:29.188 > 📊 ICM Monitor: ax=1024, ay=15940, az=1068 | Freq=0.00Hz, RMS=0.0258g
+13:10:29.209 > 🔍 Fuzzy Real-time: Score=17.8 -> Good
+13:10:29.270 > 🔍 Fuzzy Real-time: Score=17.8 -> Good
+13:10:29.270 > ✓ Real-time - Freq: 0.00 Hz, RMS: 0.0259 g
+13:10:29.303 > 📊 ICM Monitor: ax=968, ay=15972, az=916 | Freq=0.00Hz, RMS=0.0258g
+13:10:29.327 > 🔍 Fuzzy Real-time: Score=17.8 -> Good
+13:10:29.393 > 🔍 Fuzzy Real-time: Score=17.8 -> Good
+13:10:29.453 > 📊 ICM Monitor: ax=1084, ay=15920, az=1064 | Freq=0.00Hz, RMS=0.0258g
+13:10:29.453 > 🔍 Fuzzy Real-time: Score=17.8 -> Good
+13:10:29.513 > 🔍 Fuzzy Real-time: Score=17.9 -> Good
+13:10:29.523 > 📊 ICM Monitor: ax=1124, ay=16064, az=968 | Freq=0.00Hz, RMS=0.0259g
+13:10:29.571 > 🔍 Fuzzy Real-time: Score=17.9 -> Good
+13:10:29.571 > ✓ Real-time - Freq: 0.00 Hz, RMS: 0.0260 g
+13:10:29.621 > 📊 ICM Monitor: ax=1016, ay=15836, az=960 | Freq=0.00Hz, RMS=0.0261g
+13:10:29.636 > 🔍 Fuzzy Real-time: Score=18.0 -> Good
+13:10:29.688 > 🔍 Fuzzy Real-time: Score=18.1 -> Good
+13:10:29.738 > 📊 ICM Monitor: ax=996, ay=15944, az=1040 | Freq=0.00Hz, RMS=0.0262g
+13:10:29.759 > 🔍 Fuzzy Real-time: Score=18.1 -> Good
+13:10:29.853 > 🔍 Fuzzy Real-time: Score=18.2 -> Good
+13:10:29.853 > 📊 ICM Monitor: ax=932, ay=15924, az=1024 | Freq=0.00Hz, RMS=0.0262g
+13:10:29.882 > 🔍 Fuzzy Real-time: Score=18.2 -> Good
+13:10:29.882 > ✓ Real-time - Freq: 0.00 Hz, RMS: 0.0262 g
+13:10:29.954 > 🔍 Fuzzy Real-time: Score=18.2 -> Good
+13:10:29.954 > 📊 ICM Monitor: ax=1016, ay=15964, az=1016 | Freq=0.00Hz, RMS=0.0261g
+13:10:30.004 > 🔍 Fuzzy Real-time: Score=19.0 -> Good
+13:10:30.055 > 🔍 Fuzzy Real-time: Score=19.5 -> Good
+13:10:30.073 > 📊 ICM Monitor: ax=748, ay=16328, az=1104 | Freq=0.78Hz, RMS=0.0276g
+13:10:30.184 > 🔍 Fuzzy Real-time: Score=22.3 -> Good
+13:10:30.185 > 📊 ICM Monitor: ax=1800, ay=15412, az=988 | Freq=1.56Hz, RMS=0.0326g
+13:10:30.187 > 🔍 Fuzzy Real-time: Score=24.1 -> Good
+13:10:30.187 > ✓ Real-time - Freq: 1.56 Hz, RMS: 0.0326 g
+13:10:30.293 > 🔍 Fuzzy Real-time: Score=25.2 -> Good
+13:10:30.293 > 📊 ICM Monitor: ax=816, ay=16060, az=1024 | Freq=1.56Hz, RMS=0.0326g
+13:10:30.307 > 🔍 Fuzzy Real-time: Score=25.8 -> Good
+13:10:30.371 > 🔍 Fuzzy Real-time: Score=26.3 -> Good
+13:10:30.403 > 📊 ICM Monitor: ax=884, ay=15856, az=868 | Freq=1.56Hz, RMS=0.0327g
+13:10:30.427 > 🔍 Fuzzy Real-time: Score=26.5 -> Good
+13:10:30.494 > 🔍 Fuzzy Real-time: Score=26.7 -> Good
+13:10:30.494 > ✓ Real-time - Freq: 1.56 Hz, RMS: 0.0326 g
+13:10:30.508 > 📊 ICM Monitor: ax=980, ay=16004, az=984 | Freq=1.56Hz, RMS=0.0326g
+13:10:30.614 > 🔍 Fuzzy Real-time: Score=26.7 -> Good
+13:10:30.614 > 🔍 Fuzzy Real-time: Score=26.8 -> Good
+13:10:30.623 > 📊 ICM Monitor: ax=980, ay=15912, az=1000 | Freq=1.56Hz, RMS=0.0326g
+13:10:30.676 > 🔍 Fuzzy Real-time: Score=26.8 -> Good
+13:10:30.721 > 📊 ICM Monitor: ax=988, ay=15944, az=940 | Freq=1.56Hz, RMS=0.0326g
+13:10:30.788 > 🔍 Fuzzy Real-time: Score=26.8 -> Good
+13:10:30.788 > 🔍 Fuzzy Real-time: Score=26.8 -> Good
+13:10:30.788 > ✓ Real-time - Freq: 1.56 Hz, RMS: 0.0325 g
+13:10:30.839 > 📊 ICM Monitor: ax=924, ay=15924, az=940 | Freq=1.56Hz, RMS=0.0325g
+13:10:30.861 > 🔍 Fuzzy Real-time: Score=26.7 -> Good
+13:10:30.922 > 🔍 Fuzzy Real-time: Score=26.7 -> Good
+13:10:30.953 > 📊 ICM Monitor: ax=980, ay=15892, az=960 | Freq=1.56Hz, RMS=0.0325g
+13:10:31.045 > 🔍 Fuzzy Real-time: Score=26.7 -> Good
+13:10:31.045 > 🔍 Fuzzy Real-time: Score=26.7 -> Good
+13:10:31.057 > 📊 ICM Monitor: ax=928, ay=15956, az=1044 | Freq=1.56Hz, RMS=0.0325g
+13:10:31.105 > 🔍 Fuzzy Real-time: Score=26.6 -> Good
+13:10:31.105 > ✓ Real-time - Freq: 1.56 Hz, RMS: 0.0325 g
+13:10:31.155 > 🔍 Fuzzy Real-time: Score=26.6 -> Good
+13:10:31.173 > 📊 ICM Monitor: ax=992, ay=16000, az=992 | Freq=1.56Hz, RMS=0.0324g
+13:10:31.228 > 🔍 Fuzzy Real-time: Score=26.6 -> Good
+13:10:31.271 > 📊 ICM Monitor: ax=952, ay=15904, az=1032 | Freq=1.56Hz, RMS=0.0324g
+13:10:31.288 > 🔍 Fuzzy Real-time: Score=26.5 -> Good
+13:10:31.349 > 🔍 Fuzzy Real-time: Score=26.5 -> Good
+13:10:31.388 > 📊 ICM Monitor: ax=904, ay=15864, az=1032 | Freq=1.56Hz, RMS=0.0323g
+13:10:31.409 > 🔍 Fuzzy Real-time: Score=26.5 -> Good
+13:10:31.409 > ✓ Real-time - Freq: 1.56 Hz, RMS: 0.0323 g
+13:10:31.503 > 🔍 Fuzzy Real-time: Score=26.4 -> Good
+13:10:31.503 > 📊 ICM Monitor: ax=1040, ay=15900, az=1040 | Freq=1.56Hz, RMS=0.0323g
+13:10:31.532 > 🔍 Fuzzy Real-time: Score=26.4 -> Good
+13:10:31.594 > 🔍 Fuzzy Real-time: Score=26.4 -> Good
+13:10:31.608 > 📊 ICM Monitor: ax=976, ay=15852, az=980 | Freq=1.56Hz, RMS=0.0322g
+13:10:31.654 > 🔍 Fuzzy Real-time: Score=26.4 -> Good
+13:10:31.705 > 🔍 Fuzzy Real-time: Score=26.4 -> Good
+13:10:31.715 > ✓ Real-time - Freq: 1.56 Hz, RMS: 0.0323 g
+13:10:31.723 > 📊 ICM Monitor: ax=980, ay=15896, az=996 | Freq=1.56Hz, RMS=0.0323g
+13:10:31.776 > 🔍 Fuzzy Real-time: Score=26.4 -> Good
+13:10:31.837 > 📊 ICM Monitor: ax=1000, ay=15852, az=992 | Freq=1.56Hz, RMS=0.0323g
+13:10:31.837 > 🔍 Fuzzy Real-time: Score=26.4 -> Good
+13:10:31.888 > 🔍 Fuzzy Real-time: Score=26.4 -> Good
+13:10:31.939 > 📊 ICM Monitor: ax=1044, ay=15972, az=1024 | Freq=1.56Hz, RMS=0.0323g
+13:10:31.961 > 🔍 Fuzzy Real-time: Score=26.4 -> Good
+13:10:32.022 > 🔍 Fuzzy Real-time: Score=26.3 -> Good
+13:10:32.022 > ✓ Real-time - Freq: 1.56 Hz, RMS: 0.0322 g
+13:10:32.053 > 📊 ICM Monitor: ax=1028, ay=15920, az=940 | Freq=1.56Hz, RMS=0.0323g
+13:10:32.144 > 🔍 Fuzzy Real-time: Score=26.3 -> Good
+13:10:32.144 > 🔍 Fuzzy Real-time: Score=26.3 -> Good
+13:10:32.159 > 📊 ICM Monitor: ax=1032, ay=15948, az=1036 | Freq=1.56Hz, RMS=0.0321g
+13:10:32.254 > 🔍 Fuzzy Real-time: Score=26.2 -> Good
+13:10:32.254 > 🔍 Fuzzy Real-time: Score=26.1 -> Good
+13:10:32.273 > 📊 ICM Monitor: ax=948, ay=16032, az=1040 | Freq=1.56Hz, RMS=0.0320g
+13:10:32.328 > 🔍 Fuzzy Real-time: Score=26.1 -> Good
+13:10:32.328 > ✓ Real-time - Freq: 1.56 Hz, RMS: 0.0320 g
+13:10:32.372 > 📊 ICM Monitor: ax=932, ay=15964, az=1124 | Freq=1.56Hz, RMS=0.0320g
+13:10:32.388 > 🔍 Fuzzy Real-time: Score=26.0 -> Good
+13:10:32.438 > 🔍 Fuzzy Real-time: Score=26.0 -> Good
+13:10:32.493 > 📊 ICM Monitor: ax=1024, ay=15924, az=980 | Freq=1.56Hz, RMS=0.0320g
+13:10:32.508 > 🔍 Fuzzy Real-time: Score=26.0 -> Good
+13:10:32.571 > 🔍 Fuzzy Real-time: Score=25.4 -> Good
+13:10:32.623 > 📊 ICM Monitor: ax=988, ay=15868, az=956 | Freq=1.17Hz, RMS=0.0307g
+13:10:32.623 > 🔍 Fuzzy Real-time: Score=24.9 -> Good
+13:10:32.623 > ✓ Real-time - Freq: 0.78 Hz, RMS: 0.0307 g
+13:10:32.694 > 🔍 Fuzzy Real-time: Score=22.0 -> Good
+13:10:32.709 > 📊 ICM Monitor: ax=904, ay=15840, az=952 | Freq=0.00Hz, RMS=0.0256g
+13:10:32.804 > 🔍 Fuzzy Real-time: Score=20.0 -> Good
+13:10:32.804 > 🔍 Fuzzy Real-time: Score=18.9 -> Good
+13:10:32.823 > 📊 ICM Monitor: ax=1000, ay=15920, az=968 | Freq=0.00Hz, RMS=0.0253g
+13:10:32.934 > 🔍 Fuzzy Real-time: Score=18.2 -> Good
+13:10:32.935 > 📊 ICM Monitor: ax=992, ay=15956, az=952 | Freq=0.00Hz, RMS=0.0252g
+13:10:32.937 > 🔍 Fuzzy Real-time: Score=17.7 -> Good
+13:10:32.937 > ✓ Real-time - Freq: 0.00 Hz, RMS: 0.0252 g
+13:10:32.988 > 🔍 Fuzzy Real-time: Score=17.4 -> Good
+13:10:33.039 > 📊 ICM Monitor: ax=916, ay=15912, az=1012 | Freq=0.00Hz, RMS=0.0253g
+13:10:33.061 > 🔍 Fuzzy Real-time: Score=17.2 -> Good
+13:10:33.122 > 🔍 Fuzzy Real-time: Score=17.1 -> Good
+13:10:33.153 > 📊 ICM Monitor: ax=948, ay=15884, az=920 | Freq=0.00Hz, RMS=0.0252g
+13:10:33.177 > 🔍 Fuzzy Real-time: Score=17.1 -> Good
+13:10:33.244 > 🔍 Fuzzy Real-time: Score=17.0 -> Good
+13:10:33.244 > ✓ Real-time - Freq: 0.00 Hz, RMS: 0.0251 g
+13:10:33.259 > 📊 ICM Monitor: ax=964, ay=15916, az=972 | Freq=0.00Hz, RMS=0.0252g
+13:10:33.305 > 🔍 Fuzzy Real-time: Score=17.0 -> Good
+13:10:33.355 > 🔍 Fuzzy Real-time: Score=16.9 -> Good
+13:10:33.373 > 📊 ICM Monitor: ax=960, ay=15940, az=1024 | Freq=0.00Hz, RMS=0.0252g
+13:10:33.484 > 🔍 Fuzzy Real-time: Score=16.9 -> Good
+13:10:33.484 > 📊 ICM Monitor: ax=936, ay=15940, az=980 | Freq=0.00Hz, RMS=0.0252g
+13:10:33.490 > 🔍 Fuzzy Real-time: Score=16.9 -> Good
+13:10:33.551 > 🔍 Fuzzy Real-time: Score=16.9 -> Good
+13:10:33.552 > ✓ Real-time - Freq: 0.00 Hz, RMS: 0.0252 g
+13:10:33.588 > 📊 ICM Monitor: ax=992, ay=15920, az=1028 | Freq=0.00Hz, RMS=0.0253g
+13:10:33.609 > 🔍 Fuzzy Real-time: Score=17.0 -> Good
+13:10:33.673 > 🔍 Fuzzy Real-time: Score=17.0 -> Good
+13:10:33.703 > 📊 ICM Monitor: ax=984, ay=15968, az=1052 | Freq=0.00Hz, RMS=0.0253g
+13:10:33.727 > 🔍 Fuzzy Real-time: Score=17.0 -> Good
+13:10:33.804 > 🔍 Fuzzy Real-time: Score=17.1 -> Good
+13:10:33.804 > 📊 ICM Monitor: ax=952, ay=15872, az=1028 | Freq=0.00Hz, RMS=0.0254g
+13:10:33.855 > 🔍 Fuzzy Real-time: Score=17.1 -> Good
+13:10:33.855 > ✓ Real-time - Freq: 0.00 Hz, RMS: 0.0254 g
+13:10:33.905 > 🔍 Fuzzy Real-time: Score=17.2 -> Good
+13:10:33.923 > 📊 ICM Monitor: ax=1076, ay=15868, az=1012 | Freq=0.00Hz, RMS=0.0255g
+13:10:33.981 > 🔍 Fuzzy Real-time: Score=17.2 -> Good
+13:10:34.022 > 📊 ICM Monitor: ax=860, ay=15896, az=1076 | Freq=0.00Hz, RMS=0.0254g
+13:10:34.042 > 🔍 Fuzzy Real-time: Score=17.2 -> Good
+13:10:34.103 > 🔍 Fuzzy Real-time: Score=17.3 -> Good
+13:10:34.139 > 📊 ICM Monitor: ax=980, ay=15820, az=980 | Freq=0.00Hz, RMS=0.0255g
+13:10:34.160 > 🔍 Fuzzy Real-time: Score=17.3 -> Good
+13:10:34.160 > ✓ Real-time - Freq: 0.00 Hz, RMS: 0.0255 g
+13:10:34.225 > 🔍 Fuzzy Real-time: Score=17.3 -> Good
+13:10:34.253 > 📊 ICM Monitor: ax=940, ay=15908, az=1044 | Freq=0.00Hz, RMS=0.0254g
+13:10:34.277 > 🔍 Fuzzy Real-time: Score=17.3 -> Good
+13:10:34.354 > 🔍 Fuzzy Real-time: Score=17.2 -> Good
+13:10:34.354 > 📊 ICM Monitor: ax=952, ay=15952, az=992 | Freq=0.00Hz, RMS=0.0254g
+13:10:34.405 > 🔍 Fuzzy Real-time: Score=17.2 -> Good
+13:10:34.470 > 🔍 Fuzzy Real-time: Score=17.2 -> Good
+13:10:34.470 > ✓ Real-time - Freq: 0.00 Hz, RMS: 0.0254 g
+13:10:34.473 > 📊 ICM Monitor: ax=1024, ay=15944, az=988 | Freq=0.00Hz, RMS=0.0254g
+13:10:34.521 > 🔍 Fuzzy Real-time: Score=17.2 -> Good
+13:10:34.571 > 📊 ICM Monitor: ax=904, ay=15816, az=972 | Freq=0.00Hz, RMS=0.0253g
+13:10:34.592 > 🔍 Fuzzy Real-time: Score=17.1 -> Good
+13:10:34.652 > 🔍 Fuzzy Real-time: Score=17.1 -> Good
+13:10:34.688 > 📊 ICM Monitor: ax=848, ay=15904, az=1048 | Freq=0.00Hz, RMS=0.0254g
+13:10:34.710 > 🔍 Fuzzy Real-time: Score=17.2 -> Good
+13:10:34.774 > 🔍 Fuzzy Real-time: Score=17.2 -> Good
+13:10:34.774 > ✓ Real-time - Freq: 0.00 Hz, RMS: 0.0255 g
+13:10:34.803 > 📊 ICM Monitor: ax=964, ay=15892, az=1020 | Freq=0.00Hz, RMS=0.0255g
+13:10:34.897 > 🔍 Fuzzy Real-time: Score=17.3 -> Good
+13:10:34.897 > 🔍 Fuzzy Real-time: Score=17.3 -> Good
+13:10:34.913 > 📊 ICM Monitor: ax=1020, ay=16008, az=984 | Freq=0.00Hz, RMS=0.0255g
+13:10:34.955 > 🔍 Fuzzy Real-time: Score=17.3 -> Good
+13:10:35.020 > 🔍 Fuzzy Real-time: Score=17.3 -> Good
+13:10:35.023 > 📊 ICM Monitor: ax=964, ay=15844, az=940 | Freq=0.00Hz, RMS=0.0255g
+13:10:35.072 > 🔍 Fuzzy Real-time: Score=17.3 -> Good
+13:10:35.072 > ✓ Real-time - Freq: 0.00 Hz, RMS: 0.0255 g
+13:10:35.122 > 📊 ICM Monitor: ax=908, ay=15900, az=928 | Freq=0.00Hz, RMS=0.0257g
+13:10:35.143 > 🔍 Fuzzy Real-time: Score=17.4 -> Good
+13:10:35.204 > 🔍 Fuzzy Real-time: Score=17.5 -> Good
+13:10:35.239 > 📊 ICM Monitor: ax=880, ay=15992, az=988 | Freq=0.00Hz, RMS=0.0257g
+13:10:35.260 > 🔍 Fuzzy Real-time: Score=17.5 -> Good
+13:10:35.326 > 🔍 Fuzzy Real-time: Score=17.5 -> Good
+13:10:35.353 > 📊 ICM Monitor: ax=912, ay=15924, az=1024 | Freq=0.00Hz, RMS=0.0256g
+13:10:35.387 > 🔍 Fuzzy Real-time: Score=17.5 -> Good
+13:10:35.387 > ✓ Real-time - Freq: 0.00 Hz, RMS: 0.0257 g
+13:10:35.438 > 🔍 Fuzzy Real-time: Score=30.5 -> Good
+13:10:35.454 > 📊 ICM Monitor: ax=1600, ay=15600, az=-372 | Freq=0.39Hz, RMS=0.0528g
+13:10:35.504 > 🔍 Fuzzy Real-time: Score=38.3 -> Moderate
+13:10:35.571 > 🔍 Fuzzy Real-time: Score=43.0 -> Moderate
+13:10:35.573 > 📊 ICM Monitor: ax=-744, ay=16888, az=1264 | Freq=1.56Hz, RMS=0.0569g
+13:10:35.624 > 🔍 Fuzzy Real-time: Score=45.8 -> Moderate
+13:10:35.672 > 📊 ICM Monitor: ax=856, ay=15804, az=960 | Freq=1.56Hz, RMS=0.0571g
+13:10:35.688 > 🔍 Fuzzy Real-time: Score=47.5 -> Moderate
+13:10:35.688 > ✓ Real-time - Freq: 1.56 Hz, RMS: 0.0571 g
+13:10:35.754 > 🔍 Fuzzy Real-time: Score=48.5 -> Moderate
+13:10:35.789 > 📊 ICM Monitor: ax=952, ay=15856, az=1012 | Freq=1.56Hz, RMS=0.0571g
+13:10:35.877 > 🔍 Fuzzy Real-time: Score=49.1 -> Moderate
+13:10:35.878 > 🔍 Fuzzy Real-time: Score=49.5 -> Moderate
+13:10:35.903 > 📊 ICM Monitor: ax=876, ay=15880, az=932 | Freq=1.56Hz, RMS=0.0571g
+13:10:36.001 > 🔍 Fuzzy Real-time: Score=49.7 -> Moderate
+13:10:36.001 > 🔍 Fuzzy Real-time: Score=49.8 -> Moderate
+13:10:36.001 > ✓ Real-time - Freq: 1.56 Hz, RMS: 0.0571 g
+13:10:36.014 > 📊 ICM Monitor: ax=876, ay=15992, az=964 | Freq=1.56Hz, RMS=0.0571g
+13:10:36.055 > 🔍 Fuzzy Real-time: Score=49.9 -> Moderate
+13:10:36.124 > 📊 ICM Monitor: ax=528, ay=15948, az=856 | Freq=1.56Hz, RMS=0.0571g
+13:10:36.124 > 🔍 Fuzzy Real-time: Score=49.9 -> Moderate
+13:10:36.171 > 🔍 Fuzzy Real-time: Score=50.0 -> Moderate
+13:10:36.223 > 📊 ICM Monitor: ax=864, ay=15888, az=948 | Freq=1.56Hz, RMS=0.0570g
+13:10:36.304 > 🔍 Fuzzy Real-time: Score=50.0 -> Moderate
+13:10:36.304 > 🔍 Fuzzy Real-time: Score=50.0 -> Moderate
+13:10:36.304 > ✓ Real-time - Freq: 1.56 Hz, RMS: 0.0570 g
+13:10:36.339 > 📊 ICM Monitor: ax=864, ay=15864, az=976 | Freq=1.56Hz, RMS=0.0570g
+13:10:36.370 > 🔍 Fuzzy Real-time: Score=50.0 -> Moderate
+13:10:36.453 > 🔍 Fuzzy Real-time: Score=50.0 -> Moderate
+13:10:36.453 > 📊 ICM Monitor: ax=836, ay=15904, az=1032 | Freq=1.56Hz, RMS=0.0570g
+13:10:36.553 > 🔍 Fuzzy Real-time: Score=50.0 -> Moderate
+13:10:36.553 > 🔍 Fuzzy Real-time: Score=50.0 -> Moderate
+13:10:36.563 > 📊 ICM Monitor: ax=864, ay=15984, az=920 | Freq=1.56Hz, RMS=0.0570g
+13:10:36.605 > 🔍 Fuzzy Real-time: Score=50.0 -> Moderate
+13:10:36.605 > ✓ Real-time - Freq: 1.56 Hz, RMS: 0.0570 g
+13:10:36.671 > 📊 ICM Monitor: ax=944, ay=15896, az=960 | Freq=1.56Hz, RMS=0.0570g
+13:10:36.671 > 🔍 Fuzzy Real-time: Score=50.0 -> Moderate
+13:10:36.741 > 🔍 Fuzzy Real-time: Score=50.0 -> Moderate
+13:10:36.772 > 📊 ICM Monitor: ax=900, ay=15932, az=932 | Freq=1.56Hz, RMS=0.0571g
+13:10:36.802 > 🔍 Fuzzy Real-time: Score=50.0 -> Moderate
+13:10:36.894 > 🔍 Fuzzy Real-time: Score=50.0 -> Moderate
+13:10:36.894 > 📊 ICM Monitor: ax=792, ay=15980, az=1208 | Freq=1.56Hz, RMS=0.0571g
+13:10:36.922 > 🔍 Fuzzy Real-time: Score=50.0 -> Moderate
+13:10:36.922 > ✓ Real-time - Freq: 1.56 Hz, RMS: 0.0571 g
+13:10:36.987 > 🔍 Fuzzy Real-time: Score=50.0 -> Moderate
+13:10:37.003 > 📊 ICM Monitor: ax=816, ay=15932, az=960 | Freq=1.56Hz, RMS=0.0571g
+13:10:37.109 > 🔍 Fuzzy Real-time: Score=50.0 -> Moderate
+13:10:37.109 > 🔍 Fuzzy Real-time: Score=50.0 -> Moderate
+13:10:37.112 > 📊 ICM Monitor: ax=924, ay=16008, az=940 | Freq=1.56Hz, RMS=0.0571g
+13:10:37.170 > 🔍 Fuzzy Real-time: Score=50.0 -> Moderate
+13:10:37.233 > 📊 ICM Monitor: ax=824, ay=15972, az=980 | Freq=1.56Hz, RMS=0.0571g
+13:10:37.233 > 🔍 Fuzzy Real-time: Score=50.0 -> Moderate
+13:10:37.233 > ✓ Real-time - Freq: 1.56 Hz, RMS: 0.0571 g
+13:10:37.288 > 🔍 Fuzzy Real-time: Score=50.0 -> Moderate
+13:10:37.322 > 📊 ICM Monitor: ax=740, ay=15924, az=996 | Freq=1.56Hz, RMS=0.0571g
+13:10:37.357 > 🔍 Fuzzy Real-time: Score=50.0 -> Moderate
+13:10:37.405 > 🔍 Fuzzy Real-time: Score=50.0 -> Moderate
+13:10:37.405 > [ 19866][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+13:10:37.443 > 📊 ICM Monitor: ax=868, ay=15836, az=924 | Freq=1.56Hz, RMS=0.0571g
+13:10:37.486 > 🔍 Fuzzy Real-time: Score=50.0 -> Moderate
+13:10:37.538 > 🔍 Fuzzy Real-time: Score=50.0 -> Moderate
+13:10:37.538 > ✓ Real-time - Freq: 1.56 Hz, RMS: 0.0571 g
+13:10:37.553 > 📊 ICM Monitor: ax=792, ay=15948, az=984 | Freq=1.56Hz, RMS=0.0571g
+13:10:37.605 > 🔍 Fuzzy Real-time: Score=50.0 -> Moderate
+13:10:37.671 > 📊 ICM Monitor: ax=892, ay=15952, az=956 | Freq=1.56Hz, RMS=0.0570g
+13:10:37.671 > 🔍 Fuzzy Real-time: Score=50.0 -> Moderate
+13:10:37.732 > 🔍 Fuzzy Real-time: Score=50.0 -> Moderate
+13:10:37.771 > 📊 ICM Monitor: ax=816, ay=15900, az=1012 | Freq=1.56Hz, RMS=0.0570g
+13:10:37.793 > 🔍 Fuzzy Real-time: Score=50.0 -> Moderate
+13:10:37.854 > 🔍 Fuzzy Real-time: Score=50.0 -> Moderate
+13:10:37.854 > ✓ Real-time - Freq: 1.56 Hz, RMS: 0.0570 g
+13:10:37.875 > 📊 ICM Monitor: ax=904, ay=15920, az=1004 | Freq=1.56Hz, RMS=0.0570g
+13:10:37.910 > 🔍 Fuzzy Real-time: Score=50.0 -> Moderate
+13:10:37.979 > [ 20427][E][Wire.cpp:513] requestFrom(): i2cRead returned Error 🔍 Fuzzy Real-time: Score=50.0 -> Moderate
+13:10:37.980 > -1
+13:10:37.993 > 📊 ICM Monitor: ax=768, ay=15836, az=916 | Freq=1.56Hz, RMS=0.0333g
+13:10:38.104 > 🔍 Fuzzy Real-time: Score=41.0 -> Moderate
+13:10:38.104 > 📊 ICM Monitor: ax=844, ay=15908, az=984 | Freq=0.39Hz, RMS=0.0260g
+13:10:38.104 > 🔍 Fuzzy Real-time: Score=31.8 -> Good
+13:10:38.171 > 🔍 Fuzzy Real-time: Score=26.0 -> Good
+13:10:38.171 > ✓ Real-time - Freq: 0.00 Hz, RMS: 0.0254 g
+13:10:38.213 > 📊 ICM Monitor: ax=852, ay=15852, az=956 | Freq=0.00Hz, RMS=0.0254g
+13:10:38.293 > 🔍 Fuzzy Real-time: Score=22.5 -> Good
+13:10:38.293 > 🔍 Fuzzy Real-time: Score=20.4 -> Good
+13:10:38.321 > 📊 ICM Monitor: ax=896, ay=15996, az=996 | Freq=0.00Hz, RMS=0.0254g
+13:10:38.354 > 🔍 Fuzzy Real-time: Score=19.1 -> Good
+13:10:38.434 > 🔍 Fuzzy Real-time: Score=18.3 -> Good
+13:10:38.434 > 📊 ICM Monitor: ax=896, ay=15920, az=1028 | Freq=0.00Hz, RMS=0.0253g
+13:10:38.476 > 🔍 Fuzzy Real-time: Score=17.8 -> Good
+13:10:38.477 > ✓ Real-time - Freq: 0.00 Hz, RMS: 0.0253 g
+13:10:38.537 > 🔍 Fuzzy Real-time: Score=17.5 -> Good
+13:10:38.600 > 📊 ICM Monitor: ax=828, ay=15912, az=968 | Freq=0.00Hz, RMS=0.0253g
+13:10:38.600 > 🔍 Fuzzy Real-time: Score=17.4 -> Good
+13:10:38.655 > 📊 ICM Monitor: ax=848, ay=15988, az=948 | Freq=0.00Hz, RMS=0.0254g
+13:10:38.655 > 🔍 Fuzzy Real-time: Score=17.3 -> Good
+13:10:38.722 > 🔍 Fuzzy Real-time: Score=17.3 -> Good
+13:10:38.755 > 📊 ICM Monitor: ax=896, ay=15924, az=932 | Freq=0.00Hz, RMS=0.0254g
+13:10:38.777 > 🔍 Fuzzy Real-time: Score=17.2 -> Good
+13:10:38.777 > ✓ Real-time - Freq: 0.00 Hz, RMS: 0.0254 g
+13:10:38.840 > 🔍 Fuzzy Real-time: Score=17.2 -> Good
+13:10:38.872 > 📊 ICM Monitor: ax=852, ay=15896, az=1032 | Freq=0.00Hz, RMS=0.0254g
+13:10:38.906 > 🔍 Fuzzy Real-time: Score=17.2 -> Good
+13:10:38.955 > 🔍 Fuzzy Real-time: Score=17.3 -> Good
+13:10:38.983 > 📊 ICM Monitor: ax=820, ay=15788, az=944 | Freq=0.00Hz, RMS=0.0255g
+13:10:39.092 > 🔍 Fuzzy Real-time: Score=17.3 -> Good
+13:10:39.092 > 🔍 Fuzzy Real-time: Score=17.3 -> Good
+13:10:39.092 > ✓ Real-time - Freq: 0.00 Hz, RMS: 0.0255 g
+13:10:39.093 > 📊 ICM Monitor: ax=868, ay=15948, az=1024 | Freq=0.00Hz, RMS=0.0254g
+13:10:39.355 > 📌 Active Screen: menu
+13:10:40.804 > 📌 Active Screen: timer
+13:10:40.921 > 🔍 Fuzzy Timer: Score=17.2 -> Good
+13:10:40.921 > 📊 ICM Timer: ax=788, ay=15924, az=948 | Freq=0.00Hz, RMS=0.0254g
+13:10:41.033 > 🔍 Fuzzy Timer: Score=17.2 -> Good
+13:10:41.033 > 🔍 Fuzzy Timer: Score=17.2 -> Good
+13:10:41.045 > 📊 ICM Timer: ax=792, ay=15864, az=896 | Freq=0.00Hz, RMS=0.0254g
+13:10:41.093 > 🔍 Fuzzy Timer: Score=17.2 -> Good
+13:10:41.152 > 🔍 Fuzzy Timer: Score=17.2 -> Good
+13:10:41.152 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0254 g
+13:10:41.153 > 📊 ICM Timer: ax=788, ay=15976, az=948 | Freq=0.00Hz, RMS=0.0254g
+13:10:41.205 > 🔍 Fuzzy Timer: Score=17.2 -> Good
+13:10:41.273 > 📊 ICM Timer: ax=860, ay=15972, az=968 | Freq=0.00Hz, RMS=0.0254g
+13:10:41.273 > 🔍 Fuzzy Timer: Score=17.2 -> Good
+13:10:41.322 > 🔍 Fuzzy Timer: Score=17.2 -> Good
+13:10:41.372 > 📊 ICM Timer: ax=752, ay=16008, az=988 | Freq=0.00Hz, RMS=0.0254g
+13:10:41.393 > 🔍 Fuzzy Timer: Score=17.2 -> Good
+13:10:41.453 > 🔍 Fuzzy Timer: Score=17.2 -> Good
+13:10:41.454 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0254 g
+13:10:41.484 > 📊 ICM Timer: ax=752, ay=15904, az=924 | Freq=0.00Hz, RMS=0.0254g
+13:10:41.509 > 🔍 Fuzzy Timer: Score=17.2 -> Good
+13:10:41.574 > 🔍 Fuzzy Timer: Score=17.2 -> Good
+13:10:41.594 > 📊 ICM Timer: ax=852, ay=15980, az=1024 | Freq=0.00Hz, RMS=0.0254g
+13:10:41.622 > 🔍 Fuzzy Timer: Score=17.1 -> Good
+13:10:41.704 > 🔍 Fuzzy Timer: Score=17.1 -> Good
+13:10:41.704 > 📊 ICM Timer: ax=796, ay=15924, az=952 | Freq=0.00Hz, RMS=0.0253g
+13:10:41.755 > 🔍 Fuzzy Timer: Score=17.1 -> Good
+13:10:41.755 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0253 g
+13:10:41.805 > 📊 ICM Timer: ax=844, ay=15896, az=988 | Freq=0.00Hz, RMS=0.0253g
+13:10:41.879 > 🔍 Fuzzy Timer: Score=17.1 -> Good
+13:10:41.879 > 🔍 Fuzzy Timer: Score=17.1 -> Good
+13:10:41.940 > 📊 ICM Timer: ax=752, ay=16000, az=912 | Freq=0.00Hz, RMS=0.0253g
+13:10:41.940 > 🔍 Fuzzy Timer: Score=17.1 -> Good
+13:10:41.988 > 🔍 Fuzzy Timer: Score=17.1 -> Good
+13:10:42.035 > 📊 ICM Timer: ax=716, ay=15908, az=984 | Freq=0.00Hz, RMS=0.0254g
+13:10:42.060 > 🔍 Fuzzy Timer: Score=17.1 -> Good
+13:10:42.061 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0254 g
+13:10:42.120 > 🔍 Fuzzy Timer: Score=17.2 -> Good
+13:10:42.144 > 📊 ICM Timer: ax=784, ay=15880, az=1000 | Freq=0.00Hz, RMS=0.0254g
+13:10:42.171 > 🔍 Fuzzy Timer: Score=17.2 -> Good
+13:10:42.254 > 🔍 Fuzzy Timer: Score=17.2 -> Good
+13:10:42.254 > 📊 ICM Timer: ax=840, ay=15924, az=908 | Freq=0.00Hz, RMS=0.0254g
+13:10:42.354 > 🔍 Fuzzy Timer: Score=17.2 -> Good
+13:10:42.354 > 🔍 Fuzzy Timer: Score=17.2 -> Good
+13:10:42.354 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0254 g
+13:10:42.354 > 📊 ICM Timer: ax=720, ay=15908, az=1028 | Freq=0.00Hz, RMS=0.0254g
+13:10:42.421 > 🔍 Fuzzy Timer: Score=17.2 -> Good
+13:10:42.475 > 📊 ICM Timer: ax=744, ay=16000, az=1004 | Freq=0.00Hz, RMS=0.0254g
+13:10:42.482 > 🔍 Fuzzy Timer: Score=17.2 -> Good
+13:10:42.543 > 🔍 Fuzzy Timer: Score=17.2 -> Good
+13:10:42.572 > 📊 ICM Timer: ax=848, ay=15896, az=956 | Freq=0.00Hz, RMS=0.0254g
+13:10:42.655 > 🔍 Fuzzy Timer: Score=17.2 -> Good
+13:10:42.655 > 🔍 Fuzzy Timer: Score=17.2 -> Good
+13:10:42.655 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0254 g
+13:10:42.691 > 📊 ICM Timer: ax=740, ay=15948, az=988 | Freq=0.00Hz, RMS=0.0254g
+13:10:42.722 > 🔍 Fuzzy Timer: Score=17.2 -> Good
+13:10:42.772 > 🔍 Fuzzy Timer: Score=17.1 -> Good
+13:10:42.804 > 📊 ICM Timer: ax=784, ay=15916, az=980 | Freq=0.00Hz, RMS=0.0253g
+13:10:42.841 > 🔍 Fuzzy Timer: Score=17.1 -> Good
+13:10:42.904 > 🔍 Fuzzy Timer: Score=17.1 -> Good
+13:10:42.904 > 📊 ICM Timer: ax=736, ay=15932, az=964 | Freq=0.00Hz, RMS=0.0253g
+13:10:42.955 > 🔍 Fuzzy Timer: Score=17.1 -> Good
+13:10:42.955 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0253 g
+13:10:43.022 > 📊 ICM Timer: ax=800, ay=15892, az=948 | Freq=0.00Hz, RMS=0.0253g
+13:10:43.022 > 🔍 Fuzzy Timer: Score=17.1 -> Good
+13:10:43.072 > 🔍 Fuzzy Timer: Score=17.0 -> Good
+13:10:43.123 > 📊 ICM Timer: ax=788, ay=15800, az=960 | Freq=0.00Hz, RMS=0.0253g
+13:10:43.138 > 🔍 Fuzzy Timer: Score=17.0 -> Good
+13:10:43.204 > 🔍 Fuzzy Timer: Score=17.0 -> Good
+13:10:43.239 > 📊 ICM Timer: ax=860, ay=16004, az=936 | Freq=0.00Hz, RMS=0.0251g
+13:10:43.261 > 🔍 Fuzzy Timer: Score=16.9 -> Good
+13:10:43.261 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0251 g
+13:10:43.325 > 🔍 Fuzzy Timer: Score=16.9 -> Good
+13:10:43.353 > 📊 ICM Timer: ax=752, ay=15908, az=908 | Freq=0.00Hz, RMS=0.0251g
+13:10:43.385 > 🔍 Fuzzy Timer: Score=16.8 -> Good
+13:10:43.438 > 🔍 Fuzzy Timer: Score=16.8 -> Good
+13:10:43.460 > 📊 ICM Timer: ax=804, ay=15932, az=900 | Freq=0.00Hz, RMS=0.0250g
+13:10:43.504 > 🔍 Fuzzy Timer: Score=16.8 -> Good
+13:10:43.555 > 🔍 Fuzzy Timer: Score=16.8 -> Good
+13:10:43.555 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0251 g
+13:10:43.574 > 📊 ICM Timer: ax=800, ay=15960, az=904 | Freq=0.00Hz, RMS=0.0251g
+13:10:43.622 > 🔍 Fuzzy Timer: Score=16.8 -> Good
+13:10:43.674 > 📊 ICM Timer: ax=784, ay=15836, az=900 | Freq=0.00Hz, RMS=0.0252g
+13:10:43.688 > 🔍 Fuzzy Timer: Score=16.8 -> Good
+13:10:43.738 > 🔍 Fuzzy Timer: Score=16.9 -> Good
+13:10:43.789 > 📊 ICM Timer: ax=656, ay=15924, az=916 | Freq=0.00Hz, RMS=0.0253g
+13:10:43.808 > 🔍 Fuzzy Timer: Score=16.9 -> Good
+13:10:43.855 > 🔍 Fuzzy Timer: Score=17.0 -> Good
+13:10:43.855 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0252 g
+13:10:43.904 > 📊 ICM Timer: ax=812, ay=15876, az=940 | Freq=0.00Hz, RMS=0.0252g
+13:10:43.927 > 🔍 Fuzzy Timer: Score=16.9 -> Good
+13:10:44.004 > 🔍 Fuzzy Timer: Score=16.9 -> Good
+13:10:44.004 > 📊 ICM Timer: ax=736, ay=15964, az=992 | Freq=0.00Hz, RMS=0.0252g
+13:10:44.104 > 🔍 Fuzzy Timer: Score=17.0 -> Good
+13:10:44.104 > 🔍 Fuzzy Timer: Score=17.0 -> Good
+13:10:44.124 > 📊 ICM Timer: ax=732, ay=15972, az=948 | Freq=0.00Hz, RMS=0.0252g
+13:10:44.155 > 🔍 Fuzzy Timer: Score=17.0 -> Good
+13:10:44.155 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0253 g
+13:10:44.222 > 🔍 Fuzzy Timer: Score=17.0 -> Good
+13:10:44.222 > 📊 ICM Timer: ax=832, ay=15964, az=980 | Freq=0.00Hz, RMS=0.0253g
+13:10:44.290 > 🔍 Fuzzy Timer: Score=17.0 -> Good
+13:10:44.338 > 📊 ICM Timer: ax=816, ay=15988, az=960 | Freq=0.00Hz, RMS=0.0252g
+13:10:44.338 > 🔍 Fuzzy Timer: Score=17.0 -> Good
+13:10:44.454 > 🔍 Fuzzy Timer: Score=17.0 -> Good
+13:10:44.454 > 📊 ICM Timer: ax=700, ay=15920, az=964 | Freq=0.00Hz, RMS=0.0253g
+13:10:44.470 > 🔍 Fuzzy Timer: Score=17.0 -> Good
+13:10:44.470 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0253 g
+13:10:44.531 > 🔍 Fuzzy Timer: Score=17.0 -> Good
+13:10:44.557 > 📊 ICM Timer: ax=816, ay=15952, az=956 | Freq=0.00Hz, RMS=0.0253g
+13:10:44.589 > 🔍 Fuzzy Timer: Score=17.0 -> Good
+13:10:44.638 > 🔍 Fuzzy Timer: Score=17.0 -> Good
+13:10:44.674 > 📊 ICM Timer: ax=808, ay=15920, az=1012 | Freq=0.00Hz, RMS=0.0252g
+13:10:44.705 > 🔍 Fuzzy Timer: Score=17.0 -> Good
+13:10:44.775 > 🔍 Fuzzy Timer: Score=17.0 -> Good
+13:10:44.775 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0253 g
+13:10:44.785 > 📊 ICM Timer: ax=828, ay=15996, az=972 | Freq=0.00Hz, RMS=0.0252g
+13:10:44.836 > 🔍 Fuzzy Timer: Score=17.0 -> Good
+13:10:44.888 > 📊 ICM Timer: ax=760, ay=15888, az=928 | Freq=0.00Hz, RMS=0.0252g
+13:10:44.888 > 🔍 Fuzzy Timer: Score=17.0 -> Good
+13:10:44.956 > 🔍 Fuzzy Timer: Score=17.0 -> Good
+13:10:45.005 > 📊 ICM Timer: ax=700, ay=15812, az=1016 | Freq=0.00Hz, RMS=0.0253g
+13:10:45.020 > 🔍 Fuzzy Timer: Score=17.0 -> Good
+13:10:45.072 > 🔍 Fuzzy Timer: Score=17.1 -> Good
+13:10:45.072 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0254 g
+13:10:45.106 > 📊 ICM Timer: ax=752, ay=15916, az=920 | Freq=0.00Hz, RMS=0.0254g
+13:10:45.139 > 🔍 Fuzzy Timer: Score=17.1 -> Good
+13:10:45.188 > 🔍 Fuzzy Timer: Score=17.1 -> Good
+13:10:45.224 > 📊 ICM Timer: ax=708, ay=15804, az=1036 | Freq=0.00Hz, RMS=0.0254g
+13:10:45.322 > 🔍 Fuzzy Timer: Score=17.2 -> Good
+13:10:45.322 > 🔍 Fuzzy Timer: Score=17.2 -> Good
+13:10:45.335 > 📊 ICM Timer: ax=772, ay=15908, az=936 | Freq=0.00Hz, RMS=0.0254g
+13:10:45.372 > 🔍 Fuzzy Timer: Score=17.2 -> Good
+13:10:45.372 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0254 g
+13:10:45.442 > 🔍 Fuzzy Timer: Score=17.2 -> Good
+13:10:45.445 > 📊 ICM Timer: ax=732, ay=15756, az=1000 | Freq=0.00Hz, RMS=0.0255g
+13:10:45.554 > 🔍 Fuzzy Timer: Score=17.3 -> Good
+13:10:45.554 > 📊 ICM Timer: ax=752, ay=15888, az=996 | Freq=0.00Hz, RMS=0.0256g
+13:10:45.557 > 🔍 Fuzzy Timer: Score=17.4 -> Good
+13:10:45.624 > 🔍 Fuzzy Timer: Score=17.4 -> Good
+13:10:45.658 > 📊 ICM Timer: ax=744, ay=15864, az=1040 | Freq=0.00Hz, RMS=0.0256g
+13:10:45.686 > 🔍 Fuzzy Timer: Score=17.4 -> Good
+13:10:45.686 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0256 g
+13:10:45.738 > 🔍 Fuzzy Timer: Score=17.4 -> Good
+13:10:45.773 > 📊 ICM Timer: ax=768, ay=15952, az=872 | Freq=0.00Hz, RMS=0.0256g
+13:10:45.806 > 🔍 Fuzzy Timer: Score=17.5 -> Good
+13:10:45.885 > 🔍 Fuzzy Timer: Score=17.5 -> Good
+13:10:45.885 > 📊 ICM Timer: ax=760, ay=15984, az=924 | Freq=0.00Hz, RMS=0.0256g
+13:10:45.922 > 🔍 Fuzzy Timer: Score=17.5 -> Good
+13:10:45.987 > 🔍 Fuzzy Timer: Score=17.5 -> Good
+13:10:45.987 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0256 g
+13:10:45.994 > 📊 ICM Timer: ax=800, ay=15884, az=964 | Freq=0.00Hz, RMS=0.0257g
+13:10:46.047 > 🔍 Fuzzy Timer: Score=17.5 -> Good
+13:10:46.104 > 📊 ICM Timer: ax=836, ay=15912, az=896 | Freq=0.00Hz, RMS=0.0257g
+13:10:46.104 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:46.160 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:46.205 > 📊 ICM Timer: ax=752, ay=15888, az=976 | Freq=0.00Hz, RMS=0.0257g
+13:10:46.287 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:46.287 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:46.287 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0257 g
+13:10:46.321 > 📊 ICM Timer: ax=676, ay=15924, az=976 | Freq=0.00Hz, RMS=0.0257g
+13:10:46.346 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:46.404 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:46.434 > 📊 ICM Timer: ax=836, ay=15928, az=952 | Freq=0.00Hz, RMS=0.0257g
+13:10:46.461 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:46.522 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:46.545 > 📊 ICM Timer: ax=836, ay=15908, az=932 | Freq=0.00Hz, RMS=0.0257g
+13:10:46.587 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:46.587 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0257 g
+13:10:46.654 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:46.654 > 📊 ICM Timer: ax=740, ay=15824, az=924 | Freq=0.00Hz, RMS=0.0257g
+13:10:46.761 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:46.761 > 📊 ICM Timer: ax=728, ay=15856, az=1044 | Freq=0.00Hz, RMS=0.0257g
+13:10:46.831 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:46.831 > 🔍 Fuzzy Timer: Score=17.7 -> Good
+13:10:46.872 > 📊 ICM Timer: ax=788, ay=16020, az=972 | Freq=0.00Hz, RMS=0.0257g
+13:10:46.891 > 🔍 Fuzzy Timer: Score=17.7 -> Good
+13:10:46.891 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0257 g
+13:10:46.985 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:46.985 > 📊 ICM Timer: ax=744, ay=15972, az=984 | Freq=0.00Hz, RMS=0.0257g
+13:10:47.006 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:47.071 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:47.089 > 📊 ICM Timer: ax=756, ay=15960, az=956 | Freq=0.00Hz, RMS=0.0257g
+13:10:47.123 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:47.191 > 🔍 Fuzzy Timer: Score=17.7 -> Good
+13:10:47.191 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0258 g
+13:10:47.204 > 📊 ICM Timer: ax=768, ay=15904, az=984 | Freq=0.00Hz, RMS=0.0258g
+13:10:47.239 > 🔍 Fuzzy Timer: Score=17.7 -> Good
+13:10:47.305 > 🔍 Fuzzy Timer: Score=17.8 -> Good
+13:10:47.305 > 📊 ICM Timer: ax=800, ay=15992, az=948 | Freq=0.00Hz, RMS=0.0259g
+13:10:47.422 > 🔍 Fuzzy Timer: Score=17.8 -> Good
+13:10:47.422 > 📊 ICM Timer: ax=752, ay=15968, az=928 | Freq=0.00Hz, RMS=0.0259g
+13:10:47.422 > 🔍 Fuzzy Timer: Score=17.8 -> Good
+13:10:47.492 > 🔍 Fuzzy Timer: Score=17.8 -> Good
+13:10:47.492 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0259 g
+13:10:47.535 > 📊 ICM Timer: ax=764, ay=15864, az=888 | Freq=0.00Hz, RMS=0.0258g
+13:10:47.538 > 🔍 Fuzzy Timer: Score=17.8 -> Good
+13:10:47.645 > 🔍 Fuzzy Timer: Score=17.8 -> Good
+13:10:47.645 > 📊 ICM Timer: ax=724, ay=15944, az=900 | Freq=0.00Hz, RMS=0.0258g
+13:10:47.735 > 🔍 Fuzzy Timer: Score=17.8 -> Good
+13:10:47.735 > 🔍 Fuzzy Timer: Score=17.8 -> Good
+13:10:47.754 > 📊 ICM Timer: ax=772, ay=16004, az=1048 | Freq=0.00Hz, RMS=0.0258g
+13:10:47.789 > 🔍 Fuzzy Timer: Score=17.8 -> Good
+13:10:47.789 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0258 g
+13:10:47.854 > 🔍 Fuzzy Timer: Score=17.8 -> Good
+13:10:47.863 > 📊 ICM Timer: ax=772, ay=15936, az=1008 | Freq=0.00Hz, RMS=0.0258g
+13:10:47.905 > 🔍 Fuzzy Timer: Score=17.7 -> Good
+13:10:47.972 > 📊 ICM Timer: ax=844, ay=15924, az=1028 | Freq=0.00Hz, RMS=0.0258g
+13:10:47.972 > 🔍 Fuzzy Timer: Score=17.7 -> Good
+13:10:48.041 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:48.072 > 📊 ICM Timer: ax=1008, ay=15912, az=960 | Freq=0.00Hz, RMS=0.0256g
+13:10:48.088 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:48.088 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0256 g
+13:10:48.195 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:48.195 > 📊 ICM Timer: ax=832, ay=15944, az=952 | Freq=0.00Hz, RMS=0.0258g
+13:10:48.222 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:48.304 > 🔍 Fuzzy Timer: Score=17.7 -> Good
+13:10:48.304 > 📊 ICM Timer: ax=672, ay=15872, az=944 | Freq=0.00Hz, RMS=0.0258g
+13:10:48.403 > 🔍 Fuzzy Timer: Score=17.7 -> Good
+13:10:48.403 > 🔍 Fuzzy Timer: Score=17.7 -> Good
+13:10:48.403 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0258 g
+13:10:48.404 > 📊 ICM Timer: ax=776, ay=16028, az=880 | Freq=0.00Hz, RMS=0.0258g
+13:10:48.455 > 🔍 Fuzzy Timer: Score=17.7 -> Good
+13:10:48.523 > 🔍 Fuzzy Timer: Score=17.7 -> Good
+13:10:48.525 > 📊 ICM Timer: ax=744, ay=15892, az=976 | Freq=0.00Hz, RMS=0.0257g
+13:10:48.572 > 🔍 Fuzzy Timer: Score=17.7 -> Good
+13:10:48.638 > 📊 ICM Timer: ax=788, ay=16024, az=1004 | Freq=0.00Hz, RMS=0.0257g
+13:10:48.638 > 🔍 Fuzzy Timer: Score=17.7 -> Good
+13:10:48.704 > 🔍 Fuzzy Timer: Score=17.7 -> Good
+13:10:48.704 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0258 g
+13:10:48.741 > 📊 ICM Timer: ax=768, ay=15908, az=948 | Freq=0.00Hz, RMS=0.0258g
+13:10:48.764 > 🔍 Fuzzy Timer: Score=17.7 -> Good
+13:10:48.822 > 🔍 Fuzzy Timer: Score=17.7 -> Good
+13:10:48.854 > 📊 ICM Timer: ax=688, ay=15904, az=988 | Freq=0.00Hz, RMS=0.0258g
+13:10:48.889 > 🔍 Fuzzy Timer: Score=17.7 -> Good
+13:10:48.965 > 🔍 Fuzzy Timer: Score=17.7 -> Good
+13:10:48.965 > 📊 ICM Timer: ax=824, ay=15916, az=984 | Freq=0.00Hz, RMS=0.0257g
+13:10:49.005 > 🔍 Fuzzy Timer: Score=17.7 -> Good
+13:10:49.005 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0257 g
+13:10:49.075 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:49.075 > 📊 ICM Timer: ax=748, ay=15964, az=1008 | Freq=0.00Hz, RMS=0.0257g
+13:10:49.130 > 🔍 Fuzzy Timer: Score=17.7 -> Good
+13:10:49.185 > 📊 ICM Timer: ax=772, ay=15932, az=988 | Freq=0.00Hz, RMS=0.0258g
+13:10:49.189 > 🔍 Fuzzy Timer: Score=17.7 -> Good
+13:10:49.251 > 🔍 Fuzzy Timer: Score=17.7 -> Good
+13:10:49.289 > 📊 ICM Timer: ax=740, ay=15896, az=928 | Freq=0.00Hz, RMS=0.0258g
+13:10:49.311 > 🔍 Fuzzy Timer: Score=17.7 -> Good
+13:10:49.311 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0258 g
+13:10:49.370 > 🔍 Fuzzy Timer: Score=17.7 -> Good
+13:10:49.404 > 📊 ICM Timer: ax=744, ay=15924, az=920 | Freq=0.00Hz, RMS=0.0258g
+13:10:49.431 > 🔍 Fuzzy Timer: Score=17.7 -> Good
+13:10:49.490 > 🔍 Fuzzy Timer: Score=17.7 -> Good
+13:10:49.510 > 📊 ICM Timer: ax=700, ay=15908, az=848 | Freq=0.00Hz, RMS=0.0257g
+13:10:49.540 > 🔍 Fuzzy Timer: Score=17.7 -> Good
+13:10:49.605 > 🔍 Fuzzy Timer: Score=17.7 -> Good
+13:10:49.605 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0257 g
+13:10:49.625 > 📊 ICM Timer: ax=740, ay=15968, az=948 | Freq=0.00Hz, RMS=0.0257g
+13:10:49.674 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:49.734 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:49.734 > 📊 ICM Timer: ax=744, ay=15852, az=1260 | Freq=0.00Hz, RMS=0.0258g
+13:10:49.794 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:49.853 > 📊 ICM Timer: ax=800, ay=15912, az=904 | Freq=0.00Hz, RMS=0.0257g
+13:10:49.854 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:49.905 > 🔍 Fuzzy Timer: Score=17.7 -> Good
+13:10:49.905 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0258 g
+13:10:49.954 > 📊 ICM Timer: ax=740, ay=15940, az=984 | Freq=0.00Hz, RMS=0.0258g
+13:10:50.036 > 🔍 Fuzzy Timer: Score=17.7 -> Good
+13:10:50.036 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:50.058 > 📊 ICM Timer: ax=736, ay=15884, az=1004 | Freq=0.00Hz, RMS=0.0257g
+13:10:50.089 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:50.154 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:50.172 > 📊 ICM Timer: ax=756, ay=15960, az=968 | Freq=0.00Hz, RMS=0.0257g
+13:10:50.206 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:50.206 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0257 g
+13:10:50.272 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:50.272 > 📊 ICM Timer: ax=856, ay=15980, az=964 | Freq=0.00Hz, RMS=0.0256g
+13:10:50.395 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:50.396 > 📊 ICM Timer: ax=804, ay=15872, az=988 | Freq=0.00Hz, RMS=0.0257g
+13:10:50.401 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:50.455 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:50.504 > 📊 ICM Timer: ax=816, ay=15924, az=952 | Freq=0.00Hz, RMS=0.0257g
+13:10:50.521 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:50.521 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0257 g
+13:10:50.603 > 🔍 Fuzzy Timer: Score=17.7 -> Good
+13:10:50.603 > 📊 ICM Timer: ax=788, ay=15968, az=976 | Freq=0.00Hz, RMS=0.0258g
+13:10:50.641 > 🔍 Fuzzy Timer: Score=17.7 -> Good
+13:10:50.725 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:50.725 > 📊 ICM Timer: ax=788, ay=15952, az=924 | Freq=0.00Hz, RMS=0.0256g
+13:10:50.826 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:50.826 > 🔍 Fuzzy Timer: Score=17.5 -> Good
+13:10:50.826 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0255 g
+13:10:50.834 > 📊 ICM Timer: ax=760, ay=15848, az=908 | Freq=0.00Hz, RMS=0.0256g
+13:10:50.945 > 🔍 Fuzzy Timer: Score=17.5 -> Good
+13:10:50.945 > 📊 ICM Timer: ax=676, ay=15812, az=996 | Freq=0.00Hz, RMS=0.0256g
+13:10:50.945 > 🔍 Fuzzy Timer: Score=17.5 -> Good
+13:10:51.004 > 🔍 Fuzzy Timer: Score=17.5 -> Good
+13:10:51.054 > 📊 ICM Timer: ax=804, ay=15812, az=996 | Freq=0.00Hz, RMS=0.0258g
+13:10:51.126 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:51.126 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:51.126 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0257 g
+13:10:51.155 > 📊 ICM Timer: ax=692, ay=15916, az=944 | Freq=0.00Hz, RMS=0.0257g
+13:10:51.185 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:51.275 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:51.275 > 📊 ICM Timer: ax=804, ay=15904, az=892 | Freq=0.00Hz, RMS=0.0257g
+13:10:51.305 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:51.385 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:51.386 > 📊 ICM Timer: ax=656, ay=15880, az=988 | Freq=0.00Hz, RMS=0.0256g
+13:10:51.422 > 🔍 Fuzzy Timer: Score=17.5 -> Good
+13:10:51.422 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0256 g
+13:10:51.495 > 🔍 Fuzzy Timer: Score=17.5 -> Good
+13:10:51.495 > 📊 ICM Timer: ax=752, ay=16004, az=916 | Freq=0.00Hz, RMS=0.0257g
+13:10:51.546 > 🔍 Fuzzy Timer: Score=17.5 -> Good
+13:10:51.604 > 📊 ICM Timer: ax=796, ay=16004, az=900 | Freq=0.00Hz, RMS=0.0257g
+13:10:51.604 > 🔍 Fuzzy Timer: Score=17.5 -> Good
+13:10:51.655 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:51.705 > 📊 ICM Timer: ax=800, ay=15992, az=1020 | Freq=0.00Hz, RMS=0.0258g
+13:10:51.729 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:51.729 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0257 g
+13:10:51.789 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:51.822 > 📊 ICM Timer: ax=724, ay=15920, az=996 | Freq=0.00Hz, RMS=0.0257g
+13:10:51.849 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:51.935 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:51.936 > 📊 ICM Timer: ax=696, ay=15908, az=936 | Freq=0.00Hz, RMS=0.0257g
+13:10:52.029 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:52.029 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:52.029 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0257 g
+13:10:52.041 > 📊 ICM Timer: ax=736, ay=15868, az=976 | Freq=0.00Hz, RMS=0.0257g
+13:10:52.088 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:52.154 > 🔍 Fuzzy Timer: Score=17.5 -> Good
+13:10:52.154 > 📊 ICM Timer: ax=748, ay=15928, az=924 | Freq=0.00Hz, RMS=0.0256g
+13:10:52.210 > 🔍 Fuzzy Timer: Score=17.5 -> Good
+13:10:52.270 > 📊 ICM Timer: ax=788, ay=15908, az=988 | Freq=0.00Hz, RMS=0.0256g
+13:10:52.270 > 🔍 Fuzzy Timer: Score=17.5 -> Good
+13:10:52.331 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:52.331 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0257 g
+13:10:52.391 > 📊 ICM Timer: ax=720, ay=15796, az=944 | Freq=0.00Hz, RMS=0.0257g
+13:10:52.391 > 🔍 Fuzzy Timer: Score=17.5 -> Good
+13:10:52.438 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:52.505 > 📊 ICM Timer: ax=728, ay=15968, az=968 | Freq=0.00Hz, RMS=0.0256g
+13:10:52.505 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:52.594 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:52.595 > 📊 ICM Timer: ax=660, ay=15968, az=996 | Freq=0.00Hz, RMS=0.0257g
+13:10:52.622 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:52.622 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0257 g
+13:10:52.622 > [ 35082][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
+13:10:52.693 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:52.704 > 📊 ICM Timer: ax=896, ay=15864, az=980 | Freq=0.00Hz, RMS=0.0256g
+13:10:52.814 > 🔍 Fuzzy Timer: Score=17.5 -> Good
+13:10:52.814 > 🔍 Fuzzy Timer: Score=17.5 -> Good
+13:10:52.814 > 📊 ICM Timer: ax=796, ay=15968, az=956 | Freq=0.00Hz, RMS=0.0256g
+13:10:52.874 > 🔍 Fuzzy Timer: Score=17.5 -> Good
+13:10:52.925 > 📊 ICM Timer: ax=792, ay=15936, az=956 | Freq=0.00Hz, RMS=0.0255g
+13:10:52.934 > 🔍 Fuzzy Timer: Score=17.4 -> Good
+13:10:52.935 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0255 g
+13:10:52.995 > 🔍 Fuzzy Timer: Score=17.4 -> Good
+13:10:53.023 > 📊 ICM Timer: ax=676, ay=15924, az=988 | Freq=0.00Hz, RMS=0.0255g
+13:10:53.054 > 🔍 Fuzzy Timer: Score=17.4 -> Good
+13:10:53.105 > 🔍 Fuzzy Timer: Score=17.4 -> Good
+13:10:53.139 > 📊 ICM Timer: ax=768, ay=15908, az=880 | Freq=0.00Hz, RMS=0.0255g
+13:10:53.172 > 🔍 Fuzzy Timer: Score=17.4 -> Good
+13:10:53.222 > 🔍 Fuzzy Timer: Score=17.4 -> Good
+13:10:53.222 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0256 g
+13:10:53.255 > 📊 ICM Timer: ax=836, ay=15880, az=904 | Freq=0.00Hz, RMS=0.0256g
+13:10:53.289 > 🔍 Fuzzy Timer: Score=17.5 -> Good
+13:10:53.354 > 🔍 Fuzzy Timer: Score=17.5 -> Good
+13:10:53.354 > 📊 ICM Timer: ax=780, ay=15944, az=888 | Freq=0.00Hz, RMS=0.0256g
+13:10:53.475 > 🔍 Fuzzy Timer: Score=17.5 -> Good
+13:10:53.475 > 📊 ICM Timer: ax=800, ay=15896, az=1024 | Freq=0.00Hz, RMS=0.0256g
+13:10:53.476 > 🔍 Fuzzy Timer: Score=17.5 -> Good
+13:10:53.536 > 🔍 Fuzzy Timer: Score=17.4 -> Good
+13:10:53.537 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0256 g
+13:10:53.572 > 📊 ICM Timer: ax=748, ay=15892, az=868 | Freq=0.00Hz, RMS=0.0255g
+13:10:53.588 > 🔍 Fuzzy Timer: Score=17.4 -> Good
+13:10:53.654 > 🔍 Fuzzy Timer: Score=17.4 -> Good
+13:10:53.688 > 📊 ICM Timer: ax=644, ay=15972, az=992 | Freq=0.00Hz, RMS=0.0255g
+13:10:53.711 > 🔍 Fuzzy Timer: Score=17.4 -> Good
+13:10:53.804 > 🔍 Fuzzy Timer: Score=17.4 -> Good
+13:10:53.804 > 📊 ICM Timer: ax=728, ay=15940, az=1076 | Freq=0.00Hz, RMS=0.0255g
+13:10:53.838 > 🔍 Fuzzy Timer: Score=17.4 -> Good
+13:10:53.839 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0256 g
+13:10:53.889 > 🔍 Fuzzy Timer: Score=17.4 -> Good
+13:10:53.910 > 📊 ICM Timer: ax=728, ay=15876, az=980 | Freq=0.00Hz, RMS=0.0256g
+13:10:54.019 > 🔍 Fuzzy Timer: Score=17.5 -> Good
+13:10:54.019 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:54.025 > 📊 ICM Timer: ax=744, ay=15928, az=968 | Freq=0.00Hz, RMS=0.0257g
+13:10:54.079 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:54.139 > 📊 ICM Timer: ax=768, ay=15932, az=1004 | Freq=0.00Hz, RMS=0.0257g
+13:10:54.139 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:54.139 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0257 g
+13:10:54.244 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:54.245 > 📊 ICM Timer: ax=800, ay=15900, az=1044 | Freq=0.00Hz, RMS=0.0256g
+13:10:54.260 > 🔍 Fuzzy Timer: Score=17.5 -> Good
+13:10:54.320 > 🔍 Fuzzy Timer: Score=17.5 -> Good
+13:10:54.354 > 📊 ICM Timer: ax=756, ay=15956, az=984 | Freq=0.00Hz, RMS=0.0256g
+13:10:54.381 > 🔍 Fuzzy Timer: Score=17.5 -> Good
+13:10:54.441 > 🔍 Fuzzy Timer: Score=17.4 -> Good
+13:10:54.441 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0255 g
+13:10:54.459 > 📊 ICM Timer: ax=752, ay=15972, az=960 | Freq=0.00Hz, RMS=0.0255g
+13:10:54.501 > 🔍 Fuzzy Timer: Score=17.4 -> Good
+13:10:54.555 > 🔍 Fuzzy Timer: Score=17.4 -> Good
+13:10:54.575 > 📊 ICM Timer: ax=792, ay=15968, az=980 | Freq=0.00Hz, RMS=0.0256g
+13:10:54.683 > 🔍 Fuzzy Timer: Score=17.4 -> Good
+13:10:54.683 > 🔍 Fuzzy Timer: Score=17.4 -> Good
+13:10:54.684 > 📊 ICM Timer: ax=656, ay=15892, az=1028 | Freq=0.00Hz, RMS=0.0256g
+13:10:54.738 > 🔍 Fuzzy Timer: Score=17.4 -> Good
+13:10:54.738 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0256 g
+13:10:54.788 > 📊 ICM Timer: ax=780, ay=15936, az=1108 | Freq=0.00Hz, RMS=0.0255g
+13:10:54.804 > 🔍 Fuzzy Timer: Score=17.4 -> Good
+13:10:54.904 > 🔍 Fuzzy Timer: Score=17.4 -> Good
+13:10:54.904 > 📊 ICM Timer: ax=764, ay=15940, az=872 | Freq=0.00Hz, RMS=0.0255g
+13:10:54.925 > 🔍 Fuzzy Timer: Score=17.4 -> Good
+13:10:54.976 > 🔍 Fuzzy Timer: Score=17.4 -> Good
+13:10:55.010 > 📊 ICM Timer: ax=876, ay=15940, az=940 | Freq=0.00Hz, RMS=0.0255g
+13:10:55.039 > 🔍 Fuzzy Timer: Score=17.3 -> Good
+13:10:55.039 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0255 g
+13:10:55.104 > 🔍 Fuzzy Timer: Score=17.3 -> Good
+13:10:55.125 > 📊 ICM Timer: ax=756, ay=15916, az=984 | Freq=0.00Hz, RMS=0.0255g
+13:10:55.155 > 🔍 Fuzzy Timer: Score=17.3 -> Good
+13:10:55.235 > 🔍 Fuzzy Timer: Score=17.3 -> Good
+13:10:55.236 > 📊 ICM Timer: ax=668, ay=15944, az=964 | Freq=0.00Hz, RMS=0.0255g
+13:10:55.289 > 🔍 Fuzzy Timer: Score=17.4 -> Good
+13:10:55.345 > 📊 ICM Timer: ax=672, ay=15956, az=948 | Freq=0.00Hz, RMS=0.0256g
+13:10:55.349 > 🔍 Fuzzy Timer: Score=17.4 -> Good
+13:10:55.349 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0256 g
+13:10:55.404 > 🔍 Fuzzy Timer: Score=17.4 -> Good
+13:10:55.454 > 📊 ICM Timer: ax=740, ay=15912, az=1012 | Freq=0.00Hz, RMS=0.0257g
+13:10:55.531 > 🔍 Fuzzy Timer: Score=17.5 -> Good
+13:10:55.531 > 🔍 Fuzzy Timer: Score=17.5 -> Good
+13:10:55.558 > 📊 ICM Timer: ax=716, ay=15988, az=932 | Freq=0.00Hz, RMS=0.0257g
+13:10:55.589 > 🔍 Fuzzy Timer: Score=17.5 -> Good
+13:10:55.653 > 🔍 Fuzzy Timer: Score=17.5 -> Good
+13:10:55.653 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0256 g
+13:10:55.675 > 📊 ICM Timer: ax=736, ay=15876, az=916 | Freq=0.00Hz, RMS=0.0256g
+13:10:55.774 > 🔍 Fuzzy Timer: Score=17.5 -> Good
+13:10:55.774 > 🔍 Fuzzy Timer: Score=17.5 -> Good
+13:10:55.784 > 📊 ICM Timer: ax=804, ay=15920, az=900 | Freq=0.00Hz, RMS=0.0256g
+13:10:55.823 > 🔍 Fuzzy Timer: Score=17.5 -> Good
+13:10:55.888 > 🔍 Fuzzy Timer: Score=17.5 -> Good
+13:10:55.888 > 📊 ICM Timer: ax=604, ay=15868, az=932 | Freq=0.00Hz, RMS=0.0256g
+13:10:55.953 > 🔍 Fuzzy Timer: Score=17.4 -> Good
+13:10:55.954 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0255 g
+13:10:56.005 > 📊 ICM Timer: ax=660, ay=15860, az=1020 | Freq=0.00Hz, RMS=0.0256g
+13:10:56.074 > 🔍 Fuzzy Timer: Score=17.5 -> Good
+13:10:56.075 > 🔍 Fuzzy Timer: Score=17.4 -> Good
+13:10:56.105 > 📊 ICM Timer: ax=716, ay=15840, az=996 | Freq=0.00Hz, RMS=0.0256g
+13:10:56.195 > 🔍 Fuzzy Timer: Score=17.5 -> Good
+13:10:56.195 > 🔍 Fuzzy Timer: Score=17.5 -> Good
+13:10:56.222 > 📊 ICM Timer: ax=704, ay=15864, az=904 | Freq=0.00Hz, RMS=0.0256g
+13:10:56.254 > 🔍 Fuzzy Timer: Score=17.5 -> Good
+13:10:56.255 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0256 g
+13:10:56.335 > 🔍 Fuzzy Timer: Score=17.4 -> Good
+13:10:56.336 > 📊 ICM Timer: ax=688, ay=15932, az=1016 | Freq=0.00Hz, RMS=0.0256g
+13:10:56.436 > 🔍 Fuzzy Timer: Score=17.4 -> Good
+13:10:56.436 > 🔍 Fuzzy Timer: Score=17.4 -> Good
+13:10:56.446 > 📊 ICM Timer: ax=772, ay=15952, az=964 | Freq=0.00Hz, RMS=0.0255g
+13:10:56.496 > 🔍 Fuzzy Timer: Score=17.3 -> Good
+13:10:56.554 > 📊 ICM Timer: ax=804, ay=15916, az=960 | Freq=0.00Hz, RMS=0.0254g
+13:10:56.554 > 🔍 Fuzzy Timer: Score=17.3 -> Good
+13:10:56.554 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0254 g
+13:10:56.605 > 🔍 Fuzzy Timer: Score=17.3 -> Good
+13:10:56.679 > 📊 ICM Timer: ax=788, ay=15944, az=952 | Freq=0.00Hz, RMS=0.0255g
+13:10:56.679 > 🔍 Fuzzy Timer: Score=17.3 -> Good
+13:10:56.739 > 🔍 Fuzzy Timer: Score=17.3 -> Good
+13:10:56.773 > 📊 ICM Timer: ax=800, ay=15904, az=936 | Freq=0.00Hz, RMS=0.0254g
+13:10:56.799 > 🔍 Fuzzy Timer: Score=17.3 -> Good
+13:10:56.854 > 🔍 Fuzzy Timer: Score=17.3 -> Good
+13:10:56.854 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0255 g
+13:10:56.885 > 📊 ICM Timer: ax=652, ay=15968, az=868 | Freq=0.00Hz, RMS=0.0255g
+13:10:56.911 > 🔍 Fuzzy Timer: Score=17.3 -> Good
+13:10:56.975 > 🔍 Fuzzy Timer: Score=17.3 -> Good
+13:10:56.995 > 📊 ICM Timer: ax=740, ay=15880, az=924 | Freq=0.00Hz, RMS=0.0255g
+13:10:57.099 > 🔍 Fuzzy Timer: Score=17.3 -> Good
+13:10:57.099 > 🔍 Fuzzy Timer: Score=17.3 -> Good
+13:10:57.104 > 📊 ICM Timer: ax=700, ay=15900, az=960 | Freq=0.00Hz, RMS=0.0256g
+13:10:57.155 > 🔍 Fuzzy Timer: Score=17.3 -> Good
+13:10:57.155 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0255 g
+13:10:57.220 > 📊 ICM Timer: ax=692, ay=15908, az=916 | Freq=0.00Hz, RMS=0.0255g
+13:10:57.220 > 🔍 Fuzzy Timer: Score=17.3 -> Good
+13:10:57.281 > 🔍 Fuzzy Timer: Score=17.3 -> Good
+13:10:57.322 > 📊 ICM Timer: ax=752, ay=15880, az=880 | Freq=0.00Hz, RMS=0.0255g
+13:10:57.401 > 🔍 Fuzzy Timer: Score=17.3 -> Good
+13:10:57.401 > 🔍 Fuzzy Timer: Score=17.3 -> Good
+13:10:57.435 > 📊 ICM Timer: ax=976, ay=15860, az=992 | Freq=0.00Hz, RMS=0.0255g
+13:10:57.460 > 🔍 Fuzzy Timer: Score=17.3 -> Good
+13:10:57.461 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0255 g
+13:10:57.520 > 🔍 Fuzzy Timer: Score=17.3 -> Good
+13:10:57.572 > 📊 ICM Timer: ax=688, ay=15948, az=1068 | Freq=0.00Hz, RMS=0.0254g
+13:10:57.572 > 🔍 Fuzzy Timer: Score=17.2 -> Good
+13:10:57.639 > 🔍 Fuzzy Timer: Score=17.2 -> Good
+13:10:57.655 > 📊 ICM Timer: ax=776, ay=15976, az=1004 | Freq=0.00Hz, RMS=0.0254g
+13:10:57.703 > 🔍 Fuzzy Timer: Score=17.2 -> Good
+13:10:57.755 > 🔍 Fuzzy Timer: Score=17.2 -> Good
+13:10:57.755 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0254 g
+13:10:57.755 > 📊 ICM Timer: ax=700, ay=15948, az=996 | Freq=0.00Hz, RMS=0.0254g
+13:10:57.825 > 🔍 Fuzzy Timer: Score=17.2 -> Good
+13:10:57.872 > 📊 ICM Timer: ax=768, ay=15860, az=956 | Freq=0.00Hz, RMS=0.0254g
+13:10:57.872 > 🔍 Fuzzy Timer: Score=17.2 -> Good
+13:10:57.938 > 🔍 Fuzzy Timer: Score=17.3 -> Good
+13:10:57.973 > 📊 ICM Timer: ax=748, ay=16116, az=944 | Freq=0.00Hz, RMS=0.0254g
+13:10:58.069 > 🔍 Fuzzy Timer: Score=17.3 -> Good
+13:10:58.069 > 🔍 Fuzzy Timer: Score=17.3 -> Good
+13:10:58.069 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0255 g
+13:10:58.091 > 📊 ICM Timer: ax=720, ay=15952, az=920 | Freq=0.00Hz, RMS=0.0255g
+13:10:58.190 > 🔍 Fuzzy Timer: Score=17.3 -> Good
+13:10:58.190 > 🔍 Fuzzy Timer: Score=17.4 -> Good
+13:10:58.205 > 📊 ICM Timer: ax=828, ay=15632, az=1000 | Freq=0.00Hz, RMS=0.0257g
+13:10:58.239 > 🔍 Fuzzy Timer: Score=17.4 -> Good
+13:10:58.305 > 🔍 Fuzzy Timer: Score=17.5 -> Good
+13:10:58.305 > 📊 ICM Timer: ax=700, ay=15868, az=980 | Freq=0.00Hz, RMS=0.0257g
+13:10:58.371 > 🔍 Fuzzy Timer: Score=17.5 -> Good
+13:10:58.371 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0257 g
+13:10:58.422 > 📊 ICM Timer: ax=700, ay=15896, az=964 | Freq=0.00Hz, RMS=0.0257g
+13:10:58.422 > 🔍 Fuzzy Timer: Score=17.5 -> Good
+13:10:58.492 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:58.522 > 📊 ICM Timer: ax=732, ay=15908, az=924 | Freq=0.00Hz, RMS=0.0257g
+13:10:58.552 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:58.605 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:58.675 > 📊 ICM Timer: ax=724, ay=15884, az=960 | Freq=0.00Hz, RMS=0.0258g
+13:10:58.675 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:58.675 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0257 g
+13:10:58.754 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:58.754 > 📊 ICM Timer: ax=724, ay=15896, az=872 | Freq=0.00Hz, RMS=0.0257g
+13:10:58.789 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:58.854 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:58.854 > 📊 ICM Timer: ax=752, ay=15896, az=972 | Freq=0.00Hz, RMS=0.0257g
+13:10:58.905 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:58.972 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:58.972 > 📊 ICM Timer: ax=728, ay=15972, az=828 | Freq=0.00Hz, RMS=0.0257g
+13:10:58.972 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0257 g
+13:10:59.022 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:59.072 > 📊 ICM Timer: ax=804, ay=15892, az=960 | Freq=0.00Hz, RMS=0.0256g
+13:10:59.088 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:59.155 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:59.189 > 📊 ICM Timer: ax=752, ay=15992, az=964 | Freq=0.00Hz, RMS=0.0257g
+13:10:59.211 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:59.271 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:59.271 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0257 g
+13:10:59.303 > 📊 ICM Timer: ax=856, ay=15904, az=980 | Freq=0.00Hz, RMS=0.0257g
+13:10:59.328 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:59.388 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:59.409 > 📊 ICM Timer: ax=788, ay=16016, az=992 | Freq=0.00Hz, RMS=0.0257g
+13:10:59.455 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:59.505 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:59.520 > 📊 ICM Timer: ax=764, ay=15884, az=1008 | Freq=0.00Hz, RMS=0.0257g
+13:10:59.575 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:59.575 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0257 g
+13:10:59.634 > 📊 ICM Timer: ax=720, ay=15940, az=944 | Freq=0.00Hz, RMS=0.0257g
+13:10:59.636 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:59.738 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:59.738 > 📊 ICM Timer: ax=704, ay=16036, az=956 | Freq=0.00Hz, RMS=0.0257g
+13:10:59.759 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:59.818 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:59.854 > 📊 ICM Timer: ax=752, ay=15944, az=1040 | Freq=0.00Hz, RMS=0.0257g
+13:10:59.878 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:59.878 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0257 g
+13:10:59.939 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:10:59.960 > 📊 ICM Timer: ax=828, ay=15984, az=1060 | Freq=0.00Hz, RMS=0.0257g
+13:11:00.054 > 🔍 Fuzzy Timer: Score=17.7 -> Good
+13:11:00.054 > 🔍 Fuzzy Timer: Score=17.7 -> Good
+13:11:00.074 > 📊 ICM Timer: ax=844, ay=15860, az=888 | Freq=0.00Hz, RMS=0.0259g
+13:11:00.179 > 🔍 Fuzzy Timer: Score=17.8 -> Good
+13:11:00.179 > 🔍 Fuzzy Timer: Score=17.8 -> Good
+13:11:00.179 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0259 g
+13:11:00.185 > 📊 ICM Timer: ax=736, ay=15988, az=892 | Freq=0.00Hz, RMS=0.0259g
+13:11:00.296 > 🔍 Fuzzy Timer: Score=17.9 -> Good
+13:11:00.296 > 📊 ICM Timer: ax=832, ay=15928, az=968 | Freq=0.00Hz, RMS=0.0260g
+13:11:00.354 > 🔍 Fuzzy Timer: Score=17.9 -> Good
+13:11:00.354 > 🔍 Fuzzy Timer: Score=17.9 -> Good
+13:11:00.404 > 📊 ICM Timer: ax=844, ay=15888, az=948 | Freq=0.00Hz, RMS=0.0260g
+13:11:00.479 > 🔍 Fuzzy Timer: Score=17.9 -> Good
+13:11:00.479 > 🔍 Fuzzy Timer: Score=17.9 -> Good
+13:11:00.479 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0260 g
+13:11:00.507 > 📊 ICM Timer: ax=652, ay=15868, az=936 | Freq=0.00Hz, RMS=0.0259g
+13:11:00.600 > 🔍 Fuzzy Timer: Score=17.9 -> Good
+13:11:00.600 > 🔍 Fuzzy Timer: Score=17.9 -> Good
+13:11:00.622 > 📊 ICM Timer: ax=676, ay=15852, az=1000 | Freq=0.00Hz, RMS=0.0260g
+13:11:00.722 > 🔍 Fuzzy Timer: Score=18.0 -> Good
+13:11:00.722 > 🔍 Fuzzy Timer: Score=17.9 -> Good
+13:11:00.735 > 📊 ICM Timer: ax=808, ay=15864, az=940 | Freq=0.00Hz, RMS=0.0259g
+13:11:00.772 > 🔍 Fuzzy Timer: Score=17.9 -> Good
+13:11:00.772 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0259 g
+13:11:00.838 > 🔍 Fuzzy Timer: Score=17.9 -> Good
+13:11:00.838 > 📊 ICM Timer: ax=784, ay=15904, az=936 | Freq=0.00Hz, RMS=0.0259g
+13:11:00.955 > 🔍 Fuzzy Timer: Score=17.9 -> Good
+13:11:00.955 > 📊 ICM Timer: ax=768, ay=15896, az=1008 | Freq=0.00Hz, RMS=0.0259g
+13:11:01.026 > 🔍 Fuzzy Timer: Score=17.8 -> Good
+13:11:01.026 > 🔍 Fuzzy Timer: Score=17.8 -> Good
+13:11:01.055 > 📊 ICM Timer: ax=696, ay=15908, az=968 | Freq=0.00Hz, RMS=0.0258g
+13:11:01.085 > 🔍 Fuzzy Timer: Score=17.8 -> Good
+13:11:01.086 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0258 g
+13:11:01.138 > 🔍 Fuzzy Timer: Score=17.8 -> Good
+13:11:01.172 > 📊 ICM Timer: ax=732, ay=15972, az=952 | Freq=0.00Hz, RMS=0.0258g
+13:11:01.205 > 🔍 Fuzzy Timer: Score=17.8 -> Good
+13:11:01.255 > 🔍 Fuzzy Timer: Score=17.7 -> Good
+13:11:01.285 > 📊 ICM Timer: ax=712, ay=15956, az=900 | Freq=0.00Hz, RMS=0.0258g
+13:11:01.322 > 🔍 Fuzzy Timer: Score=17.7 -> Good
+13:11:01.389 > 🔍 Fuzzy Timer: Score=17.7 -> Good
+13:11:01.389 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0258 g
+13:11:01.395 > 📊 ICM Timer: ax=860, ay=15960, az=1028 | Freq=0.00Hz, RMS=0.0258g
+13:11:01.438 > 🔍 Fuzzy Timer: Score=17.7 -> Good
+13:11:01.504 > 📊 ICM Timer: ax=624, ay=15944, az=944 | Freq=0.00Hz, RMS=0.0258g
+13:11:01.504 > 🔍 Fuzzy Timer: Score=17.7 -> Good
+13:11:01.567 > 🔍 Fuzzy Timer: Score=17.8 -> Good
+13:11:01.609 > 📊 ICM Timer: ax=748, ay=15864, az=976 | Freq=0.00Hz, RMS=0.0259g
+13:11:01.629 > 🔍 Fuzzy Timer: Score=17.8 -> Good
+13:11:01.692 > 🔍 Fuzzy Timer: Score=17.8 -> Good
+13:11:01.692 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0257 g
+13:11:01.722 > 📊 ICM Timer: ax=780, ay=15828, az=1024 | Freq=0.00Hz, RMS=0.0258g
+13:11:01.809 > 🔍 Fuzzy Timer: Score=17.8 -> Good
+13:11:01.809 > 🔍 Fuzzy Timer: Score=17.8 -> Good
+13:11:01.825 > 📊 ICM Timer: ax=788, ay=15988, az=996 | Freq=0.00Hz, RMS=0.0259g
+13:11:01.871 > 🔍 Fuzzy Timer: Score=17.8 -> Good
+13:11:01.945 > 🔍 Fuzzy Timer: Score=17.8 -> Good
+13:11:01.945 > 📊 ICM Timer: ax=744, ay=15912, az=944 | Freq=0.00Hz, RMS=0.0259g
+13:11:01.992 > 🔍 Fuzzy Timer: Score=17.8 -> Good
+13:11:01.992 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0259 g
+13:11:02.054 > 🔍 Fuzzy Timer: Score=17.9 -> Good
+13:11:02.054 > 📊 ICM Timer: ax=716, ay=15864, az=924 | Freq=0.00Hz, RMS=0.0260g
+13:11:02.110 > 🔍 Fuzzy Timer: Score=17.9 -> Good
+13:11:02.155 > 📊 ICM Timer: ax=772, ay=15932, az=900 | Freq=0.00Hz, RMS=0.0260g
+13:11:02.172 > 🔍 Fuzzy Timer: Score=17.9 -> Good
+13:11:02.233 > 🔍 Fuzzy Timer: Score=18.0 -> Good
+13:11:02.272 > 📊 ICM Timer: ax=648, ay=16036, az=1000 | Freq=0.00Hz, RMS=0.0260g
+13:11:02.293 > 🔍 Fuzzy Timer: Score=18.0 -> Good
+13:11:02.293 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0260 g
+13:11:02.353 > 🔍 Fuzzy Timer: Score=18.0 -> Good
+13:11:02.385 > 📊 ICM Timer: ax=740, ay=15940, az=968 | Freq=0.00Hz, RMS=0.0260g
+13:11:02.412 > 🔍 Fuzzy Timer: Score=18.0 -> Good
+13:11:02.495 > 🔍 Fuzzy Timer: Score=18.0 -> Good
+13:11:02.495 > 📊 ICM Timer: ax=748, ay=15964, az=1036 | Freq=0.00Hz, RMS=0.0259g
+13:11:02.525 > 🔍 Fuzzy Timer: Score=18.0 -> Good
+13:11:02.588 > 🔍 Fuzzy Timer: Score=18.0 -> Good
+13:11:02.588 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0260 g
+13:11:02.604 > 📊 ICM Timer: ax=752, ay=16000, az=972 | Freq=0.00Hz, RMS=0.0259g
+13:11:02.655 > 🔍 Fuzzy Timer: Score=17.9 -> Good
+13:11:02.710 > 📊 ICM Timer: ax=784, ay=15916, az=992 | Freq=0.00Hz, RMS=0.0259g
+13:11:02.710 > 🔍 Fuzzy Timer: Score=17.9 -> Good
+13:11:02.776 > 🔍 Fuzzy Timer: Score=17.8 -> Good
+13:11:02.825 > 📊 ICM Timer: ax=724, ay=15816, az=940 | Freq=0.00Hz, RMS=0.0259g
+13:11:02.835 > 🔍 Fuzzy Timer: Score=17.8 -> Good
+13:11:02.889 > 🔍 Fuzzy Timer: Score=17.8 -> Good
+13:11:02.889 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0258 g
+13:11:02.922 > 📊 ICM Timer: ax=696, ay=15928, az=1036 | Freq=0.00Hz, RMS=0.0258g
+13:11:03.011 > 🔍 Fuzzy Timer: Score=17.8 -> Good
+13:11:03.011 > 🔍 Fuzzy Timer: Score=17.7 -> Good
+13:11:03.042 > 📊 ICM Timer: ax=664, ay=15928, az=972 | Freq=0.00Hz, RMS=0.0257g
+13:11:03.075 > 🔍 Fuzzy Timer: Score=17.7 -> Good
+13:11:03.123 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:11:03.154 > 📊 ICM Timer: ax=628, ay=15884, az=968 | Freq=0.00Hz, RMS=0.0257g
+13:11:03.189 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:11:03.189 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0257 g
+13:11:03.254 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:11:03.254 > 📊 ICM Timer: ax=660, ay=15944, az=932 | Freq=0.00Hz, RMS=0.0257g
+13:11:03.375 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:11:03.375 > 📊 ICM Timer: ax=696, ay=15832, az=984 | Freq=0.00Hz, RMS=0.0256g
+13:11:03.376 > 🔍 Fuzzy Timer: Score=17.5 -> Good
+13:11:03.436 > 🔍 Fuzzy Timer: Score=17.5 -> Good
+13:11:03.485 > 📊 ICM Timer: ax=756, ay=15912, az=940 | Freq=0.00Hz, RMS=0.0257g
+13:11:03.496 > 🔍 Fuzzy Timer: Score=17.5 -> Good
+13:11:03.496 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0256 g
+13:11:03.554 > 🔍 Fuzzy Timer: Score=17.5 -> Good
+13:11:03.593 > 📊 ICM Timer: ax=632, ay=15932, az=1040 | Freq=0.00Hz, RMS=0.0256g
+13:11:03.611 > 🔍 Fuzzy Timer: Score=17.5 -> Good
+13:11:03.704 > 🔍 Fuzzy Timer: Score=17.5 -> Good
+13:11:03.704 > 📊 ICM Timer: ax=688, ay=15860, az=932 | Freq=0.00Hz, RMS=0.0257g
+13:11:03.738 > 🔍 Fuzzy Timer: Score=17.5 -> Good
+13:11:03.789 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:11:03.789 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0257 g
+13:11:03.811 > 📊 ICM Timer: ax=704, ay=15828, az=940 | Freq=0.00Hz, RMS=0.0257g
+13:11:03.855 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:11:03.925 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:11:03.926 > 📊 ICM Timer: ax=672, ay=15920, az=1008 | Freq=0.00Hz, RMS=0.0257g
+13:11:04.035 > 🔍 Fuzzy Timer: Score=17.5 -> Good
+13:11:04.035 > 📊 ICM Timer: ax=716, ay=15980, az=1020 | Freq=0.00Hz, RMS=0.0256g
+13:11:04.100 > 🔍 Fuzzy Timer: Score=17.5 -> Good
+13:11:04.100 > 🔍 Fuzzy Timer: Score=17.5 -> Good
+13:11:04.100 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0256 g
+13:11:04.154 > 📊 ICM Timer: ax=756, ay=15964, az=900 | Freq=0.00Hz, RMS=0.0255g
+13:11:04.154 > 🔍 Fuzzy Timer: Score=17.4 -> Good
+13:11:04.220 > 🔍 Fuzzy Timer: Score=17.4 -> Good
+13:11:04.254 > 📊 ICM Timer: ax=764, ay=15864, az=964 | Freq=0.00Hz, RMS=0.0256g
+13:11:04.280 > 🔍 Fuzzy Timer: Score=17.4 -> Good
+13:11:04.354 > 🔍 Fuzzy Timer: Score=17.4 -> Good
+13:11:04.354 > 📊 ICM Timer: ax=820, ay=15944, az=1032 | Freq=0.00Hz, RMS=0.0255g
+13:11:04.392 > 🔍 Fuzzy Timer: Score=17.4 -> Good
+13:11:04.392 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0255 g
+13:11:04.475 > 🔍 Fuzzy Timer: Score=17.4 -> Good
+13:11:04.475 > 📊 ICM Timer: ax=688, ay=15840, az=960 | Freq=0.00Hz, RMS=0.0256g
+13:11:04.581 > 🔍 Fuzzy Timer: Score=17.4 -> Good
+13:11:04.582 > 🔍 Fuzzy Timer: Score=17.4 -> Good
+13:11:04.585 > 📊 ICM Timer: ax=700, ay=15892, az=996 | Freq=0.00Hz, RMS=0.0256g
+13:11:04.695 > 🔍 Fuzzy Timer: Score=17.4 -> Good
+13:11:04.695 > 📊 ICM Timer: ax=716, ay=15844, az=1036 | Freq=0.00Hz, RMS=0.0255g
+13:11:04.704 > 🔍 Fuzzy Timer: Score=17.3 -> Good
+13:11:04.704 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0255 g
+13:11:04.804 > 🔍 Fuzzy Timer: Score=17.3 -> Good
+13:11:04.804 > 📊 ICM Timer: ax=652, ay=15988, az=892 | Freq=0.00Hz, RMS=0.0255g
+13:11:04.826 > 🔍 Fuzzy Timer: Score=17.3 -> Good
+13:11:04.911 > 🔍 Fuzzy Timer: Score=17.3 -> Good
+13:11:04.911 > 📊 ICM Timer: ax=764, ay=15920, az=932 | Freq=0.00Hz, RMS=0.0255g
+13:11:04.943 > 🔍 Fuzzy Timer: Score=17.4 -> Good
+13:11:05.005 > 🔍 Fuzzy Timer: Score=17.4 -> Good
+13:11:05.005 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0255 g
+13:11:05.025 > 📊 ICM Timer: ax=700, ay=15860, az=956 | Freq=0.00Hz, RMS=0.0255g
+13:11:05.055 > 🔍 Fuzzy Timer: Score=17.4 -> Good
+13:11:05.122 > 🔍 Fuzzy Timer: Score=17.4 -> Good
+13:11:05.122 > 📊 ICM Timer: ax=744, ay=15996, az=936 | Freq=0.00Hz, RMS=0.0255g
+13:11:05.246 > 🔍 Fuzzy Timer: Score=17.4 -> Good
+13:11:05.246 > 📊 ICM Timer: ax=740, ay=15980, az=916 | Freq=0.00Hz, RMS=0.0256g
+13:11:05.249 > 🔍 Fuzzy Timer: Score=17.4 -> Good
+13:11:05.305 > 🔍 Fuzzy Timer: Score=17.4 -> Good
+13:11:05.305 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0256 g
+13:11:05.354 > 📊 ICM Timer: ax=824, ay=15816, az=996 | Freq=0.00Hz, RMS=0.0256g
+13:11:05.370 > 🔍 Fuzzy Timer: Score=17.4 -> Good
+13:11:05.431 > 🔍 Fuzzy Timer: Score=17.4 -> Good
+13:11:05.455 > 📊 ICM Timer: ax=732, ay=15936, az=916 | Freq=0.00Hz, RMS=0.0255g
+13:11:05.491 > 🔍 Fuzzy Timer: Score=17.4 -> Good
+13:11:05.550 > 🔍 Fuzzy Timer: Score=17.4 -> Good
+13:11:05.574 > 📊 ICM Timer: ax=668, ay=15920, az=988 | Freq=0.00Hz, RMS=0.0256g
+13:11:05.605 > 🔍 Fuzzy Timer: Score=17.4 -> Good
+13:11:05.605 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0256 g
+13:11:05.685 > 🔍 Fuzzy Timer: Score=17.4 -> Good
+13:11:05.685 > 📊 ICM Timer: ax=824, ay=15872, az=1048 | Freq=0.00Hz, RMS=0.0255g
+13:11:05.722 > 🔍 Fuzzy Timer: Score=17.4 -> Good
+13:11:05.789 > 🔍 Fuzzy Timer: Score=17.4 -> Good
+13:11:05.789 > 📊 ICM Timer: ax=692, ay=15920, az=1016 | Freq=0.00Hz, RMS=0.0255g
+13:11:05.854 > 🔍 Fuzzy Timer: Score=17.4 -> Good
+13:11:05.904 > 📊 ICM Timer: ax=724, ay=15876, az=964 | Freq=0.00Hz, RMS=0.0256g
+13:11:05.913 > 🔍 Fuzzy Timer: Score=17.4 -> Good
+13:11:05.913 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0256 g
+13:11:05.976 > 🔍 Fuzzy Timer: Score=17.4 -> Good
+13:11:06.013 > 📊 ICM Timer: ax=820, ay=15920, az=976 | Freq=0.00Hz, RMS=0.0256g
+13:11:06.036 > 🔍 Fuzzy Timer: Score=17.4 -> Good
+13:11:06.088 > 🔍 Fuzzy Timer: Score=17.4 -> Good
+13:11:06.122 > 📊 ICM Timer: ax=744, ay=15936, az=968 | Freq=0.00Hz, RMS=0.0256g
+13:11:06.156 > 🔍 Fuzzy Timer: Score=17.4 -> Good
+13:11:06.214 > 🔍 Fuzzy Timer: Score=17.4 -> Good
+13:11:06.214 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0256 g
+13:11:06.235 > 📊 ICM Timer: ax=800, ay=15900, az=952 | Freq=0.00Hz, RMS=0.0256g
+13:11:06.272 > 🔍 Fuzzy Timer: Score=17.4 -> Good
+13:11:06.322 > 🔍 Fuzzy Timer: Score=17.5 -> Good
+13:11:06.346 > 📊 ICM Timer: ax=752, ay=15748, az=948 | Freq=0.00Hz, RMS=0.0257g
+13:11:06.392 > 🔍 Fuzzy Timer: Score=17.5 -> Good
+13:11:06.455 > 📊 ICM Timer: ax=796, ay=15984, az=916 | Freq=0.00Hz, RMS=0.0257g
+13:11:06.455 > 🔍 Fuzzy Timer: Score=17.5 -> Good
+13:11:06.516 > 🔍 Fuzzy Timer: Score=17.5 -> Good
+13:11:06.516 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0256 g
+13:11:06.555 > 📊 ICM Timer: ax=624, ay=16000, az=964 | Freq=0.00Hz, RMS=0.0256g
+13:11:06.622 > 🔍 Fuzzy Timer: Score=17.5 -> Good
+13:11:06.637 > 🔍 Fuzzy Timer: Score=17.5 -> Good
+13:11:06.672 > 📊 ICM Timer: ax=696, ay=15964, az=972 | Freq=0.00Hz, RMS=0.0256g
+13:11:06.757 > 🔍 Fuzzy Timer: Score=17.5 -> Good
+13:11:06.759 > 🔍 Fuzzy Timer: Score=17.5 -> Good
+13:11:06.775 > 📊 ICM Timer: ax=928, ay=15940, az=932 | Freq=0.00Hz, RMS=0.0256g
+13:11:06.813 > 🔍 Fuzzy Timer: Score=17.5 -> Good
+13:11:06.820 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0256 g
+13:11:06.872 > 🔍 Fuzzy Timer: Score=17.4 -> Good
+13:11:06.895 > 📊 ICM Timer: ax=716, ay=15992, az=1004 | Freq=0.00Hz, RMS=0.0255g
+13:11:06.939 > 🔍 Fuzzy Timer: Score=17.3 -> Good
+13:11:07.004 > 🔍 Fuzzy Timer: Score=17.3 -> Good
+13:11:07.004 > 📊 ICM Timer: ax=800, ay=15940, az=956 | Freq=0.00Hz, RMS=0.0255g
+13:11:07.114 > 🔍 Fuzzy Timer: Score=17.3 -> Good
+13:11:07.114 > 📊 ICM Timer: ax=764, ay=15872, az=1020 | Freq=0.00Hz, RMS=0.0254g
+13:11:07.114 > 🔍 Fuzzy Timer: Score=17.3 -> Good
+13:11:07.120 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0254 g
+13:11:07.181 > 🔍 Fuzzy Timer: Score=17.3 -> Good
+13:11:07.222 > 📊 ICM Timer: ax=700, ay=15996, az=960 | Freq=0.00Hz, RMS=0.0257g
+13:11:07.240 > 🔍 Fuzzy Timer: Score=17.4 -> Good
+13:11:07.335 > 🔍 Fuzzy Timer: Score=17.4 -> Good
+13:11:07.335 > 📊 ICM Timer: ax=676, ay=15880, az=960 | Freq=0.00Hz, RMS=0.0256g
+13:11:07.359 > 🔍 Fuzzy Timer: Score=17.5 -> Good
+13:11:07.420 > 🔍 Fuzzy Timer: Score=17.5 -> Good
+13:11:07.420 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0256 g
+13:11:07.481 > 📊 ICM Timer: ax=696, ay=15928, az=928 | Freq=0.00Hz, RMS=0.0256g
+13:11:07.481 > 🔍 Fuzzy Timer: Score=17.5 -> Good
+13:11:07.554 > 🔍 Fuzzy Timer: Score=17.5 -> Good
+13:11:07.554 > 📊 ICM Timer: ax=676, ay=16036, az=948 | Freq=0.00Hz, RMS=0.0256g
+13:11:07.588 > 🔍 Fuzzy Timer: Score=17.5 -> Good
+13:11:07.655 > 🔍 Fuzzy Timer: Score=17.5 -> Good
+13:11:07.655 > 📊 ICM Timer: ax=732, ay=15848, az=1012 | Freq=0.00Hz, RMS=0.0257g
+13:11:07.724 > 🔍 Fuzzy Timer: Score=17.5 -> Good
+13:11:07.724 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0257 g
+13:11:07.775 > 📊 ICM Timer: ax=732, ay=16004, az=880 | Freq=0.00Hz, RMS=0.0257g
+13:11:07.845 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:11:07.846 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:11:07.871 > 📊 ICM Timer: ax=736, ay=15896, az=980 | Freq=0.00Hz, RMS=0.0258g
+13:11:07.906 > 🔍 Fuzzy Timer: Score=17.7 -> Good
+13:11:07.995 > 🔍 Fuzzy Timer: Score=17.7 -> Good
+13:11:07.995 > 📊 ICM Timer: ax=728, ay=15896, az=908 | Freq=0.00Hz, RMS=0.0259g
+13:11:08.021 > 🔍 Fuzzy Timer: Score=17.8 -> Good
+13:11:08.021 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0259 g
+13:11:08.087 > 🔍 Fuzzy Timer: Score=17.8 -> Good
+13:11:08.104 > 📊 ICM Timer: ax=768, ay=15952, az=920 | Freq=0.00Hz, RMS=0.0259g
+13:11:08.147 > 🔍 Fuzzy Timer: Score=17.8 -> Good
+13:11:08.204 > 🔍 Fuzzy Timer: Score=17.8 -> Good
+13:11:08.204 > 📊 ICM Timer: ax=808, ay=16124, az=956 | Freq=0.00Hz, RMS=0.0258g
+13:11:08.255 > 🔍 Fuzzy Timer: Score=17.8 -> Good
+13:11:08.325 > 📊 ICM Timer: ax=736, ay=15924, az=900 | Freq=0.00Hz, RMS=0.0259g
+13:11:08.325 > 🔍 Fuzzy Timer: Score=17.8 -> Good
+13:11:08.325 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0259 g
+13:11:08.390 > 🔍 Fuzzy Timer: Score=17.8 -> Good
+13:11:08.422 > 📊 ICM Timer: ax=604, ay=15928, az=984 | Freq=0.00Hz, RMS=0.0259g
+13:11:08.438 > 🔍 Fuzzy Timer: Score=17.8 -> Good
+13:11:08.504 > 🔍 Fuzzy Timer: Score=17.8 -> Good
+13:11:08.539 > 📊 ICM Timer: ax=760, ay=15908, az=1004 | Freq=0.00Hz, RMS=0.0259g
+13:11:08.572 > 🔍 Fuzzy Timer: Score=17.8 -> Good
+13:11:08.622 > 🔍 Fuzzy Timer: Score=17.8 -> Good
+13:11:08.622 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0258 g
+13:11:08.655 > 📊 ICM Timer: ax=732, ay=15840, az=1008 | Freq=0.00Hz, RMS=0.0258g
+13:11:08.689 > 🔍 Fuzzy Timer: Score=17.8 -> Good
+13:11:08.755 > 🔍 Fuzzy Timer: Score=17.8 -> Good
+13:11:08.755 > 📊 ICM Timer: ax=632, ay=15940, az=940 | Freq=0.00Hz, RMS=0.0258g
+13:11:08.805 > 🔍 Fuzzy Timer: Score=17.7 -> Good
+13:11:08.872 > 📊 ICM Timer: ax=640, ay=15908, az=1176 | Freq=0.00Hz, RMS=0.0257g
+13:11:08.872 > 🔍 Fuzzy Timer: Score=17.7 -> Good
+13:11:08.922 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:11:08.937 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0256 g
+13:11:08.972 > 📊 ICM Timer: ax=756, ay=15936, az=1008 | Freq=0.00Hz, RMS=0.0256g
+13:11:08.997 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:11:09.054 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:11:09.089 > 📊 ICM Timer: ax=700, ay=15936, az=968 | Freq=0.00Hz, RMS=0.0257g
+13:11:09.111 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:11:09.176 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:11:09.205 > 📊 ICM Timer: ax=720, ay=15920, az=924 | Freq=0.00Hz, RMS=0.0257g
+13:11:09.227 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:11:09.237 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0257 g
+13:11:09.289 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:11:09.354 > 📊 ICM Timer: ax=768, ay=15960, az=960 | Freq=0.00Hz, RMS=0.0257g
+13:11:09.354 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:11:09.405 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:11:09.425 > 📊 ICM Timer: ax=724, ay=15908, az=944 | Freq=0.00Hz, RMS=0.0257g
+13:11:09.476 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:11:09.522 > 📊 ICM Timer: ax=656, ay=15984, az=984 | Freq=0.00Hz, RMS=0.0257g
+13:11:09.537 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:11:09.537 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0257 g
+13:11:09.597 > 🔍 Fuzzy Timer: Score=17.7 -> Good
+13:11:09.654 > 📊 ICM Timer: ax=732, ay=15932, az=976 | Freq=0.00Hz, RMS=0.0257g
+13:11:09.654 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:11:09.720 > 🔍 Fuzzy Timer: Score=17.6 -> Good
+13:11:09.755 > 📊 ICM Timer: ax=800, ay=15848, az=924 | Freq=0.00Hz, RMS=0.0255g
+13:11:09.781 > 🔍 Fuzzy Timer: Score=17.4 -> Good
+13:11:09.841 > 🔍 Fuzzy Timer: Score=17.4 -> Good
+13:11:09.841 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0255 g
+13:11:09.859 > 📊 ICM Timer: ax=724, ay=15920, az=1012 | Freq=0.00Hz, RMS=0.0255g
+13:11:09.889 > 🔍 Fuzzy Timer: Score=17.4 -> Good
+13:11:09.976 > 🔍 Fuzzy Timer: Score=17.3 -> Good
+13:11:09.976 > 📊 ICM Timer: ax=788, ay=15864, az=908 | Freq=0.00Hz, RMS=0.0255g
+13:11:10.022 > 🔍 Fuzzy Timer: Score=17.3 -> Good
+13:11:10.086 > 🔍 Fuzzy Timer: Score=17.3 -> Good
+13:11:10.086 > 📊 ICM Timer: ax=752, ay=15928, az=960 | Freq=0.00Hz, RMS=0.0255g
+13:11:10.142 > 🔍 Fuzzy Timer: Score=17.3 -> Good
+13:11:10.142 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0254 g
+13:11:10.188 > 📊 ICM Timer: ax=780, ay=15964, az=884 | Freq=0.00Hz, RMS=0.0254g
+13:11:10.255 > 🔍 Fuzzy Timer: Score=17.2 -> Good
+13:11:10.255 > 🔍 Fuzzy Timer: Score=17.2 -> Good
+13:11:10.305 > 📊 ICM Timer: ax=752, ay=15912, az=988 | Freq=0.00Hz, RMS=0.0254g
+13:11:10.325 > 🔍 Fuzzy Timer: Score=17.2 -> Good
+13:11:10.386 > 🔍 Fuzzy Timer: Score=17.1 -> Good
+13:11:10.408 > 📊 ICM Timer: ax=708, ay=15964, az=916 | Freq=0.00Hz, RMS=0.0252g
+13:11:10.439 > 🔍 Fuzzy Timer: Score=17.0 -> Good
+13:11:10.439 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0252 g
+13:11:10.525 > 🔍 Fuzzy Timer: Score=16.9 -> Good
+13:11:10.525 > 📊 ICM Timer: ax=764, ay=15928, az=992 | Freq=0.00Hz, RMS=0.0251g
+13:11:10.555 > 🔍 Fuzzy Timer: Score=16.9 -> Good
+13:11:10.629 > 🔍 Fuzzy Timer: Score=16.8 -> Good
+13:11:10.635 > 📊 ICM Timer: ax=704, ay=15932, az=916 | Freq=0.00Hz, RMS=0.0251g
+13:11:10.688 > 🔍 Fuzzy Timer: Score=16.8 -> Good
+13:11:10.739 > 📊 ICM Timer: ax=576, ay=15876, az=872 | Freq=0.00Hz, RMS=0.0251g
+13:11:10.753 > 🔍 Fuzzy Timer: Score=16.8 -> Good
+13:11:10.753 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0251 g
+13:11:10.805 > 🔍 Fuzzy Timer: Score=16.8 -> Good
+13:11:10.855 > 📊 ICM Timer: ax=816, ay=15976, az=956 | Freq=0.00Hz, RMS=0.0251g
+13:11:10.873 > 🔍 Fuzzy Timer: Score=16.8 -> Good
+13:11:10.922 > 🔍 Fuzzy Timer: Score=16.8 -> Good
+13:11:10.994 > 📊 ICM Timer: ax=648, ay=15900, az=964 | Freq=0.00Hz, RMS=0.0251g
+13:11:10.994 > 🔍 Fuzzy Timer: Score=16.8 -> Good
+13:11:11.053 > 🔍 Fuzzy Timer: Score=16.8 -> Good
+13:11:11.053 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0251 g
+13:11:11.075 > 📊 ICM Timer: ax=792, ay=15848, az=936 | Freq=0.00Hz, RMS=0.0251g
+13:11:11.173 > 🔍 Fuzzy Timer: Score=16.8 -> Good
+13:11:11.173 > 🔍 Fuzzy Timer: Score=16.8 -> Good
+13:11:11.185 > 📊 ICM Timer: ax=800, ay=15904, az=932 | Freq=0.00Hz, RMS=0.0252g
+13:11:11.294 > 🔍 Fuzzy Timer: Score=16.9 -> Good
+13:11:11.294 > 🔍 Fuzzy Timer: Score=16.9 -> Good
+13:11:11.353 > 📊 ICM Timer: ax=720, ay=15920, az=916 | Freq=0.00Hz, RMS=0.0253g
+13:11:11.353 > 🔍 Fuzzy Timer: Score=17.0 -> Good
+13:11:11.353 > ✓ Timer - Freq: 0.00 Hz, RMS: 0.0253 g
+13:11:11.404 > 📊 ICM Timer: ax=664, ay=15848, az=996 | Freq=0.00Hz, RMS=0.0254g
+13:11:11.404 > 🔍 Fuzzy Timer: Score=17.1 -> Good
+13:11:11.475 > 🔍 Fuzzy Timer: Score=17.1 -> Good
+13:11:11.505 > 📊 ICM Timer: ax=776, ay=15996, az=984 | Freq=0.00Hz, RMS=0.0254g
+13:11:11.595 > 🔍 Fuzzy Timer: Score=17.2 -> Good
+13:11:11.595 > 🔍 Fuzzy Timer: Score=17.2 -> Good
+13:11:11.624 > 📊 ICM Timer: ax=636, ay=15868, az=1012 | Freq=0.00Hz, RMS=0.0255g
+13:11:11.624 > --- Timer Sensor Summary ---Guru Meditation Error: Core  1 panic'ed (Unhandled debug exception). 
+13:11:11.946 > Debug exception reason: Stack canary watchpoint triggered (CountdownTask) 
+13:11:11.946 > Core  1 register dump:
+13:11:11.946 > PC      : 0x4037e897  PS      : 0x00060b36  A0      : 0x8038171c  A1      : 0x3fcf6e50  
+13:11:11.946 > A2      : 0x3fca4660  A3      : 0xb33fffff  A4      : 0x0000cdcd  A5      : 0x00060b23  
+13:11:11.946 > A6      : 0x00060b20  A7      : 0x0000abab  A8      : 0xb33fffff  A9      : 0xffffffff  
+13:11:11.946 > A10     : 0x3f99fca8  A11     : 0x20000000  A12     : 0x00000006  A13     : 0x3fcf7234  
+13:11:11.946 > A14     : 0x02ca4660  A15     : 0x00ffffff  SAR     : 0x00000008  EXCCAUSE: 0x00000001  
+13:11:11.946 > EXCVADDR: 0x00000000  LBEG    : 0x40056fc5  LEND    : 0x40056fe7  LCOUNT  : 0xffffffff  
+13:11:11.946 > 
+13:11:11.946 > 
+13:11:11.946 > Backtrace: 0x4037e894:0x3fcf6e50 0x40381719:0x3fcf6e90 0x403818a9:0x3fcf6eb0 0x403782c7:0x3fcf6ed0 0x40378318:0x3fcf6f00 0x40381c49:0x3fcf6f20 0x4205a796:0x3fcf6f40 0x42054e1a:0x3fcf6fe0 0x4205a542:0x3fcf72f0 0x4205a57e:0x3fcf7380 0x4203f142:0x3fcf73c0 0x42004a3e:0x3fcf7460 0x42004c26:0x3fcf74d0
+13:11:11.946 > 
+13:11:11.946 > 
+13:11:11.946 > 
+13:11:11.946 > 
+13:11:11.946 > ELF file SHA256: e35bfacee79a1802
+13:11:11.946 > 
+13:11:11.946 > Rebooting...
+13:11:11.946 > ESP-ROM:esp32s3-20210327
+13:11:11.946 > Build:Mar 27 2021
+13:11:11.947 > rst:0xc (RTC_SW_CPU_RST),boot:0x29 (SPI_FAST_FLASH_BOOT)
+13:11:11.947 > Saved PC:0x420645e2
+13:11:11.949 > SPIWP:0xee
+13:11:11.949 > mode:DIO, clock div:1
+13:11:11.950 > load:0x3fce3808,len:0x4bc
+13:11:11.952 > load:0x403c9700,len:0xbd8
+13:11:11.955 > load:0x403cc700,len:0x2a0c
+13:11:11.959 > entry 0x403c98d0
+13:11:13.026 > WHO_AM_I = 0xEA
+13:11:13.026 > ✔ ICM20948 terdeteksi!
+13:11:13.026 > 📌 Active Screen: screen_1 (Home)
