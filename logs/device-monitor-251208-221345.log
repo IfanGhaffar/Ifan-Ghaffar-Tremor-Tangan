@@ -1,5 +1,0 @@
-22:14:07.074 > [ 23182][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1
-22:14:07.446 > 📌 Active Screen: menu
-22:14:10.070 > ⚠ ICM zero-reads detected. WHO_AM_I=0x00 | regs: 2D=0x00 2E=0x00 2F=0x00 30=0x00 31=0x00 32=0x00
-22:14:10.070 > 📌 Active Screen: MONITOR
-22:14:10.070 > [ 26177][E][Wire.cpp:513] requestFrom(): i2cRead returned Error -1

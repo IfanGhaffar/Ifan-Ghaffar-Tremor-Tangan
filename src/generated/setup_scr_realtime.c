@@ -226,7 +226,7 @@ void setup_scr_realtime(lv_ui *ui)
     ui->realtime_label_8 = lv_label_create(ui->realtime_IR_sensor);
     lv_obj_set_pos(ui->realtime_label_8, 60, 27);
     lv_obj_set_size(ui->realtime_label_8, 45, 15);
-    lv_label_set_text(ui->realtime_label_8, "Condition");
+    lv_label_set_text(ui->realtime_label_8, "");
     lv_label_set_long_mode(ui->realtime_label_8, LV_LABEL_LONG_WRAP);
 
     //Write style for realtime_label_8, Part: LV_PART_MAIN, State: LV_STATE_DEFAULT.
@@ -247,8 +247,8 @@ void setup_scr_realtime(lv_ui *ui)
 
     //Write codes realtime_label_7
     ui->realtime_label_7 = lv_label_create(ui->realtime_IR_sensor);
-    lv_obj_set_pos(ui->realtime_label_7, 51, 9);
-    lv_obj_set_size(ui->realtime_label_7, 65, 20);
+    lv_obj_set_pos(ui->realtime_label_7, 51, 7);
+    lv_obj_set_size(ui->realtime_label_7, 65, 30);
     lv_label_set_text(ui->realtime_label_7, "Good");
     lv_label_set_long_mode(ui->realtime_label_7, LV_LABEL_LONG_WRAP);
 

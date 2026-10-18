@@ -2,5 +2,6 @@
     "files.associations": {
         "lvgl.h": "c",
         "custom.h": "c"
-    }
+    },
+    "cmake.sourceDirectory": "C:/Users/ROG/Documents/IFAN/Kuliah/TUGAS-AKHIR!!!!!/Program TA/board-display-jantung/src"
 }

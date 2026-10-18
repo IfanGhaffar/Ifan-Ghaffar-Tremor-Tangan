@@ -22,10 +22,10 @@
 #include <SPI.h>
 
 //========== PIN SENSOR ICM ==========
-#define PIN_SCLK 18
-#define PIN_MISO 16 //SDO
-#define PIN_MOSI 17 //SDI
-#define PIN_CS   15 //NCS
+#define PIN_SCLK 18 //kuning
+#define PIN_MISO 16 //SDO // biru
+#define PIN_MOSI 17 //SDI // hijau
+#define PIN_CS   15 //NCS // ungu
 //========== PIN & UKURAN LAYAR ==========
 #define TFT_MOSI 35
 #define TFT_SCLK 36
@@ -118,6 +118,7 @@ void init_display() {
 // Sensor-derived tremor metrics
 static float current_freq = 0.0f;   // peak frequency in Hz
 static float current_rms = 0.0f;    // RMS amplitude in g
+static float fuzzy_evaluate(float freq, float rms);
 // Buffering for simple frequency estimation (zero-crossing) and RMS
 static const int ICM_SAMPLE_RATE_HZ = 100; // sampling at 100 Hz for tremor
 static const int ICM_SAMPLE_PERIOD_MS = 1000 / ICM_SAMPLE_RATE_HZ;
@@ -248,19 +249,25 @@ extern "C" void timer_send_data(void)
     float mean = sum / (float)n;
     float rms = (n > 0) ? sqrtf(sumsq / (float)n) : 0.0f;
 
-    // Determine qualitative conclusion based on RMS thresholds used elsewhere
-    const float RMS_GOOD = 0.025f;
-    const float RMS_MODERATE = 0.10f;
+   // Ambil freq terakhir yang tercatat lebih dulu supaya bisa dipakai fuzzy_evaluate
+    float last_freq_for_fuzzy = 0.0f;
+    if (xSemaphoreTake(sensor_mutex, pdMS_TO_TICKS(100)) == pdTRUE) {
+        last_freq_for_fuzzy = current_freq;
+        xSemaphoreGive(sensor_mutex);
+    }
+ 
+    // Determine qualitative conclusion via fuzzy system (freq & rms), sesuai Bab 3 laporan
+    float fuzzy_score = fuzzy_evaluate(last_freq_for_fuzzy, rms);
     const char *conclusion = "";
     uint32_t color_hex = 0x7f8c8d; // default gray (idle)
-    if (rms < RMS_GOOD) {
-        conclusion = "Good";
+    if (fuzzy_score < 33.0f) {
+        conclusion = "Normal";
         color_hex = 0x00ff39;
-    } else if (rms < RMS_MODERATE) {
-        conclusion = "Moderate";
+    } else if (fuzzy_score < 66.0f) {
+        conclusion = "Tremor Ringan";
         color_hex = 0xffd200;
     } else {
-        conclusion = "Not Good";
+        conclusion = "Tremor Tinggi";
         color_hex = 0xff3b30;
     }
 
@@ -276,15 +283,8 @@ extern "C" void timer_send_data(void)
     lv_label_set_text(guider_ui.timer_status, conclusion);
     lv_obj_set_style_text_color(guider_ui.timer_status, lv_color_hex(color_hex), LV_PART_MAIN|LV_STATE_DEFAULT);
 
-    // Ambil freq terakhir yang tercatat
-    float last_freq = 0.0f;
-    if (xSemaphoreTake(sensor_mutex, pdMS_TO_TICKS(100)) == pdTRUE) {
-        last_freq = current_freq;
-        xSemaphoreGive(sensor_mutex);
-    }
-
     char lbuf[30];
-    snprintf(lbuf, sizeof(lbuf), "%.2f Hz", last_freq);
+    snprintf(lbuf, sizeof(lbuf), "%.2f Hz", last_freq_for_fuzzy);
     lv_label_set_text(guider_ui.timer_label_9, lbuf);
 
     snprintf(lbuf, sizeof(lbuf), "%.4f g", rms);
@@ -612,37 +612,46 @@ static float right_shoulder(float x, float a, float b) {
 }
 
 static float fuzzy_evaluate(float freq, float rms) {
-    // RMS membership (g)
-    float rms_low  = left_shoulder(rms, 0.02f, 0.05f);
-    float rms_med  = tri(rms, 0.02f, 0.05f, 0.10f);
-    float rms_high = right_shoulder(rms, 0.08f, 0.20f);
-
-    // Frequency membership (Hz)
-    float freq_low  = left_shoulder(freq, 1.0f, 3.0f);
-    float freq_med  = tri(freq, 2.0f, 5.0f, 8.0f);
-    float freq_high = right_shoulder(freq, 6.0f, 15.0f);
-
-    // Rules (simple set)
-    // Good  <- rms_low AND (freq_low OR freq_med)
-    float rule_good = fminf(rms_low, fmaxf(freq_low, freq_med));
-    // Moderate <- (rms_med AND (freq_low OR freq_med)) OR (rms_low AND freq_high)
-    float rule_moderate = fmaxf(fminf(rms_med, fmaxf(freq_low, freq_med)), fminf(rms_low, freq_high));
-    // NotGood <- rms_high OR (rms_med AND freq_high)
-    float rule_notgood = fmaxf(rms_high, fminf(rms_med, freq_high));
-
-    float denom = rule_good + rule_moderate + rule_notgood;
+    // Frequency membership (Hz) - Tabel 3.4
+    float freq_verylow      = left_shoulder(freq, 3.0f, 5.0f);
+    float freq_pathological = tri(freq, 3.0f, 6.0f, 9.0f);
+    float freq_physio       = right_shoulder(freq, 7.0f, 10.0f);
+ 
+    // Amplitude RMS membership (g) - Tabel 3.5
+    float rms_low  = left_shoulder(rms, 0.02f, 0.06f);
+    float rms_med  = tri(rms, 0.04f, 0.08f, 0.12f);
+    float rms_high = right_shoulder(rms, 0.10f, 0.16f);
+ 
+    // Rule base (Tabel 3.6) - AND pakai operator minimum
+    float R1 = fminf(freq_verylow,      rms_low);   // Normal
+    float R2 = fminf(freq_verylow,      rms_med);   // Tremor Ringan
+    float R3 = fminf(freq_verylow,      rms_high);  // Tremor Tinggi
+    float R4 = fminf(freq_pathological, rms_low);   // Tremor Ringan
+    float R5 = fminf(freq_pathological, rms_med);   // Tremor Tinggi
+    float R6 = fminf(freq_pathological, rms_high);  // Tremor Tinggi
+    float R7 = fminf(freq_physio,       rms_low);   // Normal
+    float R8 = fminf(freq_physio,       rms_med);   // Tremor Ringan
+    float R9 = fminf(freq_physio,       rms_high);  // Tremor Tinggi
+ 
+    // Agregasi rule dengan konsekuen sama pakai operator maksimum
+    float alpha_normal = fmaxf(R1, R7);
+    float alpha_ringan = fmaxf(R2, fmaxf(R4, R8));
+    float alpha_tinggi = fmaxf(R3, fmaxf(R5, fmaxf(R6, R9)));
+ 
+    const float C_NORMAL = 15.0f;
+    const float C_RINGAN = 50.0f;
+    const float C_TINGGI = 85.0f;
+ 
+    float denom = alpha_normal + alpha_ringan + alpha_tinggi;
     float score = 0.0f;
     if (denom > 0.0f) {
-        const float C_GOOD = 10.0f;
-        const float C_MOD  = 50.0f;
-        const float C_NG   = 90.0f;
-        score = (rule_good * C_GOOD + rule_moderate * C_MOD + rule_notgood * C_NG) / denom;
+        score = (alpha_normal * C_NORMAL + alpha_ringan * C_RINGAN + alpha_tinggi * C_TINGGI) / denom;
     }
-
+ 
     // small temporal smoothing to reduce jitter
     static float last_score = 0.0f;
-    const float alpha = 0.4f; // new weight
-    score = alpha * score + (1.0f - alpha) * last_score;
+    const float alpha_smooth = 0.4f; // new weight
+    score = alpha_smooth * score + (1.0f - alpha_smooth) * last_score;
     last_score = score;
     return score;
 }
@@ -686,13 +695,13 @@ void lvglTask(void *pvParameters)
                     const char *status_str;
                     uint32_t status_color;
                     if (fuzzy_score < 33.0f) {
-                        status_str = "Good";
+                        status_str = "Normal";
                         status_color = 0x00ff39;
                     } else if (fuzzy_score < 66.0f) {
-                        status_str = "Moderate";
+                        status_str = "Tremor Ringan";
                         status_color = 0xffd200;
                     } else {
-                        status_str = "Not Good";
+                        status_str = "Tremor Tinggi";
                         status_color = 0xff3b30;
                     }
                     lv_label_set_text(guider_ui.realtime_label_7, status_str);
@@ -727,13 +736,13 @@ void lvglTask(void *pvParameters)
                         const char *status_str;
                         uint32_t status_color;
                         if (fuzzy_score < 33.0f) {
-                            status_str = "Good";
+                            status_str = "Normal";
                             status_color = 0x00ff39;
                         } else if (fuzzy_score < 66.0f) {
-                            status_str = "Moderate";
+                            status_str = "Tremor Ringan";
                             status_color = 0xffd200;
                         } else {
-                            status_str = "Not Good";
+                            status_str = "Tremor Tinggi";
                             status_color = 0xff3b30;
                         }
                         lv_label_set_text(guider_ui.timer_status, status_str);
